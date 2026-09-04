@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Vở luyện viết tiếng Anh</title>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Instrument+Serif&family=Caveat:wght@500;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Instrument+Serif&family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&display=swap">
 
 <style>
 :root{
@@ -237,7 +237,7 @@ h1{
 .linebox:focus-within{border-bottom-color:var(--accent)}
 .ans{
   width:100%; display:block; resize:none; overflow:hidden; border:none; background:transparent;
-  padding:0 2px 8px; font-family:Caveat,cursive; font-size:28px; line-height:1.5;
+  padding:0 2px 10px; font-family:Literata,Georgia,serif; font-size:20px; line-height:1.7;
   color:var(--pen); outline:none; min-height:44px; caret-color:var(--pen);
 }
 
@@ -248,13 +248,13 @@ h1{
   transition:border-color .15s;
 }
 .slots.is-empty::before{
-  content:attr(data-ph); font-family:Caveat,cursive; font-size:26px; color:var(--ph);
+  content:attr(data-ph); font-family:Literata,Georgia,serif; font-size:18px; color:var(--ph);
 }
 .bank{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px}
 .chip{
-  font-family:Caveat,cursive; font-size:24px; line-height:1.15; color:var(--pen);
+  font-family:Literata,Georgia,serif; font-size:16px; line-height:1.3; color:var(--pen);
   background:var(--card); border:1px solid var(--line); border-radius:11px;
-  padding:8px 14px; cursor:pointer; transition:border-color .13s, color .13s, opacity .13s;
+  padding:9px 13px; cursor:pointer; transition:border-color .13s, color .13s, opacity .13s;
 }
 .chip:hover{border-color:var(--accent); color:var(--accent)}
 .chip.put{background:var(--accent-bg); border-color:var(--accent-line)}
@@ -292,19 +292,28 @@ h1{
 .vnote{font-size:13.5px; line-height:1.6; color:var(--muted)}
 .sect{margin-top:22px; padding-top:20px; border-top:1px solid var(--line-soft)}
 .slabel{font-size:10px; font-weight:800; letter-spacing:.14em; text-transform:uppercase; color:var(--dim); margin-bottom:12px}
-.diff{font-family:Caveat,cursive; font-size:27px; line-height:1.8; color:var(--pen)}
+.diff{font-family:Literata,Georgia,serif; font-size:19px; line-height:2; color:var(--pen)}
 .diff .w{margin-right:6px; white-space:nowrap}
 .diff .w.morph,.diff .w.spell{color:var(--amber); border-bottom:2px dotted var(--amber-line)}
 .diff .w.wrong,.diff .w.extra{color:var(--red); text-decoration:line-through}
 .diff .w.missing{color:var(--red)}
-.diff sup{font-size:15px; color:var(--red); margin-left:2px; text-decoration:none; line-height:1}
+.diff sup{font-size:12px; color:var(--red); margin-left:2px; text-decoration:none; line-height:1}
 .answers{display:flex; flex-direction:column; gap:10px}
 .arow{display:flex; gap:12px; align-items:flex-start}
 .arow .dot{margin-top:8px; width:5px; height:5px; border-radius:99px; background:var(--accent); flex:none}
 .arow span.txt{font-size:16.5px; line-height:1.55; color:var(--ink)}
+.say{
+  flex:none; width:27px; height:27px; margin-top:1px; border-radius:9px;
+  border:1px solid var(--line); background:var(--card); color:var(--faint);
+  cursor:pointer; display:grid; place-items:center; transition:all .13s;
+}
+.say:hover{border-color:var(--accent); color:var(--accent)}
+.say.on{color:var(--accent); border-color:var(--accent-line); background:var(--accent-bg)}
+:root[data-tts="0"] .say{display:none}
+
 .aibox{margin-top:16px; padding:12px 14px; border-radius:12px; background:var(--card); border:1px solid var(--line-soft); font-size:13.5px; color:var(--muted)}
 .aibox b{color:var(--ink)}
-.aibox .corr{font-family:Caveat,cursive; font-size:23px; color:var(--pen); line-height:1.4; margin-top:6px}
+.aibox .corr{font-family:Literata,Georgia,serif; font-size:17px; color:var(--pen); line-height:1.65; margin-top:8px}
 .spin{display:inline-block; width:11px; height:11px; border:2px solid var(--line); border-top-color:var(--accent); border-radius:50%; animation:sp .7s linear infinite; vertical-align:-1px; margin-right:4px}
 @keyframes sp{to{transform:rotate(360deg)}}
 
@@ -1002,9 +1011,32 @@ function diffHTML(ops){
     return `<span class="w missing">^${esc(o.r)}</span>`;
   }).join(" ");
 }
+const SPK = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/></svg>`;
 function answersHTML(item){
   return `<div class="answers">` + item.answers.map(a=>
-    `<div class="arow"><span class="dot"></span><span class="txt">${esc(a)}</span></div>`).join("") + `</div>`;
+    `<div class="arow">`
+    + `<button type="button" class="say" data-say="${esc(a)}" title="Nghe phát âm" aria-label="Nghe phát âm">${SPK}</button>`
+    + `<span class="txt">${esc(a)}</span></div>`).join("") + `</div>`;
+}
+
+/* ---------- phát âm bằng giọng đọc sẵn có của trình duyệt ---------- */
+let sayingBtn = null;
+function speak(text, btn){
+  if(!("speechSynthesis" in window) || !text) return;
+  try{
+    speechSynthesis.cancel();
+    if(sayingBtn) sayingBtn.classList.remove("on");
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = "en-US"; u.rate = 0.9;
+    const voices = speechSynthesis.getVoices() || [];
+    const en = voices.filter(v => /^en[-_]/i.test(v.lang));
+    u.voice = en.find(v => /natural|enhanced|premium|google/i.test(v.name)) || en[0] || null;
+    if(btn){
+      btn.classList.add("on"); sayingBtn = btn;
+      u.onend = u.onerror = () => { btn.classList.remove("on"); if(sayingBtn === btn) sayingBtn = null; };
+    }
+    speechSynthesis.speak(u);
+  }catch(e){}
 }
 function showResult(card, item, res, aiRes, loading){
   const score = aiRes ? aiRes.score : res.score;
@@ -1065,6 +1097,8 @@ async function doCheck(card, item){
 const sheet = document.getElementById("sheet");
 
 sheet.addEventListener("click", e=>{
+  const say = e.target.closest("button.say");
+  if(say){ speak(say.dataset.say, say); return; }
   const chip = e.target.closest("button.chip");
   if(chip){
     const card = chip.closest(".ex");
@@ -1414,6 +1448,9 @@ document.getElementById("loginForm").addEventListener("submit", async e=>{
 
 addEventListener("visibilitychange", ()=>{ if(document.hidden) pushSync(); });
 addEventListener("pagehide", ()=>{ if(auth && dirty) pushSync(); });
+
+if(!("speechSynthesis" in window)) document.documentElement.dataset.tts = "0";
+else { try{ speechSynthesis.getVoices(); speechSynthesis.onvoiceschanged = () => {}; }catch(e){} }
 
 paintAccount();
 render();
