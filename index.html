@@ -241,6 +241,26 @@ h1{
   color:var(--pen); outline:none; min-height:44px; caret-color:var(--pen);
 }
 
+/* ---------- chế độ ghép từ ---------- */
+.slots{
+  display:flex; flex-wrap:wrap; gap:8px; align-items:center; min-height:56px;
+  padding:8px 2px 12px; border-bottom:2px dotted var(--rule); margin-bottom:16px;
+  transition:border-color .15s;
+}
+.slots.is-empty::before{
+  content:attr(data-ph); font-family:Caveat,cursive; font-size:26px; color:var(--ph);
+}
+.bank{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px}
+.chip{
+  font-family:Caveat,cursive; font-size:24px; line-height:1.15; color:var(--pen);
+  background:var(--card); border:1px solid var(--line); border-radius:11px;
+  padding:8px 14px; cursor:pointer; transition:border-color .13s, color .13s, opacity .13s;
+}
+.chip:hover{border-color:var(--accent); color:var(--accent)}
+.chip.put{background:var(--accent-bg); border-color:var(--accent-line)}
+.chip.used{opacity:.25; pointer-events:none}
+.bankhint{font-size:12px; color:var(--faint); margin:-8px 0 14px; font-weight:600}
+
 .tools{display:flex; flex-wrap:wrap; gap:8px}
 .act{
   background:var(--card); color:var(--muted); border:1px solid var(--line); border-radius:11px;
@@ -365,6 +385,10 @@ footer{max-width:1060px; margin:40px auto 0; padding:20px 28px 0; border-top:1px
       <button data-lv="A2" aria-pressed="false">A2</button>
       <button data-lv="B1" aria-pressed="false">B1</button>
       <button data-lv="B2" aria-pressed="false">B2</button>
+    </div>
+    <div class="tabs" id="modes" role="group" aria-label="Kiểu làm bài">
+      <button data-md="type" aria-pressed="true">Gõ tay</button>
+      <button data-md="bank" aria-pressed="false">Ghép từ</button>
     </div>
     <div class="combo" id="topic"></div>
     <div class="combo" id="sort"></div>
@@ -805,7 +829,9 @@ try{ progress = JSON.parse(localStorage.getItem(KEY) || "{}"); }catch(e){ progre
 const save = () => { try{ localStorage.setItem(KEY, JSON.stringify(progress)); }catch(e){} };
 const P = id => (progress[id] = progress[id] || {text:"", score:null, ai:false, at:0});
 
-const state = {q:"", level:"all", topic:"all", sort:"easy", status:"all", page:1, size:20, seed:1};
+let savedMode = "type";
+try{ savedMode = localStorage.getItem("vlv.mode") || "type"; }catch(e){}
+const state = {q:"", level:"all", topic:"all", sort:"easy", status:"all", page:1, size:20, seed:1, mode:savedMode};
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const LVORD = {A2:0,B1:1,B2:2};
 const byId = id => DATA.find(d=>d.id===id);
@@ -835,6 +861,62 @@ function filtered(){
   return list.sort(by[state.sort] || by.easy);
 }
 
+/* ---------- chế độ ghép từ ---------- */
+const stripPunct = w => w.toLowerCase().replace(/[.,!?;:"']/g, "");
+
+// Xé đáp án 1 thành các thẻ từ, thêm tối đa 2 từ nhiễu lấy từ đáp án 2.
+// Xáo trộn theo id nên thứ tự cố định, không đổi mỗi lần vẽ lại.
+function chipsFor(item){
+  const main = item.answers[0].split(/\s+/).filter(Boolean);
+  const alt  = (item.answers[1] || "").split(/\s+/).filter(Boolean);
+  const have = new Set(main.map(stripPunct));
+  const extra = [...new Set(alt.filter(w => !have.has(stripPunct(w))))].slice(0, 2);
+  let seed = item.id * 9301 + 49297;
+  const rnd = () => (seed = (seed * 9301 + 49297) % 233280) / 233280;
+  return main.concat(extra).map(w => ({w, k: rnd()}))
+             .sort((a, b) => a.k - b.k).map(x => x.w);
+}
+// Dựng lại danh sách thẻ đã chọn từ câu đã lưu (khi picked mất sau đồng bộ)
+function pickedFromText(chips, text){
+  const words = String(text || "").split(/\s+/).filter(Boolean);
+  const used = new Array(chips.length).fill(false);
+  const out = [];
+  for(const w of words){
+    const i = chips.findIndex((c, j) => !used[j] && c === w);
+    if(i < 0) return [];
+    used[i] = true; out.push(i);
+  }
+  return out;
+}
+function bankHTML(item, p){
+  const chips = chipsFor(item);
+  const picked = Array.isArray(p.picked) ? p.picked : pickedFromText(chips, p.text);
+  const used = new Set(picked);
+  return `<div class="slots${picked.length ? "" : " is-empty"}" data-ph="Tap the words below…">`
+    + picked.map((ci, pos) =>
+        `<button type="button" class="chip put" data-pos="${pos}" title="Bấm để bỏ ra">${esc(chips[ci])}</button>`).join("")
+    + `</div><div class="bank">`
+    + chips.map((w, i) =>
+        `<button type="button" class="chip take${used.has(i) ? " used" : ""}" data-ci="${i}"${used.has(i) ? ' tabindex="-1"' : ""}>${esc(w)}</button>`).join("")
+    + `</div><p class="bankhint">Bấm vào từ để ghép câu, hoặc dùng phím Tab rồi Enter. Bấm lại từ đã ghép để bỏ ra.</p>`;
+}
+function syncBank(card, item){
+  const p = P(item.id);
+  const chips = chipsFor(item);
+  p.text = (p.picked || []).map(i => chips[i]).join(" ");
+  p.at = Date.now();
+  card.querySelector(".slots").outerHTML = "";      // vẽ lại vùng ghép
+  const holder = document.createElement("div");
+  holder.innerHTML = bankHTML(item, p);
+  const oldBank = card.querySelector(".bank");
+  const oldHint = card.querySelector(".bankhint");
+  if(oldBank) oldBank.remove();
+  if(oldHint) oldHint.remove();
+  const after = card.querySelector(".hints") || card.querySelector(".prompt");
+  after.insertAdjacentHTML("afterend", holder.innerHTML);
+  save(); markDirty();
+}
+
 function cardHTML(d, idx){
   const p = progress[d.id] || {text:"", score:null, ai:false};
   const prompt = d.chunks.map(c => c.en
@@ -850,9 +932,9 @@ function cardHTML(d, idx){
       <span class="spacer"></span>${badge}
     </div>
     <p class="prompt">${prompt}</p>
-    <div class="linebox">
+    ${state.mode === "bank" ? bankHTML(d, p) : `<div class="linebox">
       <textarea class="ans" rows="1" spellcheck="false" placeholder="Write your English sentence…">${esc(p.text)}</textarea>
-    </div>
+    </div>`}
     <div class="tools">
       <button class="act primary" data-a="check">Chấm điểm</button>
       <button class="act" data-a="hints">Gợi ý từ vựng</button>
@@ -954,7 +1036,7 @@ function setBadge(card, score, isAI){
 
 async function doCheck(card, item){
   const ta = card.querySelector(".ans");
-  const text = ta.value.trim();
+  const text = ta ? ta.value.trim() : (P(item.id).text || "").trim();
   const res = grade(text, item.answers);
   const p = P(item.id); p.text=text; p.score=res.score; p.ai=false; p.at=Date.now(); save(); markDirty();
   const useAI = document.getElementById("ai").checked && AI.ready && text;
@@ -983,6 +1065,17 @@ async function doCheck(card, item){
 const sheet = document.getElementById("sheet");
 
 sheet.addEventListener("click", e=>{
+  const chip = e.target.closest("button.chip");
+  if(chip){
+    const card = chip.closest(".ex");
+    const item = byId(Number(card.dataset.id));
+    const p = P(item.id);
+    if(!Array.isArray(p.picked)) p.picked = pickedFromText(chipsFor(item), p.text);
+    if(chip.classList.contains("take")) p.picked.push(Number(chip.dataset.ci));
+    else p.picked.splice(Number(chip.dataset.pos), 1);
+    syncBank(card, item);
+    return;
+  }
   const btn = e.target.closest("button.act");
   if(btn){
     const card = btn.closest(".ex");
@@ -995,8 +1088,9 @@ sheet.addEventListener("click", e=>{
       ta.value=""; grow(ta); slot.innerHTML="";
       const b=card.querySelector(".badge"); if(b) b.remove();
       const h=card.querySelector(".hints"); if(h) h.remove();
-      progress[item.id] = {text:"", score:null, ai:false, at:Date.now()};
+      progress[item.id] = {text:"", score:null, ai:false, at:Date.now(), picked:[]};
       save(); markDirty(); stats();
+      if(state.mode === "bank") syncBank(card, item);
     }
     if(a==="show"){
       slot.innerHTML = `<div class="panel"><div class="slabel">Đáp án tham khảo</div>${answersHTML(item)}</div>`;
@@ -1060,6 +1154,15 @@ document.addEventListener("click", e=>{ if(!e.target.closest(".ch")) hideTip(); 
 
 /* thanh công cụ */
 document.getElementById("q").addEventListener("input", e=>{ state.q=e.target.value; state.page=1; render(); });
+const modeTabs = document.getElementById("modes");
+[...modeTabs.children].forEach(b => b.setAttribute("aria-pressed", b.dataset.md === state.mode));
+modeTabs.addEventListener("click", e=>{
+  const b = e.target.closest("button"); if(!b) return;
+  state.mode = b.dataset.md;
+  try{ localStorage.setItem("vlv.mode", state.mode); }catch(err){}
+  [...e.currentTarget.children].forEach(x => x.setAttribute("aria-pressed", x === b));
+  render();
+});
 document.getElementById("levels").addEventListener("click", e=>{
   const b=e.target.closest("button"); if(!b) return;
   state.level=b.dataset.lv; state.page=1;
