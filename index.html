@@ -406,6 +406,10 @@ footer{max-width:1060px; margin:40px auto 0; padding:20px 28px 0; border-top:1px
       <input type="checkbox" id="ai" hidden disabled>
       <span class="dot"></span><span id="ailabel">AI trình duyệt</span>
     </label>
+    <label class="aipill" id="semwrap" title="Tải model 23MB một lần, sau đó chạy offline trên mọi thiết bị kể cả iPhone">
+      <input type="checkbox" id="sem" hidden>
+      <span class="dot"></span><span id="semlabel">Chấm theo nghĩa</span>
+    </label>
   </div>
 </div>
 
@@ -1038,8 +1042,8 @@ function speak(text, btn){
     speechSynthesis.speak(u);
   }catch(e){}
 }
-function showResult(card, item, res, aiRes, loading){
-  const score = aiRes ? aiRes.score : res.score;
+function showResult(card, item, res, aiRes, loading, semScore){
+  const score = aiRes ? aiRes.score : (semScore != null ? semScore : res.score);
   const b = band(score);
   let ai = "";
   if(loading) ai = `<div class="aibox"><span class="spin"></span>AI trong trình duyệt đang xem lại bài của bạn…</div>`;
@@ -1052,6 +1056,7 @@ function showResult(card, item, res, aiRes, loading){
       <div class="vtext">
         <div class="vtitle">${esc(verdictOf(score))}</div>
         <div class="vnote">${esc(res.notes.length ? res.notes.join(" · ") : "Khớp gần như hoàn hảo với đáp án tham khảo.")}</div>
+        ${semScore != null ? `<div class="vnote" style="color:var(--accent);margin-top:5px">Diễn đạt khác đáp án nhưng đúng nghĩa — đã nâng điểm từ ${res.score} lên ${semScore}.</div>` : ""}
       </div>
     </div>
     ${res.ops.length?`<div class="sect"><div class="slabel">Bài của bạn — bút đỏ là chỗ cần sửa</div><div class="diff">${diffHTML(res.ops)}</div></div>`:""}
@@ -1072,9 +1077,23 @@ async function doCheck(card, item){
   const res = grade(text, item.answers);
   const p = P(item.id); p.text=text; p.score=res.score; p.ai=false; p.at=Date.now(); save(); markDirty();
   const useAI = document.getElementById("ai").checked && AI.ready && text;
+  const useSem = document.getElementById("sem").checked && SEM.ready && text && !useAI;
   showResult(card, item, res, null, useAI);
   setBadge(card, res.score, false);
   stats();
+
+  if(useSem){
+    try{
+      const sim = await similarity(text, item.answers);
+      const lifted = semAdjust(res, sim, tok(text).length);
+      if(lifted != null){
+        p.score = lifted; p.at = Date.now(); save(); markDirty();
+        showResult(card, item, res, null, false, lifted);
+        setBadge(card, lifted, false);
+        stats();
+      }
+    }catch(e){ /* model lỗi thì giữ nguyên điểm của bộ chấm theo từ */ }
+  }
   if(useAI){
     const note = pct => {
       const box = card.querySelector(".aibox");
@@ -1310,6 +1329,25 @@ document.getElementById("ai").addEventListener("change", e=>{
   document.getElementById("aiwrap").classList.toggle("on", e.target.checked);
 });
 
+const semWrap = document.getElementById("semwrap"), semLabel = document.getElementById("semlabel");
+document.getElementById("sem").addEventListener("change", async e=>{
+  semWrap.classList.toggle("on", e.target.checked);
+  if(!e.target.checked || SEM.ready || SEM.busy) return;
+  SEM.busy = true;
+  semLabel.textContent = "Đang tải model… 0%";
+  try{
+    await loadSem(pct => { semLabel.textContent = `Đang tải model… ${pct}%`; });
+    semLabel.textContent = "Chấm theo nghĩa";
+    semWrap.classList.add("live");
+    toast("Model đã sẵn sàng, chạy offline từ giờ");
+  }catch(err){
+    semLabel.textContent = "Không tải được model";
+    semWrap.classList.remove("on");
+    e.target.checked = false;
+  }
+  SEM.busy = false;
+});
+
 /* nền sáng / tối */
 const themeBtn = document.getElementById("theme");
 const isDark = () => (document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark":"light")) === "dark";
@@ -1322,6 +1360,61 @@ themeBtn.addEventListener("click", ()=>{
   try{ localStorage.setItem("vlv.theme", next); }catch(e){}
   syncThemeLabel();
 });
+
+/* ================= MODEL ĐO NGHĨA (all-MiniLM-L6-v2, 23MB) ==================
+   Bộ chấm theo từ rất tốt khi học viên bám sát đáp án, nhưng phạt oan khi họ
+   diễn đạt đúng ý bằng cách khác. Model này biến câu thành vector rồi so
+   cosine, nên nhận ra được hai câu cùng nghĩa dù chữ khác hẳn.
+   Chạy bằng WebAssembly nên hoạt động cả trên iPhone, không cần WebGPU. */
+const SEM = { pipe:null, ready:false, busy:false };
+
+async function loadSem(onProgress){
+  if(SEM.pipe) return SEM.pipe;
+  const mod = await import("https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.8.1/+esm");
+  mod.env.allowLocalModels = false;
+  SEM.pipe = await mod.pipeline("feature-extraction", "Xenova/all-MiniLM-L6-v2", {
+    dtype: "q8",
+    progress_callback: p => {
+      if(onProgress && p.status === "progress" && p.progress != null) onProgress(Math.round(p.progress));
+    }
+  });
+  SEM.ready = true;
+  return SEM.pipe;
+}
+const dot = (a,b) => a.reduce((sum,v,i) => sum + v*b[i], 0);   // vector đã chuẩn hoá nên tích vô hướng chính là cosine
+
+async function similarity(text, answers){
+  const pipe = await loadSem();
+  const out = await pipe([text, ...answers], { pooling:"mean", normalize:true });
+  const v = out.tolist();
+  return Math.max(...answers.map((_, i) => dot(v[0], v[i+1])));
+}
+
+/* Chỉ nâng điểm khi học viên thật sự viết theo cách khác.
+   Nếu họ dùng gần đúng chữ của đáp án mà sai ngữ pháp thì giữ nguyên điểm,
+   vì model đo nghĩa không nhìn thấy lỗi ngữ pháp. */
+function semAdjust(res, sim, userLen){
+  const refLen = res.refTokens.length;
+  const eq = res.ops.filter(o => o.op === "eq").length;
+  const wordRatio = refLen ? eq / refLen : 0;
+  const lenRatio  = (refLen && userLen) ? Math.min(userLen, refLen) / Math.max(userLen, refLen) : 0;
+
+  // Dùng gần đúng chữ của đáp án -> mọi khác biệt là lỗi ngữ pháp thật, không nâng.
+  if(wordRatio >= 0.8) return null;
+  // Diễn đạt lại thì đổi nhiều chỗ. Đổi đúng một động từ (replies -> sends) làm lệch
+  // hẳn nghĩa nhưng cosine vẫn 0.93, nên chặn theo số chỗ khác biệt mới an toàn.
+  if(res.ops.filter(o => o.op !== "eq").length < 3) return null;
+  // Lệch nghĩa.
+  if(sim < 0.70) return null;
+  // Đo trên dữ liệu thật: câu bỏ bớt nội dung vẫn cho cosine ngang câu diễn đạt lại
+  // (0.740 so với 0.749), nên phải dựa thêm vào độ dài mới tách được hai loại.
+  if(lenRatio < 0.7) return null;
+
+  const target = clamp(70 + (sim - 0.70) * 120, 70, 100);   // 0.70 -> 70 diem, 0.95 -> 100 diem
+  const keep = (res.counts.morph || 0) * 6 + (res.counts.spell || 0) * 7;  // lỗi chia từ / chính tả vẫn phải trừ
+  const floor = clamp(Math.round(target - keep), 0, 100);
+  return floor > res.score ? floor : null;
+}
 
 /* ====================== TÀI KHOẢN & ĐỒNG BỘ ======================
    Không đăng nhập: app chạy đủ chức năng, tiến độ nằm trong localStorage.

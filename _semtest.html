@@ -1,0 +1,29 @@
+<meta charset="utf-8"><body><pre id="o">dang tai model...</pre>
+<script type="module">
+const log=[]; const o=document.getElementById("o");
+const put=t=>{log.push(t); o.textContent=log.join("\n");};
+try{
+  const mod = await import("https://cdn.jsdelivr.net/npm/@huggingface/transformers@3/+esm");
+  mod.env.allowLocalModels = false;
+  const pipe = await mod.pipeline("feature-extraction","Xenova/all-MiniLM-L6-v2",{dtype:"q8"});
+  put("MODEL OK");
+  const dot=(a,b)=>a.reduce((s,v,i)=>s+v*b[i],0);
+  const CASES=[
+   ["It's very hot so I don't want to go outside.", ["It's so hot that I don't want to leave the house.","It's too hot, I don't feel like going out."], 92],
+   ["My phone ran out of battery in the middle, so the call was cut off.", ["My phone died halfway through, so the call got cut off."], 95],
+   ["When I was a child, I used to play football with the kids in my neighbourhood.", ["When I was little, I used to play football with the kids in my neighborhood."], 100],
+   ["If I had known the project would take this long, I would not have accepted it.", ["If I had known the project would drag on like this, I wouldn't have taken it."], 96],
+   ["Houses in the city are very expensive now.", ["House prices in the city have risen so fast that young people can hardly afford one."], 35],
+   ["My phone was died halfway through so the call cut off.", ["My phone died halfway through, so the call got cut off."], 68],
+   ["When I was little, I used to play footballs with the kids in my neighborhood.", ["When I was little, I used to play football with the kids in my neighborhood."], 94],
+   ["I like to eat rice every day.", ["House prices in the city have risen so fast that young people can hardly afford one."], 0],
+  ];
+  for(const [txt,answers,human] of CASES){
+    const out = await pipe([txt,...answers],{pooling:"mean",normalize:true});
+    const v = out.tolist();
+    const sim = Math.max(...answers.map((_,i)=>dot(v[0],v[i+1])));
+    put("sim=" + sim.toFixed(3) + "  gv=" + String(human).padStart(3) + "   " + txt.slice(0,58));
+  }
+  put("DONE");
+}catch(e){ put("LOI: " + e.message); }
+</script></body>
