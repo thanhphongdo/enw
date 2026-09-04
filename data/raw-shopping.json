@@ -1,0 +1,8052 @@
+[
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đang đặt",
+        "en": "I'm ordering"
+      },
+      {
+        "t": "một cái váy mới",
+        "en": "a new dress"
+      },
+      {
+        "t": "trên mạng.",
+        "en": "online"
+      }
+    ],
+    "answers": [
+      "I'm ordering a new dress online.",
+      "I'm buying a new dress on the internet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cô ấy mua",
+        "en": "She buys"
+      },
+      {
+        "t": "giày thể thao",
+        "en": "sneakers"
+      },
+      {
+        "t": "trên app",
+        "en": "on the app"
+      },
+      {
+        "t": "mỗi tuần.",
+        "en": "every week"
+      }
+    ],
+    "answers": [
+      "She buys sneakers on the app every week.",
+      "She buys sneakers on the app every single week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "We"
+      },
+      {
+        "t": "không thích",
+        "en": "don't like"
+      },
+      {
+        "t": "mua sắm online",
+        "en": "shopping online"
+      },
+      {
+        "t": "lắm.",
+        "en": "very much"
+      }
+    ],
+    "answers": [
+      "We don't like shopping online very much.",
+      "We don't really enjoy online shopping."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Anh ấy vừa đặt",
+        "en": "He just ordered"
+      },
+      {
+        "t": "một chiếc balo mới",
+        "en": "a new backpack"
+      },
+      {
+        "t": "trên mạng.",
+        "en": "online"
+      }
+    ],
+    "answers": [
+      "He just ordered a new backpack online.",
+      "He just bought a new backpack on the internet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Trang web này",
+        "en": "This website"
+      },
+      {
+        "t": "đang giảm giá",
+        "en": "is discounting"
+      },
+      {
+        "t": "rất nhiều mặt hàng.",
+        "en": "a lot of items"
+      }
+    ],
+    "answers": [
+      "This website is discounting a lot of items.",
+      "This website has a lot of items on sale."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Bạn có hay mua",
+        "en": "Do you often buy"
+      },
+      {
+        "t": "quần áo",
+        "en": "clothes"
+      },
+      {
+        "t": "trên mạng không?",
+        "en": "online"
+      }
+    ],
+    "answers": [
+      "Do you often buy clothes online?",
+      "Do you shop for clothes on the internet a lot?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đang so sánh giá",
+        "en": "I'm comparing prices"
+      },
+      {
+        "t": "trên ba trang web",
+        "en": "on three websites"
+      },
+      {
+        "t": "khác nhau.",
+        "en": "different"
+      }
+    ],
+    "answers": [
+      "I'm comparing prices on three different websites.",
+      "I'm checking prices across three different websites."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng online đó",
+        "en": "That online store"
+      },
+      {
+        "t": "có rất nhiều",
+        "en": "has a lot of"
+      },
+      {
+        "t": "đánh giá tốt.",
+        "en": "good reviews"
+      }
+    ],
+    "answers": [
+      "That online store has a lot of good reviews.",
+      "That online shop has lots of positive reviews."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi muốn đổi",
+        "en": "I want to exchange"
+      },
+      {
+        "t": "cái áo này",
+        "en": "this shirt"
+      },
+      {
+        "t": "sang size lớn hơn.",
+        "en": "for a bigger size"
+      }
+    ],
+    "answers": [
+      "I want to exchange this shirt for a bigger size.",
+      "I'd like to swap this shirt for a larger size."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng",
+        "en": "The store"
+      },
+      {
+        "t": "không nhận trả hàng",
+        "en": "doesn't accept returns"
+      },
+      {
+        "t": "sau bảy ngày.",
+        "en": "after seven days"
+      }
+    ],
+    "answers": [
+      "The store doesn't accept returns after seven days.",
+      "The shop won't take returns after seven days."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Đôi giày này",
+        "en": "These shoes"
+      },
+      {
+        "t": "bị lỗi",
+        "en": "are faulty"
+      },
+      {
+        "t": "nên tôi đang trả lại.",
+        "en": "so I'm returning them"
+      }
+    ],
+    "answers": [
+      "These shoes are faulty, so I'm returning them.",
+      "These shoes are defective, so I'm sending them back."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Bạn có",
+        "en": "Do you have"
+      },
+      {
+        "t": "hóa đơn",
+        "en": "the receipt"
+      },
+      {
+        "t": "để đổi hàng không?",
+        "en": "to exchange it"
+      }
+    ],
+    "answers": [
+      "Do you have the receipt to exchange it?",
+      "Do you have the receipt so you can exchange it?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi đang xếp hàng",
+        "en": "We're standing in line"
+      },
+      {
+        "t": "để trả",
+        "en": "to return"
+      },
+      {
+        "t": "cái máy xay này.",
+        "en": "this blender"
+      }
+    ],
+    "answers": [
+      "We're standing in line to return this blender.",
+      "We're waiting in line to return this blender."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nhân viên",
+        "en": "The staff"
+      },
+      {
+        "t": "không cho tôi đổi hàng",
+        "en": "wouldn't let me exchange it"
+      },
+      {
+        "t": "vì mất tag.",
+        "en": "because the tag was missing"
+      }
+    ],
+    "answers": [
+      "The staff wouldn't let me exchange it because the tag was missing.",
+      "The employee didn't let me exchange it since the tag was gone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cái túi này",
+        "en": "This bag"
+      },
+      {
+        "t": "không đúng màu",
+        "en": "isn't the right color"
+      },
+      {
+        "t": "tôi đặt.",
+        "en": "I ordered"
+      }
+    ],
+    "answers": [
+      "This bag isn't the right color I ordered.",
+      "This isn't the color of bag I ordered."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi luôn thức khuya",
+        "en": "I always stay up late"
+      },
+      {
+        "t": "để săn sale",
+        "en": "to hunt for deals"
+      },
+      {
+        "t": "giữa đêm.",
+        "en": "at midnight"
+      }
+    ],
+    "answers": [
+      "I always stay up late to hunt for deals at midnight.",
+      "I always stay up late to catch sales at midnight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng này",
+        "en": "This store"
+      },
+      {
+        "t": "giảm giá",
+        "en": "is offering"
+      },
+      {
+        "t": "năm mươi phần trăm",
+        "en": "fifty percent off"
+      },
+      {
+        "t": "hôm nay.",
+        "en": "today"
+      }
+    ],
+    "answers": [
+      "This store is offering fifty percent off today.",
+      "This shop has a fifty percent discount today."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chị tôi",
+        "en": "My sister"
+      },
+      {
+        "t": "đang săn sale",
+        "en": "is hunting for deals"
+      },
+      {
+        "t": "trên điện thoại",
+        "en": "on her phone"
+      },
+      {
+        "t": "suốt buổi sáng.",
+        "en": "all morning"
+      }
+    ],
+    "answers": [
+      "My sister is hunting for deals on her phone all morning.",
+      "My sister has been shopping for deals on her phone all morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Có",
+        "en": "Is there"
+      },
+      {
+        "t": "sale lớn",
+        "en": "a big sale"
+      },
+      {
+        "t": "vào cuối tháng này không?",
+        "en": "at the end of this month"
+      }
+    ],
+    "answers": [
+      "Is there a big sale at the end of this month?",
+      "Will there be a big sale later this month?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đặt báo thức",
+        "en": "I set an alarm"
+      },
+      {
+        "t": "để không bỏ lỡ",
+        "en": "so I don't miss"
+      },
+      {
+        "t": "đợt sale flash.",
+        "en": "the flash sale"
+      }
+    ],
+    "answers": [
+      "I set an alarm so I don't miss the flash sale.",
+      "I set an alarm not to miss the flash sale."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Giỏ hàng của tôi",
+        "en": "My shopping cart"
+      },
+      {
+        "t": "đầy",
+        "en": "is full of"
+      },
+      {
+        "t": "đồ giảm giá.",
+        "en": "discounted items"
+      }
+    ],
+    "answers": [
+      "My shopping cart is full of discounted items.",
+      "My cart is full of sale items."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I'm"
+      },
+      {
+        "t": "đang mặc cả giá",
+        "en": "bargaining over the price of"
+      },
+      {
+        "t": "cái áo khoác này.",
+        "en": "this jacket"
+      }
+    ],
+    "answers": [
+      "I'm bargaining over the price of this jacket.",
+      "I'm haggling over the price of this jacket."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chủ quán",
+        "en": "The shop owner"
+      },
+      {
+        "t": "không chịu",
+        "en": "won't"
+      },
+      {
+        "t": "giảm giá thêm",
+        "en": "lower the price any more"
+      },
+      {
+        "t": "cho tôi.",
+        "en": "for me"
+      }
+    ],
+    "answers": [
+      "The shop owner won't lower the price any more for me.",
+      "The owner refuses to give me a lower price."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Bạn có thể",
+        "en": "Can you"
+      },
+      {
+        "t": "bớt chút tiền",
+        "en": "knock off a bit"
+      },
+      {
+        "t": "cho tôi không?",
+        "en": "for me"
+      }
+    ],
+    "answers": [
+      "Can you knock off a bit for me?",
+      "Could you lower the price a little for me?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Ở chợ này,",
+        "en": "At this market,"
+      },
+      {
+        "t": "mọi người",
+        "en": "everyone"
+      },
+      {
+        "t": "luôn mặc cả.",
+        "en": "always haggles"
+      }
+    ],
+    "answers": [
+      "At this market, everyone always haggles.",
+      "Everyone always bargains at this market."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi trả giá thấp hơn",
+        "en": "I offered a lower price"
+      },
+      {
+        "t": "nhưng cô ấy",
+        "en": "but she"
+      },
+      {
+        "t": "không đồng ý.",
+        "en": "didn't agree"
+      }
+    ],
+    "answers": [
+      "I offered a lower price, but she didn't agree.",
+      "I offered a lower price but she wouldn't accept it."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cuối cùng",
+        "en": "In the end"
+      },
+      {
+        "t": "tôi cũng mặc cả được",
+        "en": "I managed to bargain for"
+      },
+      {
+        "t": "giá tốt.",
+        "en": "a good price"
+      }
+    ],
+    "answers": [
+      "In the end, I managed to bargain for a good price.",
+      "I finally managed to haggle a good price."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cái quần này",
+        "en": "These pants"
+      },
+      {
+        "t": "chật quá,",
+        "en": "are too tight,"
+      },
+      {
+        "t": "tôi mặc không vừa.",
+        "en": "they don't fit me"
+      }
+    ],
+    "answers": [
+      "These pants are too tight, they don't fit me.",
+      "These pants are too tight, so they don't fit."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Áo này",
+        "en": "This shirt"
+      },
+      {
+        "t": "rộng thùng thình",
+        "en": "is way too baggy"
+      },
+      {
+        "t": "so với size của tôi.",
+        "en": "for my size"
+      }
+    ],
+    "answers": [
+      "This shirt is way too baggy for my size.",
+      "This shirt is far too loose for my size."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Đôi giày mới mua",
+        "en": "The shoes I just bought"
+      },
+      {
+        "t": "nhỏ hơn",
+        "en": "are smaller by"
+      },
+      {
+        "t": "một size.",
+        "en": "one size"
+      }
+    ],
+    "answers": [
+      "The shoes I just bought are smaller by one size.",
+      "The shoes I just bought are one size too small."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Váy này",
+        "en": "This dress"
+      },
+      {
+        "t": "dài quá",
+        "en": "is too long"
+      },
+      {
+        "t": "so với chiều cao của tôi.",
+        "en": "for my height"
+      }
+    ],
+    "answers": [
+      "This dress is too long for my height.",
+      "This dress is way too long for someone my height."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cô ấy đang thử",
+        "en": "She's trying on"
+      },
+      {
+        "t": "một chiếc áo khoác",
+        "en": "a jacket"
+      },
+      {
+        "t": "trong phòng thay đồ.",
+        "en": "in the fitting room"
+      }
+    ],
+    "answers": [
+      "She's trying on a jacket in the fitting room.",
+      "She's trying on a jacket inside the changing room."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Size M",
+        "en": "Size M"
+      },
+      {
+        "t": "không có sẵn",
+        "en": "wasn't available"
+      },
+      {
+        "t": "nên tôi lấy",
+        "en": "so I got"
+      },
+      {
+        "t": "size L.",
+        "en": "size L"
+      }
+    ],
+    "answers": [
+      "Size M wasn't available, so I got size L.",
+      "They didn't have size M, so I took size L."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chiếc mũ này",
+        "en": "This hat"
+      },
+      {
+        "t": "chật,",
+        "en": "is tight,"
+      },
+      {
+        "t": "nó ép đầu tôi.",
+        "en": "it presses on my head"
+      }
+    ],
+    "answers": [
+      "This hat is tight, it presses on my head.",
+      "This hat is too small and squeezes my head."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I'm"
+      },
+      {
+        "t": "đang mua",
+        "en": "buying"
+      },
+      {
+        "t": "một cái điện thoại mới.",
+        "en": "a new phone"
+      }
+    ],
+    "answers": [
+      "I'm buying a new phone.",
+      "I'm getting a new phone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cái laptop này",
+        "en": "This laptop"
+      },
+      {
+        "t": "có giá",
+        "en": "is priced"
+      },
+      {
+        "t": "khá cao.",
+        "en": "quite high"
+      }
+    ],
+    "answers": [
+      "This laptop is priced quite high.",
+      "This laptop is pretty expensive."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Bố tôi vừa mua",
+        "en": "My dad just bought"
+      },
+      {
+        "t": "một cái tivi mới",
+        "en": "a new TV"
+      },
+      {
+        "t": "cho phòng khách.",
+        "en": "for the living room"
+      }
+    ],
+    "answers": [
+      "My dad just bought a new TV for the living room.",
+      "My dad just got a new TV for the living room."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng điện tử đó",
+        "en": "That electronics store"
+      },
+      {
+        "t": "bán",
+        "en": "sells"
+      },
+      {
+        "t": "tai nghe",
+        "en": "headphones"
+      },
+      {
+        "t": "rất rẻ.",
+        "en": "very cheap"
+      }
+    ],
+    "answers": [
+      "That electronics store sells headphones very cheaply.",
+      "That electronics shop sells really cheap headphones."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chiếc máy ảnh này",
+        "en": "This camera"
+      },
+      {
+        "t": "có còn",
+        "en": "is it still"
+      },
+      {
+        "t": "bảo hành không?",
+        "en": "under warranty"
+      }
+    ],
+    "answers": [
+      "Is this camera still under warranty?",
+      "Does this camera still have a warranty?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "He's"
+      },
+      {
+        "t": "đang so sánh",
+        "en": "comparing"
+      },
+      {
+        "t": "hai mẫu điện thoại.",
+        "en": "two phone models"
+      }
+    ],
+    "answers": [
+      "He's comparing two phone models.",
+      "He's comparing two different phone models."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi không biết",
+        "en": "I don't know"
+      },
+      {
+        "t": "nên mua",
+        "en": "whether to buy"
+      },
+      {
+        "t": "loa",
+        "en": "a speaker"
+      },
+      {
+        "t": "hay tai nghe.",
+        "en": "or headphones"
+      }
+    ],
+    "answers": [
+      "I don't know whether to buy a speaker or headphones.",
+      "I can't decide between buying a speaker or headphones."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Có",
+        "en": "Is there"
+      },
+      {
+        "t": "ổ cắm sạc dự phòng",
+        "en": "a power bank charger"
+      },
+      {
+        "t": "trong cửa hàng này không?",
+        "en": "in this store"
+      }
+    ],
+    "answers": [
+      "Is there a power bank charger in this store?",
+      "Does this store have a power bank charger?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đang tìm",
+        "en": "I'm looking for"
+      },
+      {
+        "t": "quà sinh nhật",
+        "en": "a birthday present"
+      },
+      {
+        "t": "cho em gái.",
+        "en": "for my little sister"
+      }
+    ],
+    "answers": [
+      "I'm looking for a birthday present for my little sister.",
+      "I'm looking for a birthday gift for my sister."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi mua",
+        "en": "We bought"
+      },
+      {
+        "t": "một hộp socola",
+        "en": "a box of chocolates"
+      },
+      {
+        "t": "làm quà.",
+        "en": "as a gift"
+      }
+    ],
+    "answers": [
+      "We bought a box of chocolates as a gift.",
+      "We bought a box of chocolates for a present."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Bạn nghĩ",
+        "en": "What do you think"
+      },
+      {
+        "t": "tôi nên tặng gì",
+        "en": "I should give"
+      },
+      {
+        "t": "cho mẹ?",
+        "en": "to my mom"
+      }
+    ],
+    "answers": [
+      "What do you think I should give my mom?",
+      "What do you think I should get for my mom?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Món quà này",
+        "en": "This gift"
+      },
+      {
+        "t": "hơi đắt",
+        "en": "is a bit expensive"
+      },
+      {
+        "t": "so với ngân sách của tôi.",
+        "en": "for my budget"
+      }
+    ],
+    "answers": [
+      "This gift is a bit expensive for my budget.",
+      "This present is a little too pricey for my budget."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "She's"
+      },
+      {
+        "t": "đang gói quà",
+        "en": "wrapping a gift"
+      },
+      {
+        "t": "cho bạn thân.",
+        "en": "for her best friend"
+      }
+    ],
+    "answers": [
+      "She's wrapping a gift for her best friend.",
+      "She's wrapping a present for her close friend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi mua",
+        "en": "I bought"
+      },
+      {
+        "t": "hoa và thiệp",
+        "en": "flowers and a card"
+      },
+      {
+        "t": "cho ngày kỷ niệm.",
+        "en": "for our anniversary"
+      }
+    ],
+    "answers": [
+      "I bought flowers and a card for our anniversary.",
+      "I got flowers and a card for the anniversary."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Không có nhiều lựa chọn",
+        "en": "There aren't many options"
+      },
+      {
+        "t": "quà cho đàn ông",
+        "en": "for gifts for men"
+      },
+      {
+        "t": "ở đây.",
+        "en": "here"
+      }
+    ],
+    "answers": [
+      "There aren't many options for gifts for men here.",
+      "There isn't much choice for men's gifts here."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "trả tiền",
+        "en": "paid"
+      },
+      {
+        "t": "bằng thẻ tín dụng.",
+        "en": "with my credit card"
+      }
+    ],
+    "answers": [
+      "I paid with my credit card.",
+      "I paid by credit card."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Máy quẹt thẻ",
+        "en": "The card machine"
+      },
+      {
+        "t": "ở đây",
+        "en": "here"
+      },
+      {
+        "t": "bị hỏng.",
+        "en": "is broken"
+      }
+    ],
+    "answers": [
+      "The card machine here is broken.",
+      "The card reader here isn't working."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng này",
+        "en": "This store"
+      },
+      {
+        "t": "không nhận",
+        "en": "doesn't accept"
+      },
+      {
+        "t": "thẻ tín dụng.",
+        "en": "credit cards"
+      }
+    ],
+    "answers": [
+      "This store doesn't accept credit cards.",
+      "This shop doesn't take credit cards."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "có mang theo",
+        "en": "did you bring"
+      },
+      {
+        "t": "thẻ ngân hàng không?",
+        "en": "your bank card"
+      }
+    ],
+    "answers": [
+      "Did you bring your bank card?",
+      "Do you have your bank card with you?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đang quẹt thẻ",
+        "en": "I'm swiping my card"
+      },
+      {
+        "t": "để thanh toán",
+        "en": "to pay"
+      },
+      {
+        "t": "hóa đơn.",
+        "en": "the bill"
+      }
+    ],
+    "answers": [
+      "I'm swiping my card to pay the bill.",
+      "I'm using my card to pay the bill."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Thẻ của tôi",
+        "en": "My card"
+      },
+      {
+        "t": "bị từ chối",
+        "en": "was declined"
+      },
+      {
+        "t": "ở quầy thu ngân.",
+        "en": "at the checkout counter"
+      }
+    ],
+    "answers": [
+      "My card was declined at the checkout counter.",
+      "My card got declined at the register."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Giỏ hàng của tôi",
+        "en": "My shopping cart"
+      },
+      {
+        "t": "vẫn còn",
+        "en": "still has"
+      },
+      {
+        "t": "ba món đồ",
+        "en": "three items"
+      },
+      {
+        "t": "chưa thanh toán.",
+        "en": "unpaid"
+      }
+    ],
+    "answers": [
+      "My shopping cart still has three unpaid items.",
+      "There are still three items in my cart that I haven't paid for."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi quên",
+        "en": "I forgot"
+      },
+      {
+        "t": "thanh toán",
+        "en": "to pay for"
+      },
+      {
+        "t": "giỏ hàng của mình",
+        "en": "my shopping cart"
+      },
+      {
+        "t": "tối qua.",
+        "en": "last night"
+      }
+    ],
+    "answers": [
+      "I forgot to pay for my shopping cart last night.",
+      "I forgot to check out my cart last night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "App gửi thông báo",
+        "en": "The app sent a notification"
+      },
+      {
+        "t": "vì tôi",
+        "en": "because I"
+      },
+      {
+        "t": "bỏ quên giỏ hàng.",
+        "en": "left my cart"
+      }
+    ],
+    "answers": [
+      "The app sent a notification because I left my cart.",
+      "The app notified me because I abandoned my cart."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi thêm đồ",
+        "en": "I added items"
+      },
+      {
+        "t": "vào giỏ",
+        "en": "to the cart"
+      },
+      {
+        "t": "nhưng chưa mua.",
+        "en": "but haven't bought them yet"
+      }
+    ],
+    "answers": [
+      "I added items to the cart but haven't bought them yet.",
+      "I put things in the cart but didn't buy them."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chị ấy để",
+        "en": "She left"
+      },
+      {
+        "t": "giỏ hàng đầy đồ",
+        "en": "her cart full of items"
+      },
+      {
+        "t": "suốt một tuần.",
+        "en": "for a whole week"
+      }
+    ],
+    "answers": [
+      "She left her cart full of items for a whole week.",
+      "She kept her cart full for an entire week without buying."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Đơn hàng của tôi",
+        "en": "My order"
+      },
+      {
+        "t": "bị trễ",
+        "en": "is delayed"
+      },
+      {
+        "t": "ba ngày.",
+        "en": "by three days"
+      }
+    ],
+    "answers": [
+      "My order is delayed by three days.",
+      "My order is running three days late."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Shipper",
+        "en": "The delivery guy"
+      },
+      {
+        "t": "vẫn chưa gọi",
+        "en": "still hasn't called"
+      },
+      {
+        "t": "cho tôi.",
+        "en": "me"
+      }
+    ],
+    "answers": [
+      "The delivery guy still hasn't called me.",
+      "The courier hasn't called me yet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Gói hàng của tôi",
+        "en": "My package"
+      },
+      {
+        "t": "đang ở đâu",
+        "en": "where is it"
+      },
+      {
+        "t": "vậy?",
+        "en": "now"
+      }
+    ],
+    "answers": [
+      "Where is my package now?",
+      "Where's my package right now?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi chờ",
+        "en": "I've been waiting for"
+      },
+      {
+        "t": "gói hàng này",
+        "en": "this package"
+      },
+      {
+        "t": "cả tuần rồi.",
+        "en": "the whole week"
+      }
+    ],
+    "answers": [
+      "I've been waiting for this package the whole week.",
+      "I've been waiting a whole week for this package."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Đơn hàng",
+        "en": "The order"
+      },
+      {
+        "t": "bị hoãn",
+        "en": "was delayed"
+      },
+      {
+        "t": "vì thời tiết xấu.",
+        "en": "because of bad weather"
+      }
+    ],
+    "answers": [
+      "The order was delayed because of bad weather.",
+      "The order got held up due to bad weather."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sao",
+        "en": "Why"
+      },
+      {
+        "t": "đơn hàng của tôi",
+        "en": "my order"
+      },
+      {
+        "t": "giao chậm thế?",
+        "en": "is being delivered so slowly"
+      }
+    ],
+    "answers": [
+      "Why is my order being delivered so slowly?",
+      "Why is the delivery of my order taking so long?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "We"
+      },
+      {
+        "t": "cần mua",
+        "en": "need to buy"
+      },
+      {
+        "t": "một cái nồi cơm điện mới.",
+        "en": "a new rice cooker"
+      }
+    ],
+    "answers": [
+      "We need to buy a new rice cooker.",
+      "We need a new rice cooker."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cái máy giặt cũ",
+        "en": "The old washing machine"
+      },
+      {
+        "t": "hỏng",
+        "en": "broke"
+      },
+      {
+        "t": "nên tôi phải mua",
+        "en": "so I have to buy"
+      },
+      {
+        "t": "cái khác.",
+        "en": "another one"
+      }
+    ],
+    "answers": [
+      "The old washing machine broke, so I have to buy another one.",
+      "The old washing machine is broken, so I need a new one."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Có nhiều",
+        "en": "There are lots of"
+      },
+      {
+        "t": "chảo chống dính",
+        "en": "non-stick pans"
+      },
+      {
+        "t": "trong cửa hàng này.",
+        "en": "in this store"
+      }
+    ],
+    "answers": [
+      "There are lots of non-stick pans in this store.",
+      "This store has plenty of non-stick pans."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đang mua",
+        "en": "I'm buying"
+      },
+      {
+        "t": "ga trải giường mới",
+        "en": "new bed sheets"
+      },
+      {
+        "t": "cho phòng ngủ.",
+        "en": "for the bedroom"
+      }
+    ],
+    "answers": [
+      "I'm buying new bed sheets for the bedroom.",
+      "I'm getting new sheets for the bedroom."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mẹ tôi đang chọn",
+        "en": "My mom is choosing"
+      },
+      {
+        "t": "rèm cửa",
+        "en": "curtains"
+      },
+      {
+        "t": "cho phòng khách.",
+        "en": "for the living room"
+      }
+    ],
+    "answers": [
+      "My mom is choosing curtains for the living room.",
+      "My mom is picking out curtains for the living room."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi mua thêm",
+        "en": "We bought a few more"
+      },
+      {
+        "t": "vài cái ghế",
+        "en": "chairs"
+      },
+      {
+        "t": "cho bếp.",
+        "en": "for the kitchen"
+      }
+    ],
+    "answers": [
+      "We bought a few more chairs for the kitchen.",
+      "We got some extra chairs for the kitchen."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chợ đêm này",
+        "en": "This night market"
+      },
+      {
+        "t": "bán",
+        "en": "sells"
+      },
+      {
+        "t": "rất nhiều đồ ăn vặt.",
+        "en": "lots of snacks"
+      }
+    ],
+    "answers": [
+      "This night market sells lots of snacks.",
+      "This night market sells a ton of snacks."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "We're"
+      },
+      {
+        "t": "đang đi dạo",
+        "en": "walking around"
+      },
+      {
+        "t": "ở chợ đêm.",
+        "en": "the night market"
+      }
+    ],
+    "answers": [
+      "We're walking around the night market.",
+      "We're strolling through the night market."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chợ đêm",
+        "en": "The night market"
+      },
+      {
+        "t": "rất đông",
+        "en": "is really crowded"
+      },
+      {
+        "t": "vào cuối tuần.",
+        "en": "on weekends"
+      }
+    ],
+    "answers": [
+      "The night market is really crowded on weekends.",
+      "The night market gets really busy on weekends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cô ấy đang mua",
+        "en": "She's buying"
+      },
+      {
+        "t": "vài món trang sức",
+        "en": "some jewelry"
+      },
+      {
+        "t": "rẻ tiền.",
+        "en": "cheap"
+      }
+    ],
+    "answers": [
+      "She's buying some cheap jewelry.",
+      "She's buying a few pieces of cheap jewelry."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Có gian hàng nào",
+        "en": "Is there a stall"
+      },
+      {
+        "t": "bán quần áo",
+        "en": "that sells clothes"
+      },
+      {
+        "t": "ở đây không?",
+        "en": "here"
+      }
+    ],
+    "answers": [
+      "Is there a stall that sells clothes here?",
+      "Is there a clothes stall around here?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi ăn tối",
+        "en": "We had dinner"
+      },
+      {
+        "t": "rồi",
+        "en": "and then"
+      },
+      {
+        "t": "đi dạo chợ đêm.",
+        "en": "walked around the night market"
+      }
+    ],
+    "answers": [
+      "We had dinner and then walked around the night market.",
+      "We had dinner, then strolled around the night market."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cái túi này",
+        "en": "This bag"
+      },
+      {
+        "t": "là hàng nhái,",
+        "en": "is a fake,"
+      },
+      {
+        "t": "không phải hàng thật.",
+        "en": "not a real one"
+      }
+    ],
+    "answers": [
+      "This bag is a fake, not a real one.",
+      "This bag is a knockoff, not the real thing."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi nghi ngờ",
+        "en": "I suspect"
+      },
+      {
+        "t": "đôi giày này",
+        "en": "these shoes"
+      },
+      {
+        "t": "là hàng giả.",
+        "en": "are fake"
+      }
+    ],
+    "answers": [
+      "I suspect these shoes are fake.",
+      "I think these shoes might be counterfeit."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chợ này",
+        "en": "This market"
+      },
+      {
+        "t": "bán",
+        "en": "sells"
+      },
+      {
+        "t": "rất nhiều hàng nhái thương hiệu.",
+        "en": "a lot of fake brand items"
+      }
+    ],
+    "answers": [
+      "This market sells a lot of fake brand items.",
+      "This market sells lots of counterfeit brand goods."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chất lượng của",
+        "en": "The quality of"
+      },
+      {
+        "t": "món hàng giả này",
+        "en": "this fake item"
+      },
+      {
+        "t": "khá tệ.",
+        "en": "is quite bad"
+      }
+    ],
+    "answers": [
+      "The quality of this fake item is quite bad.",
+      "This knockoff has pretty poor quality."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Làm sao",
+        "en": "How"
+      },
+      {
+        "t": "để phân biệt",
+        "en": "can you tell"
+      },
+      {
+        "t": "hàng thật và hàng giả?",
+        "en": "real from fake"
+      }
+    ],
+    "answers": [
+      "How can you tell real from fake?",
+      "How do you tell the real one from a fake?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đang cố giữ",
+        "en": "I'm trying to stick to"
+      },
+      {
+        "t": "ngân sách mua sắm",
+        "en": "my shopping budget"
+      },
+      {
+        "t": "trong tháng này.",
+        "en": "this month"
+      }
+    ],
+    "answers": [
+      "I'm trying to stick to my shopping budget this month.",
+      "I'm trying to keep to my shopping budget this month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi chỉ có",
+        "en": "I only have"
+      },
+      {
+        "t": "một triệu",
+        "en": "one million dong"
+      },
+      {
+        "t": "để mua đồ hôm nay.",
+        "en": "to spend today"
+      }
+    ],
+    "answers": [
+      "I only have one million dong to spend today.",
+      "I've only got a million dong to spend today."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "She"
+      },
+      {
+        "t": "luôn ghi lại",
+        "en": "always writes down"
+      },
+      {
+        "t": "mọi khoản chi tiêu.",
+        "en": "every expense"
+      }
+    ],
+    "answers": [
+      "She always writes down every expense.",
+      "She always keeps track of every expense."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "tiêu quá tay",
+        "en": "overspent"
+      },
+      {
+        "t": "tháng này rồi.",
+        "en": "this month"
+      }
+    ],
+    "answers": [
+      "I overspent this month.",
+      "I've spent too much this month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "We're"
+      },
+      {
+        "t": "đang tiết kiệm tiền",
+        "en": "saving money"
+      },
+      {
+        "t": "cho một chuyến du lịch.",
+        "en": "for a trip"
+      }
+    ],
+    "answers": [
+      "We're saving money for a trip.",
+      "We're saving up money for a trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Ngân sách của tôi",
+        "en": "My budget"
+      },
+      {
+        "t": "không đủ",
+        "en": "isn't enough"
+      },
+      {
+        "t": "cho món đồ này.",
+        "en": "for this item"
+      }
+    ],
+    "answers": [
+      "My budget isn't enough for this item.",
+      "My budget can't cover this item."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi đang mua",
+        "en": "We're buying"
+      },
+      {
+        "t": "đồ nội thất",
+        "en": "furniture"
+      },
+      {
+        "t": "cho căn nhà mới.",
+        "en": "for our new house"
+      }
+    ],
+    "answers": [
+      "We're buying furniture for our new house.",
+      "We're buying furniture for the new house."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi cần",
+        "en": "I need"
+      },
+      {
+        "t": "một cái tủ lạnh",
+        "en": "a fridge"
+      },
+      {
+        "t": "cho căn hộ mới.",
+        "en": "for my new apartment"
+      }
+    ],
+    "answers": [
+      "I need a fridge for my new apartment.",
+      "I need a refrigerator for the new apartment."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi mua",
+        "en": "We bought"
+      },
+      {
+        "t": "rất nhiều đồ dùng nhà bếp",
+        "en": "a lot of kitchen items"
+      },
+      {
+        "t": "tuần này.",
+        "en": "this week"
+      }
+    ],
+    "answers": [
+      "We bought a lot of kitchen items this week.",
+      "We got a lot of kitchen stuff this week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "He's"
+      },
+      {
+        "t": "đang lắp ráp",
+        "en": "assembling"
+      },
+      {
+        "t": "cái giường mới mua.",
+        "en": "the bed he just bought"
+      }
+    ],
+    "answers": [
+      "He's assembling the bed he just bought.",
+      "He's putting together the bed he just bought."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nhà mới",
+        "en": "The new house"
+      },
+      {
+        "t": "còn thiếu",
+        "en": "is still missing"
+      },
+      {
+        "t": "rất nhiều thứ.",
+        "en": "a lot of things"
+      }
+    ],
+    "answers": [
+      "The new house is still missing a lot of things.",
+      "The new house still lacks a lot of things."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi chọn",
+        "en": "We chose"
+      },
+      {
+        "t": "sofa màu xám",
+        "en": "a gray sofa"
+      },
+      {
+        "t": "cho phòng khách.",
+        "en": "for the living room"
+      }
+    ],
+    "answers": [
+      "We chose a gray sofa for the living room.",
+      "We picked a gray sofa for the living room."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Hàng người",
+        "en": "The line"
+      },
+      {
+        "t": "ở quầy thu ngân",
+        "en": "at the checkout counter"
+      },
+      {
+        "t": "rất dài.",
+        "en": "is very long"
+      }
+    ],
+    "answers": [
+      "The line at the checkout counter is very long.",
+      "The checkout line is really long."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I'm"
+      },
+      {
+        "t": "đang xếp hàng",
+        "en": "standing in line"
+      },
+      {
+        "t": "chờ thanh toán.",
+        "en": "waiting to pay"
+      }
+    ],
+    "answers": [
+      "I'm standing in line waiting to pay.",
+      "I'm in line waiting to check out."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chỉ có",
+        "en": "There's only"
+      },
+      {
+        "t": "một quầy tính tiền",
+        "en": "one checkout counter"
+      },
+      {
+        "t": "đang mở.",
+        "en": "open"
+      }
+    ],
+    "answers": [
+      "There's only one checkout counter open.",
+      "Only one register is open right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Anh ấy chen ngang",
+        "en": "He cut in"
+      },
+      {
+        "t": "hàng",
+        "en": "the line"
+      },
+      {
+        "t": "để thanh toán trước.",
+        "en": "to pay first"
+      }
+    ],
+    "answers": [
+      "He cut in line to pay first.",
+      "He jumped the queue to pay first."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đứng đợi",
+        "en": "I waited"
+      },
+      {
+        "t": "mười lăm phút",
+        "en": "fifteen minutes"
+      },
+      {
+        "t": "ở quầy thanh toán.",
+        "en": "at the checkout"
+      }
+    ],
+    "answers": [
+      "I waited fifteen minutes at the checkout.",
+      "I stood waiting for fifteen minutes at the checkout."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Máy tính tiền",
+        "en": "The cash register"
+      },
+      {
+        "t": "bị lỗi",
+        "en": "broke down"
+      },
+      {
+        "t": "nên mọi người phải chờ.",
+        "en": "so everyone had to wait"
+      }
+    ],
+    "answers": [
+      "The cash register broke down, so everyone had to wait.",
+      "The register was malfunctioning, so everyone had to wait."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Quầy tự thanh toán",
+        "en": "The self-checkout"
+      },
+      {
+        "t": "không hoạt động",
+        "en": "isn't working"
+      },
+      {
+        "t": "hôm nay.",
+        "en": "today"
+      }
+    ],
+    "answers": [
+      "The self-checkout isn't working today.",
+      "The self-checkout machine is out of order today."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "mua nhầm",
+        "en": "bought the wrong"
+      },
+      {
+        "t": "size rồi.",
+        "en": "size"
+      }
+    ],
+    "answers": [
+      "I bought the wrong size.",
+      "I got the wrong size by mistake."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cô ấy đặt nhầm",
+        "en": "She ordered the wrong"
+      },
+      {
+        "t": "màu áo",
+        "en": "color of shirt"
+      },
+      {
+        "t": "trên mạng.",
+        "en": "online"
+      }
+    ],
+    "answers": [
+      "She ordered the wrong color of shirt online.",
+      "She ordered the wrong shirt color online."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi lấy nhầm",
+        "en": "I mistakenly took"
+      },
+      {
+        "t": "giỏ hàng",
+        "en": "the shopping basket"
+      },
+      {
+        "t": "của người khác.",
+        "en": "that belonged to someone else"
+      }
+    ],
+    "answers": [
+      "I mistakenly took the shopping basket that belonged to someone else.",
+      "I accidentally grabbed someone else's shopping basket."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "We"
+      },
+      {
+        "t": "mua nhầm",
+        "en": "bought the wrong"
+      },
+      {
+        "t": "sữa không đường.",
+        "en": "unsweetened milk by mistake"
+      }
+    ],
+    "answers": [
+      "We bought the wrong, unsweetened milk by mistake.",
+      "We accidentally bought unsweetened milk instead."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "He"
+      },
+      {
+        "t": "chọn nhầm",
+        "en": "picked the wrong"
+      },
+      {
+        "t": "mẫu điện thoại cũ.",
+        "en": "old phone model"
+      }
+    ],
+    "answers": [
+      "He picked the wrong, old phone model.",
+      "He accidentally chose the older phone model."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I'm"
+      },
+      {
+        "t": "đang so sánh giá",
+        "en": "comparing prices"
+      },
+      {
+        "t": "giữa hai cửa hàng.",
+        "en": "between two stores"
+      }
+    ],
+    "answers": [
+      "I'm comparing prices between two stores.",
+      "I'm comparing prices at two different stores."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Shop này",
+        "en": "This shop"
+      },
+      {
+        "t": "bán rẻ hơn",
+        "en": "sells for ten thousand less than"
+      },
+      {
+        "t": "shop kia mười nghìn.",
+        "en": "that shop"
+      }
+    ],
+    "answers": [
+      "This shop sells for ten thousand less than that shop.",
+      "This shop is ten thousand dong cheaper than that one."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "luôn kiểm tra giá",
+        "en": "always check the price"
+      },
+      {
+        "t": "trước khi mua đồ.",
+        "en": "before I buy something"
+      }
+    ],
+    "answers": [
+      "I always check the price before I buy something.",
+      "I always check prices before buying anything."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Giá ở siêu thị này",
+        "en": "The prices at this supermarket"
+      },
+      {
+        "t": "cao hơn",
+        "en": "are higher than"
+      },
+      {
+        "t": "ở chợ.",
+        "en": "at the market"
+      }
+    ],
+    "answers": [
+      "The prices at this supermarket are higher than at the market.",
+      "Prices here at the supermarket are higher than at the market."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng nào",
+        "en": "Which store"
+      },
+      {
+        "t": "rẻ hơn",
+        "en": "is cheaper"
+      },
+      {
+        "t": "giữa hai chỗ này?",
+        "en": "between these two places"
+      }
+    ],
+    "answers": [
+      "Which store is cheaper between these two places?",
+      "Which of these two stores is cheaper?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Có",
+        "en": "There are"
+      },
+      {
+        "t": "nhiều mẫu áo mới",
+        "en": "many new shirt styles"
+      },
+      {
+        "t": "trong cửa hàng này.",
+        "en": "in this store"
+      }
+    ],
+    "answers": [
+      "There are many new shirt styles in this store.",
+      "This store has lots of new shirt styles."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Con tôi đang chọn",
+        "en": "My kid is picking out"
+      },
+      {
+        "t": "đồ chơi",
+        "en": "toys"
+      },
+      {
+        "t": "ở siêu thị.",
+        "en": "at the supermarket"
+      }
+    ],
+    "answers": [
+      "My kid is picking out toys at the supermarket.",
+      "My child is choosing toys at the supermarket."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi không có đủ thời gian",
+        "en": "We don't have enough time"
+      },
+      {
+        "t": "đi mua sắm",
+        "en": "to go shopping"
+      },
+      {
+        "t": "hôm nay.",
+        "en": "today"
+      }
+    ],
+    "answers": [
+      "We don't have enough time to go shopping today.",
+      "We don't have time to shop today."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nhân viên bán hàng",
+        "en": "The salesperson"
+      },
+      {
+        "t": "rất thân thiện",
+        "en": "was very friendly"
+      },
+      {
+        "t": "với tôi.",
+        "en": "to me"
+      }
+    ],
+    "answers": [
+      "The salesperson was very friendly to me.",
+      "The sales assistant was really friendly to me."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Có khuyến mãi",
+        "en": "There's a promotion"
+      },
+      {
+        "t": "mua một tặng một",
+        "en": "buy one get one free"
+      },
+      {
+        "t": "ở đây.",
+        "en": "here"
+      }
+    ],
+    "answers": [
+      "There's a buy one get one free promotion here.",
+      "There's a buy-one-get-one-free deal here."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng",
+        "en": "The store"
+      },
+      {
+        "t": "đóng cửa sớm hơn",
+        "en": "closed earlier"
+      },
+      {
+        "t": "mọi khi.",
+        "en": "than usual"
+      }
+    ],
+    "answers": [
+      "The store closed earlier than usual.",
+      "The shop shut earlier than normal."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "vẫn chưa tìm được",
+        "en": "still haven't found"
+      },
+      {
+        "t": "đôi giày ưng ý.",
+        "en": "shoes I like"
+      }
+    ],
+    "answers": [
+      "I still haven't found shoes I like.",
+      "I haven't found a pair of shoes I like yet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "What"
+      },
+      {
+        "t": "đang cầm",
+        "en": "are you holding"
+      },
+      {
+        "t": "túi gì vậy?",
+        "en": "that bag"
+      }
+    ],
+    "answers": [
+      "What's that bag you're holding?",
+      "What is that bag you're carrying?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi mua đủ",
+        "en": "We bought enough"
+      },
+      {
+        "t": "đồ ăn",
+        "en": "food"
+      },
+      {
+        "t": "cho cả tuần.",
+        "en": "for the whole week"
+      }
+    ],
+    "answers": [
+      "We bought enough food for the whole week.",
+      "We got enough food for the entire week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Anh ấy không thích",
+        "en": "He doesn't like"
+      },
+      {
+        "t": "đi mua sắm",
+        "en": "going shopping"
+      },
+      {
+        "t": "cùng vợ.",
+        "en": "with his wife"
+      }
+    ],
+    "answers": [
+      "He doesn't like going shopping with his wife.",
+      "He doesn't enjoy shopping with his wife."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng tiện lợi",
+        "en": "The convenience store"
+      },
+      {
+        "t": "gần nhà tôi",
+        "en": "near my house"
+      },
+      {
+        "t": "mở suốt đêm.",
+        "en": "is open all night"
+      }
+    ],
+    "answers": [
+      "The convenience store near my house is open all night.",
+      "The convenience store by my place stays open all night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi thích mua",
+        "en": "I prefer buying"
+      },
+      {
+        "t": "trái cây tươi",
+        "en": "fresh fruit"
+      },
+      {
+        "t": "ở chợ hơn siêu thị.",
+        "en": "at the market rather than the supermarket"
+      }
+    ],
+    "answers": [
+      "I prefer buying fresh fruit at the market rather than the supermarket.",
+      "I'd rather buy fresh fruit at the market than the supermarket."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cô bán hàng",
+        "en": "The saleswoman"
+      },
+      {
+        "t": "đang gói đồ",
+        "en": "is wrapping items"
+      },
+      {
+        "t": "cho khách.",
+        "en": "for a customer"
+      }
+    ],
+    "answers": [
+      "The saleswoman is wrapping items for a customer.",
+      "The shop assistant is wrapping up items for a customer."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Túi giấy",
+        "en": "Paper bags"
+      },
+      {
+        "t": "ở cửa hàng này",
+        "en": "at this store"
+      },
+      {
+        "t": "không miễn phí.",
+        "en": "aren't free"
+      }
+    ],
+    "answers": [
+      "Paper bags at this store aren't free.",
+      "This store doesn't give out free paper bags."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "We"
+      },
+      {
+        "t": "vừa mua",
+        "en": "just bought"
+      },
+      {
+        "t": "một cái đèn bàn nhỏ.",
+        "en": "a small desk lamp"
+      }
+    ],
+    "answers": [
+      "We just bought a small desk lamp.",
+      "We just got a small desk lamp."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Bạn có biết",
+        "en": "Do you know"
+      },
+      {
+        "t": "cửa hàng nào",
+        "en": "any store"
+      },
+      {
+        "t": "bán rẻ không?",
+        "en": "that sells cheap"
+      }
+    ],
+    "answers": [
+      "Do you know any store that sells cheap?",
+      "Do you know a store with cheap prices?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I'm"
+      },
+      {
+        "t": "đang đứng",
+        "en": "standing"
+      },
+      {
+        "t": "trước quầy mỹ phẩm.",
+        "en": "in front of the cosmetics counter"
+      }
+    ],
+    "answers": [
+      "I'm standing in front of the cosmetics counter.",
+      "I'm standing at the cosmetics counter."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chợ này",
+        "en": "This market"
+      },
+      {
+        "t": "bán",
+        "en": "sells"
+      },
+      {
+        "t": "đủ loại rau củ tươi.",
+        "en": "all kinds of fresh vegetables"
+      }
+    ],
+    "answers": [
+      "This market sells all kinds of fresh vegetables.",
+      "This market sells every kind of fresh vegetable."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng",
+        "en": "The store"
+      },
+      {
+        "t": "đang tuyển thêm",
+        "en": "is hiring more"
+      },
+      {
+        "t": "nhân viên bán hàng.",
+        "en": "sales staff"
+      }
+    ],
+    "answers": [
+      "The store is hiring more sales staff.",
+      "The shop is hiring more salespeople."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Xe đẩy hàng",
+        "en": "The shopping carts"
+      },
+      {
+        "t": "ở siêu thị này",
+        "en": "at this supermarket"
+      },
+      {
+        "t": "rất to.",
+        "en": "are very big"
+      }
+    ],
+    "answers": [
+      "The shopping carts at this supermarket are very big.",
+      "The carts at this supermarket are huge."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi không mang đủ",
+        "en": "I didn't bring enough"
+      },
+      {
+        "t": "tiền mặt",
+        "en": "cash"
+      },
+      {
+        "t": "để mua món này.",
+        "en": "to buy this item"
+      }
+    ],
+    "answers": [
+      "I didn't bring enough cash to buy this item.",
+      "I don't have enough cash on me for this item."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã đặt hàng online",
+        "en": "I ordered online"
+      },
+      {
+        "t": "tuần trước",
+        "en": "last week"
+      },
+      {
+        "t": "nhưng vẫn chưa nhận được",
+        "en": "but still haven't received"
+      },
+      {
+        "t": "gì cả.",
+        "en": "anything"
+      }
+    ],
+    "answers": [
+      "I ordered online last week, but I still haven't received anything.",
+      "I placed an order online last week, but nothing has arrived yet."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn mua",
+        "en": "If you buy"
+      },
+      {
+        "t": "trên app này,",
+        "en": "on this app,"
+      },
+      {
+        "t": "bạn sẽ được",
+        "en": "you'll get"
+      },
+      {
+        "t": "miễn phí ship.",
+        "en": "free shipping"
+      }
+    ],
+    "answers": [
+      "If you buy on this app, you'll get free shipping.",
+      "If you shop on this app, shipping will be free."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Trước khi mua,",
+        "en": "Before buying,"
+      },
+      {
+        "t": "tôi luôn đọc kỹ",
+        "en": "I always carefully read"
+      },
+      {
+        "t": "đánh giá của người khác.",
+        "en": "other people's reviews"
+      }
+    ],
+    "answers": [
+      "Before buying, I always carefully read other people's reviews.",
+      "Before I buy anything, I always read through other people's reviews."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì trang web bị lag,",
+        "en": "Because the website was lagging,"
+      },
+      {
+        "t": "tôi phải đặt lại",
+        "en": "I had to place"
+      },
+      {
+        "t": "đơn hàng ba lần.",
+        "en": "the order three times"
+      }
+    ],
+    "answers": [
+      "Because the website was lagging, I had to place the order three times.",
+      "The website kept lagging, so I had to reorder three times."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đang phân vân",
+        "en": "I'm torn"
+      },
+      {
+        "t": "giữa hai chiếc váy",
+        "en": "between two dresses"
+      },
+      {
+        "t": "trong khi giỏ hàng",
+        "en": "while the item in my cart"
+      },
+      {
+        "t": "sắp hết hàng.",
+        "en": "is about to sell out"
+      }
+    ],
+    "answers": [
+      "I'm torn between two dresses while the item in my cart is about to sell out.",
+      "I can't decide between two dresses, and the one in my cart is nearly sold out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cô ấy đã mua sắm online",
+        "en": "She has shopped online"
+      },
+      {
+        "t": "nhiều đến mức",
+        "en": "so much that"
+      },
+      {
+        "t": "tủ quần áo",
+        "en": "her wardrobe"
+      },
+      {
+        "t": "không còn chỗ trống.",
+        "en": "has no space left"
+      }
+    ],
+    "answers": [
+      "She has shopped online so much that her wardrobe has no space left.",
+      "She's bought so much online that there's no room left in her closet."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi so sánh",
+        "en": "After comparing"
+      },
+      {
+        "t": "nhiều trang web,",
+        "en": "several websites,"
+      },
+      {
+        "t": "tôi mới quyết định",
+        "en": "I finally decided"
+      },
+      {
+        "t": "đặt hàng.",
+        "en": "to place the order"
+      }
+    ],
+    "answers": [
+      "After comparing several websites, I finally decided to place the order.",
+      "I checked several websites before I finally decided to order."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi muốn trả lại",
+        "en": "I want to return"
+      },
+      {
+        "t": "cái áo này",
+        "en": "this shirt"
+      },
+      {
+        "t": "vì nó không giống",
+        "en": "because it doesn't look like"
+      },
+      {
+        "t": "hình trên mạng.",
+        "en": "the picture online"
+      }
+    ],
+    "answers": [
+      "I want to return this shirt because it doesn't look like the picture online.",
+      "I want to send this shirt back since it looks nothing like the online photo."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu món đồ bị lỗi,",
+        "en": "If an item is defective,"
+      },
+      {
+        "t": "bạn có thể đổi",
+        "en": "you can exchange it"
+      },
+      {
+        "t": "trong vòng ba mươi ngày.",
+        "en": "within thirty days"
+      }
+    ],
+    "answers": [
+      "If an item is defective, you can exchange it within thirty days.",
+      "You can exchange a defective item within thirty days."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi mặc thử,",
+        "en": "After trying it on,"
+      },
+      {
+        "t": "tôi nhận ra",
+        "en": "I realized"
+      },
+      {
+        "t": "cái áo khoác",
+        "en": "the jacket"
+      },
+      {
+        "t": "không hợp với mình.",
+        "en": "didn't suit me"
+      }
+    ],
+    "answers": [
+      "After trying it on, I realized the jacket didn't suit me.",
+      "Once I tried it on, I realized the jacket wasn't right for me."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã đổi trả",
+        "en": "I've exchanged"
+      },
+      {
+        "t": "món đồ này",
+        "en": "this item"
+      },
+      {
+        "t": "hai lần",
+        "en": "twice"
+      },
+      {
+        "t": "nhưng vẫn không vừa ý.",
+        "en": "but I'm still not happy with it"
+      }
+    ],
+    "answers": [
+      "I've exchanged this item twice, but I'm still not happy with it.",
+      "I've swapped this item twice already, and it still isn't right."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù có hóa đơn,",
+        "en": "Although I had the receipt,"
+      },
+      {
+        "t": "nhân viên vẫn từ chối",
+        "en": "the staff still refused"
+      },
+      {
+        "t": "cho tôi trả hàng.",
+        "en": "to let me return it"
+      }
+    ],
+    "answers": [
+      "Although I had the receipt, the staff still refused to let me return it.",
+      "Even though I had the receipt, they still wouldn't let me return it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi tôi mở hộp ra,",
+        "en": "When I opened the box,"
+      },
+      {
+        "t": "tôi phát hiện",
+        "en": "I found that"
+      },
+      {
+        "t": "hàng bị hỏng",
+        "en": "the item was damaged"
+      },
+      {
+        "t": "nên phải gửi trả ngay.",
+        "en": "so I had to send it back right away"
+      }
+    ],
+    "answers": [
+      "When I opened the box, I found that the item was damaged, so I had to send it back right away.",
+      "I opened the box and found the item damaged, so I sent it back immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đang tìm cách",
+        "en": "I'm trying to figure out how"
+      },
+      {
+        "t": "liên hệ với shop",
+        "en": "to contact the shop"
+      },
+      {
+        "t": "để đổi lại",
+        "en": "to exchange it"
+      },
+      {
+        "t": "size khác.",
+        "en": "for a different size"
+      }
+    ],
+    "answers": [
+      "I'm trying to figure out how to contact the shop to exchange it for a different size.",
+      "I'm trying to reach the shop so I can swap it for another size."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì giá giảm quá sâu,",
+        "en": "Because the discount was so deep,"
+      },
+      {
+        "t": "tôi đã mua",
+        "en": "I bought"
+      },
+      {
+        "t": "nhiều hơn",
+        "en": "more than"
+      },
+      {
+        "t": "dự định ban đầu.",
+        "en": "I originally planned"
+      }
+    ],
+    "answers": [
+      "Because the discount was so deep, I bought more than I originally planned.",
+      "The discount was so big that I ended up buying more than planned."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn đăng ký sớm,",
+        "en": "If you sign up early,"
+      },
+      {
+        "t": "bạn sẽ nhận được",
+        "en": "you'll get"
+      },
+      {
+        "t": "mã giảm giá đặc biệt.",
+        "en": "a special discount code"
+      }
+    ],
+    "answers": [
+      "If you sign up early, you'll get a special discount code.",
+      "You'll get a special discount code if you register early."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã canh giờ sale",
+        "en": "I'd been waiting for the sale"
+      },
+      {
+        "t": "suốt cả tuần",
+        "en": "all week"
+      },
+      {
+        "t": "nhưng cuối cùng hết hàng mất rồi.",
+        "en": "but it sold out in the end"
+      }
+    ],
+    "answers": [
+      "I'd been waiting for the sale all week, but it sold out in the end.",
+      "I waited all week for the sale, and it still ended up sold out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi săn được",
+        "en": "After grabbing"
+      },
+      {
+        "t": "món hời,",
+        "en": "a great deal,"
+      },
+      {
+        "t": "cô ấy khoe ngay",
+        "en": "she immediately showed off"
+      },
+      {
+        "t": "với bạn bè.",
+        "en": "to her friends"
+      }
+    ],
+    "answers": [
+      "After grabbing a great deal, she immediately showed it off to her friends.",
+      "Once she scored a bargain, she showed it off to her friends right away."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù không cần thiết,",
+        "en": "Although I didn't need it,"
+      },
+      {
+        "t": "tôi vẫn mua",
+        "en": "I still bought it"
+      },
+      {
+        "t": "vì giá giảm quá hấp dẫn.",
+        "en": "because the discount was too tempting"
+      }
+    ],
+    "answers": [
+      "Although I didn't need it, I still bought it because the discount was too tempting.",
+      "I didn't really need it, but the discount was too tempting to pass up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Đợt sale này",
+        "en": "This sale"
+      },
+      {
+        "t": "đã kéo dài",
+        "en": "has lasted"
+      },
+      {
+        "t": "một tuần",
+        "en": "a week"
+      },
+      {
+        "t": "nhưng nhiều mẫu vẫn còn hàng.",
+        "en": "but many items are still in stock"
+      }
+    ],
+    "answers": [
+      "This sale has lasted a week, but many items are still in stock.",
+      "The sale has been going on for a week, and lots of items are still available."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi thấy",
+        "en": "When I saw"
+      },
+      {
+        "t": "giá giảm năm mươi phần trăm,",
+        "en": "a fifty percent discount,"
+      },
+      {
+        "t": "tôi đã đặt mua",
+        "en": "I ordered it"
+      },
+      {
+        "t": "ngay lập tức.",
+        "en": "right away"
+      }
+    ],
+    "answers": [
+      "When I saw a fifty percent discount, I ordered it right away.",
+      "As soon as I saw the fifty percent discount, I bought it immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã cố mặc cả",
+        "en": "I tried to bargain"
+      },
+      {
+        "t": "nhưng người bán",
+        "en": "but the seller"
+      },
+      {
+        "t": "không chịu hạ giá thêm.",
+        "en": "wouldn't lower the price any more"
+      }
+    ],
+    "answers": [
+      "I tried to bargain, but the seller wouldn't lower the price any more.",
+      "I tried to haggle, but the seller refused to drop the price further."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn mua nhiều món",
+        "en": "If you buy several items"
+      },
+      {
+        "t": "cùng lúc,",
+        "en": "at once,"
+      },
+      {
+        "t": "người bán thường sẽ",
+        "en": "the seller will usually"
+      },
+      {
+        "t": "giảm giá cho bạn.",
+        "en": "give you a discount"
+      }
+    ],
+    "answers": [
+      "If you buy several items at once, the seller will usually give you a discount.",
+      "Buying several things at once usually gets you a discount from the seller."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi mặc cả một hồi,",
+        "en": "After bargaining for a while,"
+      },
+      {
+        "t": "cuối cùng chúng tôi cũng",
+        "en": "we finally"
+      },
+      {
+        "t": "thỏa thuận được giá.",
+        "en": "agreed on a price"
+      }
+    ],
+    "answers": [
+      "After bargaining for a while, we finally agreed on a price.",
+      "We haggled for a while and eventually settled on a price."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù đã trả giá",
+        "en": "Although I offered a price"
+      },
+      {
+        "t": "nhiều lần,",
+        "en": "several times,"
+      },
+      {
+        "t": "tôi vẫn không mua được",
+        "en": "I still couldn't get"
+      },
+      {
+        "t": "giá mình muốn.",
+        "en": "the price I wanted"
+      }
+    ],
+    "answers": [
+      "Although I offered a price several times, I still couldn't get the price I wanted.",
+      "I tried offering a lower price a few times, but I never got what I wanted."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi đi chợ,",
+        "en": "When she goes to the market,"
+      },
+      {
+        "t": "bà tôi luôn mặc cả",
+        "en": "my grandma always haggles"
+      },
+      {
+        "t": "cho đến khi hài lòng mới thôi.",
+        "en": "until she's satisfied"
+      }
+    ],
+    "answers": [
+      "When she goes to the market, my grandma always haggles until she's satisfied.",
+      "My grandma always bargains at the market until she's happy with the price."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Người bán hạ giá ngay",
+        "en": "The seller lowered the price right away"
+      },
+      {
+        "t": "khi thấy",
+        "en": "when they saw"
+      },
+      {
+        "t": "tôi định bỏ đi.",
+        "en": "I was about to walk away"
+      }
+    ],
+    "answers": [
+      "The seller lowered the price right away when they saw I was about to walk away.",
+      "As soon as the seller saw me about to leave, they dropped the price."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù đã kiểm tra",
+        "en": "Although I checked"
+      },
+      {
+        "t": "bảng size,",
+        "en": "the size chart,"
+      },
+      {
+        "t": "chiếc áo vẫn không vừa",
+        "en": "the shirt still didn't fit"
+      },
+      {
+        "t": "với tôi.",
+        "en": "me"
+      }
+    ],
+    "answers": [
+      "Although I checked the size chart, the shirt still didn't fit me.",
+      "I checked the size chart, but the shirt still didn't fit."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì tăng cân gần đây,",
+        "en": "Because I've put on weight recently,"
+      },
+      {
+        "t": "quần áo cũ của tôi",
+        "en": "my old clothes"
+      },
+      {
+        "t": "không còn vừa nữa.",
+        "en": "don't fit any more"
+      }
+    ],
+    "answers": [
+      "Because I've put on weight recently, my old clothes don't fit any more.",
+      "I've gained weight recently, so my old clothes no longer fit."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu size này không vừa,",
+        "en": "If this size doesn't fit,"
+      },
+      {
+        "t": "tôi sẽ đổi nó",
+        "en": "I'll exchange it"
+      },
+      {
+        "t": "sang size nhỏ hơn.",
+        "en": "for a smaller one"
+      }
+    ],
+    "answers": [
+      "If this size doesn't fit, I'll exchange it for a smaller one.",
+      "I'll swap this for a smaller size if it doesn't fit."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã thử",
+        "en": "I tried on"
+      },
+      {
+        "t": "ba cỡ khác nhau",
+        "en": "three different sizes"
+      },
+      {
+        "t": "trước khi tìm được",
+        "en": "before I found"
+      },
+      {
+        "t": "cái vừa vặn.",
+        "en": "one that fit"
+      }
+    ],
+    "answers": [
+      "I tried on three different sizes before I found one that fit.",
+      "I had to try three sizes before finding one that actually fit."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Đôi giày này",
+        "en": "These shoes"
+      },
+      {
+        "t": "bó chân đến mức",
+        "en": "pinch my feet so much that"
+      },
+      {
+        "t": "tôi không đi nổi",
+        "en": "I can't wear them"
+      },
+      {
+        "t": "cả ngày.",
+        "en": "all day"
+      }
+    ],
+    "answers": [
+      "These shoes pinch my feet so much that I can't wear them all day.",
+      "These shoes are so tight on my feet that I can't stand wearing them all day."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi cô ấy mặc thử,",
+        "en": "When she tried it on,"
+      },
+      {
+        "t": "chiếc váy",
+        "en": "the dress"
+      },
+      {
+        "t": "hóa ra ngắn hơn",
+        "en": "turned out shorter than"
+      },
+      {
+        "t": "cô mong đợi.",
+        "en": "she expected"
+      }
+    ],
+    "answers": [
+      "When she tried it on, the dress turned out shorter than she expected.",
+      "She tried the dress on, and it turned out to be shorter than expected."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì công nghệ thay đổi nhanh,",
+        "en": "Because technology changes so fast,"
+      },
+      {
+        "t": "tôi luôn phân vân",
+        "en": "I always struggle to decide"
+      },
+      {
+        "t": "khi mua điện thoại mới.",
+        "en": "when buying a new phone"
+      }
+    ],
+    "answers": [
+      "Because technology changes so fast, I always struggle to decide when buying a new phone.",
+      "Technology changes so quickly that I always have trouble picking a new phone."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi đọc",
+        "en": "After reading"
+      },
+      {
+        "t": "nhiều đánh giá,",
+        "en": "many reviews,"
+      },
+      {
+        "t": "tôi quyết định mua",
+        "en": "I decided to buy"
+      },
+      {
+        "t": "chiếc laptop này.",
+        "en": "this laptop"
+      }
+    ],
+    "answers": [
+      "After reading many reviews, I decided to buy this laptop.",
+      "I read a lot of reviews and then decided to get this laptop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn mua trả góp,",
+        "en": "If you buy on installment,"
+      },
+      {
+        "t": "bạn sẽ phải trả thêm",
+        "en": "you'll have to pay extra"
+      },
+      {
+        "t": "phí lãi suất.",
+        "en": "interest fees"
+      }
+    ],
+    "answers": [
+      "If you buy on installment, you'll have to pay extra interest fees.",
+      "Buying in installments means you'll have to pay additional interest."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã dùng",
+        "en": "I've used"
+      },
+      {
+        "t": "chiếc máy tính bảng này",
+        "en": "this tablet"
+      },
+      {
+        "t": "được hai năm",
+        "en": "for two years"
+      },
+      {
+        "t": "mà chưa gặp lỗi gì.",
+        "en": "without any problems"
+      }
+    ],
+    "answers": [
+      "I've used this tablet for two years without any problems.",
+      "I've had this tablet for two years and it's never given me trouble."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù đắt hơn,",
+        "en": "Although it's more expensive,"
+      },
+      {
+        "t": "tôi vẫn chọn",
+        "en": "I still chose"
+      },
+      {
+        "t": "thương hiệu này",
+        "en": "this brand"
+      },
+      {
+        "t": "vì độ bền của nó.",
+        "en": "because of its durability"
+      }
+    ],
+    "answers": [
+      "Although it's more expensive, I still chose this brand because of its durability.",
+      "It costs more, but I picked this brand for how durable it is."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cái tai nghe này",
+        "en": "These headphones"
+      },
+      {
+        "t": "bị hỏng ngay",
+        "en": "broke down right"
+      },
+      {
+        "t": "sau khi hết hạn bảo hành.",
+        "en": "after the warranty expired"
+      }
+    ],
+    "answers": [
+      "These headphones broke down right after the warranty expired.",
+      "These headphones stopped working just after the warranty ran out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi giá điện thoại giảm,",
+        "en": "When phone prices drop,"
+      },
+      {
+        "t": "cửa hàng",
+        "en": "the store"
+      },
+      {
+        "t": "luôn đông khách hơn",
+        "en": "always gets busier"
+      },
+      {
+        "t": "bình thường.",
+        "en": "than usual"
+      }
+    ],
+    "answers": [
+      "When phone prices drop, the store always gets busier than usual.",
+      "The store gets more crowded than usual whenever phone prices go down."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì không biết",
+        "en": "Because I didn't know"
+      },
+      {
+        "t": "mẹ thích gì,",
+        "en": "what my mom liked,"
+      },
+      {
+        "t": "tôi mất cả buổi chiều",
+        "en": "I spent the whole afternoon"
+      },
+      {
+        "t": "để chọn quà.",
+        "en": "picking out a gift"
+      }
+    ],
+    "answers": [
+      "Because I didn't know what my mom liked, I spent the whole afternoon picking out a gift.",
+      "I had no idea what my mom would like, so choosing a gift took me the whole afternoon."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn tặng nước hoa,",
+        "en": "If you give perfume,"
+      },
+      {
+        "t": "hãy chắc chắn",
+        "en": "make sure"
+      },
+      {
+        "t": "cô ấy không bị dị ứng.",
+        "en": "she isn't allergic to it"
+      }
+    ],
+    "answers": [
+      "If you give perfume, make sure she isn't allergic to it.",
+      "Make sure she's not allergic before giving perfume as a gift."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi suy nghĩ nhiều,",
+        "en": "After thinking a lot,"
+      },
+      {
+        "t": "tôi quyết định tặng",
+        "en": "I decided to give"
+      },
+      {
+        "t": "anh ấy",
+        "en": "him"
+      },
+      {
+        "t": "một chiếc đồng hồ.",
+        "en": "a watch"
+      }
+    ],
+    "answers": [
+      "After thinking a lot, I decided to give him a watch.",
+      "I thought it over and decided to get him a watch."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã tìm khắp nơi",
+        "en": "I've looked everywhere"
+      },
+      {
+        "t": "nhưng vẫn chưa tìm ra",
+        "en": "but still haven't found"
+      },
+      {
+        "t": "món quà ưng ý.",
+        "en": "a gift I like"
+      }
+    ],
+    "answers": [
+      "I've looked everywhere but still haven't found a gift I like.",
+      "I've searched everywhere and still can't find the right gift."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù ngân sách hạn hẹp,",
+        "en": "Although her budget was tight,"
+      },
+      {
+        "t": "cô ấy vẫn mua được",
+        "en": "she still managed to buy"
+      },
+      {
+        "t": "món quà ý nghĩa.",
+        "en": "a meaningful gift"
+      }
+    ],
+    "answers": [
+      "Although her budget was tight, she still managed to buy a meaningful gift.",
+      "Even with a tight budget, she managed to find a meaningful gift."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi nhận quà,",
+        "en": "When she got the gift,"
+      },
+      {
+        "t": "đứa trẻ vui đến mức",
+        "en": "the child was so happy that"
+      },
+      {
+        "t": "nhảy cẫng lên.",
+        "en": "she jumped up and down"
+      }
+    ],
+    "answers": [
+      "When she got the gift, the child was so happy that she jumped up and down.",
+      "The child was so thrilled with the gift that she jumped up and down."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì thẻ bị từ chối,",
+        "en": "Because my card was declined,"
+      },
+      {
+        "t": "tôi phải trả",
+        "en": "I had to pay"
+      },
+      {
+        "t": "bằng tiền mặt thay vào đó.",
+        "en": "with cash instead"
+      }
+    ],
+    "answers": [
+      "Because my card was declined, I had to pay with cash instead.",
+      "My card got declined, so I ended up paying in cash instead."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn quẹt thẻ ở đây,",
+        "en": "If you swipe your card here,"
+      },
+      {
+        "t": "bạn sẽ được",
+        "en": "you'll get"
+      },
+      {
+        "t": "hoàn tiền năm phần trăm.",
+        "en": "five percent cashback"
+      }
+    ],
+    "answers": [
+      "If you swipe your card here, you'll get five percent cashback.",
+      "You get five percent cashback when you pay by card here."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã tiêu quá tay",
+        "en": "I overspent"
+      },
+      {
+        "t": "bằng thẻ tín dụng",
+        "en": "on my credit card"
+      },
+      {
+        "t": "nên giờ phải trả nợ dần.",
+        "en": "so now I have to pay it off gradually"
+      }
+    ],
+    "answers": [
+      "I overspent on my credit card, so now I have to pay it off gradually.",
+      "I went overboard with my credit card, so now I'm paying it off little by little."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi mất thẻ,",
+        "en": "After losing my card,"
+      },
+      {
+        "t": "tôi phải gọi ngân hàng",
+        "en": "I had to call the bank"
+      },
+      {
+        "t": "để khóa thẻ ngay lập tức.",
+        "en": "to block it right away"
+      }
+    ],
+    "answers": [
+      "After losing my card, I had to call the bank to block it right away.",
+      "I lost my card and had to call the bank immediately to freeze it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù tiện lợi,",
+        "en": "Although it's convenient,"
+      },
+      {
+        "t": "thẻ tín dụng",
+        "en": "a credit card"
+      },
+      {
+        "t": "khiến tôi dễ tiêu tiền",
+        "en": "makes me spend"
+      },
+      {
+        "t": "hơn mức cần thiết.",
+        "en": "more than necessary"
+      }
+    ],
+    "answers": [
+      "Although it's convenient, a credit card makes me spend more than necessary.",
+      "A credit card is handy, but it makes it too easy to overspend."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì mải làm việc,",
+        "en": "Because I was busy working,"
+      },
+      {
+        "t": "tôi quên mất",
+        "en": "I forgot"
+      },
+      {
+        "t": "giỏ hàng vẫn còn treo",
+        "en": "my cart was still sitting"
+      },
+      {
+        "t": "trên app.",
+        "en": "on the app"
+      }
+    ],
+    "answers": [
+      "Because I was busy working, I forgot my cart was still sitting on the app.",
+      "I was so busy working that I forgot I'd left items in my cart."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn không thanh toán",
+        "en": "If you don't check out"
+      },
+      {
+        "t": "trong hai mươi bốn giờ,",
+        "en": "within twenty-four hours,"
+      },
+      {
+        "t": "giỏ hàng sẽ tự động xóa.",
+        "en": "the cart will be cleared automatically"
+      }
+    ],
+    "answers": [
+      "If you don't check out within twenty-four hours, the cart will be cleared automatically.",
+      "The cart clears automatically if you haven't checked out within twenty-four hours."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi nhận",
+        "en": "After receiving"
+      },
+      {
+        "t": "email nhắc nhở,",
+        "en": "a reminder email,"
+      },
+      {
+        "t": "tôi mới nhớ ra",
+        "en": "I finally remembered"
+      },
+      {
+        "t": "mình chưa thanh toán.",
+        "en": "I hadn't checked out"
+      }
+    ],
+    "answers": [
+      "After receiving a reminder email, I finally remembered I hadn't checked out.",
+      "A reminder email showed up, and only then did I remember I hadn't paid."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi thường bỏ đồ",
+        "en": "I often add items"
+      },
+      {
+        "t": "vào giỏ hàng",
+        "en": "to the cart"
+      },
+      {
+        "t": "rồi lại đổi ý",
+        "en": "and then change my mind"
+      },
+      {
+        "t": "không mua nữa.",
+        "en": "about buying them"
+      }
+    ],
+    "answers": [
+      "I often add items to the cart and then change my mind about buying them.",
+      "I keep putting things in my cart and then deciding not to buy them."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù giỏ hàng đầy đồ,",
+        "en": "Although my cart is full of items,"
+      },
+      {
+        "t": "tôi vẫn chần chừ",
+        "en": "I still hesitate"
+      },
+      {
+        "t": "không bấm thanh toán.",
+        "en": "to click checkout"
+      }
+    ],
+    "answers": [
+      "Although my cart is full of items, I still hesitate to click checkout.",
+      "My cart is packed, yet I still can't bring myself to check out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì đơn hàng bị trễ quá lâu,",
+        "en": "Because my order was delayed for so long,"
+      },
+      {
+        "t": "tôi đã yêu cầu",
+        "en": "I asked for"
+      },
+      {
+        "t": "hoàn tiền.",
+        "en": "a refund"
+      }
+    ],
+    "answers": [
+      "Because my order was delayed for so long, I asked for a refund.",
+      "My order took so long that I ended up asking for a refund."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu shipper không giao được,",
+        "en": "If the courier can't deliver it,"
+      },
+      {
+        "t": "họ sẽ gọi lại",
+        "en": "they'll call you back"
+      },
+      {
+        "t": "cho bạn sau.",
+        "en": "later"
+      }
+    ],
+    "answers": [
+      "If the courier can't deliver it, they'll call you back later.",
+      "The courier will call you back later if they can't make the delivery."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã theo dõi",
+        "en": "I've been tracking"
+      },
+      {
+        "t": "đơn hàng suốt cả ngày",
+        "en": "the order all day"
+      },
+      {
+        "t": "mà nó vẫn chưa nhúc nhích.",
+        "en": "but it still hasn't moved"
+      }
+    ],
+    "answers": [
+      "I've been tracking the order all day, but it still hasn't moved.",
+      "I've checked the tracking all day, and it hasn't budged at all."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù đã đặt hàng nhanh,",
+        "en": "Although I chose express delivery,"
+      },
+      {
+        "t": "gói hàng vẫn giao trễ",
+        "en": "the package was still delivered"
+      },
+      {
+        "t": "hơn một tuần.",
+        "en": "more than a week late"
+      }
+    ],
+    "answers": [
+      "Although I chose express delivery, the package was still delivered more than a week late.",
+      "I paid for express shipping, but the package still arrived over a week late."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi tôi gọi hỏi,",
+        "en": "When I called to ask,"
+      },
+      {
+        "t": "tổng đài nói",
+        "en": "the hotline said"
+      },
+      {
+        "t": "kho hàng bị quá tải đơn.",
+        "en": "the warehouse was overloaded with orders"
+      }
+    ],
+    "answers": [
+      "When I called to ask, the hotline said the warehouse was overloaded with orders.",
+      "I called to ask, and they told me the warehouse had too many orders backed up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi chờ",
+        "en": "After waiting"
+      },
+      {
+        "t": "hai tuần,",
+        "en": "two weeks,"
+      },
+      {
+        "t": "cuối cùng gói hàng cũng đến tay tôi.",
+        "en": "the package finally reached me"
+      }
+    ],
+    "answers": [
+      "After waiting two weeks, the package finally reached me.",
+      "The package finally arrived after a two-week wait."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Đơn hàng trễ",
+        "en": "The late order"
+      },
+      {
+        "t": "khiến tôi bỏ lỡ",
+        "en": "made me miss"
+      },
+      {
+        "t": "dịp sinh nhật của bạn.",
+        "en": "my friend's birthday"
+      }
+    ],
+    "answers": [
+      "The late order made me miss my friend's birthday.",
+      "Because the order was late, I missed giving it for my friend's birthday."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì máy giặt cũ",
+        "en": "Because the old washing machine"
+      },
+      {
+        "t": "hỏng liên tục,",
+        "en": "kept breaking down,"
+      },
+      {
+        "t": "chúng tôi quyết định mua",
+        "en": "we decided to buy"
+      },
+      {
+        "t": "cái mới hẳn.",
+        "en": "a brand-new one"
+      }
+    ],
+    "answers": [
+      "Because the old washing machine kept breaking down, we decided to buy a brand-new one.",
+      "The old washing machine broke down again and again, so we finally got a new one."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn mua đồ gia dụng",
+        "en": "If you buy household appliances"
+      },
+      {
+        "t": "vào cuối năm,",
+        "en": "at the end of the year,"
+      },
+      {
+        "t": "bạn thường được",
+        "en": "you usually get"
+      },
+      {
+        "t": "giảm giá nhiều.",
+        "en": "a big discount"
+      }
+    ],
+    "answers": [
+      "If you buy household appliances at the end of the year, you usually get a big discount.",
+      "Household appliances are usually heavily discounted at the end of the year."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi so sánh giá,",
+        "en": "After comparing prices,"
+      },
+      {
+        "t": "chúng tôi mới chọn được",
+        "en": "we finally chose"
+      },
+      {
+        "t": "cái tủ lạnh phù hợp.",
+        "en": "a suitable fridge"
+      }
+    ],
+    "answers": [
+      "After comparing prices, we finally chose a suitable fridge.",
+      "We compared prices and finally settled on a fridge that suited us."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù giá cao,",
+        "en": "Although it's expensive,"
+      },
+      {
+        "t": "chiếc máy lọc nước này",
+        "en": "this water filter"
+      },
+      {
+        "t": "rất đáng đồng tiền.",
+        "en": "is really worth the money"
+      }
+    ],
+    "answers": [
+      "Although it's expensive, this water filter is really worth the money.",
+      "This water filter costs a lot, but it's definitely worth it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã dùng thử",
+        "en": "I've tried"
+      },
+      {
+        "t": "nhiều loại nồi cơm điện",
+        "en": "several kinds of rice cookers"
+      },
+      {
+        "t": "trước khi tìm ra",
+        "en": "before finding"
+      },
+      {
+        "t": "loại ưng ý.",
+        "en": "one I like"
+      }
+    ],
+    "answers": [
+      "I've tried several kinds of rice cookers before finding one I like.",
+      "I went through several rice cookers before finding one that worked for me."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi trời tối,",
+        "en": "When it gets dark,"
+      },
+      {
+        "t": "chợ đêm",
+        "en": "the night market"
+      },
+      {
+        "t": "bắt đầu đông nghịt",
+        "en": "starts getting packed"
+      },
+      {
+        "t": "người mua sắm.",
+        "en": "with shoppers"
+      }
+    ],
+    "answers": [
+      "When it gets dark, the night market starts getting packed with shoppers.",
+      "The night market fills up with shoppers as soon as it gets dark."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù giá",
+        "en": "Although the prices"
+      },
+      {
+        "t": "ở chợ đêm rẻ hơn,",
+        "en": "at the night market are cheaper,"
+      },
+      {
+        "t": "chất lượng đôi khi không đảm bảo.",
+        "en": "the quality is sometimes not guaranteed"
+      }
+    ],
+    "answers": [
+      "Although the prices at the night market are cheaper, the quality is sometimes not guaranteed.",
+      "Prices are lower at the night market, but the quality isn't always reliable."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã đi dạo",
+        "en": "We walked around"
+      },
+      {
+        "t": "chợ đêm",
+        "en": "the night market"
+      },
+      {
+        "t": "cho đến khi",
+        "en": "until"
+      },
+      {
+        "t": "các gian hàng dọn dẹp.",
+        "en": "the stalls started packing up"
+      }
+    ],
+    "answers": [
+      "We walked around the night market until the stalls started packing up.",
+      "We strolled through the night market until the vendors began to close up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn thích",
+        "en": "If you like"
+      },
+      {
+        "t": "đồ ăn đường phố,",
+        "en": "street food,"
+      },
+      {
+        "t": "chợ đêm này chắc chắn sẽ",
+        "en": "this night market will definitely"
+      },
+      {
+        "t": "làm bạn thích thú.",
+        "en": "excite you"
+      }
+    ],
+    "answers": [
+      "If you like street food, this night market will definitely excite you.",
+      "This night market will definitely thrill you if you're a fan of street food."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi mặc cả một lúc,",
+        "en": "After bargaining for a bit,"
+      },
+      {
+        "t": "tôi mua được",
+        "en": "I got"
+      },
+      {
+        "t": "một chiếc vòng tay rẻ",
+        "en": "a cheap bracelet"
+      },
+      {
+        "t": "ở chợ đêm.",
+        "en": "at the night market"
+      }
+    ],
+    "answers": [
+      "After bargaining for a bit, I got a cheap bracelet at the night market.",
+      "I haggled a little and ended up with a cheap bracelet from the night market."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì giá quá rẻ,",
+        "en": "Because the price was too cheap,"
+      },
+      {
+        "t": "tôi nghi ngờ",
+        "en": "I suspected"
+      },
+      {
+        "t": "chiếc túi này",
+        "en": "this bag"
+      },
+      {
+        "t": "là hàng nhái.",
+        "en": "was a fake"
+      }
+    ],
+    "answers": [
+      "Because the price was too cheap, I suspected this bag was a fake.",
+      "The price was suspiciously low, so I figured this bag was fake."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn không cẩn thận,",
+        "en": "If you're not careful,"
+      },
+      {
+        "t": "bạn có thể mua nhầm",
+        "en": "you could accidentally buy"
+      },
+      {
+        "t": "hàng giả trên mạng.",
+        "en": "fake goods online"
+      }
+    ],
+    "answers": [
+      "If you're not careful, you could accidentally buy fake goods online.",
+      "You might end up buying fake products online if you're not careful."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi kiểm tra kỹ,",
+        "en": "After checking closely,"
+      },
+      {
+        "t": "tôi phát hiện ra",
+        "en": "I discovered"
+      },
+      {
+        "t": "logo bị in sai vị trí.",
+        "en": "the logo was printed in the wrong place"
+      }
+    ],
+    "answers": [
+      "After checking closely, I discovered the logo was printed in the wrong place.",
+      "On closer inspection, I noticed the logo was printed off."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù đã cảnh giác,",
+        "en": "Although she was careful,"
+      },
+      {
+        "t": "chị tôi vẫn bị lừa",
+        "en": "my sister still got tricked"
+      },
+      {
+        "t": "mua phải hàng nhái.",
+        "en": "into buying a fake"
+      }
+    ],
+    "answers": [
+      "Although she was careful, my sister still got tricked into buying a fake.",
+      "Even though she was on guard, my sister still ended up with a fake product."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng đó",
+        "en": "That store"
+      },
+      {
+        "t": "bị đóng cửa",
+        "en": "was shut down"
+      },
+      {
+        "t": "vì bán hàng giả",
+        "en": "for selling counterfeit goods"
+      },
+      {
+        "t": "trong nhiều năm.",
+        "en": "for years"
+      }
+    ],
+    "answers": [
+      "That store was shut down for selling counterfeit goods for years.",
+      "That shop got shut down after selling fake goods for years."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì đã lập ngân sách từ trước,",
+        "en": "Because I'd set a budget in advance,"
+      },
+      {
+        "t": "tôi không tiêu vượt mức",
+        "en": "I didn't overspend"
+      },
+      {
+        "t": "tháng này.",
+        "en": "this month"
+      }
+    ],
+    "answers": [
+      "Because I'd set a budget in advance, I didn't overspend this month.",
+      "I planned my budget ahead, so I stayed within it this month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn ghi lại",
+        "en": "If you track"
+      },
+      {
+        "t": "chi tiêu hằng ngày,",
+        "en": "your daily spending,"
+      },
+      {
+        "t": "bạn sẽ dễ kiểm soát",
+        "en": "you'll find it easier to control"
+      },
+      {
+        "t": "ngân sách hơn.",
+        "en": "your budget"
+      }
+    ],
+    "answers": [
+      "If you track your daily spending, you'll find it easier to control your budget.",
+      "Tracking your daily spending makes it much easier to stick to a budget."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi tiêu quá tay,",
+        "en": "After overspending,"
+      },
+      {
+        "t": "tôi phải cắt giảm",
+        "en": "I had to cut back on"
+      },
+      {
+        "t": "chi tiêu",
+        "en": "spending"
+      },
+      {
+        "t": "trong hai tuần tiếp theo.",
+        "en": "for the next two weeks"
+      }
+    ],
+    "answers": [
+      "After overspending, I had to cut back on spending for the next two weeks.",
+      "I overspent, so I had to tighten my budget for the following two weeks."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù muốn mua thêm,",
+        "en": "Although I wanted to buy more,"
+      },
+      {
+        "t": "tôi vẫn cố giữ đúng",
+        "en": "I still tried to stick to"
+      },
+      {
+        "t": "ngân sách đã đặt ra.",
+        "en": "the budget I'd set"
+      }
+    ],
+    "answers": [
+      "Although I wanted to buy more, I still tried to stick to the budget I'd set.",
+      "I wanted to buy more, but I stayed within the budget I'd planned."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi lương về,",
+        "en": "When my salary comes in,"
+      },
+      {
+        "t": "tôi thường dành riêng",
+        "en": "I usually set aside"
+      },
+      {
+        "t": "một khoản",
+        "en": "an amount"
+      },
+      {
+        "t": "cho mua sắm hằng tháng.",
+        "en": "for monthly shopping"
+      }
+    ],
+    "answers": [
+      "When my salary comes in, I usually set aside an amount for monthly shopping.",
+      "I usually put aside some money for shopping as soon as my salary arrives."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã học cách",
+        "en": "I've learned to"
+      },
+      {
+        "t": "so sánh giá",
+        "en": "compare prices"
+      },
+      {
+        "t": "trước khi mua",
+        "en": "before buying"
+      },
+      {
+        "t": "để tiết kiệm ngân sách.",
+        "en": "to save money"
+      }
+    ],
+    "answers": [
+      "I've learned to compare prices before buying to save money.",
+      "I've picked up the habit of comparing prices first, to save my budget."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì chuyển nhà gấp,",
+        "en": "Because we moved in a hurry,"
+      },
+      {
+        "t": "chúng tôi phải mua",
+        "en": "we had to buy"
+      },
+      {
+        "t": "đồ nội thất",
+        "en": "furniture"
+      },
+      {
+        "t": "trong một tuần.",
+        "en": "within a week"
+      }
+    ],
+    "answers": [
+      "Because we moved in a hurry, we had to buy furniture within a week.",
+      "We moved so quickly that we had to buy all the furniture in one week."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn mua đồ theo bộ,",
+        "en": "If you buy items as a set,"
+      },
+      {
+        "t": "bạn sẽ tiết kiệm được",
+        "en": "you'll save"
+      },
+      {
+        "t": "kha khá tiền.",
+        "en": "quite a bit of money"
+      }
+    ],
+    "answers": [
+      "If you buy items as a set, you'll save quite a bit of money.",
+      "Buying furniture as a set can save you quite a lot of money."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi dọn vào nhà mới,",
+        "en": "After moving into the new house,"
+      },
+      {
+        "t": "chúng tôi mới nhận ra",
+        "en": "we only realized"
+      },
+      {
+        "t": "còn thiếu rất nhiều đồ.",
+        "en": "we were missing a lot of things"
+      }
+    ],
+    "answers": [
+      "After moving into the new house, we only realized we were missing a lot of things.",
+      "Once we moved in, we realized just how much we still needed to buy."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù ngân sách hạn chế,",
+        "en": "Although the budget was limited,"
+      },
+      {
+        "t": "chúng tôi vẫn cố mua",
+        "en": "we still tried to buy"
+      },
+      {
+        "t": "đủ đồ dùng cần thiết.",
+        "en": "enough essential items"
+      }
+    ],
+    "answers": [
+      "Although the budget was limited, we still tried to buy enough essential items.",
+      "Our budget was tight, but we still managed to get the essentials."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã mua sắm liên tục",
+        "en": "We've been shopping constantly"
+      },
+      {
+        "t": "suốt một tháng",
+        "en": "for a whole month"
+      },
+      {
+        "t": "để chuẩn bị cho nhà mới.",
+        "en": "to get ready for the new house"
+      }
+    ],
+    "answers": [
+      "We've been shopping constantly for a whole month to get ready for the new house.",
+      "We've spent an entire month shopping nonstop to prepare for the new house."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì hàng người quá dài,",
+        "en": "Because the line was too long,"
+      },
+      {
+        "t": "tôi quyết định",
+        "en": "I decided to"
+      },
+      {
+        "t": "bỏ giỏ hàng",
+        "en": "leave the cart behind"
+      },
+      {
+        "t": "và ra về.",
+        "en": "and go home"
+      }
+    ],
+    "answers": [
+      "Because the line was too long, I decided to leave the cart behind and go home.",
+      "The line was so long that I gave up and left without buying anything."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn dùng",
+        "en": "If you use"
+      },
+      {
+        "t": "quầy tự thanh toán,",
+        "en": "self-checkout,"
+      },
+      {
+        "t": "bạn sẽ đỡ mất",
+        "en": "you'll save"
+      },
+      {
+        "t": "thời gian chờ đợi.",
+        "en": "waiting time"
+      }
+    ],
+    "answers": [
+      "If you use self-checkout, you'll save waiting time.",
+      "Using self-checkout can save you a lot of waiting time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi đứng đợi",
+        "en": "After standing in line"
+      },
+      {
+        "t": "nửa tiếng,",
+        "en": "for half an hour,"
+      },
+      {
+        "t": "tôi mới đến lượt mình",
+        "en": "it was finally my turn"
+      },
+      {
+        "t": "thanh toán.",
+        "en": "to pay"
+      }
+    ],
+    "answers": [
+      "After standing in line for half an hour, it was finally my turn to pay.",
+      "I waited in line for half an hour before it was finally my turn."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù có nhiều quầy,",
+        "en": "Although there are many counters,"
+      },
+      {
+        "t": "chỉ một quầy hoạt động",
+        "en": "only one is open"
+      },
+      {
+        "t": "nên khách phải chờ lâu.",
+        "en": "so customers have to wait a long time"
+      }
+    ],
+    "answers": [
+      "Although there are many counters, only one is open, so customers have to wait a long time.",
+      "There are several counters, but only one is running, so the wait is long."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi tôi vừa xếp hàng xong,",
+        "en": "Just as I got in line,"
+      },
+      {
+        "t": "một quầy khác",
+        "en": "another counter"
+      },
+      {
+        "t": "lại mở ra ngay bên cạnh.",
+        "en": "opened right next to me"
+      }
+    ],
+    "answers": [
+      "Just as I got in line, another counter opened right next to me.",
+      "Right after I joined the line, a new counter opened up beside me."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì vội vàng,",
+        "en": "Because I was in a hurry,"
+      },
+      {
+        "t": "tôi đã mua nhầm",
+        "en": "I bought the wrong"
+      },
+      {
+        "t": "loại sữa cho con.",
+        "en": "type of milk for my kid"
+      }
+    ],
+    "answers": [
+      "Because I was in a hurry, I bought the wrong type of milk for my kid.",
+      "I was rushing, so I ended up getting the wrong milk for my child."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi về đến nhà,",
+        "en": "After getting home,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I only realized"
+      },
+      {
+        "t": "mình mua nhầm màu áo.",
+        "en": "I'd bought the wrong color shirt"
+      }
+    ],
+    "answers": [
+      "After getting home, I only realized I'd bought the wrong color shirt.",
+      "I didn't notice I'd gotten the wrong shirt color until I got home."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn không đọc kỹ nhãn,",
+        "en": "If you don't read the label carefully,"
+      },
+      {
+        "t": "bạn có thể mua nhầm",
+        "en": "you might accidentally buy"
+      },
+      {
+        "t": "sản phẩm hết hạn.",
+        "en": "an expired product"
+      }
+    ],
+    "answers": [
+      "If you don't read the label carefully, you might accidentally buy an expired product.",
+      "Not reading the label carefully could mean buying an expired product by mistake."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù đã kiểm tra hai lần,",
+        "en": "Although he checked twice,"
+      },
+      {
+        "t": "anh ấy vẫn mua nhầm",
+        "en": "he still bought the wrong"
+      },
+      {
+        "t": "cỡ pin.",
+        "en": "size of battery"
+      }
+    ],
+    "answers": [
+      "Although he checked twice, he still bought the wrong size of battery.",
+      "He double-checked, and yet he still ended up with the wrong battery size."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đổi trả ngay",
+        "en": "I exchanged it right away"
+      },
+      {
+        "t": "khi phát hiện",
+        "en": "when I discovered"
+      },
+      {
+        "t": "mình đã mua nhầm sản phẩm.",
+        "en": "I'd bought the wrong item"
+      }
+    ],
+    "answers": [
+      "I exchanged it right away when I discovered I'd bought the wrong item.",
+      "As soon as I realized I'd bought the wrong item, I exchanged it immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì giá chênh lệch khá nhiều,",
+        "en": "Because prices vary quite a lot,"
+      },
+      {
+        "t": "tôi thường so sánh",
+        "en": "I usually compare"
+      },
+      {
+        "t": "trước khi mua bất cứ thứ gì.",
+        "en": "before buying anything"
+      }
+    ],
+    "answers": [
+      "Because prices vary quite a lot, I usually compare before buying anything.",
+      "Prices differ so much that I always compare before I buy anything."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu bạn dùng",
+        "en": "If you use"
+      },
+      {
+        "t": "app so sánh giá,",
+        "en": "a price comparison app,"
+      },
+      {
+        "t": "bạn sẽ tìm được",
+        "en": "you'll find"
+      },
+      {
+        "t": "ưu đãi tốt hơn.",
+        "en": "better deals"
+      }
+    ],
+    "answers": [
+      "If you use a price comparison app, you'll find better deals.",
+      "A price comparison app can help you find much better deals."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi so sánh",
+        "en": "After comparing"
+      },
+      {
+        "t": "ba cửa hàng,",
+        "en": "three stores,"
+      },
+      {
+        "t": "tôi chọn",
+        "en": "I chose"
+      },
+      {
+        "t": "nơi rẻ nhất để mua.",
+        "en": "the cheapest one to buy from"
+      }
+    ],
+    "answers": [
+      "After comparing three stores, I chose the cheapest one to buy from.",
+      "I compared three stores and picked the one with the lowest price."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mặc dù shop này rẻ hơn,",
+        "en": "Although this shop is cheaper,"
+      },
+      {
+        "t": "chất lượng dịch vụ",
+        "en": "the service quality"
+      },
+      {
+        "t": "lại kém hơn nhiều.",
+        "en": "is much worse"
+      }
+    ],
+    "answers": [
+      "Although this shop is cheaper, the service quality is much worse.",
+      "This shop may be cheaper, but the service is far worse."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi luôn kiểm tra giá",
+        "en": "I always check prices"
+      },
+      {
+        "t": "trên ba app khác nhau",
+        "en": "on three different apps"
+      },
+      {
+        "t": "trước khi quyết định.",
+        "en": "before making a decision"
+      }
+    ],
+    "answers": [
+      "I always check prices on three different apps before making a decision.",
+      "Before deciding, I always compare prices across three different apps."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi từng mua sắm bốc đồng",
+        "en": "I used to shop impulsively"
+      },
+      {
+        "t": "nhưng giờ đã học cách",
+        "en": "but now I've learned"
+      },
+      {
+        "t": "kiềm chế.",
+        "en": "to hold back"
+      }
+    ],
+    "answers": [
+      "I used to shop impulsively, but now I've learned to hold back.",
+      "I used to buy things on impulse, but I've learned to control it now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã hoãn",
+        "en": "We've put off"
+      },
+      {
+        "t": "việc mua sofa",
+        "en": "buying a sofa"
+      },
+      {
+        "t": "vì chưa đủ tiền.",
+        "en": "because we don't have enough money yet"
+      }
+    ],
+    "answers": [
+      "We've put off buying a sofa because we don't have enough money yet.",
+      "We've held off on getting a sofa since we're still short on money."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Cửa hàng đã hết hàng",
+        "en": "The store has run out of"
+      },
+      {
+        "t": "chiếc túi",
+        "en": "the bag"
+      },
+      {
+        "t": "tôi định mua",
+        "en": "I planned to buy"
+      },
+      {
+        "t": "từ tuần trước.",
+        "en": "since last week"
+      }
+    ],
+    "answers": [
+      "The store has run out of the bag I planned to buy since last week.",
+      "The bag I wanted has been out of stock since last week."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì không tìm ra",
+        "en": "Because I couldn't find"
+      },
+      {
+        "t": "size phù hợp,",
+        "en": "the right size,"
+      },
+      {
+        "t": "tôi đành từ bỏ",
+        "en": "I had to give up"
+      },
+      {
+        "t": "ý định mua áo khoác đó.",
+        "en": "on buying that jacket"
+      }
+    ],
+    "answers": [
+      "Because I couldn't find the right size, I had to give up on buying that jacket.",
+      "I never found the right size, so I gave up on that jacket."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chị tôi đang tìm mua",
+        "en": "My sister is looking for"
+      },
+      {
+        "t": "một chiếc bàn ăn",
+        "en": "a dining table"
+      },
+      {
+        "t": "vừa với căn bếp nhỏ.",
+        "en": "that fits a small kitchen"
+      }
+    ],
+    "answers": [
+      "My sister is looking for a dining table that fits a small kitchen.",
+      "My sister is trying to find a dining table for a small kitchen."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Trong khi tôi đang thanh toán,",
+        "en": "While I was paying,"
+      },
+      {
+        "t": "điện thoại của tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "bất ngờ hết pin.",
+        "en": "suddenly died"
+      }
+    ],
+    "answers": [
+      "While I was paying, my phone suddenly died.",
+      "My phone died suddenly right while I was paying."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi tôi còn nhỏ,",
+        "en": "When I was little,"
+      },
+      {
+        "t": "mẹ tôi từng dẫn tôi",
+        "en": "my mom used to take me"
+      },
+      {
+        "t": "đi chợ",
+        "en": "to the market"
+      },
+      {
+        "t": "mỗi sáng chủ nhật.",
+        "en": "every Sunday morning"
+      }
+    ],
+    "answers": [
+      "When I was little, my mom used to take me to the market every Sunday morning.",
+      "My mom used to bring me to the market every Sunday morning when I was a kid."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu giá xăng tăng,",
+        "en": "If gas prices go up,"
+      },
+      {
+        "t": "chi phí giao hàng",
+        "en": "delivery costs"
+      },
+      {
+        "t": "chắc chắn cũng sẽ tăng theo.",
+        "en": "will definitely rise too"
+      }
+    ],
+    "answers": [
+      "If gas prices go up, delivery costs will definitely rise too.",
+      "Delivery costs will surely go up too if gas prices rise."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã tắt hết",
+        "en": "I've turned off all"
+      },
+      {
+        "t": "thông báo khuyến mãi",
+        "en": "promotional notifications"
+      },
+      {
+        "t": "vì chúng làm tôi",
+        "en": "because they make me"
+      },
+      {
+        "t": "tiêu tiền nhiều hơn.",
+        "en": "spend more money"
+      }
+    ],
+    "answers": [
+      "I've turned off all promotional notifications because they make me spend more money.",
+      "I turned off every sale notification since they just make me spend more."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Sau khi thử mọi cách,",
+        "en": "After trying everything,"
+      },
+      {
+        "t": "chúng tôi vẫn không",
+        "en": "we still couldn't"
+      },
+      {
+        "t": "thương lượng được giá tốt hơn.",
+        "en": "negotiate a better price"
+      }
+    ],
+    "answers": [
+      "After trying everything, we still couldn't negotiate a better price.",
+      "We tried everything, but we still couldn't get a better price."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Vì đang giảm giá,",
+        "en": "Because there's a sale on,"
+      },
+      {
+        "t": "cửa hàng",
+        "en": "the store"
+      },
+      {
+        "t": "đông nghẹt khách",
+        "en": "is packed with customers"
+      },
+      {
+        "t": "ngay từ sáng sớm.",
+        "en": "right from early morning"
+      }
+    ],
+    "answers": [
+      "Because there's a sale on, the store is packed with customers right from early morning.",
+      "The store has been jammed with customers since early morning because of the sale."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Tôi đã tiết kiệm được",
+        "en": "I've saved"
+      },
+      {
+        "t": "một khoản kha khá",
+        "en": "quite a bit of money"
+      },
+      {
+        "t": "nhờ săn sale",
+        "en": "by hunting for sales"
+      },
+      {
+        "t": "suốt năm nay.",
+        "en": "all this year"
+      }
+    ],
+    "answers": [
+      "I've saved quite a bit of money by hunting for sales all this year.",
+      "Hunting for sales all year has saved me a good chunk of money."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khi thấy",
+        "en": "When I saw"
+      },
+      {
+        "t": "hàng dài người xếp hàng,",
+        "en": "the long line of people,"
+      },
+      {
+        "t": "tôi quyết định quay lại",
+        "en": "I decided to come back"
+      },
+      {
+        "t": "vào lúc khác.",
+        "en": "another time"
+      }
+    ],
+    "answers": [
+      "When I saw the long line of people, I decided to come back another time.",
+      "Seeing such a long line, I decided to come back at another time."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi không đọc kỹ đánh giá",
+        "en": "If I hadn't read the reviews carefully"
+      },
+      {
+        "t": "trước khi mua,",
+        "en": "before buying,"
+      },
+      {
+        "t": "tôi đã không biết",
+        "en": "I wouldn't have known"
+      },
+      {
+        "t": "sản phẩm này tệ đến thế.",
+        "en": "this product was so bad"
+      }
+    ],
+    "answers": [
+      "If I hadn't read the reviews carefully before buying, I wouldn't have known this product was so bad.",
+      "Had I not read the reviews carefully first, I never would have known how bad this product was."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Trang web mà tôi hay mua sắm",
+        "en": "The website I usually shop on"
+      },
+      {
+        "t": "gần đây liên tục gặp lỗi thanh toán,",
+        "en": "has been having payment glitches lately,"
+      },
+      {
+        "t": "điều khiến tôi khá bực mình.",
+        "en": "which is quite annoying"
+      }
+    ],
+    "answers": [
+      "The website I usually shop on has been having payment glitches lately, which is quite annoying.",
+      "The site I usually buy from keeps having checkout errors lately, and it's really frustrating."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng lướt nhiều trang mua sắm,",
+        "en": "The more shopping sites I scroll through,"
+      },
+      {
+        "t": "tôi càng muốn mua",
+        "en": "the more I want to buy"
+      },
+      {
+        "t": "những thứ mình chẳng thực sự cần.",
+        "en": "things I don't actually need"
+      }
+    ],
+    "answers": [
+      "The more shopping sites I scroll through, the more I want to buy things I don't actually need.",
+      "The more I browse shopping sites, the more tempted I am to buy stuff I don't need."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Đơn hàng đã được giao",
+        "en": "The order was delivered"
+      },
+      {
+        "t": "đến sai địa chỉ",
+        "en": "to the wrong address"
+      },
+      {
+        "t": "vì tôi gõ nhầm số nhà",
+        "en": "because I typed the wrong house number"
+      },
+      {
+        "t": "lúc đặt.",
+        "en": "when I ordered"
+      }
+    ],
+    "answers": [
+      "The order was delivered to the wrong address because I typed the wrong house number when I ordered.",
+      "My order got sent to the wrong address since I mistyped the house number while ordering."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Giá như tôi kiểm tra kỹ",
+        "en": "I wish I had checked"
+      },
+      {
+        "t": "mô tả sản phẩm,",
+        "en": "the product description carefully,"
+      },
+      {
+        "t": "tôi đã không phải mất công",
+        "en": "I wouldn't have had to bother"
+      },
+      {
+        "t": "trả hàng như bây giờ.",
+        "en": "returning it like this"
+      }
+    ],
+    "answers": [
+      "I wish I had checked the product description carefully, I wouldn't have had to bother returning it like this.",
+      "If only I'd read the description more carefully, I wouldn't be going through the hassle of returning it now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu chính sách đổi trả",
+        "en": "If the return policy"
+      },
+      {
+        "t": "không quá phức tạp,",
+        "en": "weren't so complicated,"
+      },
+      {
+        "t": "chắc nhiều người sẽ không ngần ngại",
+        "en": "many people probably wouldn't hesitate"
+      },
+      {
+        "t": "mua hàng online hơn.",
+        "en": "to shop online more"
+      }
+    ],
+    "answers": [
+      "If the return policy weren't so complicated, many people probably wouldn't hesitate to shop online more.",
+      "Were the return policy simpler, more people would probably feel comfortable shopping online."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Món đồ mà tôi trả lại",
+        "en": "The item I returned"
+      },
+      {
+        "t": "tuần trước",
+        "en": "last week"
+      },
+      {
+        "t": "vẫn chưa được hoàn tiền,",
+        "en": "still hasn't been refunded,"
+      },
+      {
+        "t": "dù shop nói",
+        "en": "even though the shop said"
+      },
+      {
+        "t": "sẽ xử lý trong ba ngày.",
+        "en": "it would be processed within three days"
+      }
+    ],
+    "answers": [
+      "The item I returned last week still hasn't been refunded, even though the shop said it would be processed within three days.",
+      "I returned that item last week, and it's still not refunded, despite the shop promising it within three days."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết trước",
+        "en": "If I had known beforehand"
+      },
+      {
+        "t": "cửa hàng khó tính",
+        "en": "the store was strict"
+      },
+      {
+        "t": "về việc đổi trả,",
+        "en": "about returns,"
+      },
+      {
+        "t": "tôi đã không mua ở đó",
+        "en": "I wouldn't have bought there"
+      },
+      {
+        "t": "ngay từ đầu.",
+        "en": "in the first place"
+      }
+    ],
+    "answers": [
+      "If I had known beforehand the store was strict about returns, I wouldn't have bought there in the first place.",
+      "Had I known the store was so picky about returns, I never would have shopped there to begin with."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chính sách đổi trả",
+        "en": "The return policy"
+      },
+      {
+        "t": "được cập nhật gần đây",
+        "en": "that was recently updated"
+      },
+      {
+        "t": "khiến nhiều khách hàng,",
+        "en": "has left many customers,"
+      },
+      {
+        "t": "trong đó có tôi,",
+        "en": "myself included,"
+      },
+      {
+        "t": "cảm thấy bối rối.",
+        "en": "feeling confused"
+      }
+    ],
+    "answers": [
+      "The return policy that was recently updated has left many customers, myself included, feeling confused.",
+      "The recently updated return policy has confused a lot of customers, including me."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu không phải vì săn sale,",
+        "en": "If it weren't for sale hunting,"
+      },
+      {
+        "t": "tôi đã không tiêu",
+        "en": "I wouldn't have spent"
+      },
+      {
+        "t": "nhiều tiền",
+        "en": "so much money"
+      },
+      {
+        "t": "cho những món đồ",
+        "en": "on things"
+      },
+      {
+        "t": "chẳng mấy khi dùng đến.",
+        "en": "I rarely use"
+      }
+    ],
+    "answers": [
+      "If it weren't for sale hunting, I wouldn't have spent so much money on things I rarely use.",
+      "Were it not for chasing sales, I wouldn't have wasted so much on stuff I barely use."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng gần đến",
+        "en": "The closer it gets to"
+      },
+      {
+        "t": "ngày sale lớn,",
+        "en": "the big sale day,"
+      },
+      {
+        "t": "các trang thương mại điện tử",
+        "en": "e-commerce sites"
+      },
+      {
+        "t": "càng quảng cáo dồn dập hơn.",
+        "en": "advertise more aggressively"
+      }
+    ],
+    "answers": [
+      "The closer it gets to the big sale day, the more aggressively e-commerce sites advertise.",
+      "As the big sale day approaches, e-commerce sites ramp up their ads more and more."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nhiều món đồ",
+        "en": "Many items"
+      },
+      {
+        "t": "được dán nhãn giảm giá",
+        "en": "labeled as discounted"
+      },
+      {
+        "t": "thực chất chỉ là",
+        "en": "are actually just"
+      },
+      {
+        "t": "tăng giá rồi giảm lại như cũ.",
+        "en": "marked up and then dropped back to the original price"
+      }
+    ],
+    "answers": [
+      "Many items labeled as discounted are actually just marked up and then dropped back to the original price.",
+      "A lot of so-called discounted items are just prices that were raised and then lowered back to normal."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi không kiềm chế được",
+        "en": "If I couldn't control myself"
+      },
+      {
+        "t": "bản thân trong mùa sale,",
+        "en": "during sale season,"
+      },
+      {
+        "t": "tài khoản ngân hàng của tôi",
+        "en": "my bank account"
+      },
+      {
+        "t": "hẳn đã trống rỗng từ lâu.",
+        "en": "would have been empty long ago"
+      }
+    ],
+    "answers": [
+      "If I couldn't control myself during sale season, my bank account would have been empty long ago.",
+      "Were it not for my self-control during sales, my bank account would've run dry long ago."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Dù đã trả giá xuống",
+        "en": "Although I bargained the price down"
+      },
+      {
+        "t": "một nửa,",
+        "en": "by half,"
+      },
+      {
+        "t": "tôi vẫn cảm thấy",
+        "en": "I still felt"
+      },
+      {
+        "t": "mình bị hớ",
+        "en": "like I overpaid"
+      },
+      {
+        "t": "so với người mua trước.",
+        "en": "compared to the previous buyer"
+      }
+    ],
+    "answers": [
+      "Although I bargained the price down by half, I still felt like I overpaid compared to the previous buyer.",
+      "Even after haggling the price down by half, I still felt ripped off compared to the earlier buyer."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu người bán không nhìn thấy",
+        "en": "If the seller hadn't seen"
+      },
+      {
+        "t": "tôi định bỏ đi,",
+        "en": "me about to walk away,"
+      },
+      {
+        "t": "có lẽ họ đã không",
+        "en": "they probably wouldn't have"
+      },
+      {
+        "t": "hạ giá nhanh như vậy.",
+        "en": "dropped the price so quickly"
+      }
+    ],
+    "answers": [
+      "If the seller hadn't seen me about to walk away, they probably wouldn't have dropped the price so quickly.",
+      "Had the seller not noticed me about to leave, they probably wouldn't have lowered the price that fast."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng mặc cả lâu,",
+        "en": "The longer I bargained,"
+      },
+      {
+        "t": "người bán càng tỏ ra",
+        "en": "the more annoyed the seller seemed"
+      },
+      {
+        "t": "khó chịu",
+        "en": "to get"
+      },
+      {
+        "t": "và cuối cùng không giảm thêm",
+        "en": "and ended up not lowering"
+      },
+      {
+        "t": "đồng nào.",
+        "en": "the price at all"
+      }
+    ],
+    "answers": [
+      "The longer I bargained, the more annoyed the seller seemed to get, and they ended up not lowering the price at all.",
+      "The longer I haggled, the more irritated the seller became, and in the end they wouldn't budge on the price."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Người phụ nữ",
+        "en": "The woman"
+      },
+      {
+        "t": "đang mặc cả giá",
+        "en": "who was haggling over the price"
+      },
+      {
+        "t": "với người bán hàng rong",
+        "en": "with the street vendor"
+      },
+      {
+        "t": "hóa ra là",
+        "en": "turned out to be"
+      },
+      {
+        "t": "hàng xóm cũ của tôi.",
+        "en": "my old neighbor"
+      }
+    ],
+    "answers": [
+      "The woman who was haggling over the price with the street vendor turned out to be my old neighbor.",
+      "The woman bargaining with the street vendor turned out to be a former neighbor of mine."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu shop ghi rõ",
+        "en": "If the shop had provided"
+      },
+      {
+        "t": "bảng size chuẩn hơn,",
+        "en": "a more accurate size chart,"
+      },
+      {
+        "t": "tôi đã không phải",
+        "en": "I wouldn't have had to"
+      },
+      {
+        "t": "đổi trả liên tục như thế này.",
+        "en": "keep exchanging items like this"
+      }
+    ],
+    "answers": [
+      "If the shop had provided a more accurate size chart, I wouldn't have had to keep exchanging items like this.",
+      "Had the store's size chart been more accurate, I wouldn't be exchanging things constantly like this."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chiếc áo mà tôi đặt mua",
+        "en": "The shirt I ordered"
+      },
+      {
+        "t": "trông vừa vặn trên hình",
+        "en": "looked like a good fit in the photo"
+      },
+      {
+        "t": "nhưng thực tế",
+        "en": "but in reality"
+      },
+      {
+        "t": "lại rộng hơn hẳn",
+        "en": "turned out much baggier"
+      },
+      {
+        "t": "so với tưởng tượng.",
+        "en": "than I imagined"
+      }
+    ],
+    "answers": [
+      "The shirt I ordered looked like a good fit in the photo, but in reality it turned out much baggier than I imagined.",
+      "The shirt I ordered looked fine in the picture, but it ended up far looser than I expected."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng lớn tuổi,",
+        "en": "The older I get,"
+      },
+      {
+        "t": "tôi càng khó tìm được",
+        "en": "the harder it is for me to find"
+      },
+      {
+        "t": "quần áo vừa vặn",
+        "en": "clothes that fit"
+      },
+      {
+        "t": "với vóc dáng của mình.",
+        "en": "my body shape"
+      }
+    ],
+    "answers": [
+      "The older I get, the harder it is for me to find clothes that fit my body shape.",
+      "As I get older, it gets more and more difficult to find clothes that suit my shape."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Giá như tôi đo số đo",
+        "en": "I wish I had measured myself"
+      },
+      {
+        "t": "trước khi đặt,",
+        "en": "before ordering,"
+      },
+      {
+        "t": "tôi đã không phải trả lại",
+        "en": "I wouldn't have had to return"
+      },
+      {
+        "t": "chiếc váy chật cứng này.",
+        "en": "this super tight dress"
+      }
+    ],
+    "answers": [
+      "I wish I had measured myself before ordering, I wouldn't have had to return this super tight dress.",
+      "If only I'd taken my measurements before ordering, I wouldn't be returning this ridiculously tight dress."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi chờ thêm",
+        "en": "If I had waited"
+      },
+      {
+        "t": "một tháng,",
+        "en": "one more month,"
+      },
+      {
+        "t": "mẫu điện thoại mới",
+        "en": "the new phone model"
+      },
+      {
+        "t": "hẳn đã ra mắt",
+        "en": "would have been released"
+      },
+      {
+        "t": "và tôi có thể mua",
+        "en": "and I could have bought it"
+      },
+      {
+        "t": "với giá tốt hơn.",
+        "en": "at a better price"
+      }
+    ],
+    "answers": [
+      "If I had waited one more month, the new phone model would have been released and I could have bought it at a better price.",
+      "Had I held off just one more month, the new model would've come out and I could've gotten a better deal."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chiếc laptop",
+        "en": "The laptop"
+      },
+      {
+        "t": "được quảng cáo là bền bỉ",
+        "en": "that was advertised as durable"
+      },
+      {
+        "t": "hóa ra lại hỏng",
+        "en": "ended up breaking down"
+      },
+      {
+        "t": "chỉ sau vài tháng sử dụng.",
+        "en": "after just a few months of use"
+      }
+    ],
+    "answers": [
+      "The laptop that was advertised as durable ended up breaking down after just a few months of use.",
+      "The laptop marketed as long-lasting broke down after only a few months of use."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng nhiều tính năng",
+        "en": "The more features"
+      },
+      {
+        "t": "một thiết bị có,",
+        "en": "a device has,"
+      },
+      {
+        "t": "giá của nó càng cao,",
+        "en": "the higher its price,"
+      },
+      {
+        "t": "dù không phải ai cũng",
+        "en": "even though not everyone"
+      },
+      {
+        "t": "dùng hết các tính năng đó.",
+        "en": "uses all those features"
+      }
+    ],
+    "answers": [
+      "The more features a device has, the higher its price, even though not everyone uses all those features.",
+      "A device's price climbs with every extra feature, even though most people never use them all."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu không được",
+        "en": "If I hadn't been"
+      },
+      {
+        "t": "người bán tư vấn kỹ,",
+        "en": "carefully advised by the seller,"
+      },
+      {
+        "t": "tôi đã mua nhầm",
+        "en": "I would have bought the wrong"
+      },
+      {
+        "t": "một cái máy ảnh",
+        "en": "camera"
+      },
+      {
+        "t": "không hợp với nhu cầu.",
+        "en": "that didn't suit my needs"
+      }
+    ],
+    "answers": [
+      "If I hadn't been carefully advised by the seller, I would have bought the wrong camera that didn't suit my needs.",
+      "Had the seller not advised me carefully, I'd have ended up with a camera that didn't fit my needs."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Món quà",
+        "en": "The gift"
+      },
+      {
+        "t": "mà tôi tốn cả tuần để chọn",
+        "en": "that I spent a whole week picking"
+      },
+      {
+        "t": "cuối cùng lại không được",
+        "en": "ended up not being"
+      },
+      {
+        "t": "người nhận thích lắm.",
+        "en": "much liked by the recipient"
+      }
+    ],
+    "answers": [
+      "The gift that I spent a whole week picking ended up not being much liked by the recipient.",
+      "I spent a whole week choosing that gift, and in the end the person barely liked it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi hiểu rõ",
+        "en": "If I had understood"
+      },
+      {
+        "t": "sở thích của anh ấy hơn,",
+        "en": "his tastes better,"
+      },
+      {
+        "t": "tôi đã không tặng nhầm",
+        "en": "I wouldn't have given"
+      },
+      {
+        "t": "món quà vô dụng như vậy.",
+        "en": "such a useless gift"
+      }
+    ],
+    "answers": [
+      "If I had understood his tastes better, I wouldn't have given such a useless gift.",
+      "Had I known his preferences better, I wouldn't have picked such a pointless gift."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng gần dịp lễ,",
+        "en": "The closer the holiday gets,"
+      },
+      {
+        "t": "các cửa hàng quà tặng",
+        "en": "gift shops"
+      },
+      {
+        "t": "càng đông nghẹt",
+        "en": "get more and more packed"
+      },
+      {
+        "t": "người tìm mua vào phút chót.",
+        "en": "with last-minute shoppers"
+      }
+    ],
+    "answers": [
+      "The closer the holiday gets, the more packed gift shops get with last-minute shoppers.",
+      "As the holiday approaches, gift shops fill up more with people buying at the last minute."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Món quà",
+        "en": "The gift"
+      },
+      {
+        "t": "được gói cẩn thận ấy",
+        "en": "that was so carefully wrapped"
+      },
+      {
+        "t": "hóa ra lại là",
+        "en": "turned out to be"
+      },
+      {
+        "t": "thứ mà cô ấy đã có từ lâu.",
+        "en": "something she'd already had for ages"
+      }
+    ],
+    "answers": [
+      "The gift that was so carefully wrapped turned out to be something she'd already had for ages.",
+      "That carefully wrapped present turned out to be something she already owned."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu ngân hàng không",
+        "en": "If the bank hadn't"
+      },
+      {
+        "t": "cảnh báo kịp thời,",
+        "en": "warned me in time,"
+      },
+      {
+        "t": "có lẽ tôi đã không",
+        "en": "I probably wouldn't have"
+      },
+      {
+        "t": "phát hiện ra",
+        "en": "discovered"
+      },
+      {
+        "t": "thẻ mình bị đánh cắp thông tin.",
+        "en": "that my card information had been stolen"
+      }
+    ],
+    "answers": [
+      "If the bank hadn't warned me in time, I probably wouldn't have discovered that my card information had been stolen.",
+      "Had the bank not alerted me in time, I might never have found out my card details were stolen."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng dùng thẻ tín dụng",
+        "en": "The more often I use my credit card"
+      },
+      {
+        "t": "thường xuyên,",
+        "en": "regularly,"
+      },
+      {
+        "t": "tôi càng khó theo dõi được",
+        "en": "the harder it is for me to keep track of"
+      },
+      {
+        "t": "mình đã tiêu bao nhiêu tiền mỗi tháng.",
+        "en": "how much I've spent each month"
+      }
+    ],
+    "answers": [
+      "The more often I use my credit card, the harder it is for me to keep track of how much I've spent each month.",
+      "The more I rely on my credit card, the harder it gets to track my monthly spending."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Số tiền",
+        "en": "The amount"
+      },
+      {
+        "t": "được ghi nợ vào thẻ của tôi",
+        "en": "that was charged to my card"
+      },
+      {
+        "t": "lớn hơn nhiều",
+        "en": "was much higher"
+      },
+      {
+        "t": "so với những gì",
+        "en": "than what"
+      },
+      {
+        "t": "tôi thực sự đã mua.",
+        "en": "I'd actually bought"
+      }
+    ],
+    "answers": [
+      "The amount that was charged to my card was much higher than what I'd actually bought.",
+      "The charge on my card ended up far more than what I actually purchased."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi không cắt bớt",
+        "en": "If I hadn't cut back on"
+      },
+      {
+        "t": "việc dùng thẻ tín dụng,",
+        "en": "using my credit card,"
+      },
+      {
+        "t": "có lẽ nợ của tôi",
+        "en": "my debt would probably"
+      },
+      {
+        "t": "đã chồng chất hơn nhiều rồi.",
+        "en": "have piled up much more"
+      }
+    ],
+    "answers": [
+      "If I hadn't cut back on using my credit card, my debt would probably have piled up much more.",
+      "Had I not reduced my credit card use, my debt would likely be much worse by now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Giỏ hàng",
+        "en": "The cart"
+      },
+      {
+        "t": "mà tôi bỏ quên",
+        "en": "that I forgot about"
+      },
+      {
+        "t": "suốt hai tuần",
+        "en": "for two whole weeks"
+      },
+      {
+        "t": "cuối cùng lại chứa đúng",
+        "en": "turned out to hold exactly"
+      },
+      {
+        "t": "món đồ tôi cần cho sinh nhật bạn.",
+        "en": "what I needed for my friend's birthday"
+      }
+    ],
+    "answers": [
+      "The cart that I forgot about for two whole weeks turned out to hold exactly what I needed for my friend's birthday.",
+      "I'd left that cart untouched for two weeks, and it happened to have just what I needed for my friend's birthday."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu app không liên tục",
+        "en": "If the app hadn't kept"
+      },
+      {
+        "t": "gửi thông báo nhắc nhở,",
+        "en": "sending reminder notifications,"
+      },
+      {
+        "t": "tôi đã không quay lại mua",
+        "en": "I wouldn't have gone back to buy"
+      },
+      {
+        "t": "hết những món trong giỏ.",
+        "en": "everything in the cart"
+      }
+    ],
+    "answers": [
+      "If the app hadn't kept sending reminder notifications, I wouldn't have gone back to buy everything in the cart.",
+      "Had the app not kept nudging me with reminders, I wouldn't have gone back and bought everything in my cart."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng để giỏ hàng lâu",
+        "en": "The longer I leave items in the cart"
+      },
+      {
+        "t": "mà không thanh toán,",
+        "en": "without checking out,"
+      },
+      {
+        "t": "giá của món đồ",
+        "en": "the price of the item"
+      },
+      {
+        "t": "càng có nguy cơ tăng lên bất ngờ.",
+        "en": "is more likely to suddenly rise"
+      }
+    ],
+    "answers": [
+      "The longer I leave items in the cart without checking out, the more likely the price is to suddenly rise.",
+      "The longer things sit unpaid in my cart, the greater the chance the price jumps unexpectedly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu công ty vận chuyển",
+        "en": "If the shipping company"
+      },
+      {
+        "t": "thông báo trước",
+        "en": "had given advance notice"
+      },
+      {
+        "t": "về sự chậm trễ,",
+        "en": "about the delay,"
+      },
+      {
+        "t": "tôi đã không phải chờ đợi",
+        "en": "I wouldn't have had to wait"
+      },
+      {
+        "t": "trong lo lắng như vậy.",
+        "en": "so anxiously"
+      }
+    ],
+    "answers": [
+      "If the shipping company had given advance notice about the delay, I wouldn't have had to wait so anxiously.",
+      "Had the courier notified me about the delay beforehand, I wouldn't have been waiting so nervously."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Đơn hàng",
+        "en": "The order"
+      },
+      {
+        "t": "bị trễ suốt hai tuần",
+        "en": "that was delayed for two weeks"
+      },
+      {
+        "t": "cuối cùng được giao đến",
+        "en": "finally arrived"
+      },
+      {
+        "t": "vào đúng ngày",
+        "en": "on exactly the day"
+      },
+      {
+        "t": "tôi không có nhà.",
+        "en": "I wasn't home"
+      }
+    ],
+    "answers": [
+      "The order that was delayed for two weeks finally arrived on exactly the day I wasn't home.",
+      "After a two-week delay, the order finally showed up on the one day I happened to be out."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng nhiều đơn hàng",
+        "en": "The more orders there are"
+      },
+      {
+        "t": "trong mùa cao điểm,",
+        "en": "during peak season,"
+      },
+      {
+        "t": "các đơn vị vận chuyển",
+        "en": "shipping companies"
+      },
+      {
+        "t": "càng khó đảm bảo",
+        "en": "find it harder to guarantee"
+      },
+      {
+        "t": "đúng thời gian giao hàng.",
+        "en": "on-time delivery"
+      }
+    ],
+    "answers": [
+      "The more orders there are during peak season, the harder it is for shipping companies to guarantee on-time delivery.",
+      "The busier the shipping season gets, the more difficult it is for couriers to deliver on time."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Giá như tôi chọn",
+        "en": "I wish I had chosen"
+      },
+      {
+        "t": "giao hàng nhanh",
+        "en": "express delivery"
+      },
+      {
+        "t": "thay vì tiêu chuẩn,",
+        "en": "instead of standard,"
+      },
+      {
+        "t": "có lẽ món quà",
+        "en": "the gift probably"
+      },
+      {
+        "t": "đã đến kịp trước sinh nhật cô ấy.",
+        "en": "would have arrived before her birthday"
+      }
+    ],
+    "answers": [
+      "I wish I had chosen express delivery instead of standard, the gift probably would have arrived before her birthday.",
+      "If only I'd picked express shipping over standard, the gift might have made it in time for her birthday."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi không so sánh giá kỹ,",
+        "en": "If we hadn't compared prices carefully,"
+      },
+      {
+        "t": "chúng tôi hẳn đã trả nhiều hơn",
+        "en": "we would have paid more"
+      },
+      {
+        "t": "cho chiếc tủ lạnh này",
+        "en": "for this fridge"
+      },
+      {
+        "t": "ở cửa hàng khác.",
+        "en": "at another store"
+      }
+    ],
+    "answers": [
+      "If we hadn't compared prices carefully, we would have paid more for this fridge at another store.",
+      "Had we not shopped around carefully, we'd have overpaid for this fridge elsewhere."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chiếc máy giặt",
+        "en": "The washing machine"
+      },
+      {
+        "t": "được lắp đặt tuần trước",
+        "en": "that was installed last week"
+      },
+      {
+        "t": "đã bị lỗi",
+        "en": "malfunctioned"
+      },
+      {
+        "t": "ngay lần sử dụng đầu tiên,",
+        "en": "the very first time we used it,"
+      },
+      {
+        "t": "điều mà chúng tôi không hề ngờ tới.",
+        "en": "which we never expected"
+      }
+    ],
+    "answers": [
+      "The washing machine that was installed last week malfunctioned the very first time we used it, which we never expected.",
+      "The washing machine installed just last week broke down the first time we used it, and we didn't see that coming."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng nhiều đồ gia dụng",
+        "en": "The more household items"
+      },
+      {
+        "t": "chúng tôi mua cho nhà mới,",
+        "en": "we buy for the new house,"
+      },
+      {
+        "t": "ngân sách của chúng tôi",
+        "en": "our budget"
+      },
+      {
+        "t": "càng bị bào mòn nhanh chóng.",
+        "en": "gets eaten away more quickly"
+      }
+    ],
+    "answers": [
+      "The more household items we buy for the new house, the more quickly our budget gets eaten away.",
+      "The more appliances we buy for the new place, the faster our budget shrinks."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu không phải vì",
+        "en": "If it hadn't been"
+      },
+      {
+        "t": "bạn tôi rủ đi,",
+        "en": "for my friend inviting me,"
+      },
+      {
+        "t": "tôi đã không bao giờ",
+        "en": "I would never have"
+      },
+      {
+        "t": "khám phá được khu chợ đêm thú vị này.",
+        "en": "discovered this interesting night market"
+      }
+    ],
+    "answers": [
+      "If it hadn't been for my friend inviting me, I would never have discovered this interesting night market.",
+      "Had my friend not invited me along, I never would have found this fascinating night market."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Món đồ",
+        "en": "The item"
+      },
+      {
+        "t": "mà tôi mua vội ở chợ đêm",
+        "en": "that I bought hastily at the night market"
+      },
+      {
+        "t": "hóa ra lại kém chất lượng hơn nhiều",
+        "en": "turned out to be of much lower quality"
+      },
+      {
+        "t": "so với vẻ ngoài của nó.",
+        "en": "than it looked"
+      }
+    ],
+    "answers": [
+      "The item that I bought hastily at the night market turned out to be of much lower quality than it looked.",
+      "That thing I hastily bought at the night market ended up being far worse quality than it appeared."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng khuya,",
+        "en": "The later it gets,"
+      },
+      {
+        "t": "chợ đêm",
+        "en": "the night market"
+      },
+      {
+        "t": "càng đông đúc và náo nhiệt hơn,",
+        "en": "gets more crowded and lively,"
+      },
+      {
+        "t": "khiến việc mặc cả",
+        "en": "which makes bargaining"
+      },
+      {
+        "t": "trở nên khó khăn hơn.",
+        "en": "more difficult"
+      }
+    ],
+    "answers": [
+      "The later it gets, the more crowded and lively the night market gets, which makes bargaining more difficult.",
+      "As it gets later, the night market grows busier and louder, making it harder to haggle."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi không mang",
+        "en": "If I hadn't taken"
+      },
+      {
+        "t": "chiếc túi đến tiệm kiểm định,",
+        "en": "the bag to be authenticated,"
+      },
+      {
+        "t": "tôi đã không bao giờ biết",
+        "en": "I would never have known"
+      },
+      {
+        "t": "mình đã mua phải hàng giả.",
+        "en": "I'd bought a fake"
+      }
+    ],
+    "answers": [
+      "If I hadn't taken the bag to be authenticated, I would never have known I'd bought a fake.",
+      "Had I not gotten the bag checked, I never would have found out it was fake."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Hàng giả",
+        "en": "Counterfeit goods"
+      },
+      {
+        "t": "được bán tràn lan",
+        "en": "being sold everywhere"
+      },
+      {
+        "t": "trên mạng",
+        "en": "online"
+      },
+      {
+        "t": "khiến nhiều người tiêu dùng",
+        "en": "has made many consumers"
+      },
+      {
+        "t": "mất niềm tin",
+        "en": "lose trust"
+      },
+      {
+        "t": "vào việc mua sắm online.",
+        "en": "in online shopping"
+      }
+    ],
+    "answers": [
+      "Counterfeit goods being sold everywhere online has made many consumers lose trust in online shopping.",
+      "The flood of fake products online has led many shoppers to lose faith in buying things over the internet."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng nhiều người mua hàng giả",
+        "en": "The more people buy counterfeit goods"
+      },
+      {
+        "t": "vì giá rẻ,",
+        "en": "because they're cheap,"
+      },
+      {
+        "t": "các thương hiệu chính hãng",
+        "en": "genuine brands"
+      },
+      {
+        "t": "càng khó cạnh tranh về giá.",
+        "en": "find it harder to compete on price"
+      }
+    ],
+    "answers": [
+      "The more people buy counterfeit goods because they're cheap, the harder it is for genuine brands to compete on price.",
+      "As more people buy fakes for the low price, real brands struggle more to compete price-wise."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Giá như tôi cẩn thận hơn",
+        "en": "I wish I had been more careful"
+      },
+      {
+        "t": "khi mua trên mạng,",
+        "en": "when buying online,"
+      },
+      {
+        "t": "tôi đã không mất tiền oan",
+        "en": "I wouldn't have wasted money"
+      },
+      {
+        "t": "vào món hàng nhái đó.",
+        "en": "on that fake item"
+      }
+    ],
+    "answers": [
+      "I wish I had been more careful when buying online, I wouldn't have wasted money on that fake item.",
+      "If only I'd been more careful shopping online, I wouldn't have thrown money away on that knockoff."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi lập kế hoạch chi tiêu",
+        "en": "If I had planned my spending"
+      },
+      {
+        "t": "rõ ràng hơn",
+        "en": "more clearly"
+      },
+      {
+        "t": "từ đầu năm,",
+        "en": "from the start of the year,"
+      },
+      {
+        "t": "có lẽ tôi đã không",
+        "en": "I probably wouldn't have"
+      },
+      {
+        "t": "rơi vào cảnh nợ nần như bây giờ.",
+        "en": "ended up in debt like this"
+      }
+    ],
+    "answers": [
+      "If I had planned my spending more clearly from the start of the year, I probably wouldn't have ended up in debt like this.",
+      "Had I mapped out my spending better at the start of the year, I likely wouldn't be in debt now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng đặt ra ngân sách chặt chẽ,",
+        "en": "The stricter the budget I set,"
+      },
+      {
+        "t": "tôi càng cảm thấy áp lực",
+        "en": "the more pressure I feel"
+      },
+      {
+        "t": "mỗi khi bước vào cửa hàng.",
+        "en": "every time I walk into a store"
+      }
+    ],
+    "answers": [
+      "The stricter the budget I set, the more pressure I feel every time I walk into a store.",
+      "The tighter my budget gets, the more stressed I feel whenever I step into a shop."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Khoản tiền",
+        "en": "The money"
+      },
+      {
+        "t": "được dành riêng cho mua sắm",
+        "en": "set aside for shopping"
+      },
+      {
+        "t": "tháng này",
+        "en": "this month"
+      },
+      {
+        "t": "đã bị tiêu hết",
+        "en": "was completely spent"
+      },
+      {
+        "t": "chỉ trong vòng một tuần.",
+        "en": "within just one week"
+      }
+    ],
+    "answers": [
+      "The money set aside for shopping this month was completely spent within just one week.",
+      "This month's shopping budget got used up in only a week."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu không nhờ",
+        "en": "If it weren't for"
+      },
+      {
+        "t": "ứng dụng theo dõi chi tiêu,",
+        "en": "the expense-tracking app,"
+      },
+      {
+        "t": "tôi đã không nhận ra",
+        "en": "I wouldn't have realized"
+      },
+      {
+        "t": "mình tiêu nhiều tiền",
+        "en": "how much money I spend"
+      },
+      {
+        "t": "vào cà phê đến vậy.",
+        "en": "on coffee"
+      }
+    ],
+    "answers": [
+      "If it weren't for the expense-tracking app, I wouldn't have realized how much money I spend on coffee.",
+      "Without that expense-tracking app, I never would have noticed just how much I spend on coffee."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi lên danh sách",
+        "en": "If we had made a list"
+      },
+      {
+        "t": "trước khi đi mua,",
+        "en": "before shopping,"
+      },
+      {
+        "t": "chúng tôi đã không mua thừa",
+        "en": "we wouldn't have overbought"
+      },
+      {
+        "t": "nhiều món không cần thiết như vậy.",
+        "en": "so many unnecessary items"
+      }
+    ],
+    "answers": [
+      "If we had made a list before shopping, we wouldn't have overbought so many unnecessary items.",
+      "Had we made a shopping list first, we wouldn't have ended up with so many things we didn't need."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng dọn vào nhà mới lâu,",
+        "en": "The longer we live in the new house,"
+      },
+      {
+        "t": "chúng tôi càng nhận ra",
+        "en": "the more we realize"
+      },
+      {
+        "t": "còn thiếu nhiều thứ hơn",
+        "en": "how much more is missing"
+      },
+      {
+        "t": "tưởng tượng ban đầu.",
+        "en": "than we originally imagined"
+      }
+    ],
+    "answers": [
+      "The longer we live in the new house, the more we realize how much more is missing than we originally imagined.",
+      "The longer we've been in the new place, the more we discover there's more to buy than we thought."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chiếc bàn ăn",
+        "en": "The dining table"
+      },
+      {
+        "t": "được đặt riêng theo kích thước căn bếp",
+        "en": "that was custom-made to fit the kitchen"
+      },
+      {
+        "t": "lại không vừa",
+        "en": "didn't fit"
+      },
+      {
+        "t": "với cửa ra vào",
+        "en": "through the doorway"
+      },
+      {
+        "t": "khi giao đến.",
+        "en": "when it was delivered"
+      }
+    ],
+    "answers": [
+      "The dining table that was custom-made to fit the kitchen didn't fit through the doorway when it was delivered.",
+      "The table we had custom-built for the kitchen wouldn't fit through the door when it arrived."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu siêu thị mở thêm quầy",
+        "en": "If the supermarket opened more counters"
+      },
+      {
+        "t": "vào giờ cao điểm,",
+        "en": "during peak hours,"
+      },
+      {
+        "t": "khách hàng đã không phải",
+        "en": "customers wouldn't have had to"
+      },
+      {
+        "t": "chờ đợi lâu như thế này.",
+        "en": "wait this long"
+      }
+    ],
+    "answers": [
+      "If the supermarket opened more counters during peak hours, customers wouldn't have had to wait this long.",
+      "Had the supermarket added more checkout counters at peak hours, shoppers wouldn't be waiting this long."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Người đàn ông",
+        "en": "The man"
+      },
+      {
+        "t": "đứng ngay trước tôi",
+        "en": "standing right in front of me"
+      },
+      {
+        "t": "trong hàng dài ấy",
+        "en": "in that long line"
+      },
+      {
+        "t": "hóa ra lại quên mang theo ví.",
+        "en": "turned out to have forgotten his wallet"
+      }
+    ],
+    "answers": [
+      "The man standing right in front of me in that long line turned out to have forgotten his wallet.",
+      "The guy right ahead of me in that long line had, it turned out, forgotten his wallet."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng nhiều người dùng",
+        "en": "The more people use"
+      },
+      {
+        "t": "quầy tự thanh toán,",
+        "en": "self-checkout,"
+      },
+      {
+        "t": "quầy có nhân viên",
+        "en": "the staffed counters"
+      },
+      {
+        "t": "càng trở nên vắng vẻ hơn.",
+        "en": "get emptier"
+      }
+    ],
+    "answers": [
+      "The more people use self-checkout, the emptier the staffed counters get.",
+      "As more people switch to self-checkout, the staffed lanes grow quieter and quieter."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi không vội vàng,",
+        "en": "If I hadn't been in such a hurry,"
+      },
+      {
+        "t": "tôi đã không mua nhầm",
+        "en": "I wouldn't have bought the wrong"
+      },
+      {
+        "t": "loại thuốc",
+        "en": "medicine"
+      },
+      {
+        "t": "mà bác sĩ không kê cho tôi.",
+        "en": "that the doctor hadn't prescribed for me"
+      }
+    ],
+    "answers": [
+      "If I hadn't been in such a hurry, I wouldn't have bought the wrong medicine that the doctor hadn't prescribed for me.",
+      "Had I not been rushing, I wouldn't have grabbed the wrong medicine that wasn't even prescribed to me."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Món đồ",
+        "en": "The item"
+      },
+      {
+        "t": "mà tôi mua nhầm",
+        "en": "that I bought by mistake"
+      },
+      {
+        "t": "cuối cùng lại hữu ích hơn nhiều",
+        "en": "turned out to be much more useful"
+      },
+      {
+        "t": "so với món tôi định mua ban đầu.",
+        "en": "than the one I originally intended to buy"
+      }
+    ],
+    "answers": [
+      "The item that I bought by mistake turned out to be much more useful than the one I originally intended to buy.",
+      "What I mistakenly bought ended up being far more useful than the thing I originally meant to get."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Giá như tôi kiểm tra",
+        "en": "I wish I had checked"
+      },
+      {
+        "t": "nhãn hàng kỹ hơn,",
+        "en": "the label more carefully,"
+      },
+      {
+        "t": "tôi đã không mua nhầm",
+        "en": "I wouldn't have bought"
+      },
+      {
+        "t": "loại hết hạn sử dụng như vậy.",
+        "en": "the expired kind like that"
+      }
+    ],
+    "answers": [
+      "I wish I had checked the label more carefully, I wouldn't have bought the expired kind like that.",
+      "If only I'd read the label more closely, I wouldn't have ended up with an expired product like that."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi không dành thời gian",
+        "en": "If I hadn't spent time"
+      },
+      {
+        "t": "so sánh giá giữa các shop,",
+        "en": "comparing prices between shops,"
+      },
+      {
+        "t": "tôi đã trả đắt hơn nhiều",
+        "en": "I would have paid much more"
+      },
+      {
+        "t": "cho món đồ này.",
+        "en": "for this item"
+      }
+    ],
+    "answers": [
+      "If I hadn't spent time comparing prices between shops, I would have paid much more for this item.",
+      "Had I not taken the time to compare shops, I'd have overpaid for this item by a lot."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng nhiều shop",
+        "en": "The more shops"
+      },
+      {
+        "t": "bán cùng một sản phẩm",
+        "en": "sell the same product"
+      },
+      {
+        "t": "với giá khác nhau,",
+        "en": "at different prices,"
+      },
+      {
+        "t": "người mua càng dễ bị rối",
+        "en": "the more confused buyers get"
+      },
+      {
+        "t": "và mất thời gian.",
+        "en": "and the more time they waste"
+      }
+    ],
+    "answers": [
+      "The more shops sell the same product at different prices, the more confused buyers get and the more time they waste.",
+      "The more shops sell the same item at varying prices, the harder it is for buyers to decide, wasting their time."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Shop",
+        "en": "The shop"
+      },
+      {
+        "t": "mà tôi từng nghĩ là rẻ nhất",
+        "en": "that I once thought was the cheapest"
+      },
+      {
+        "t": "hóa ra lại tính thêm",
+        "en": "turned out to charge extra"
+      },
+      {
+        "t": "phí vận chuyển khá cao.",
+        "en": "quite a high shipping fee"
+      }
+    ],
+    "answers": [
+      "The shop that I once thought was the cheapest turned out to charge quite a high shipping fee.",
+      "The shop I used to think was cheapest actually charges a pretty steep delivery fee."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Hiếm khi nào",
+        "en": "Rarely"
+      },
+      {
+        "t": "tôi thấy",
+        "en": "have I seen"
+      },
+      {
+        "t": "một cửa hàng online",
+        "en": "an online store"
+      },
+      {
+        "t": "có dịch vụ chăm sóc khách hàng",
+        "en": "with customer service"
+      },
+      {
+        "t": "tệ đến mức này.",
+        "en": "this bad"
+      }
+    ],
+    "answers": [
+      "Rarely have I seen an online store with customer service this bad.",
+      "I've rarely come across an online shop with such terrible customer service."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Không chỉ giá cả tăng lên,",
+        "en": "Not only have prices gone up,"
+      },
+      {
+        "t": "mà chất lượng sản phẩm",
+        "en": "but the quality of products"
+      },
+      {
+        "t": "cũng giảm sút rõ rệt",
+        "en": "has also noticeably declined"
+      },
+      {
+        "t": "trong năm nay.",
+        "en": "this year"
+      }
+    ],
+    "answers": [
+      "Not only have prices gone up, but the quality of products has also noticeably declined this year.",
+      "Prices haven't just risen this year, product quality has clearly dropped too."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu không nhờ",
+        "en": "If it weren't for"
+      },
+      {
+        "t": "mã giảm giá bạn tôi gửi,",
+        "en": "the discount code my friend sent me,"
+      },
+      {
+        "t": "tôi đã không mua nổi",
+        "en": "I wouldn't have been able to afford"
+      },
+      {
+        "t": "món đồ điện tử đắt tiền đó.",
+        "en": "that expensive piece of electronics"
+      }
+    ],
+    "answers": [
+      "If it weren't for the discount code my friend sent me, I wouldn't have been able to afford that expensive piece of electronics.",
+      "Without the discount code my friend sent, I couldn't have afforded that pricey electronic item."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Việc mua sắm quá đà",
+        "en": "Overspending"
+      },
+      {
+        "t": "trong dịp lễ hội",
+        "en": "during the holiday season"
+      },
+      {
+        "t": "khiến không ít gia đình",
+        "en": "leaves quite a few families"
+      },
+      {
+        "t": "rơi vào tình trạng chật vật tài chính",
+        "en": "struggling financially"
+      },
+      {
+        "t": "sau đó.",
+        "en": "afterward"
+      }
+    ],
+    "answers": [
+      "Overspending during the holiday season leaves quite a few families struggling financially afterward.",
+      "Splurging over the holidays leaves a good number of families financially strapped afterward."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Mãi đến khi về nhà,",
+        "en": "Not until I got home"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "did I realize"
+      },
+      {
+        "t": "hóa đơn tính tiền",
+        "en": "the receipt"
+      },
+      {
+        "t": "sai số lượng sản phẩm",
+        "en": "had the wrong quantity of items"
+      },
+      {
+        "t": "tôi mua.",
+        "en": "I bought"
+      }
+    ],
+    "answers": [
+      "Not until I got home did I realize the receipt had the wrong quantity of items I bought.",
+      "I didn't notice the receipt had the wrong item count until I got home."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu người bán trung thực hơn",
+        "en": "If the seller had been more honest"
+      },
+      {
+        "t": "về nguồn gốc sản phẩm,",
+        "en": "about the product's origin,"
+      },
+      {
+        "t": "khách hàng đã không cảm thấy",
+        "en": "customers wouldn't have felt"
+      },
+      {
+        "t": "bị lừa dối như vậy.",
+        "en": "so deceived"
+      }
+    ],
+    "answers": [
+      "If the seller had been more honest about the product's origin, customers wouldn't have felt so deceived.",
+      "Had the seller been upfront about where the product came from, customers wouldn't feel this cheated."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng gần Tết,",
+        "en": "The closer it gets to Tet,"
+      },
+      {
+        "t": "các khu chợ truyền thống",
+        "en": "traditional markets"
+      },
+      {
+        "t": "càng trở nên nhộn nhịp hơn bao giờ hết.",
+        "en": "become livelier than ever"
+      }
+    ],
+    "answers": [
+      "The closer it gets to Tet, the livelier traditional markets become.",
+      "As Tet approaches, traditional markets get busier than ever before."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chiếc điện thoại",
+        "en": "The phone"
+      },
+      {
+        "t": "được rao bán",
+        "en": "that was listed"
+      },
+      {
+        "t": "với giá hời quá mức",
+        "en": "at a suspiciously good price"
+      },
+      {
+        "t": "hóa ra là",
+        "en": "turned out to be"
+      },
+      {
+        "t": "hàng đã qua sửa chữa nhiều lần.",
+        "en": "one that had been repaired many times"
+      }
+    ],
+    "answers": [
+      "The phone that was listed at a suspiciously good price turned out to be one that had been repaired many times.",
+      "That phone advertised at a too-good-to-be-true price turned out to have been repaired multiple times."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Không những chậm giao hàng,",
+        "en": "Not only was the delivery late,"
+      },
+      {
+        "t": "cửa hàng đó",
+        "en": "that store"
+      },
+      {
+        "t": "còn không hề xin lỗi khách",
+        "en": "didn't even apologize to customers"
+      },
+      {
+        "t": "khi bị phàn nàn.",
+        "en": "when they complained"
+      }
+    ],
+    "answers": [
+      "Not only was the delivery late, that store didn't even apologize to customers when they complained.",
+      "The delivery was late, and on top of that, the store never apologized when customers complained."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết trước",
+        "en": "If I had known in advance"
+      },
+      {
+        "t": "giá sẽ giảm sâu",
+        "en": "that the price would drop sharply"
+      },
+      {
+        "t": "vào cuối tuần,",
+        "en": "over the weekend,"
+      },
+      {
+        "t": "tôi đã không mua vội",
+        "en": "I wouldn't have rushed to buy"
+      },
+      {
+        "t": "vào đầu tuần như vậy.",
+        "en": "earlier in the week like that"
+      }
+    ],
+    "answers": [
+      "If I had known in advance that the price would drop sharply over the weekend, I wouldn't have rushed to buy earlier in the week.",
+      "Had I known prices would fall so much by the weekend, I wouldn't have bought in such a hurry earlier."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng có nhiều lựa chọn thanh toán,",
+        "en": "The more payment options there are,"
+      },
+      {
+        "t": "khách hàng càng cảm thấy",
+        "en": "the more comfortable customers feel"
+      },
+      {
+        "t": "thoải mái hơn khi mua sắm.",
+        "en": "when shopping"
+      }
+    ],
+    "answers": [
+      "The more payment options there are, the more comfortable customers feel when shopping.",
+      "The wider the range of payment options, the more at ease shoppers feel."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Hầu như tuần nào",
+        "en": "Almost every week"
+      },
+      {
+        "t": "tôi cũng lỡ tay đặt thêm",
+        "en": "I end up accidentally ordering"
+      },
+      {
+        "t": "vài món trên app",
+        "en": "a few more things on the app"
+      },
+      {
+        "t": "dù đã tự nhủ",
+        "en": "even though I've told myself"
+      },
+      {
+        "t": "sẽ tiết kiệm hơn.",
+        "en": "I'll save more"
+      }
+    ],
+    "answers": [
+      "Almost every week I end up accidentally ordering a few more things on the app, even though I've told myself I'll save more.",
+      "I keep impulsively ordering extra things on the app nearly every week, despite promising myself I'd cut back."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu người bán đóng gói cẩn thận hơn,",
+        "en": "If the seller had packed it more carefully,"
+      },
+      {
+        "t": "món đồ dễ vỡ ấy",
+        "en": "that fragile item"
+      },
+      {
+        "t": "đã không bị hư hại",
+        "en": "wouldn't have been damaged"
+      },
+      {
+        "t": "trong lúc vận chuyển.",
+        "en": "during shipping"
+      }
+    ],
+    "answers": [
+      "If the seller had packed it more carefully, that fragile item wouldn't have been damaged during shipping.",
+      "Had the seller packaged it better, the fragile item wouldn't have gotten damaged in transit."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Điều khiến tôi bực mình nhất",
+        "en": "What annoys me most"
+      },
+      {
+        "t": "không phải là giá cao",
+        "en": "isn't the high price"
+      },
+      {
+        "t": "mà là",
+        "en": "but"
+      },
+      {
+        "t": "thái độ thiếu tôn trọng",
+        "en": "the disrespectful attitude"
+      },
+      {
+        "t": "của nhân viên bán hàng.",
+        "en": "of the sales staff"
+      }
+    ],
+    "answers": [
+      "What annoys me most isn't the high price but the disrespectful attitude of the sales staff.",
+      "It's not the high price that bothers me most, it's how disrespectful the sales staff were."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Nếu không có",
+        "en": "If it weren't for"
+      },
+      {
+        "t": "những đợt sale flash bất ngờ,",
+        "en": "those sudden flash sales,"
+      },
+      {
+        "t": "có lẽ tôi đã tiết kiệm được",
+        "en": "I probably would have saved"
+      },
+      {
+        "t": "nhiều hơn trong năm nay.",
+        "en": "more this year"
+      }
+    ],
+    "answers": [
+      "If it weren't for those sudden flash sales, I probably would have saved more this year.",
+      "Without those surprise flash sales popping up, I likely would've saved a lot more this year."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Càng so sánh nhiều nơi bán,",
+        "en": "The more places I compare,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "mình đã trả quá đắt",
+        "en": "I overpaid"
+      },
+      {
+        "t": "cho món đồ mua tuần trước.",
+        "en": "for the item I bought last week"
+      }
+    ],
+    "answers": [
+      "The more places I compare, the more I realize I overpaid for the item I bought last week.",
+      "The more shops I check, the clearer it becomes that I paid too much for what I bought last week."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "shopping",
+    "chunks": [
+      {
+        "t": "Chiếc đồng hồ",
+        "en": "The watch"
+      },
+      {
+        "t": "được tặng",
+        "en": "that was given"
+      },
+      {
+        "t": "nhân dịp kỷ niệm năm năm làm việc",
+        "en": "on my five-year work anniversary"
+      },
+      {
+        "t": "hóa ra là",
+        "en": "turned out to be"
+      },
+      {
+        "t": "món quà ý nghĩa nhất tôi từng nhận.",
+        "en": "the most meaningful gift I've ever received"
+      }
+    ],
+    "answers": [
+      "The watch that was given on my five-year work anniversary turned out to be the most meaningful gift I've ever received.",
+      "That watch I got for my five-year work anniversary turned out to be the most meaningful present I've ever gotten."
+    ]
+  }
+]

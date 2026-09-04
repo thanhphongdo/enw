@@ -1,0 +1,7968 @@
+[
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi vừa đặt",
+        "en": "I just booked"
+      },
+      {
+        "t": "vé máy bay",
+        "en": "a flight ticket"
+      },
+      {
+        "t": "đi Đà Nẵng",
+        "en": "to Da Nang"
+      },
+      {
+        "t": "cho tuần sau.",
+        "en": "for next week"
+      }
+    ],
+    "answers": [
+      "I just booked a flight to Da Nang for next week.",
+      "I just booked a plane ticket to Da Nang for next week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khách sạn",
+        "en": "the hotel"
+      },
+      {
+        "t": "không cho chúng tôi",
+        "en": "didn't let us"
+      },
+      {
+        "t": "check-in sớm.",
+        "en": "check in early"
+      }
+    ],
+    "answers": [
+      "The hotel didn't let us check in early.",
+      "The hotel wouldn't let us check in early."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "bị lạc đường",
+        "en": "got lost"
+      },
+      {
+        "t": "ngay giữa",
+        "en": "right in the middle of"
+      },
+      {
+        "t": "trung tâm thành phố.",
+        "en": "downtown"
+      }
+    ],
+    "answers": [
+      "We got lost right in the middle of downtown.",
+      "We got lost right in the city center."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Va li của tôi",
+        "en": "my suitcase"
+      },
+      {
+        "t": "bị thất lạc",
+        "en": "got lost"
+      },
+      {
+        "t": "ở sân bay Bangkok.",
+        "en": "at Bangkok airport"
+      }
+    ],
+    "answers": [
+      "My suitcase got lost at Bangkok airport.",
+      "My suitcase went missing at Bangkok airport."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Bọn mình",
+        "en": "we"
+      },
+      {
+        "t": "đang phượt xuyên Việt",
+        "en": "are backpacking across Vietnam"
+      },
+      {
+        "t": "bằng xe máy.",
+        "en": "by motorbike"
+      }
+    ],
+    "answers": [
+      "We're backpacking across Vietnam by motorbike.",
+      "We're traveling across Vietnam on a motorbike."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nhóm bạn tôi",
+        "en": "my group of friends"
+      },
+      {
+        "t": "đang lên kế hoạch",
+        "en": "is planning"
+      },
+      {
+        "t": "cho chuyến đi Đà Lạt.",
+        "en": "a trip to Da Lat"
+      }
+    ],
+    "answers": [
+      "My group of friends is planning a trip to Da Lat.",
+      "My friends are planning a trip to Da Lat."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cuối tuần này",
+        "en": "this weekend"
+      },
+      {
+        "t": "tôi về quê",
+        "en": "I'm going back to my hometown"
+      },
+      {
+        "t": "thăm ông bà.",
+        "en": "to visit my grandparents"
+      }
+    ],
+    "answers": [
+      "This weekend I'm going back to my hometown to visit my grandparents.",
+      "I'm going home this weekend to see my grandparents."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đang xin",
+        "en": "I'm applying for"
+      },
+      {
+        "t": "visa du lịch",
+        "en": "a tourist visa"
+      },
+      {
+        "t": "Nhật Bản.",
+        "en": "for Japan"
+      }
+    ],
+    "answers": [
+      "I'm applying for a tourist visa for Japan.",
+      "I'm applying for a Japan tourist visa."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi cần",
+        "en": "we need to"
+      },
+      {
+        "t": "đổi tiền",
+        "en": "exchange money"
+      },
+      {
+        "t": "tại sân bay.",
+        "en": "at the airport"
+      }
+    ],
+    "answers": [
+      "We need to exchange money at the airport.",
+      "We need to change money at the airport."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "luôn bị say xe",
+        "en": "always get carsick"
+      },
+      {
+        "t": "trên những đoạn đường đèo.",
+        "en": "on winding mountain roads"
+      }
+    ],
+    "answers": [
+      "I always get carsick on winding mountain roads.",
+      "I always feel carsick on winding mountain roads."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "chụp cả trăm tấm ảnh",
+        "en": "took a hundred photos"
+      },
+      {
+        "t": "ở bãi biển.",
+        "en": "on the beach"
+      }
+    ],
+    "answers": [
+      "She took a hundred photos on the beach.",
+      "She took hundreds of photos at the beach."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đồ ăn ở Hội An",
+        "en": "the food in Hoi An"
+      },
+      {
+        "t": "ngon hơn",
+        "en": "is better than"
+      },
+      {
+        "t": "tôi tưởng nhiều.",
+        "en": "I expected"
+      }
+    ],
+    "answers": [
+      "The food in Hoi An is much better than I expected.",
+      "The food in Hoi An tastes way better than I thought."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trời đang mưa to",
+        "en": "it's raining heavily"
+      },
+      {
+        "t": "ngay ngày đầu",
+        "en": "right on the first day"
+      },
+      {
+        "t": "chuyến đi.",
+        "en": "of the trip"
+      }
+    ],
+    "answers": [
+      "It's raining heavily right on the first day of the trip.",
+      "It's pouring rain on the very first day of our trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "lỡ mất",
+        "en": "missed"
+      },
+      {
+        "t": "chuyến bay",
+        "en": "our flight"
+      },
+      {
+        "t": "sáng nay.",
+        "en": "this morning"
+      }
+    ],
+    "answers": [
+      "We missed our flight this morning.",
+      "We missed the flight this morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến đi Phú Quốc",
+        "en": "the trip to Phu Quoc"
+      },
+      {
+        "t": "năm ngoái",
+        "en": "last year"
+      },
+      {
+        "t": "là kỷ niệm đẹp nhất của tôi.",
+        "en": "is my best memory"
+      }
+    ],
+    "answers": [
+      "The trip to Phu Quoc last year is my best memory.",
+      "Our trip to Phu Quoc last year is my favorite memory."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tụi mình",
+        "en": "we"
+      },
+      {
+        "t": "đang đi phượt bụi,",
+        "en": "are backpacking"
+      },
+      {
+        "t": "không đặt phòng trước",
+        "en": "without booking any rooms ahead"
+      },
+      {
+        "t": "gì cả.",
+        "en": "at all"
+      }
+    ],
+    "answers": [
+      "We're backpacking without booking any rooms ahead at all.",
+      "We're traveling rough, without booking any rooms in advance."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đây là lần đầu tiên",
+        "en": "this is the first time"
+      },
+      {
+        "t": "tôi đi du lịch",
+        "en": "I'm traveling"
+      },
+      {
+        "t": "một mình.",
+        "en": "alone"
+      }
+    ],
+    "answers": [
+      "This is the first time I'm traveling alone.",
+      "This is my first time traveling alone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đặt phòng khách sạn này",
+        "en": "I booked this hotel"
+      },
+      {
+        "t": "qua một cái app",
+        "en": "through an app"
+      },
+      {
+        "t": "trên điện thoại.",
+        "en": "on my phone"
+      }
+    ],
+    "answers": [
+      "I booked this hotel through an app on my phone.",
+      "I booked this hotel using an app on my phone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "làm mất hộ chiếu",
+        "en": "lost his passport"
+      },
+      {
+        "t": "ngay trước ngày bay.",
+        "en": "right before the flight day"
+      }
+    ],
+    "answers": [
+      "He lost his passport right before the flight day.",
+      "He lost his passport just before his flight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hàng người",
+        "en": "the line"
+      },
+      {
+        "t": "ở khu an ninh sân bay",
+        "en": "at airport security"
+      },
+      {
+        "t": "dài kinh khủng.",
+        "en": "is incredibly long"
+      }
+    ],
+    "answers": [
+      "The line at airport security is incredibly long.",
+      "The queue at airport security is super long."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tài xế taxi",
+        "en": "the taxi driver"
+      },
+      {
+        "t": "tính giá",
+        "en": "charged"
+      },
+      {
+        "t": "cao hơn bình thường rất nhiều.",
+        "en": "much higher than usual"
+      }
+    ],
+    "answers": [
+      "The taxi driver charged much higher than usual.",
+      "The taxi driver charged way more than usual."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi thuê",
+        "en": "we rented"
+      },
+      {
+        "t": "hai chiếc xe máy",
+        "en": "two motorbikes"
+      },
+      {
+        "t": "để đi vòng quanh đảo.",
+        "en": "to ride around the island"
+      }
+    ],
+    "answers": [
+      "We rented two motorbikes to ride around the island.",
+      "We rented two scooters to get around the island."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Có rất nhiều",
+        "en": "there are a lot of"
+      },
+      {
+        "t": "đồ thủ công đẹp",
+        "en": "beautiful handmade items"
+      },
+      {
+        "t": "ở khu chợ này.",
+        "en": "at this market"
+      }
+    ],
+    "answers": [
+      "There are a lot of beautiful handmade items at this market.",
+      "There are lots of beautiful handicrafts at this market."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Người bán hàng",
+        "en": "the shopkeeper"
+      },
+      {
+        "t": "không hiểu",
+        "en": "doesn't understand"
+      },
+      {
+        "t": "tiếng Anh của tôi",
+        "en": "my English"
+      },
+      {
+        "t": "chút nào.",
+        "en": "at all"
+      }
+    ],
+    "answers": [
+      "The shopkeeper doesn't understand my English at all.",
+      "The shopkeeper can't understand my English at all."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi mua",
+        "en": "I bought"
+      },
+      {
+        "t": "một cái sim du lịch",
+        "en": "a travel SIM card"
+      },
+      {
+        "t": "ngay tại sân bay.",
+        "en": "right at the airport"
+      }
+    ],
+    "answers": [
+      "I bought a travel SIM card right at the airport.",
+      "I bought a tourist SIM card at the airport."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đang tìm",
+        "en": "I'm looking for"
+      },
+      {
+        "t": "vài món quà lưu niệm",
+        "en": "a few souvenirs"
+      },
+      {
+        "t": "cho gia đình.",
+        "en": "for my family"
+      }
+    ],
+    "answers": [
+      "I'm looking for a few souvenirs for my family.",
+      "I'm looking for some souvenirs for my family."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nước biển ở đây",
+        "en": "the sea here"
+      },
+      {
+        "t": "trong",
+        "en": "is clear"
+      },
+      {
+        "t": "và xanh ơi là xanh.",
+        "en": "and incredibly blue"
+      }
+    ],
+    "answers": [
+      "The sea here is clear and incredibly blue.",
+      "The water here is so clear and blue."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi leo núi",
+        "en": "we climbed the mountain"
+      },
+      {
+        "t": "từ sáng sớm",
+        "en": "early in the morning"
+      },
+      {
+        "t": "để ngắm bình minh.",
+        "en": "to watch the sunrise"
+      }
+    ],
+    "answers": [
+      "We climbed the mountain early in the morning to watch the sunrise.",
+      "We hiked up the mountain at dawn to see the sunrise."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "cả nhóm cắm trại",
+        "en": "the whole group is camping"
+      },
+      {
+        "t": "ngay cạnh bờ hồ.",
+        "en": "right by the lake"
+      }
+    ],
+    "answers": [
+      "Tonight the whole group is camping right by the lake.",
+      "Tonight we're all camping right beside the lake."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cái homestay này",
+        "en": "this homestay"
+      },
+      {
+        "t": "nhỏ",
+        "en": "is small"
+      },
+      {
+        "t": "nhưng cực kỳ ấm cúng.",
+        "en": "but really cozy"
+      }
+    ],
+    "answers": [
+      "This homestay is small but really cozy.",
+      "This homestay is small but very cozy."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Món bánh mì",
+        "en": "the banh mi"
+      },
+      {
+        "t": "ở góc phố này",
+        "en": "at this street corner"
+      },
+      {
+        "t": "lúc nào cũng đông khách.",
+        "en": "is always crowded with customers"
+      }
+    ],
+    "answers": [
+      "The banh mi at this street corner is always crowded with customers.",
+      "The banh mi stall on this corner always has a crowd."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "mệt lả người",
+        "en": "is completely exhausted"
+      },
+      {
+        "t": "sau cả ngày",
+        "en": "after a whole day"
+      },
+      {
+        "t": "đi bộ ngoài nắng.",
+        "en": "of walking in the sun"
+      }
+    ],
+    "answers": [
+      "The whole group is completely exhausted after a whole day of walking in the sun.",
+      "We're all totally exhausted after walking in the sun all day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến tàu đêm nay",
+        "en": "tonight's train"
+      },
+      {
+        "t": "chạy chậm hơn dự kiến",
+        "en": "is running slower than expected"
+      },
+      {
+        "t": "khá nhiều.",
+        "en": "quite a lot"
+      }
+    ],
+    "answers": [
+      "Tonight's train is running slower than expected quite a lot.",
+      "Tonight's train is quite a bit slower than expected."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến phà ra đảo",
+        "en": "the ferry to the island"
+      },
+      {
+        "t": "mất khoảng",
+        "en": "takes about"
+      },
+      {
+        "t": "bốn mươi lăm phút.",
+        "en": "forty-five minutes"
+      }
+    ],
+    "answers": [
+      "The ferry to the island takes about forty-five minutes.",
+      "The ferry ride to the island takes around forty-five minutes."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến bay của bạn",
+        "en": "your flight"
+      },
+      {
+        "t": "khởi hành",
+        "en": "departs"
+      },
+      {
+        "t": "lúc mấy giờ vậy?",
+        "en": "at what time"
+      }
+    ],
+    "answers": [
+      "What time does your flight depart?",
+      "What time is your flight leaving?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khách sạn báo",
+        "en": "the hotel told me"
+      },
+      {
+        "t": "họ hết phòng",
+        "en": "they were out of rooms"
+      },
+      {
+        "t": "ngay lúc tôi tới.",
+        "en": "right when I arrived"
+      }
+    ],
+    "answers": [
+      "The hotel told me they were out of rooms right when I arrived.",
+      "The hotel said they had no rooms left the moment I arrived."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Xin lỗi,",
+        "en": "excuse me,"
+      },
+      {
+        "t": "anh có biết",
+        "en": "do you know"
+      },
+      {
+        "t": "đường ra bến xe buýt không?",
+        "en": "the way to the bus station"
+      }
+    ],
+    "answers": [
+      "Excuse me, do you know the way to the bus station?",
+      "Excuse me, could you tell me how to get to the bus station?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Va li của tôi",
+        "en": "my suitcase"
+      },
+      {
+        "t": "quá cân,",
+        "en": "is overweight,"
+      },
+      {
+        "t": "tôi phải bỏ bớt",
+        "en": "I have to take out"
+      },
+      {
+        "t": "đồ ra.",
+        "en": "some things"
+      }
+    ],
+    "answers": [
+      "My suitcase is overweight, I have to take some things out.",
+      "My suitcase is over the weight limit, and I have to remove some items."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tụi mình",
+        "en": "we"
+      },
+      {
+        "t": "đang đạp xe xuyên rừng",
+        "en": "are cycling through the forest"
+      },
+      {
+        "t": "cùng một nhóm bạn nước ngoài.",
+        "en": "with a group of foreign friends"
+      }
+    ],
+    "answers": [
+      "We're cycling through the forest with a group of foreign friends.",
+      "We're biking through the forest with some foreign friends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Lịch trình của cả nhóm",
+        "en": "the group's schedule"
+      },
+      {
+        "t": "dày đặc",
+        "en": "is packed"
+      },
+      {
+        "t": "suốt năm ngày.",
+        "en": "for five days straight"
+      }
+    ],
+    "answers": [
+      "The group's schedule is packed for five days straight.",
+      "Our whole itinerary is jam-packed for five straight days."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Vé xe về quê",
+        "en": "bus tickets home"
+      },
+      {
+        "t": "dịp Tết",
+        "en": "for Tet"
+      },
+      {
+        "t": "luôn cháy sớm.",
+        "en": "always sell out early"
+      }
+    ],
+    "answers": [
+      "Bus tickets home for Tet always sell out early.",
+      "Tickets home for Tet always run out fast."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đơn xin visa của tôi",
+        "en": "my visa application"
+      },
+      {
+        "t": "bị từ chối",
+        "en": "got rejected"
+      },
+      {
+        "t": "lần thứ hai.",
+        "en": "for the second time"
+      }
+    ],
+    "answers": [
+      "My visa application got rejected for the second time.",
+      "My visa was denied for the second time."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tỷ giá đổi tiền ở đây",
+        "en": "the exchange rate here"
+      },
+      {
+        "t": "thấp hơn",
+        "en": "is lower than"
+      },
+      {
+        "t": "ở ngân hàng.",
+        "en": "at the bank"
+      }
+    ],
+    "answers": [
+      "The exchange rate here is lower than at the bank.",
+      "The exchange rate here is worse than the bank's."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi say sóng",
+        "en": "I got seasick"
+      },
+      {
+        "t": "ngay khi",
+        "en": "right when"
+      },
+      {
+        "t": "thuyền vừa ra khơi.",
+        "en": "the boat left the shore"
+      }
+    ],
+    "answers": [
+      "I got seasick right when the boat left the shore.",
+      "I felt seasick the moment the boat left shore."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cảnh hoàng hôn ở đây",
+        "en": "the sunset here"
+      },
+      {
+        "t": "đẹp",
+        "en": "is beautiful"
+      },
+      {
+        "t": "không thể tin nổi.",
+        "en": "unbelievably"
+      }
+    ],
+    "answers": [
+      "The sunset here is unbelievably beautiful.",
+      "The sunset here is beautiful beyond belief."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Món này",
+        "en": "this dish"
+      },
+      {
+        "t": "cay quá,",
+        "en": "is way too spicy,"
+      },
+      {
+        "t": "tôi ăn không nổi.",
+        "en": "I can't handle it"
+      }
+    ],
+    "answers": [
+      "This dish is way too spicy, I can't handle it.",
+      "This dish is really spicy, I can't finish it."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trời nóng kinh khủng,",
+        "en": "it's incredibly hot,"
+      },
+      {
+        "t": "ai cũng đổ mồ hôi",
+        "en": "everyone is sweating"
+      },
+      {
+        "t": "ướt áo.",
+        "en": "through their shirts"
+      }
+    ],
+    "answers": [
+      "It's incredibly hot, everyone is sweating through their shirts.",
+      "It's really hot, and everyone's shirts are soaked with sweat."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến bay của chúng tôi",
+        "en": "our flight"
+      },
+      {
+        "t": "bị delay",
+        "en": "was delayed"
+      },
+      {
+        "t": "ba tiếng đồng hồ.",
+        "en": "for three hours"
+      }
+    ],
+    "answers": [
+      "Our flight was delayed for three hours.",
+      "Our flight got delayed by three hours."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi vẫn giữ",
+        "en": "I still keep"
+      },
+      {
+        "t": "mấy tấm vé tàu",
+        "en": "a few train tickets"
+      },
+      {
+        "t": "của chuyến đi đó.",
+        "en": "from that trip"
+      }
+    ],
+    "answers": [
+      "I still keep a few train tickets from that trip.",
+      "I still have some train tickets from that trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đêm qua",
+        "en": "last night"
+      },
+      {
+        "t": "chúng tôi ngủ trong lều",
+        "en": "we slept in a tent"
+      },
+      {
+        "t": "giữa rừng thông.",
+        "en": "in a pine forest"
+      }
+    ],
+    "answers": [
+      "Last night we slept in a tent in a pine forest.",
+      "Last night we camped out in a tent among pine trees."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đi du lịch một mình",
+        "en": "traveling alone"
+      },
+      {
+        "t": "ở nước ngoài",
+        "en": "abroad"
+      },
+      {
+        "t": "đôi khi hơi đáng sợ.",
+        "en": "is sometimes a bit scary"
+      }
+    ],
+    "answers": [
+      "Traveling alone abroad is sometimes a bit scary.",
+      "Traveling solo in a foreign country can feel a little scary."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cái phòng trong ảnh",
+        "en": "the room in the photos"
+      },
+      {
+        "t": "trên app",
+        "en": "on the app"
+      },
+      {
+        "t": "khác hẳn phòng thật.",
+        "en": "looks totally different from the real room"
+      }
+    ],
+    "answers": [
+      "The room in the photos on the app looks totally different from the real room.",
+      "The room in the app photos is nothing like the actual room."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "lục tung cả túi",
+        "en": "dug through my whole bag"
+      },
+      {
+        "t": "để tìm hộ chiếu.",
+        "en": "to find my passport"
+      }
+    ],
+    "answers": [
+      "I dug through my whole bag to find my passport.",
+      "I searched my whole bag looking for my passport."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi phải quá cảnh",
+        "en": "we have to transit"
+      },
+      {
+        "t": "ở Singapore",
+        "en": "in Singapore"
+      },
+      {
+        "t": "năm tiếng.",
+        "en": "for five hours"
+      }
+    ],
+    "answers": [
+      "We have to transit in Singapore for five hours.",
+      "We have a five-hour layover in Singapore."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Giá Grab ở đây",
+        "en": "Grab prices here"
+      },
+      {
+        "t": "đắt gấp đôi",
+        "en": "are twice as expensive"
+      },
+      {
+        "t": "ở Việt Nam.",
+        "en": "as in Vietnam"
+      }
+    ],
+    "answers": [
+      "Grab prices here are twice as expensive as in Vietnam.",
+      "Grab here costs twice as much as in Vietnam."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi thuê xe đạp",
+        "en": "we rented bikes"
+      },
+      {
+        "t": "đi dạo",
+        "en": "to ride"
+      },
+      {
+        "t": "quanh hồ.",
+        "en": "around the lake"
+      }
+    ],
+    "answers": [
+      "We rented bikes to ride around the lake.",
+      "We rented bicycles and rode around the lake."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chợ đêm ở đây",
+        "en": "the night market here"
+      },
+      {
+        "t": "mở cửa",
+        "en": "stays open"
+      },
+      {
+        "t": "đến tận nửa đêm.",
+        "en": "until midnight"
+      }
+    ],
+    "answers": [
+      "The night market here stays open until midnight.",
+      "The night market here is open until midnight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi phải ra dấu bằng tay,",
+        "en": "I had to use hand signals,"
+      },
+      {
+        "t": "không nói được",
+        "en": "I couldn't speak"
+      },
+      {
+        "t": "tiếng địa phương.",
+        "en": "the local language"
+      }
+    ],
+    "answers": [
+      "I had to use hand signals, I couldn't speak the local language.",
+      "I had to use hand gestures, I didn't know the local language at all."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Wifi khách sạn ở đây",
+        "en": "the hotel wifi here"
+      },
+      {
+        "t": "yếu",
+        "en": "is weak"
+      },
+      {
+        "t": "kinh khủng.",
+        "en": "terribly"
+      }
+    ],
+    "answers": [
+      "The hotel wifi here is terribly weak.",
+      "The wifi at this hotel is really bad."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Mấy cái móc khóa này",
+        "en": "these keychains"
+      },
+      {
+        "t": "rẻ",
+        "en": "are cheap"
+      },
+      {
+        "t": "mà lại xinh.",
+        "en": "and cute too"
+      }
+    ],
+    "answers": [
+      "These keychains are cheap and cute too.",
+      "These keychains are cheap but really cute."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Da tôi",
+        "en": "my skin"
+      },
+      {
+        "t": "cháy nắng đỏ ửng",
+        "en": "got badly sunburned"
+      },
+      {
+        "t": "sau một ngày ở biển.",
+        "en": "after a day at the beach"
+      }
+    ],
+    "answers": [
+      "My skin got badly sunburned after a day at the beach.",
+      "I got a really bad sunburn after a day at the beach."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đôi chân tôi",
+        "en": "my legs"
+      },
+      {
+        "t": "mỏi nhừ",
+        "en": "are aching"
+      },
+      {
+        "t": "sau chuyến leo núi.",
+        "en": "after the hike"
+      }
+    ],
+    "answers": [
+      "My legs are aching after the hike.",
+      "My legs are so sore after the hike."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trời đổ mưa",
+        "en": "it started raining"
+      },
+      {
+        "t": "ngay lúc",
+        "en": "right when"
+      },
+      {
+        "t": "chúng tôi dựng lều xong.",
+        "en": "we finished setting up the tent"
+      }
+    ],
+    "answers": [
+      "It started raining right when we finished setting up the tent.",
+      "It began pouring the moment we finished setting up our tent."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cái resort này",
+        "en": "this resort"
+      },
+      {
+        "t": "đắt",
+        "en": "is expensive"
+      },
+      {
+        "t": "nhưng có hồ bơi riêng.",
+        "en": "but has a private pool"
+      }
+    ],
+    "answers": [
+      "This resort is expensive but has a private pool.",
+      "This resort is pricey, but it has its own pool."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi gọi",
+        "en": "we ordered"
+      },
+      {
+        "t": "một mâm hải sản to đùng",
+        "en": "a huge seafood platter"
+      },
+      {
+        "t": "cho bữa tối.",
+        "en": "for dinner"
+      }
+    ],
+    "answers": [
+      "We ordered a huge seafood platter for dinner.",
+      "We ordered a giant seafood platter for dinner."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi bị jet lag,",
+        "en": "I have jet lag,"
+      },
+      {
+        "t": "đầu óc lơ mơ",
+        "en": "feeling groggy"
+      },
+      {
+        "t": "cả ngày.",
+        "en": "all day"
+      }
+    ],
+    "answers": [
+      "I have jet lag, feeling groggy all day.",
+      "I've got jet lag and I feel groggy all day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Ga tàu",
+        "en": "the train station"
+      },
+      {
+        "t": "đông nghẹt người",
+        "en": "is packed with people"
+      },
+      {
+        "t": "vào giờ cao điểm.",
+        "en": "during rush hour"
+      }
+    ],
+    "answers": [
+      "The train station is packed with people during rush hour.",
+      "The train station gets really crowded during rush hour."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chiếc phà",
+        "en": "the ferry"
+      },
+      {
+        "t": "lắc lư dữ dội",
+        "en": "rocked violently"
+      },
+      {
+        "t": "suốt chuyến đi.",
+        "en": "the whole trip"
+      }
+    ],
+    "answers": [
+      "The ferry rocked violently the whole trip.",
+      "The ferry rocked hard for the entire ride."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hộ chiếu của tôi",
+        "en": "my passport"
+      },
+      {
+        "t": "sắp hết hạn",
+        "en": "is about to expire"
+      },
+      {
+        "t": "trong hai tháng nữa.",
+        "en": "in two more months"
+      }
+    ],
+    "answers": [
+      "My passport is about to expire in two more months.",
+      "My passport expires in two months."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi tìm được",
+        "en": "I found"
+      },
+      {
+        "t": "vé máy bay giá rẻ bất ngờ",
+        "en": "a surprisingly cheap flight ticket"
+      },
+      {
+        "t": "trên một trang web.",
+        "en": "on a website"
+      }
+    ],
+    "answers": [
+      "I found a surprisingly cheap flight ticket on a website.",
+      "I found a really cheap plane ticket on a website."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Phòng khách sạn của chúng tôi",
+        "en": "our hotel room"
+      },
+      {
+        "t": "nhìn thẳng",
+        "en": "looks straight"
+      },
+      {
+        "t": "ra biển.",
+        "en": "out at the sea"
+      }
+    ],
+    "answers": [
+      "Our hotel room looks straight out at the sea.",
+      "Our hotel room has a direct view of the sea."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "đi lạc",
+        "en": "got lost"
+      },
+      {
+        "t": "trong con hẻm nhỏ",
+        "en": "in a narrow alley"
+      },
+      {
+        "t": "lúc trời đã tối.",
+        "en": "when it was already dark"
+      }
+    ],
+    "answers": [
+      "The whole group got lost in a narrow alley when it was already dark.",
+      "We all got lost in a small alley after dark."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Va li của tôi",
+        "en": "my suitcase"
+      },
+      {
+        "t": "bị mở khóa",
+        "en": "got unlocked"
+      },
+      {
+        "t": "lúc nào không hay.",
+        "en": "without me noticing"
+      }
+    ],
+    "answers": [
+      "My suitcase got unlocked without me noticing.",
+      "Somehow my suitcase got opened and I didn't even notice."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trời đổ mưa",
+        "en": "it rained"
+      },
+      {
+        "t": "suốt cả buổi",
+        "en": "the whole time"
+      },
+      {
+        "t": "đi phượt của chúng tôi.",
+        "en": "during our backpacking trip"
+      }
+    ],
+    "answers": [
+      "It rained the whole time during our backpacking trip.",
+      "It kept raining throughout our entire backpacking trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "cãi nhau ỏm tỏi",
+        "en": "argued loudly"
+      },
+      {
+        "t": "về lịch trình ngày mai.",
+        "en": "about tomorrow's schedule"
+      }
+    ],
+    "answers": [
+      "The whole group argued loudly about tomorrow's schedule.",
+      "Everyone got into a loud argument about tomorrow's plan."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cả nhà tôi",
+        "en": "my whole family"
+      },
+      {
+        "t": "quây quần",
+        "en": "gathered together"
+      },
+      {
+        "t": "đón giao thừa",
+        "en": "to welcome the new year"
+      },
+      {
+        "t": "ở quê.",
+        "en": "back in our hometown"
+      }
+    ],
+    "answers": [
+      "My whole family gathered together to welcome the new year back in our hometown.",
+      "My whole family got together in our hometown for New Year's Eve."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi hồi hộp",
+        "en": "I'm nervous"
+      },
+      {
+        "t": "chờ phỏng vấn visa",
+        "en": "waiting for my visa interview"
+      },
+      {
+        "t": "suốt cả tuần.",
+        "en": "all week"
+      }
+    ],
+    "answers": [
+      "I'm nervous waiting for my visa interview all week.",
+      "I've been nervous about my visa interview all week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nhân viên đổi tiền",
+        "en": "the money changer"
+      },
+      {
+        "t": "đưa nhầm cho tôi",
+        "en": "gave me by mistake"
+      },
+      {
+        "t": "toàn tiền lẻ.",
+        "en": "all small bills"
+      }
+    ],
+    "answers": [
+      "The money changer gave me all small bills by mistake.",
+      "The currency exchange clerk accidentally gave me all small notes."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Con tôi",
+        "en": "my child"
+      },
+      {
+        "t": "bị say tàu hỏa",
+        "en": "got trainsick"
+      },
+      {
+        "t": "ngay từ ga đầu tiên.",
+        "en": "right from the very first station"
+      }
+    ],
+    "answers": [
+      "My child got trainsick right from the very first station.",
+      "My kid felt trainsick from the first station already."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "tạo dáng chụp ảnh",
+        "en": "posed for photos"
+      },
+      {
+        "t": "trước tòa tháp cổ.",
+        "en": "in front of the ancient tower"
+      }
+    ],
+    "answers": [
+      "The whole group posed for photos in front of the ancient tower.",
+      "We all posed for pictures in front of the old tower."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Món côn trùng chiên này",
+        "en": "this fried insect dish"
+      },
+      {
+        "t": "nhìn",
+        "en": "looks"
+      },
+      {
+        "t": "lạ mắt quá.",
+        "en": "so strange"
+      }
+    ],
+    "answers": [
+      "This fried insect dish looks so strange.",
+      "This fried insect dish looks really odd."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nhiệt độ ở đây",
+        "en": "the temperature here"
+      },
+      {
+        "t": "giảm mạnh",
+        "en": "drops sharply"
+      },
+      {
+        "t": "vào buổi tối.",
+        "en": "in the evening"
+      }
+    ],
+    "answers": [
+      "The temperature here drops sharply in the evening.",
+      "The temperature here drops a lot at night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi phải chạy như bay",
+        "en": "we had to run like crazy"
+      },
+      {
+        "t": "để kịp",
+        "en": "to catch"
+      },
+      {
+        "t": "chuyến bay nối chuyến.",
+        "en": "our connecting flight"
+      }
+    ],
+    "answers": [
+      "We had to run like crazy to catch our connecting flight.",
+      "We had to sprint to make our connecting flight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Một cụ bà tốt bụng",
+        "en": "a kind old lady"
+      },
+      {
+        "t": "dẫn chúng tôi",
+        "en": "led us"
+      },
+      {
+        "t": "đến tận bến xe.",
+        "en": "all the way to the bus stop"
+      }
+    ],
+    "answers": [
+      "A kind old lady led us all the way to the bus stop.",
+      "A kind old woman walked us all the way to the bus stop."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "gần như hết sạch tiền",
+        "en": "nearly ran out of money"
+      },
+      {
+        "t": "ở ngày cuối chuyến phượt.",
+        "en": "on the last day of the trip"
+      }
+    ],
+    "answers": [
+      "We nearly ran out of money on the last day of the trip.",
+      "We almost ran out of cash on the last day of our trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi quen được",
+        "en": "I made"
+      },
+      {
+        "t": "vài người bạn mới",
+        "en": "a few new friends"
+      },
+      {
+        "t": "trong chuyến đi một mình đó.",
+        "en": "on that solo trip"
+      }
+    ],
+    "answers": [
+      "I made a few new friends on that solo trip.",
+      "I met some new friends during that solo trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đơn đặt phòng của tôi",
+        "en": "my booking"
+      },
+      {
+        "t": "bị hủy",
+        "en": "got canceled"
+      },
+      {
+        "t": "ngay trước ngày đi.",
+        "en": "right before departure day"
+      }
+    ],
+    "answers": [
+      "My booking got canceled right before departure day.",
+      "My reservation got canceled just before the day I left."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi quên hộ chiếu ở nhà,",
+        "en": "I forgot my passport at home,"
+      },
+      {
+        "t": "cả nhà",
+        "en": "my whole family"
+      },
+      {
+        "t": "nháo nhào.",
+        "en": "panicked"
+      }
+    ],
+    "answers": [
+      "I forgot my passport at home, my whole family panicked.",
+      "I left my passport at home, and everyone panicked."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cổng lên máy bay",
+        "en": "the boarding gate"
+      },
+      {
+        "t": "đổi đột ngột",
+        "en": "changed suddenly"
+      },
+      {
+        "t": "ngay phút chót.",
+        "en": "at the very last minute"
+      }
+    ],
+    "answers": [
+      "The boarding gate changed suddenly at the very last minute.",
+      "The gate changed at the last minute without warning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chiếc taxi này",
+        "en": "this taxi"
+      },
+      {
+        "t": "không có",
+        "en": "doesn't have"
+      },
+      {
+        "t": "đồng hồ tính tiền.",
+        "en": "a meter"
+      }
+    ],
+    "answers": [
+      "This taxi doesn't have a meter.",
+      "This taxi has no meter."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi thuê",
+        "en": "we rented"
+      },
+      {
+        "t": "một chiếc ô tô tự lái",
+        "en": "a self-drive car"
+      },
+      {
+        "t": "cho cả chuyến đi.",
+        "en": "for the whole trip"
+      }
+    ],
+    "answers": [
+      "We rented a self-drive car for the whole trip.",
+      "We rented a car and drove ourselves the whole trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi mặc cả một hồi lâu",
+        "en": "I bargained for a long time"
+      },
+      {
+        "t": "mới mua được",
+        "en": "before I could buy"
+      },
+      {
+        "t": "cái nón đó.",
+        "en": "that hat"
+      }
+    ],
+    "answers": [
+      "I bargained for a long time before I could buy that hat.",
+      "I haggled for ages before finally buying that hat."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi dùng điện thoại",
+        "en": "I used my phone"
+      },
+      {
+        "t": "để dịch",
+        "en": "to translate"
+      },
+      {
+        "t": "thực đơn ở nhà hàng.",
+        "en": "the menu at the restaurant"
+      }
+    ],
+    "answers": [
+      "I used my phone to translate the menu at the restaurant.",
+      "I used my phone to translate the restaurant's menu."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sân bay",
+        "en": "the airport"
+      },
+      {
+        "t": "có mấy trạm",
+        "en": "has a few stations"
+      },
+      {
+        "t": "sạc pin điện thoại miễn phí.",
+        "en": "for free phone charging"
+      }
+    ],
+    "answers": [
+      "The airport has a few stations for free phone charging.",
+      "The airport has a few free phone charging stations."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi mua",
+        "en": "I bought"
+      },
+      {
+        "t": "vài món đồ handmade xinh xắn",
+        "en": "a few cute handmade items"
+      },
+      {
+        "t": "ở chợ địa phương.",
+        "en": "at the local market"
+      }
+    ],
+    "answers": [
+      "I bought a few cute handmade items at the local market.",
+      "I bought some pretty handmade things at the local market."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "tắm biển",
+        "en": "swam in the sea"
+      },
+      {
+        "t": "ngay dưới ánh trăng.",
+        "en": "right under the moonlight"
+      }
+    ],
+    "answers": [
+      "We swam in the sea right under the moonlight.",
+      "We went for a swim in the sea under the moonlight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi nằm ngắm sao",
+        "en": "we lay watching the stars"
+      },
+      {
+        "t": "suốt đêm",
+        "en": "all night"
+      },
+      {
+        "t": "ở khu cắm trại.",
+        "en": "at the campsite"
+      }
+    ],
+    "answers": [
+      "We lay watching the stars all night at the campsite.",
+      "We spent the whole night stargazing at the campsite."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cái khách sạn 5 sao này",
+        "en": "this five-star hotel"
+      },
+      {
+        "t": "có",
+        "en": "has"
+      },
+      {
+        "t": "bồn tắm khổng lồ.",
+        "en": "a huge bathtub"
+      }
+    ],
+    "answers": [
+      "This five-star hotel has a huge bathtub.",
+      "This five-star hotel has an enormous bathtub."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Bữa sáng buffet ở khách sạn",
+        "en": "the hotel's breakfast buffet"
+      },
+      {
+        "t": "có",
+        "en": "has"
+      },
+      {
+        "t": "quá trời món ngon.",
+        "en": "tons of delicious dishes"
+      }
+    ],
+    "answers": [
+      "The hotel's breakfast buffet has tons of delicious dishes.",
+      "The hotel breakfast buffet has so many great dishes."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi quên",
+        "en": "I forgot"
+      },
+      {
+        "t": "chỉnh lại giờ đồng hồ",
+        "en": "to adjust my watch"
+      },
+      {
+        "t": "khi máy bay hạ cánh.",
+        "en": "when the plane landed"
+      }
+    ],
+    "answers": [
+      "I forgot to adjust my watch when the plane landed.",
+      "I forgot to change my watch after the plane landed."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi ngồi chờ tàu",
+        "en": "we sat waiting for the train"
+      },
+      {
+        "t": "suốt hai tiếng",
+        "en": "for two hours"
+      },
+      {
+        "t": "ở sân ga.",
+        "en": "at the platform"
+      }
+    ],
+    "answers": [
+      "We sat waiting for the train for two hours at the platform.",
+      "We waited two hours for the train at the platform."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sóng biển hôm nay",
+        "en": "the waves today"
+      },
+      {
+        "t": "to kinh khủng,",
+        "en": "are incredibly big,"
+      },
+      {
+        "t": "không ai dám bơi.",
+        "en": "no one dares to swim"
+      }
+    ],
+    "answers": [
+      "The waves today are incredibly big, no one dares to swim.",
+      "The waves are huge today, and nobody dares to go swimming."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Vé khứ hồi",
+        "en": "a round-trip ticket"
+      },
+      {
+        "t": "rẻ hơn",
+        "en": "is cheaper than"
+      },
+      {
+        "t": "vé một chiều khá nhiều.",
+        "en": "a one-way ticket by quite a bit"
+      }
+    ],
+    "answers": [
+      "A round-trip ticket is cheaper than a one-way ticket by quite a bit.",
+      "A round-trip ticket is quite a bit cheaper than a one-way one."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Phòng bên cạnh",
+        "en": "the room next door"
+      },
+      {
+        "t": "ồn ào suốt đêm,",
+        "en": "was noisy all night,"
+      },
+      {
+        "t": "tôi ngủ không được.",
+        "en": "I couldn't sleep"
+      }
+    ],
+    "answers": [
+      "The room next door was noisy all night, I couldn't sleep.",
+      "The room next to mine was noisy all night, and I couldn't sleep."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đi lạc",
+        "en": "we got lost"
+      },
+      {
+        "t": "trong sân bay",
+        "en": "in the airport"
+      },
+      {
+        "t": "rộng mênh mông.",
+        "en": "it's so huge"
+      }
+    ],
+    "answers": [
+      "We got lost in the airport, it's so huge.",
+      "This airport is huge, and we got completely lost in it."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Túi xách tay của tôi",
+        "en": "my carry-on bag"
+      },
+      {
+        "t": "nặng hơn quy định",
+        "en": "is heavier than the limit"
+      },
+      {
+        "t": "một chút.",
+        "en": "a little"
+      }
+    ],
+    "answers": [
+      "My carry-on bag is heavier than the limit a little.",
+      "My carry-on is a little over the weight limit."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đạp xe",
+        "en": "we cycled"
+      },
+      {
+        "t": "cả trăm cây số",
+        "en": "a hundred kilometers"
+      },
+      {
+        "t": "trong một ngày.",
+        "en": "in one day"
+      }
+    ],
+    "answers": [
+      "We cycled a hundred kilometers in one day.",
+      "We biked a hundred kilometers in a single day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "chia nhau",
+        "en": "split up"
+      },
+      {
+        "t": "ở hai phòng đôi.",
+        "en": "into two double rooms"
+      }
+    ],
+    "answers": [
+      "The whole group split up into two double rooms.",
+      "We all split into two double rooms."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Xe khách về quê",
+        "en": "the bus home"
+      },
+      {
+        "t": "chạy suốt",
+        "en": "runs for"
+      },
+      {
+        "t": "tám tiếng đồng hồ.",
+        "en": "eight hours"
+      }
+    ],
+    "answers": [
+      "The bus home runs for eight hours.",
+      "The bus ride home takes eight hours."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nước này",
+        "en": "this country"
+      },
+      {
+        "t": "cấp visa",
+        "en": "issues visas"
+      },
+      {
+        "t": "ngay tại cửa khẩu.",
+        "en": "right at the border"
+      }
+    ],
+    "answers": [
+      "This country issues visas right at the border.",
+      "This country gives visas on arrival at the border."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đổi",
+        "en": "I exchanged"
+      },
+      {
+        "t": "một trăm đô la Mỹ",
+        "en": "a hundred US dollars"
+      },
+      {
+        "t": "ra tiền địa phương.",
+        "en": "for local currency"
+      }
+    ],
+    "answers": [
+      "I exchanged a hundred US dollars for local currency.",
+      "I changed a hundred US dollars into local money."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Máy bay",
+        "en": "the plane"
+      },
+      {
+        "t": "rung lắc dữ dội",
+        "en": "shook violently"
+      },
+      {
+        "t": "giữa chừng chuyến bay.",
+        "en": "in the middle of the flight"
+      }
+    ],
+    "answers": [
+      "The plane shook violently in the middle of the flight.",
+      "The plane hit some really bad turbulence mid-flight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "bay flycam",
+        "en": "flew a drone"
+      },
+      {
+        "t": "quay toàn cảnh thung lũng.",
+        "en": "to film the whole valley"
+      }
+    ],
+    "answers": [
+      "He flew a drone to film the whole valley.",
+      "He flew a drone and filmed the entire valley."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tìm một quán ăn chay",
+        "en": "finding a vegetarian restaurant"
+      },
+      {
+        "t": "ở đây",
+        "en": "here"
+      },
+      {
+        "t": "khó hơn tôi nghĩ.",
+        "en": "is harder than I thought"
+      }
+    ],
+    "answers": [
+      "Finding a vegetarian restaurant here is harder than I thought.",
+      "It's harder than I expected to find a vegetarian place here."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Bão bất ngờ kéo đến",
+        "en": "a storm suddenly hit"
+      },
+      {
+        "t": "ngay giữa",
+        "en": "right in the middle of"
+      },
+      {
+        "t": "chuyến đi biển của chúng tôi.",
+        "en": "our beach trip"
+      }
+    ],
+    "answers": [
+      "A storm suddenly hit right in the middle of our beach trip.",
+      "A storm suddenly rolled in during our beach trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến bay của chúng tôi",
+        "en": "our flight"
+      },
+      {
+        "t": "bị hủy",
+        "en": "got canceled"
+      },
+      {
+        "t": "ngay sáng hôm bão đến.",
+        "en": "on the very morning the storm hit"
+      }
+    ],
+    "answers": [
+      "Our flight got canceled on the very morning the storm hit.",
+      "Our flight was canceled the morning the storm arrived."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi mất ví ở chợ",
+        "en": "I lost my wallet at the market"
+      },
+      {
+        "t": "nhưng vẫn có",
+        "en": "but still had"
+      },
+      {
+        "t": "một chuyến đi tuyệt vời.",
+        "en": "an amazing trip"
+      }
+    ],
+    "answers": [
+      "I lost my wallet at the market but still had an amazing trip.",
+      "I lost my wallet at the market but the trip was still amazing."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi ngủ nhờ một đêm",
+        "en": "we stayed overnight"
+      },
+      {
+        "t": "ở nhà",
+        "en": "at the home of"
+      },
+      {
+        "t": "một gia đình người dân tộc.",
+        "en": "an ethnic minority family"
+      }
+    ],
+    "answers": [
+      "We stayed overnight at the home of an ethnic minority family.",
+      "We spent a night at an ethnic minority family's house."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "tôi tự thưởng cho mình",
+        "en": "I'm treating myself to"
+      },
+      {
+        "t": "một bữa tối sang trọng.",
+        "en": "a fancy dinner"
+      }
+    ],
+    "answers": [
+      "Tonight I'm treating myself to a fancy dinner.",
+      "Tonight I'm treating myself to a fancy meal alone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Căn nhà Airbnb này",
+        "en": "this Airbnb"
+      },
+      {
+        "t": "nằm sâu",
+        "en": "is tucked away"
+      },
+      {
+        "t": "trong một con hẻm yên tĩnh.",
+        "en": "in a quiet alley"
+      }
+    ],
+    "answers": [
+      "This Airbnb is tucked away in a quiet alley.",
+      "This Airbnb sits deep inside a quiet little alley."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "May quá,",
+        "en": "luckily,"
+      },
+      {
+        "t": "tôi tìm lại được hộ chiếu",
+        "en": "I found my passport again"
+      },
+      {
+        "t": "dưới ghế xe.",
+        "en": "under the car seat"
+      }
+    ],
+    "answers": [
+      "Luckily, I found my passport again under the car seat.",
+      "Luckily, I found my passport under the car seat."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hàng đợi",
+        "en": "the line"
+      },
+      {
+        "t": "ở quầy hải quan",
+        "en": "at customs"
+      },
+      {
+        "t": "nhích từng chút một.",
+        "en": "is moving very slowly"
+      }
+    ],
+    "answers": [
+      "The customs line is moving very slowly.",
+      "The line at customs is barely moving."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi gọi xe ôm công nghệ",
+        "en": "I called a motorbike taxi app"
+      },
+      {
+        "t": "đi từ khách sạn",
+        "en": "from the hotel"
+      },
+      {
+        "t": "ra chợ.",
+        "en": "to the market"
+      }
+    ],
+    "answers": [
+      "I called a motorbike taxi app from the hotel to the market.",
+      "I booked a bike taxi from the hotel to the market."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Xe buýt đường dài này",
+        "en": "this long-distance bus"
+      },
+      {
+        "t": "có",
+        "en": "has"
+      },
+      {
+        "t": "wifi và ổ cắm điện.",
+        "en": "wifi and power outlets"
+      }
+    ],
+    "answers": [
+      "This long-distance bus has wifi and power outlets.",
+      "This long-distance bus comes with wifi and power sockets."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi thích",
+        "en": "I prefer"
+      },
+      {
+        "t": "mua bản đồ giấy",
+        "en": "buying a paper map"
+      },
+      {
+        "t": "hơn dùng điện thoại.",
+        "en": "to using my phone"
+      }
+    ],
+    "answers": [
+      "I prefer buying a paper map to using my phone.",
+      "I'd rather buy a paper map than use my phone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi loay hoay mãi",
+        "en": "I struggled for a while"
+      },
+      {
+        "t": "mới gọi được",
+        "en": "before I could order"
+      },
+      {
+        "t": "món ăn ưng ý.",
+        "en": "a dish I liked"
+      }
+    ],
+    "answers": [
+      "I struggled for a while before I could order a dish I liked.",
+      "It took me a while to finally order a dish I liked."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Điện thoại tôi hết pin",
+        "en": "my phone died"
+      },
+      {
+        "t": "giữa đường",
+        "en": "halfway there"
+      },
+      {
+        "t": "lúc đang tìm khách sạn.",
+        "en": "while I was looking for the hotel"
+      }
+    ],
+    "answers": [
+      "My phone died halfway there while I was looking for the hotel.",
+      "My phone died on the way while I was searching for the hotel."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi mua",
+        "en": "we bought"
+      },
+      {
+        "t": "nước đóng chai",
+        "en": "bottled water"
+      },
+      {
+        "t": "ở khắp mọi nơi.",
+        "en": "everywhere we went"
+      }
+    ],
+    "answers": [
+      "We bought bottled water everywhere we went.",
+      "We bought bottled water at every stop."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cô ấy nằm tắm nắng",
+        "en": "she lay sunbathing"
+      },
+      {
+        "t": "cả buổi chiều",
+        "en": "the whole afternoon"
+      },
+      {
+        "t": "trên bãi biển.",
+        "en": "on the beach"
+      }
+    ],
+    "answers": [
+      "She lay sunbathing the whole afternoon on the beach.",
+      "She spent the whole afternoon sunbathing on the beach."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chân tôi",
+        "en": "my feet"
+      },
+      {
+        "t": "phồng rộp",
+        "en": "got blistered"
+      },
+      {
+        "t": "sau một ngày",
+        "en": "after a day"
+      },
+      {
+        "t": "đi bộ khắp thành phố cổ.",
+        "en": "of walking all over the old town"
+      }
+    ],
+    "answers": [
+      "My feet got blistered after a day of walking all over the old town.",
+      "My feet blistered up after walking the old town all day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Quán cà phê nhỏ này",
+        "en": "this little cafe"
+      },
+      {
+        "t": "có view",
+        "en": "has a view"
+      },
+      {
+        "t": "nhìn ra cả thung lũng.",
+        "en": "over the whole valley"
+      }
+    ],
+    "answers": [
+      "This little cafe has a view over the whole valley.",
+      "This small cafe overlooks the entire valley."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hành lý ký gửi của chúng tôi",
+        "en": "our checked luggage"
+      },
+      {
+        "t": "ra băng chuyền",
+        "en": "came out on the belt"
+      },
+      {
+        "t": "trễ hơn nửa tiếng.",
+        "en": "more than half an hour late"
+      }
+    ],
+    "answers": [
+      "Our checked luggage came out on the belt more than half an hour late.",
+      "Our checked bags showed up on the belt half an hour late."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến tàu cao tốc này",
+        "en": "this high-speed train"
+      },
+      {
+        "t": "chạy êm",
+        "en": "runs smoothly"
+      },
+      {
+        "t": "và nhanh hơn hẳn xe buýt.",
+        "en": "and is much faster than the bus"
+      }
+    ],
+    "answers": [
+      "This high-speed train runs smoothly and is much faster than the bus.",
+      "This high-speed train is smooth and way faster than the bus."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã đặt vé máy bay",
+        "en": "I booked my flight"
+      },
+      {
+        "t": "từ ba tháng trước",
+        "en": "three months ago"
+      },
+      {
+        "t": "vì tôi biết",
+        "en": "because I knew"
+      },
+      {
+        "t": "giá sẽ tăng.",
+        "en": "the price would go up"
+      }
+    ],
+    "answers": [
+      "I booked my flight three months ago because I knew the price would go up.",
+      "I booked my flight three months in advance because I knew prices would rise."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khi chúng tôi đến khách sạn,",
+        "en": "when we arrived at the hotel,"
+      },
+      {
+        "t": "lễ tân",
+        "en": "the receptionist"
+      },
+      {
+        "t": "vẫn chưa dọn phòng xong.",
+        "en": "still hadn't finished cleaning the room"
+      }
+    ],
+    "answers": [
+      "When we arrived at the hotel, the receptionist still hadn't finished cleaning the room.",
+      "When we got to the hotel, they hadn't finished cleaning our room yet."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi bị lạc đường",
+        "en": "we got lost"
+      },
+      {
+        "t": "vì bản đồ trên điện thoại",
+        "en": "because the map on my phone"
+      },
+      {
+        "t": "chỉ sai lối.",
+        "en": "showed the wrong way"
+      }
+    ],
+    "answers": [
+      "We got lost because the map on my phone showed the wrong way.",
+      "We got lost because my phone's map pointed us the wrong way."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hãng hàng không",
+        "en": "the airline"
+      },
+      {
+        "t": "đã làm thất lạc",
+        "en": "has lost"
+      },
+      {
+        "t": "hành lý của tôi",
+        "en": "my luggage"
+      },
+      {
+        "t": "hai lần liên tiếp.",
+        "en": "twice in a row"
+      }
+    ],
+    "answers": [
+      "The airline has lost my luggage twice in a row.",
+      "The airline has lost my bags two times in a row now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trong khi cả nhóm nghỉ ngơi,",
+        "en": "while the group was resting,"
+      },
+      {
+        "t": "tôi đi dạo",
+        "en": "I went for a walk"
+      },
+      {
+        "t": "quanh làng một mình.",
+        "en": "around the village alone"
+      }
+    ],
+    "answers": [
+      "While the group was resting, I went for a walk around the village alone.",
+      "While everyone else rested, I wandered around the village by myself."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trước khi lên đường,",
+        "en": "before setting off,"
+      },
+      {
+        "t": "chúng tôi đã kiểm tra kỹ",
+        "en": "we carefully checked"
+      },
+      {
+        "t": "dự báo thời tiết.",
+        "en": "the weather forecast"
+      }
+    ],
+    "answers": [
+      "Before setting off, we carefully checked the weather forecast.",
+      "Before we set off, we checked the weather forecast carefully."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi về đến quê,",
+        "en": "after getting back to my hometown,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I realized"
+      },
+      {
+        "t": "mình nhớ nơi này đến thế nào.",
+        "en": "how much I had missed this place"
+      }
+    ],
+    "answers": [
+      "After getting back to my hometown, I realized how much I had missed this place.",
+      "After I got home, I realized just how much I'd missed this place."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi từng nghĩ",
+        "en": "I used to think"
+      },
+      {
+        "t": "xin visa Mỹ khó lắm,",
+        "en": "getting a US visa was really hard,"
+      },
+      {
+        "t": "nhưng hóa ra không đến nỗi.",
+        "en": "but it turned out not to be that bad"
+      }
+    ],
+    "answers": [
+      "I used to think getting a US visa was really hard, but it turned out not to be that bad.",
+      "I used to think a US visa would be really hard to get, but it wasn't that bad."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Vì không đổi tiền kịp ở nhà,",
+        "en": "because I didn't exchange money at home in time,"
+      },
+      {
+        "t": "tôi phải trả",
+        "en": "I had to pay"
+      },
+      {
+        "t": "phí cao ở sân bay.",
+        "en": "a high fee at the airport"
+      }
+    ],
+    "answers": [
+      "Because I didn't exchange money at home in time, I had to pay a high fee at the airport.",
+      "Since I hadn't changed money at home in time, I ended up paying a high fee at the airport."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Con tôi",
+        "en": "my child"
+      },
+      {
+        "t": "say xe nặng",
+        "en": "got badly carsick"
+      },
+      {
+        "t": "nên nó nôn",
+        "en": "so he threw up"
+      },
+      {
+        "t": "ngay trên xe buýt.",
+        "en": "right on the bus"
+      }
+    ],
+    "answers": [
+      "My child got badly carsick, so he threw up right on the bus.",
+      "My kid got so carsick that he threw up on the bus."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã chụp được",
+        "en": "I managed to take"
+      },
+      {
+        "t": "một bức ảnh hoàng hôn tuyệt đẹp,",
+        "en": "a stunning sunset photo,"
+      },
+      {
+        "t": "và bạn bè tôi",
+        "en": "and my friends"
+      },
+      {
+        "t": "còn không tin đó là ảnh thật.",
+        "en": "couldn't even believe it was real"
+      }
+    ],
+    "answers": [
+      "I managed to take a stunning sunset photo, and my friends couldn't even believe it was real.",
+      "I took such a stunning sunset photo that my friends didn't believe it was real."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi ăn thử món lạ đó,",
+        "en": "after trying that strange dish,"
+      },
+      {
+        "t": "tôi mới biết",
+        "en": "I found out"
+      },
+      {
+        "t": "mình bị dị ứng hải sản.",
+        "en": "I was allergic to seafood"
+      }
+    ],
+    "answers": [
+      "After trying that strange dish, I found out I was allergic to seafood.",
+      "After I tried that unusual dish, I discovered I'm allergic to seafood."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Thời tiết đã thay đổi hoàn toàn",
+        "en": "the weather has completely changed"
+      },
+      {
+        "t": "kể từ khi",
+        "en": "since"
+      },
+      {
+        "t": "chúng tôi lên đến đỉnh núi.",
+        "en": "we reached the top of the mountain"
+      }
+    ],
+    "answers": [
+      "The weather has completely changed since we reached the top of the mountain.",
+      "The weather has totally changed since we got to the mountaintop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến bay bị hoãn lại",
+        "en": "the flight was delayed"
+      },
+      {
+        "t": "nên chúng tôi phải",
+        "en": "so we had to"
+      },
+      {
+        "t": "ngủ qua đêm ở sân bay.",
+        "en": "spend the night at the airport"
+      }
+    ],
+    "answers": [
+      "The flight was delayed, so we had to spend the night at the airport.",
+      "The flight got delayed, so we ended up sleeping at the airport overnight."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Mỗi khi nhìn lại",
+        "en": "whenever I look back at"
+      },
+      {
+        "t": "những tấm ảnh đó,",
+        "en": "those photos,"
+      },
+      {
+        "t": "tôi lại nhớ",
+        "en": "I remember"
+      },
+      {
+        "t": "chuyến đi Sapa năm ấy.",
+        "en": "that trip to Sapa"
+      }
+    ],
+    "answers": [
+      "Whenever I look back at those photos, I remember that trip to Sapa.",
+      "Whenever I look at those old photos, that trip to Sapa comes back to me."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đi phượt bụi",
+        "en": "we travel rough"
+      },
+      {
+        "t": "nên thường",
+        "en": "so we often"
+      },
+      {
+        "t": "ngủ nhờ ở nhà dân địa phương.",
+        "en": "stay overnight with local families"
+      }
+    ],
+    "answers": [
+      "We travel rough, so we often stay overnight with local families.",
+      "We backpack on a shoestring, so we often crash at locals' homes."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng sợ",
+        "en": "I used to be afraid of"
+      },
+      {
+        "t": "đi du lịch một mình,",
+        "en": "traveling alone,"
+      },
+      {
+        "t": "nhưng giờ tôi lại thích nó.",
+        "en": "but now I actually love it"
+      }
+    ],
+    "answers": [
+      "In the past I used to be afraid of traveling alone, but now I actually love it.",
+      "I used to be scared of traveling solo, but now I love it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu bạn đặt phòng",
+        "en": "if you book"
+      },
+      {
+        "t": "qua app này,",
+        "en": "through this app,"
+      },
+      {
+        "t": "bạn sẽ được giảm giá",
+        "en": "you'll get a discount of"
+      },
+      {
+        "t": "mười phần trăm.",
+        "en": "ten percent"
+      }
+    ],
+    "answers": [
+      "If you book through this app, you'll get a discount of ten percent.",
+      "If you book through this app, you'll get ten percent off."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi phát hiện mất hộ chiếu,",
+        "en": "after discovering I'd lost my passport,"
+      },
+      {
+        "t": "tôi liền chạy ngay",
+        "en": "I rushed straight"
+      },
+      {
+        "t": "đến đại sứ quán.",
+        "en": "to the embassy"
+      }
+    ],
+    "answers": [
+      "After discovering I'd lost my passport, I rushed straight to the embassy.",
+      "After I realized my passport was gone, I ran straight to the embassy."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khi chúng tôi đang xếp hàng",
+        "en": "while we were queuing"
+      },
+      {
+        "t": "làm thủ tục,",
+        "en": "to check in,"
+      },
+      {
+        "t": "chuyến bay",
+        "en": "our flight"
+      },
+      {
+        "t": "bị đổi sang cổng khác.",
+        "en": "got changed to a different gate"
+      }
+    ],
+    "answers": [
+      "While we were queuing to check in, our flight got changed to a different gate.",
+      "While we were standing in the check-in line, our flight was moved to another gate."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã phải đổi lịch trình",
+        "en": "we had to change our schedule"
+      },
+      {
+        "t": "vì thời tiết xấu",
+        "en": "because of bad weather"
+      },
+      {
+        "t": "bất ngờ.",
+        "en": "that came out of nowhere"
+      }
+    ],
+    "answers": [
+      "We had to change our schedule because of sudden bad weather.",
+      "We had to rearrange our plans because the weather suddenly turned bad."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi máy bay hạ cánh,",
+        "en": "after the plane landed,"
+      },
+      {
+        "t": "chúng tôi phải chờ thêm",
+        "en": "we had to wait an extra"
+      },
+      {
+        "t": "một tiếng để lấy hành lý.",
+        "en": "hour to pick up our luggage"
+      }
+    ],
+    "answers": [
+      "After the plane landed, we had to wait an extra hour to pick up our luggage.",
+      "After landing, we had to wait another hour to get our bags."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Mặc dù trời mưa suốt cả tuần,",
+        "en": "although it rained all week,"
+      },
+      {
+        "t": "chúng tôi vẫn tận hưởng",
+        "en": "we still enjoyed"
+      },
+      {
+        "t": "chuyến đi.",
+        "en": "the trip"
+      }
+    ],
+    "answers": [
+      "Although it rained all week, we still enjoyed the trip.",
+      "Although it rained the whole week, we still had a great trip."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã tiết kiệm được",
+        "en": "I had saved up"
+      },
+      {
+        "t": "một khoản kha khá",
+        "en": "a decent amount of money"
+      },
+      {
+        "t": "trước khi đặt vé du lịch bụi.",
+        "en": "before booking my backpacking trip"
+      }
+    ],
+    "answers": [
+      "I had saved up a decent amount of money before booking my backpacking trip.",
+      "I'd saved a fair bit of money before booking my backpacking trip."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến xe khách",
+        "en": "the bus"
+      },
+      {
+        "t": "bị trễ hai tiếng",
+        "en": "was two hours late"
+      },
+      {
+        "t": "nên chúng tôi lỡ",
+        "en": "so we missed"
+      },
+      {
+        "t": "bữa tối đoàn tụ.",
+        "en": "the family reunion dinner"
+      }
+    ],
+    "answers": [
+      "The bus was two hours late, so we missed the family reunion dinner.",
+      "The bus arrived two hours late, so we missed the family dinner."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khi tôi còn nhỏ,",
+        "en": "when I was a kid,"
+      },
+      {
+        "t": "gia đình tôi thường",
+        "en": "my family used to"
+      },
+      {
+        "t": "về quê",
+        "en": "go back to our hometown"
+      },
+      {
+        "t": "vào mỗi dịp hè.",
+        "en": "every summer"
+      }
+    ],
+    "answers": [
+      "When I was a kid, my family used to go back to our hometown every summer.",
+      "When I was young, we used to visit our hometown every summer."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã đổi khá nhiều tiền mặt",
+        "en": "I exchanged quite a lot of cash"
+      },
+      {
+        "t": "trước khi biết",
+        "en": "before finding out"
+      },
+      {
+        "t": "là thẻ ở đây dùng được.",
+        "en": "that cards work here"
+      }
+    ],
+    "answers": [
+      "I exchanged quite a lot of cash before finding out that cards work here.",
+      "I changed a lot of cash before I realized cards work fine here."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Xe buýt",
+        "en": "the bus"
+      },
+      {
+        "t": "bỏ chúng tôi lại",
+        "en": "left us behind"
+      },
+      {
+        "t": "giữa đường",
+        "en": "halfway through the journey"
+      },
+      {
+        "t": "vì hết xăng.",
+        "en": "because it ran out of gas"
+      }
+    ],
+    "answers": [
+      "The bus left us behind halfway through the journey because it ran out of gas.",
+      "The bus broke down halfway and ran out of gas, leaving us stranded."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trong khi chờ làm thủ tục nhập cảnh,",
+        "en": "while waiting for immigration,"
+      },
+      {
+        "t": "tôi bắt chuyện",
+        "en": "I struck up a conversation"
+      },
+      {
+        "t": "với một cặp đôi người Pháp.",
+        "en": "with a French couple"
+      }
+    ],
+    "answers": [
+      "While waiting for immigration, I struck up a conversation with a French couple.",
+      "While I was waiting at immigration, I got talking to a French couple."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã quen dần",
+        "en": "I've gradually gotten used to"
+      },
+      {
+        "t": "với việc ăn cay",
+        "en": "eating spicy food"
+      },
+      {
+        "t": "sau vài ngày ở đây.",
+        "en": "after a few days here"
+      }
+    ],
+    "answers": [
+      "I've gradually gotten used to eating spicy food after a few days here.",
+      "After a few days here, I've gotten used to spicy food."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Vì đặt phòng trễ quá,",
+        "en": "because we booked too late,"
+      },
+      {
+        "t": "chúng tôi chỉ còn lại",
+        "en": "we were only left with"
+      },
+      {
+        "t": "phòng không có cửa sổ.",
+        "en": "a room with no window"
+      }
+    ],
+    "answers": [
+      "Because we booked too late, we were only left with a room with no window.",
+      "Since we booked so late, all that was left was a windowless room."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi cãi nhau",
+        "en": "after arguing"
+      },
+      {
+        "t": "về lịch trình,",
+        "en": "about the schedule,"
+      },
+      {
+        "t": "cả nhóm mới đồng ý",
+        "en": "the group finally agreed"
+      },
+      {
+        "t": "đi biển trước.",
+        "en": "to go to the beach first"
+      }
+    ],
+    "answers": [
+      "After arguing about the schedule, the group finally agreed to go to the beach first.",
+      "After a long argument about the plan, we finally agreed to hit the beach first."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã bỏ lỡ chuyến tàu",
+        "en": "I missed the train"
+      },
+      {
+        "t": "vì mải chụp ảnh",
+        "en": "because I got caught up taking photos"
+      },
+      {
+        "t": "ở nhà ga.",
+        "en": "at the station"
+      }
+    ],
+    "answers": [
+      "I missed the train because I got caught up taking photos at the station.",
+      "I missed the train because I was too busy taking photos at the station."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khi cơn say sóng ập đến,",
+        "en": "when the seasickness hit,"
+      },
+      {
+        "t": "tôi chỉ muốn",
+        "en": "I just wanted"
+      },
+      {
+        "t": "nhảy xuống biển ngay lập tức.",
+        "en": "to jump into the sea right away"
+      }
+    ],
+    "answers": [
+      "When the seasickness hit, I just wanted to jump into the sea right away.",
+      "When the seasickness kicked in, I just wanted to jump straight into the water."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã lên kế hoạch kỹ lưỡng",
+        "en": "we planned everything carefully"
+      },
+      {
+        "t": "nhưng vẫn gặp",
+        "en": "but still ran into"
+      },
+      {
+        "t": "đủ thứ trục trặc.",
+        "en": "all kinds of problems"
+      }
+    ],
+    "answers": [
+      "We planned everything carefully, but still ran into all kinds of problems.",
+      "We planned it all out carefully, but things still went wrong."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi thức dậy trễ,",
+        "en": "after waking up late,"
+      },
+      {
+        "t": "chúng tôi phải vội vàng",
+        "en": "we had to rush"
+      },
+      {
+        "t": "ra sân bay.",
+        "en": "to the airport"
+      }
+    ],
+    "answers": [
+      "After waking up late, we had to rush to the airport.",
+      "After oversleeping, we had to rush to the airport."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Anh hướng dẫn viên",
+        "en": "the tour guide"
+      },
+      {
+        "t": "dẫn chúng tôi",
+        "en": "led us"
+      },
+      {
+        "t": "đi qua vài con hẻm",
+        "en": "through a few alleys"
+      },
+      {
+        "t": "vắng khách du lịch.",
+        "en": "with hardly any tourists"
+      }
+    ],
+    "answers": [
+      "The tour guide led us through a few alleys with hardly any tourists.",
+      "The tour guide took us through some alleys that tourists rarely visit."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã học được",
+        "en": "I had learned"
+      },
+      {
+        "t": "vài câu tiếng địa phương",
+        "en": "a few local phrases"
+      },
+      {
+        "t": "trước khi đến đó",
+        "en": "before arriving there"
+      },
+      {
+        "t": "để giao tiếp dễ hơn.",
+        "en": "to communicate more easily"
+      }
+    ],
+    "answers": [
+      "I had learned a few local phrases before arriving there to communicate more easily.",
+      "I'd picked up a few local phrases before I got there so I could communicate better."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu trời không mưa",
+        "en": "if it doesn't rain"
+      },
+      {
+        "t": "vào ngày mai,",
+        "en": "tomorrow,"
+      },
+      {
+        "t": "chúng tôi sẽ đi leo núi",
+        "en": "we'll go hiking"
+      },
+      {
+        "t": "từ sáng sớm.",
+        "en": "early in the morning"
+      }
+    ],
+    "answers": [
+      "If it doesn't rain tomorrow, we'll go hiking early in the morning.",
+      "If it doesn't rain tomorrow, we'll head out hiking first thing in the morning."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Vì đặt vé quá gấp,",
+        "en": "because we booked in such a rush,"
+      },
+      {
+        "t": "chúng tôi phải trả thêm",
+        "en": "we had to pay extra"
+      },
+      {
+        "t": "phí đổi vé sau này.",
+        "en": "in change fees later"
+      }
+    ],
+    "answers": [
+      "Because we booked in such a rush, we had to pay extra in change fees later.",
+      "Since we booked so hastily, we ended up paying extra change fees later."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khách sạn xin lỗi",
+        "en": "the hotel apologized"
+      },
+      {
+        "t": "vì đã overbook",
+        "en": "for overbooking"
+      },
+      {
+        "t": "và chuyển chúng tôi",
+        "en": "and moved us"
+      },
+      {
+        "t": "sang khách sạn khác.",
+        "en": "to a different hotel"
+      }
+    ],
+    "answers": [
+      "The hotel apologized for overbooking and moved us to a different hotel.",
+      "The hotel said sorry for overbooking and put us up in another hotel."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Một người đàn ông tốt bụng",
+        "en": "a kind man"
+      },
+      {
+        "t": "đã chỉ đường cho chúng tôi",
+        "en": "showed us the way"
+      },
+      {
+        "t": "khi thấy",
+        "en": "when he saw"
+      },
+      {
+        "t": "chúng tôi loay hoay với bản đồ.",
+        "en": "us struggling with the map"
+      }
+    ],
+    "answers": [
+      "A kind man showed us the way when he saw us struggling with the map.",
+      "A kind man helped us find our way after noticing us fumbling with the map."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hải quan",
+        "en": "customs officers"
+      },
+      {
+        "t": "đã lục soát va li của tôi",
+        "en": "searched my suitcase"
+      },
+      {
+        "t": "kỹ lưỡng",
+        "en": "thoroughly"
+      },
+      {
+        "t": "nên tôi suýt trễ giờ ra máy bay.",
+        "en": "so I nearly missed my boarding time"
+      }
+    ],
+    "answers": [
+      "Customs officers searched my suitcase thoroughly, so I nearly missed my boarding time.",
+      "Customs went through my suitcase so thoroughly that I almost missed boarding."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Xe máy của chúng tôi",
+        "en": "our motorbike"
+      },
+      {
+        "t": "bị hỏng giữa đường",
+        "en": "broke down on the way"
+      },
+      {
+        "t": "nên chúng tôi phải đẩy bộ",
+        "en": "so we had to push it"
+      },
+      {
+        "t": "gần hai cây số.",
+        "en": "for almost two kilometers"
+      }
+    ],
+    "answers": [
+      "Our motorbike broke down on the way, so we had to push it for almost two kilometers.",
+      "Our bike broke down halfway, so we ended up pushing it nearly two kilometers."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi cả nhóm tách nhau ra",
+        "en": "after the group split up"
+      },
+      {
+        "t": "ở khu chợ,",
+        "en": "at the market,"
+      },
+      {
+        "t": "chúng tôi mất gần một tiếng",
+        "en": "it took us almost an hour"
+      },
+      {
+        "t": "để tìm lại nhau.",
+        "en": "to find each other again"
+      }
+    ],
+    "answers": [
+      "After the group split up at the market, it took us almost an hour to find each other again.",
+      "After we got separated at the market, we spent nearly an hour trying to regroup."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã không gặp",
+        "en": "I haven't seen"
+      },
+      {
+        "t": "mấy người bạn thời thơ ấu",
+        "en": "my childhood friends"
+      },
+      {
+        "t": "kể từ khi",
+        "en": "since"
+      },
+      {
+        "t": "chuyển lên thành phố.",
+        "en": "I moved to the city"
+      }
+    ],
+    "answers": [
+      "I haven't seen my childhood friends since I moved to the city.",
+      "I haven't seen my old friends since moving to the city."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi hồi hộp quá",
+        "en": "I was so nervous"
+      },
+      {
+        "t": "nên nói lắp",
+        "en": "that I stammered"
+      },
+      {
+        "t": "khi trả lời",
+        "en": "while answering"
+      },
+      {
+        "t": "câu hỏi phỏng vấn visa.",
+        "en": "the visa interview questions"
+      }
+    ],
+    "answers": [
+      "I was so nervous that I stammered while answering the visa interview questions.",
+      "I got so nervous I started stammering during the visa interview."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Vì ngân hàng đóng cửa sớm,",
+        "en": "because the bank closed early,"
+      },
+      {
+        "t": "chúng tôi phải đổi tiền",
+        "en": "we had to exchange money"
+      },
+      {
+        "t": "ở chợ đen",
+        "en": "on the black market"
+      },
+      {
+        "t": "với tỷ giá bấp bênh.",
+        "en": "at a shaky exchange rate"
+      }
+    ],
+    "answers": [
+      "Because the bank closed early, we had to exchange money on the black market at a shaky exchange rate.",
+      "Since the bank shut early, we had to change money on the black market at a risky rate."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi ngồi tàu lượn siêu tốc,",
+        "en": "after riding the roller coaster,"
+      },
+      {
+        "t": "tôi cảm thấy chóng mặt",
+        "en": "I felt dizzy"
+      },
+      {
+        "t": "suốt cả buổi chiều.",
+        "en": "for the whole afternoon"
+      }
+    ],
+    "answers": [
+      "After riding the roller coaster, I felt dizzy for the whole afternoon.",
+      "After the roller coaster ride, I felt dizzy all afternoon."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã đăng",
+        "en": "I had posted"
+      },
+      {
+        "t": "bức ảnh check-in đó",
+        "en": "that check-in photo"
+      },
+      {
+        "t": "lên mạng xã hội",
+        "en": "on social media"
+      },
+      {
+        "t": "trước khi kịp ăn tối.",
+        "en": "before I even had dinner"
+      }
+    ],
+    "answers": [
+      "I had posted that check-in photo on social media before I even had dinner.",
+      "I posted that check-in picture online before I'd even eaten dinner."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Anh ấy bị ngộ độc thực phẩm",
+        "en": "he got food poisoning"
+      },
+      {
+        "t": "sau khi ăn hải sản",
+        "en": "after eating seafood"
+      },
+      {
+        "t": "ở quán ven đường.",
+        "en": "at a roadside stall"
+      }
+    ],
+    "answers": [
+      "He got food poisoning after eating seafood at a roadside stall.",
+      "He got food poisoning from seafood at a street food stall."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trời oi bức quá",
+        "en": "it was so muggy"
+      },
+      {
+        "t": "nên chúng tôi phải hủy bớt",
+        "en": "that we had to cancel"
+      },
+      {
+        "t": "vài điểm trong tour.",
+        "en": "a few stops on the tour"
+      }
+    ],
+    "answers": [
+      "It was so muggy that we had to cancel a few stops on the tour.",
+      "It got so hot and humid that we had to skip some tour stops."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã ngủ quên",
+        "en": "I overslept"
+      },
+      {
+        "t": "nên lỡ mất",
+        "en": "so I missed"
+      },
+      {
+        "t": "chuyến xe buýt sớm nhất trong ngày.",
+        "en": "the earliest bus of the day"
+      }
+    ],
+    "answers": [
+      "I overslept, so I missed the earliest bus of the day.",
+      "I overslept and ended up missing the first bus of the day."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi vẫn nhớ như in",
+        "en": "I still remember vividly"
+      },
+      {
+        "t": "buổi biểu diễn đường phố",
+        "en": "the street performance"
+      },
+      {
+        "t": "chúng tôi tình cờ xem được",
+        "en": "we happened to catch"
+      },
+      {
+        "t": "ở Praha.",
+        "en": "in Prague"
+      }
+    ],
+    "answers": [
+      "I still remember vividly the street performance we happened to catch in Prague.",
+      "I still clearly remember that street show we stumbled upon in Prague."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã hết sạch nước uống",
+        "en": "we ran out of drinking water"
+      },
+      {
+        "t": "trước khi đến được",
+        "en": "before we could reach"
+      },
+      {
+        "t": "trạm nghỉ tiếp theo.",
+        "en": "the next rest stop"
+      }
+    ],
+    "answers": [
+      "We ran out of drinking water before we could reach the next rest stop.",
+      "We ran out of water before reaching the next rest stop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Vì đi một mình,",
+        "en": "because I was traveling alone,"
+      },
+      {
+        "t": "tôi đã được",
+        "en": "I was"
+      },
+      {
+        "t": "một cặp vợ chồng lớn tuổi",
+        "en": "invited by an elderly couple"
+      },
+      {
+        "t": "mời ăn tối cùng.",
+        "en": "to have dinner with them"
+      }
+    ],
+    "answers": [
+      "Because I was traveling alone, I was invited by an elderly couple to have dinner with them.",
+      "Since I was traveling solo, an elderly couple invited me to join them for dinner."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "App đặt phòng",
+        "en": "the booking app"
+      },
+      {
+        "t": "bị lỗi thanh toán",
+        "en": "had a payment error"
+      },
+      {
+        "t": "nên tôi phải đặt lại",
+        "en": "so I had to book again"
+      },
+      {
+        "t": "từ đầu.",
+        "en": "from scratch"
+      }
+    ],
+    "answers": [
+      "The booking app had a payment error, so I had to book again from scratch.",
+      "The app messed up my payment, so I had to redo the whole booking."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hộ chiếu của tôi",
+        "en": "my passport"
+      },
+      {
+        "t": "bị ướt sũng",
+        "en": "got soaked"
+      },
+      {
+        "t": "vì trời mưa to",
+        "en": "because it rained heavily"
+      },
+      {
+        "t": "trên đường ra sân bay.",
+        "en": "on the way to the airport"
+      }
+    ],
+    "answers": [
+      "My passport got soaked because it rained heavily on the way to the airport.",
+      "My passport got completely soaked because it poured on the way to the airport."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trong lúc chờ quá cảnh,",
+        "en": "while waiting for my connecting flight,"
+      },
+      {
+        "t": "tôi đã ngủ gật",
+        "en": "I dozed off"
+      },
+      {
+        "t": "ngay trên sàn sân bay.",
+        "en": "right on the airport floor"
+      }
+    ],
+    "answers": [
+      "While waiting for my connecting flight, I dozed off right on the airport floor.",
+      "While waiting for my layover, I fell asleep on the airport floor."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi thuê",
+        "en": "we hired"
+      },
+      {
+        "t": "một hướng dẫn viên riêng",
+        "en": "a private tour guide"
+      },
+      {
+        "t": "vì muốn hiểu sâu hơn",
+        "en": "because we wanted to understand more"
+      },
+      {
+        "t": "về lịch sử nơi này.",
+        "en": "about the history of this place"
+      }
+    ],
+    "answers": [
+      "We hired a private tour guide because we wanted to understand more about the history of this place.",
+      "We hired a private guide because we wanted a deeper look at this place's history."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi bị chuột rút",
+        "en": "I got a cramp"
+      },
+      {
+        "t": "giữa đường mòn",
+        "en": "halfway along the trail"
+      },
+      {
+        "t": "nên phải nghỉ hẳn",
+        "en": "so I had to rest for"
+      },
+      {
+        "t": "mười phút.",
+        "en": "a full ten minutes"
+      }
+    ],
+    "answers": [
+      "I got a cramp halfway along the trail, so I had to rest for a full ten minutes.",
+      "I got a leg cramp on the trail and had to stop and rest for ten minutes."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã mua sắm quá tay",
+        "en": "I went overboard with shopping"
+      },
+      {
+        "t": "nên va li",
+        "en": "so my suitcase"
+      },
+      {
+        "t": "không đóng nổi nữa.",
+        "en": "wouldn't close anymore"
+      }
+    ],
+    "answers": [
+      "I went overboard with shopping, so my suitcase wouldn't close anymore.",
+      "I overdid the shopping, and now my suitcase won't even close."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Món này",
+        "en": "this dish"
+      },
+      {
+        "t": "lạ miệng lúc đầu",
+        "en": "tasted strange at first"
+      },
+      {
+        "t": "nhưng sau vài lần ăn",
+        "en": "but after eating it a few times"
+      },
+      {
+        "t": "tôi lại đâm ra ghiền.",
+        "en": "I got hooked on it"
+      }
+    ],
+    "answers": [
+      "This dish tasted strange at first, but after eating it a few times, I got hooked on it.",
+      "This dish felt weird at first, but after a few tries, I actually got addicted to it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã đợi",
+        "en": "we waited"
+      },
+      {
+        "t": "hơn một tiếng",
+        "en": "for over an hour"
+      },
+      {
+        "t": "vì băng chuyền hành lý",
+        "en": "because the luggage belt"
+      },
+      {
+        "t": "bị trục trặc.",
+        "en": "broke down"
+      }
+    ],
+    "answers": [
+      "We waited for over an hour because the luggage belt broke down.",
+      "We waited more than an hour because the baggage carousel malfunctioned."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi lên du thuyền,",
+        "en": "after boarding the cruise ship,"
+      },
+      {
+        "t": "chúng tôi mới nhận ra",
+        "en": "we realized"
+      },
+      {
+        "t": "mình đã mang thừa quá nhiều đồ.",
+        "en": "we had packed way too much"
+      }
+    ],
+    "answers": [
+      "After boarding the cruise ship, we realized we had packed way too much.",
+      "Once we got on the cruise, we realized we'd brought far too much stuff."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã đi lộn tuyến tàu điện ngầm",
+        "en": "I took the wrong subway line"
+      },
+      {
+        "t": "vì bảng chỉ dẫn",
+        "en": "because the signs"
+      },
+      {
+        "t": "toàn chữ tôi không đọc được.",
+        "en": "were all in a language I couldn't read"
+      }
+    ],
+    "answers": [
+      "I took the wrong subway line because the signs were all in a language I couldn't read.",
+      "I got on the wrong subway line because I couldn't read any of the signs."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi tải app gọi xe địa phương,",
+        "en": "after downloading the local ride-hailing app,"
+      },
+      {
+        "t": "việc di chuyển",
+        "en": "getting around"
+      },
+      {
+        "t": "trở nên dễ dàng hơn hẳn.",
+        "en": "became much easier"
+      }
+    ],
+    "answers": [
+      "After downloading the local ride-hailing app, getting around became much easier.",
+      "Once we downloaded the local taxi app, moving around got a lot easier."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cây ATM ở khu này",
+        "en": "the ATMs in this area"
+      },
+      {
+        "t": "hỏng hết",
+        "en": "were all broken"
+      },
+      {
+        "t": "nên chúng tôi không rút được",
+        "en": "so we couldn't withdraw"
+      },
+      {
+        "t": "tiền mặt.",
+        "en": "any cash"
+      }
+    ],
+    "answers": [
+      "The ATMs in this area were all broken, so we couldn't withdraw any cash.",
+      "All the ATMs around here were out of order, so we couldn't get cash."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi quên sạc điện thoại tối qua",
+        "en": "I forgot to charge my phone last night"
+      },
+      {
+        "t": "nên giờ chẳng còn cách nào",
+        "en": "so now there's no way for me"
+      },
+      {
+        "t": "chụp ảnh.",
+        "en": "to take any photos"
+      }
+    ],
+    "answers": [
+      "I forgot to charge my phone last night, so now there's no way for me to take any photos.",
+      "I forgot to charge my phone last night, so I can't take any pictures now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khi vừa bước ra khỏi sân bay,",
+        "en": "as soon as I stepped out of the airport,"
+      },
+      {
+        "t": "cái nóng ẩm",
+        "en": "the humid heat"
+      },
+      {
+        "t": "ập vào người tôi",
+        "en": "hit me"
+      },
+      {
+        "t": "ngay lập tức.",
+        "en": "right away"
+      }
+    ],
+    "answers": [
+      "As soon as I stepped out of the airport, the humid heat hit me right away.",
+      "The moment I left the airport, the humid heat hit me instantly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã cắm trại được ba đêm",
+        "en": "we had camped for three nights"
+      },
+      {
+        "t": "trước khi cơn bão",
+        "en": "before the storm"
+      },
+      {
+        "t": "buộc chúng tôi phải về sớm.",
+        "en": "forced us to head back early"
+      }
+    ],
+    "answers": [
+      "We had camped for three nights before the storm forced us to head back early.",
+      "We'd been camping for three nights before a storm forced us to leave early."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Mặc dù đã đặt phòng trước,",
+        "en": "although we had booked in advance,"
+      },
+      {
+        "t": "chúng tôi vẫn phải chờ",
+        "en": "we still had to wait"
+      },
+      {
+        "t": "đến tối mới nhận được phòng.",
+        "en": "until evening to get our room"
+      }
+    ],
+    "answers": [
+      "Although we had booked in advance, we still had to wait until evening to get our room.",
+      "Even though we'd booked ahead, we didn't get our room until that evening."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Người bán hàng rong",
+        "en": "the street vendor"
+      },
+      {
+        "t": "đã đuổi theo chúng tôi",
+        "en": "chased after us"
+      },
+      {
+        "t": "cả một đoạn phố",
+        "en": "for a whole block"
+      },
+      {
+        "t": "để mời mua nón lá.",
+        "en": "trying to sell us conical hats"
+      }
+    ],
+    "answers": [
+      "The street vendor chased after us for a whole block trying to sell us conical hats.",
+      "The vendor followed us down the street trying to get us to buy conical hats."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã học cách mặc cả khá tốt",
+        "en": "I got pretty good at bargaining"
+      },
+      {
+        "t": "sau vài lần",
+        "en": "after getting"
+      },
+      {
+        "t": "bị hét giá trên trời.",
+        "en": "way overcharged a few times"
+      }
+    ],
+    "answers": [
+      "I got pretty good at bargaining after getting way overcharged a few times.",
+      "After being ripped off a few times, I learned to bargain pretty well."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khi cả nhóm cuối cùng cũng đến đỉnh đồi,",
+        "en": "when the group finally reached the top of the hill,"
+      },
+      {
+        "t": "ai cũng thở hổn hển",
+        "en": "everyone was panting"
+      },
+      {
+        "t": "vì mệt.",
+        "en": "from exhaustion"
+      }
+    ],
+    "answers": [
+      "When the group finally reached the top of the hill, everyone was panting from exhaustion.",
+      "When we finally got to the top of the hill, we were all panting and exhausted."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi định gọi",
+        "en": "I was going to order"
+      },
+      {
+        "t": "món tôm hùm",
+        "en": "the lobster"
+      },
+      {
+        "t": "nhưng đổi ý",
+        "en": "but changed my mind"
+      },
+      {
+        "t": "vì giá đắt hơn tôi tưởng.",
+        "en": "because it was pricier than I expected"
+      }
+    ],
+    "answers": [
+      "I was going to order the lobster but changed my mind because it was pricier than I expected.",
+      "I almost ordered the lobster, but I changed my mind since it cost more than I thought."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã bàn đi bàn lại rất lâu",
+        "en": "we went back and forth for ages"
+      },
+      {
+        "t": "trước khi chọn được",
+        "en": "before finally picking"
+      },
+      {
+        "t": "nơi ở phù hợp túi tiền.",
+        "en": "a place that fit our budget"
+      }
+    ],
+    "answers": [
+      "We went back and forth for ages before finally picking a place that fit our budget.",
+      "We debated for ages before finding a place within our budget."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi rời khách sạn",
+        "en": "if we leave the hotel"
+      },
+      {
+        "t": "sớm hơn,",
+        "en": "earlier,"
+      },
+      {
+        "t": "chúng tôi sẽ không bị kẹt",
+        "en": "we won't get stuck"
+      },
+      {
+        "t": "trong giờ cao điểm.",
+        "en": "in rush hour traffic"
+      }
+    ],
+    "answers": [
+      "If we leave the hotel earlier, we won't get stuck in rush hour traffic.",
+      "If we head out earlier, we won't get caught in rush hour."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã đặt vé giờ chót",
+        "en": "I booked at the last minute"
+      },
+      {
+        "t": "nên phải trả",
+        "en": "so I had to pay"
+      },
+      {
+        "t": "gấp đôi giá bình thường.",
+        "en": "twice the normal price"
+      }
+    ],
+    "answers": [
+      "I booked at the last minute, so I had to pay twice the normal price.",
+      "I booked last minute and ended up paying double the usual price."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nhân viên lễ tân",
+        "en": "the receptionist"
+      },
+      {
+        "t": "rất thân thiện",
+        "en": "was really friendly"
+      },
+      {
+        "t": "và còn tặng chúng tôi",
+        "en": "and even gave us"
+      },
+      {
+        "t": "một chai rượu vang.",
+        "en": "a bottle of wine"
+      }
+    ],
+    "answers": [
+      "The receptionist was really friendly and even gave us a bottle of wine.",
+      "The receptionist was so friendly that she even gave us a bottle of wine."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi hỏi đường một người lạ",
+        "en": "we asked a stranger for directions"
+      },
+      {
+        "t": "nhưng anh ta chỉ sai",
+        "en": "but he pointed us the wrong way"
+      },
+      {
+        "t": "nên chúng tôi đi vòng thêm",
+        "en": "so we ended up going the wrong way for"
+      },
+      {
+        "t": "nửa tiếng.",
+        "en": "another half hour"
+      }
+    ],
+    "answers": [
+      "We asked a stranger for directions, but he pointed us the wrong way, so we ended up going the wrong way for another half hour.",
+      "We asked a stranger for directions, but he gave us wrong directions, so we wasted another half hour."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hải quan",
+        "en": "customs"
+      },
+      {
+        "t": "đã giữ lại hành lý của tôi",
+        "en": "held onto my luggage"
+      },
+      {
+        "t": "vì nghi ngờ",
+        "en": "because they suspected"
+      },
+      {
+        "t": "có đồ cấm.",
+        "en": "there were prohibited items"
+      }
+    ],
+    "answers": [
+      "Customs held onto my luggage because they suspected there were prohibited items.",
+      "Customs kept my bag because they thought it might have banned items."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trời tối sầm lại",
+        "en": "it got dark suddenly"
+      },
+      {
+        "t": "khi chúng tôi",
+        "en": "while we were"
+      },
+      {
+        "t": "vẫn còn cách trạm dừng chân khá xa.",
+        "en": "still quite far from the rest stop"
+      }
+    ],
+    "answers": [
+      "It got dark suddenly while we were still quite far from the rest stop.",
+      "It suddenly got dark when we were still far from the rest stop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "đã chia đều tiền phòng",
+        "en": "split the room cost evenly"
+      },
+      {
+        "t": "để không ai phải chịu thiệt.",
+        "en": "so that nobody would lose out"
+      }
+    ],
+    "answers": [
+      "The whole group split the room cost evenly so that nobody would lose out.",
+      "We split the room bill evenly so no one would end up paying more."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tết năm nay",
+        "en": "this Tet"
+      },
+      {
+        "t": "đông vui hơn hẳn",
+        "en": "is much more lively"
+      },
+      {
+        "t": "vì cả họ hàng",
+        "en": "because the whole extended family"
+      },
+      {
+        "t": "đều về quê cùng lúc.",
+        "en": "came back home at the same time"
+      }
+    ],
+    "answers": [
+      "This Tet is much more lively because the whole extended family came back home at the same time.",
+      "This Tet feels livelier because the whole family came home together."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi cứ nghĩ",
+        "en": "I thought"
+      },
+      {
+        "t": "visa sẽ mất cả tháng,",
+        "en": "the visa would take a whole month,"
+      },
+      {
+        "t": "nhưng nó được duyệt",
+        "en": "but it got approved"
+      },
+      {
+        "t": "chỉ sau ba ngày.",
+        "en": "in just three days"
+      }
+    ],
+    "answers": [
+      "I thought the visa would take a whole month, but it got approved in just three days.",
+      "I expected the visa to take a month, but it was approved after only three days."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đổi sẵn",
+        "en": "I got some change ready"
+      },
+      {
+        "t": "một ít tiền lẻ",
+        "en": "a bit of small cash"
+      },
+      {
+        "t": "để trả tiền xe buýt",
+        "en": "to pay the bus fare"
+      },
+      {
+        "t": "không cần thối lại.",
+        "en": "without needing change back"
+      }
+    ],
+    "answers": [
+      "I got some change ready to pay the bus fare without needing change back.",
+      "I made sure to have small bills so I wouldn't need change on the bus."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đọc sách trên xe khách",
+        "en": "I read a book on the bus"
+      },
+      {
+        "t": "nên bị say xe",
+        "en": "so I got carsick"
+      },
+      {
+        "t": "gần như suốt chặng đường.",
+        "en": "for nearly the whole journey"
+      }
+    ],
+    "answers": [
+      "I read a book on the bus, so I got carsick for nearly the whole journey.",
+      "I was reading on the bus and ended up feeling carsick almost the whole way."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã làm mất máy ảnh",
+        "en": "I lost my camera"
+      },
+      {
+        "t": "ngay sau khi",
+        "en": "right after"
+      },
+      {
+        "t": "chụp được bức ảnh đẹp nhất chuyến đi.",
+        "en": "taking the best photo of the whole trip"
+      }
+    ],
+    "answers": [
+      "I lost my camera right after taking the best photo of the whole trip.",
+      "I lost my camera just after taking the trip's best photo."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đồ ăn ở resort",
+        "en": "the food at the resort"
+      },
+      {
+        "t": "không hợp khẩu vị tôi",
+        "en": "wasn't to my taste"
+      },
+      {
+        "t": "nên tôi toàn ra ngoài ăn.",
+        "en": "so I always ate out"
+      }
+    ],
+    "answers": [
+      "The food at the resort wasn't to my taste, so I always ate out.",
+      "The resort food didn't suit me, so I kept eating outside instead."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trời trở lạnh bất ngờ",
+        "en": "it suddenly turned cold"
+      },
+      {
+        "t": "nên chúng tôi phải mua thêm",
+        "en": "so we had to buy extra"
+      },
+      {
+        "t": "áo khoác dọc đường.",
+        "en": "jackets along the way"
+      }
+    ],
+    "answers": [
+      "It suddenly turned cold, so we had to buy extra jackets along the way.",
+      "It got unexpectedly cold, so we ended up buying jackets on the way."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi lỡ tàu",
+        "en": "we missed the train"
+      },
+      {
+        "t": "vì phải xếp hàng quá lâu",
+        "en": "because we had to queue too long"
+      },
+      {
+        "t": "để mua vé.",
+        "en": "to buy tickets"
+      }
+    ],
+    "answers": [
+      "We missed the train because we had to queue too long to buy tickets.",
+      "We missed the train because the ticket line took forever."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi tình cờ gặp lại",
+        "en": "I ran into"
+      },
+      {
+        "t": "người bạn cũ",
+        "en": "an old friend"
+      },
+      {
+        "t": "ngay giữa một khu chợ xa lạ.",
+        "en": "right in the middle of an unfamiliar market"
+      }
+    ],
+    "answers": [
+      "I ran into an old friend right in the middle of an unfamiliar market.",
+      "I unexpectedly bumped into an old friend in a market I'd never been to."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Công an",
+        "en": "the police"
+      },
+      {
+        "t": "đã dừng xe chúng tôi lại",
+        "en": "stopped our bike"
+      },
+      {
+        "t": "vì muốn kiểm tra",
+        "en": "because they wanted to check"
+      },
+      {
+        "t": "giấy tờ.",
+        "en": "our papers"
+      }
+    ],
+    "answers": [
+      "The police stopped our bike because they wanted to check our papers.",
+      "The police pulled us over to check our documents."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đó là quyết định táo bạo nhất",
+        "en": "it was the boldest decision"
+      },
+      {
+        "t": "tôi từng đưa ra",
+        "en": "I had ever made"
+      },
+      {
+        "t": "khi bỏ việc",
+        "en": "when I quit my job"
+      },
+      {
+        "t": "để đi du lịch một mình.",
+        "en": "to travel alone"
+      }
+    ],
+    "answers": [
+      "It was the boldest decision I had ever made when I quit my job to travel alone.",
+      "Quitting my job to travel solo was the boldest move I've ever made."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi đọc review giả trên app,",
+        "en": "after reading fake reviews on the app,"
+      },
+      {
+        "t": "tôi mới hiểu",
+        "en": "I finally understood"
+      },
+      {
+        "t": "vì sao khách sạn tệ đến vậy.",
+        "en": "why the hotel was so bad"
+      }
+    ],
+    "answers": [
+      "After reading fake reviews on the app, I finally understood why the hotel was so bad.",
+      "After seeing the fake reviews on the app, I understood why the hotel was that terrible."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Góc hộ chiếu của tôi",
+        "en": "the corner of my passport"
+      },
+      {
+        "t": "bị rách",
+        "en": "was torn"
+      },
+      {
+        "t": "nên nhân viên sân bay",
+        "en": "so the airport staff"
+      },
+      {
+        "t": "hỏi khá nhiều.",
+        "en": "asked me quite a lot of questions"
+      }
+    ],
+    "answers": [
+      "The corner of my passport was torn, so the airport staff asked me quite a lot of questions.",
+      "My passport had a torn corner, so airport staff questioned me a lot."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sân bay nhỏ này",
+        "en": "this small airport"
+      },
+      {
+        "t": "không có điều hòa",
+        "en": "has no air conditioning"
+      },
+      {
+        "t": "nên ai cũng phải quạt tay liên tục.",
+        "en": "so everyone kept fanning themselves"
+      }
+    ],
+    "answers": [
+      "This small airport has no air conditioning, so everyone kept fanning themselves.",
+      "This small airport has no AC, so everyone was constantly fanning themselves."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi thuê",
+        "en": "we rented"
+      },
+      {
+        "t": "một chiếc thuyền câu cá",
+        "en": "a fishing boat"
+      },
+      {
+        "t": "từ sáng sớm",
+        "en": "early in the morning"
+      },
+      {
+        "t": "nhưng chẳng câu được con nào.",
+        "en": "but didn't catch a single fish"
+      }
+    ],
+    "answers": [
+      "We rented a fishing boat early in the morning but didn't catch a single fish.",
+      "We hired a fishing boat at dawn but caught absolutely nothing."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã mua vé tham quan trước",
+        "en": "I bought tickets in advance"
+      },
+      {
+        "t": "qua mạng",
+        "en": "online"
+      },
+      {
+        "t": "để khỏi phải xếp hàng.",
+        "en": "so I wouldn't have to queue"
+      }
+    ],
+    "answers": [
+      "I bought tickets in advance online so I wouldn't have to queue.",
+      "I got tickets online beforehand to avoid the line."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chợ nổi họp",
+        "en": "the floating market opens"
+      },
+      {
+        "t": "từ khi trời còn chưa sáng hẳn",
+        "en": "before it's even fully light"
+      },
+      {
+        "t": "nên chúng tôi phải dậy thật sớm.",
+        "en": "so we had to get up really early"
+      }
+    ],
+    "answers": [
+      "The floating market opens before it's even fully light, so we had to get up really early.",
+      "The floating market starts before dawn, so we had to wake up super early."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Một gia đình người dân tộc",
+        "en": "an ethnic minority family"
+      },
+      {
+        "t": "đã mời chúng tôi ăn cơm cùng",
+        "en": "invited us to eat with them"
+      },
+      {
+        "t": "dù chỉ mới gặp lần đầu.",
+        "en": "even though we had just met"
+      }
+    ],
+    "answers": [
+      "An ethnic minority family invited us to eat with them even though we had just met.",
+      "Even though we'd just met, an ethnic minority family invited us to share a meal."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến xe đêm",
+        "en": "the night bus"
+      },
+      {
+        "t": "quá xóc",
+        "en": "was way too bumpy"
+      },
+      {
+        "t": "nên tôi thức trắng",
+        "en": "so I stayed awake"
+      },
+      {
+        "t": "gần như cả chặng đường.",
+        "en": "for almost the entire ride"
+      }
+    ],
+    "answers": [
+      "The night bus was way too bumpy, so I stayed awake for almost the entire ride.",
+      "The night bus was so bumpy that I barely slept the whole way."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sếp tôi",
+        "en": "my boss"
+      },
+      {
+        "t": "đã tranh thủ đi tham quan",
+        "en": "managed to squeeze in some sightseeing"
+      },
+      {
+        "t": "vài nơi",
+        "en": "at a few places"
+      },
+      {
+        "t": "trong lúc công tác ở Đà Nẵng.",
+        "en": "during a business trip to Da Nang"
+      }
+    ],
+    "answers": [
+      "My boss managed to squeeze in some sightseeing at a few places during a business trip to Da Nang.",
+      "My boss fit in some sightseeing while on a business trip to Da Nang."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Mưa đá bất ngờ trút xuống",
+        "en": "hail suddenly poured down"
+      },
+      {
+        "t": "ngay khi",
+        "en": "right when"
+      },
+      {
+        "t": "chúng tôi vừa đến chân núi.",
+        "en": "we had just reached the foot of the mountain"
+      }
+    ],
+    "answers": [
+      "Hail suddenly poured down right when we had just reached the foot of the mountain.",
+      "Hail suddenly came down just as we got to the foot of the mountain."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tàu hỏa chạy chậm hẳn",
+        "en": "the train slowed down significantly"
+      },
+      {
+        "t": "vì có sự cố",
+        "en": "because there was an issue"
+      },
+      {
+        "t": "trên đường ray phía trước.",
+        "en": "on the tracks ahead"
+      }
+    ],
+    "answers": [
+      "The train slowed down significantly because there was an issue on the tracks ahead.",
+      "The train slowed way down because of a problem on the tracks up ahead."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi ôm nhau khóc",
+        "en": "we hugged and cried"
+      },
+      {
+        "t": "khi phải chia tay",
+        "en": "when we had to say goodbye to"
+      },
+      {
+        "t": "nhóm bạn ở cuối chuyến đi.",
+        "en": "the group at the end of the trip"
+      }
+    ],
+    "answers": [
+      "We hugged and cried when we had to say goodbye to the group at the end of the trip.",
+      "We were hugging and crying when we said goodbye to everyone at the end of the trip."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Về đến nhà",
+        "en": "getting home"
+      },
+      {
+        "t": "sau chuyến đi dài,",
+        "en": "after the long trip,"
+      },
+      {
+        "t": "tôi lại thấy hụt hẫng",
+        "en": "I felt oddly let down"
+      },
+      {
+        "t": "một cách lạ lùng.",
+        "en": "in a strange way"
+      }
+    ],
+    "answers": [
+      "Getting home after the long trip, I felt oddly let down in a strange way.",
+      "After the long trip, coming home left me feeling strangely empty."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã nhắn tin cho bạn bè",
+        "en": "I texted my friends"
+      },
+      {
+        "t": "suốt chuyến bay",
+        "en": "throughout the flight"
+      },
+      {
+        "t": "vì lo lắng",
+        "en": "because I was worried"
+      },
+      {
+        "t": "không biết máy bay có wifi hay không.",
+        "en": "about whether the plane had wifi"
+      }
+    ],
+    "answers": [
+      "I texted my friends throughout the flight because I was worried about whether the plane had wifi.",
+      "I kept texting friends during the flight since I wasn't sure the plane had wifi."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi thử món phở",
+        "en": "after trying pho"
+      },
+      {
+        "t": "ở nhiều quán khác nhau,",
+        "en": "at several different places,"
+      },
+      {
+        "t": "tôi mới tìm ra",
+        "en": "I finally found"
+      },
+      {
+        "t": "quán ngon nhất.",
+        "en": "the best place"
+      }
+    ],
+    "answers": [
+      "After trying pho at several different places, I finally found the best place.",
+      "After tasting pho at many different spots, I finally found the tastiest one."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khi thấy giá phòng giảm mạnh,",
+        "en": "when I saw the room price drop sharply,"
+      },
+      {
+        "t": "tôi liền đặt ngay",
+        "en": "I immediately booked"
+      },
+      {
+        "t": "ba đêm luôn một lúc.",
+        "en": "three nights all at once"
+      }
+    ],
+    "answers": [
+      "When I saw the room price drop sharply, I immediately booked three nights all at once.",
+      "When the room price dropped a lot, I booked three nights right away."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã trò chuyện",
+        "en": "we chatted"
+      },
+      {
+        "t": "với người lái đò",
+        "en": "with the boatman"
+      },
+      {
+        "t": "suốt cả chuyến đi trên sông.",
+        "en": "for the entire river trip"
+      }
+    ],
+    "answers": [
+      "We chatted with the boatman for the entire river trip.",
+      "We talked with the boatman throughout the whole river trip."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu bạn quên mang kem chống nắng,",
+        "en": "if you forget to bring sunscreen,"
+      },
+      {
+        "t": "bạn sẽ hối hận",
+        "en": "you'll regret it"
+      },
+      {
+        "t": "ngay ngày đầu tiên.",
+        "en": "on the very first day"
+      }
+    ],
+    "answers": [
+      "If you forget to bring sunscreen, you'll regret it on the very first day.",
+      "If you forget your sunscreen, you'll regret it from day one."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sau khi thử leo vách đá lần đầu,",
+        "en": "after trying rock climbing for the first time,"
+      },
+      {
+        "t": "tôi bắt đầu mê",
+        "en": "I started loving"
+      },
+      {
+        "t": "môn thể thao mạo hiểm này.",
+        "en": "this extreme sport"
+      }
+    ],
+    "answers": [
+      "After trying rock climbing for the first time, I started loving this extreme sport.",
+      "After my first rock climbing experience, I got hooked on this extreme sport."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tôi đã bị lừa",
+        "en": "I got scammed"
+      },
+      {
+        "t": "mua vé giả",
+        "en": "into buying fake tickets"
+      },
+      {
+        "t": "vì tin vào",
+        "en": "because I trusted"
+      },
+      {
+        "t": "một trang web không rõ nguồn gốc.",
+        "en": "a shady website"
+      }
+    ],
+    "answers": [
+      "I got scammed into buying fake tickets because I trusted a shady website.",
+      "I fell for a scam and bought fake tickets from an untrustworthy site."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trong khi cả nhóm ngủ say,",
+        "en": "while the group was fast asleep,"
+      },
+      {
+        "t": "tôi lặng lẽ dậy sớm",
+        "en": "I quietly got up early"
+      },
+      {
+        "t": "để ngắm bình minh một mình.",
+        "en": "to watch the sunrise alone"
+      }
+    ],
+    "answers": [
+      "While the group was fast asleep, I quietly got up early to watch the sunrise alone.",
+      "While everyone else was sound asleep, I sneaked out early to watch the sunrise by myself."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi mang thêm tiền mặt,",
+        "en": "if we bring more cash,"
+      },
+      {
+        "t": "chúng tôi sẽ không phải lo",
+        "en": "we won't have to worry about"
+      },
+      {
+        "t": "tìm ATM ở vùng núi.",
+        "en": "finding an ATM in the mountains"
+      }
+    ],
+    "answers": [
+      "If we bring more cash, we won't have to worry about finding an ATM in the mountains.",
+      "If we carry more cash, we won't need to hunt for an ATM in the mountains."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết trước",
+        "en": "if I had known"
+      },
+      {
+        "t": "vé sẽ tăng giá nhanh như vậy,",
+        "en": "the ticket price would rise that fast,"
+      },
+      {
+        "t": "tôi đã đặt ngay",
+        "en": "I would have booked"
+      },
+      {
+        "t": "từ tuần trước rồi.",
+        "en": "the week before already"
+      }
+    ],
+    "answers": [
+      "If I had known the ticket price would rise that fast, I would have booked the week before already.",
+      "Had I known the price would jump that quickly, I'd have booked a week earlier."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khách sạn mà chúng tôi đặt qua mạng",
+        "en": "the hotel we booked online"
+      },
+      {
+        "t": "hóa ra lại nằm cách trung tâm",
+        "en": "turned out to be almost an hour's drive"
+      },
+      {
+        "t": "gần một tiếng đi xe.",
+        "en": "from the city center"
+      }
+    ],
+    "answers": [
+      "The hotel we booked online turned out to be almost an hour's drive from the city center.",
+      "The hotel we'd booked online was actually nearly an hour away from downtown by car."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Giá như tôi đã hỏi đường sớm hơn",
+        "en": "I wish I had asked for directions sooner"
+      },
+      {
+        "t": "thay vì cứ cố tự tìm,",
+        "en": "instead of insisting on finding the way myself,"
+      },
+      {
+        "t": "chúng tôi đã không lạc mất",
+        "en": "we wouldn't have wasted"
+      },
+      {
+        "t": "hai tiếng đồng hồ như vậy.",
+        "en": "two whole hours getting lost"
+      }
+    ],
+    "answers": [
+      "I wish I had asked for directions sooner instead of insisting on finding the way myself, we wouldn't have wasted two whole hours getting lost.",
+      "If I'd just asked for directions earlier instead of trying to find it myself, we wouldn't have wasted two hours lost."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hành lý của tôi",
+        "en": "my luggage"
+      },
+      {
+        "t": "đã bị thất lạc",
+        "en": "was lost"
+      },
+      {
+        "t": "suốt ba ngày",
+        "en": "for three whole days"
+      },
+      {
+        "t": "trước khi cuối cùng được tìm thấy",
+        "en": "before it was finally found"
+      },
+      {
+        "t": "và gửi trả lại.",
+        "en": "and sent back to me"
+      }
+    ],
+    "answers": [
+      "My luggage was lost for three whole days before it was finally found and sent back to me.",
+      "My bags went missing for three days before they were finally located and returned."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Càng đi phượt nhiều,",
+        "en": "the more I go backpacking,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "mình chẳng cần mang theo",
+        "en": "I don't need to bring"
+      },
+      {
+        "t": "nhiều đồ đến vậy.",
+        "en": "nearly as much stuff"
+      }
+    ],
+    "answers": [
+      "The more I go backpacking, the more I realize I don't need to bring nearly as much stuff.",
+      "The more trips I take, the more I see how little I actually need to pack."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nhóm bạn của tôi",
+        "en": "my group of friends"
+      },
+      {
+        "t": "suýt tan rã",
+        "en": "almost fell apart"
+      },
+      {
+        "t": "vì bất đồng quan điểm",
+        "en": "over a disagreement"
+      },
+      {
+        "t": "về việc nên chi bao nhiêu",
+        "en": "about how much to spend"
+      },
+      {
+        "t": "cho chuyến đi.",
+        "en": "on the trip"
+      }
+    ],
+    "answers": [
+      "My group of friends almost fell apart over a disagreement about how much to spend on the trip.",
+      "My friend group nearly broke up over an argument about how much the trip should cost."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Quê tôi",
+        "en": "my hometown"
+      },
+      {
+        "t": "đã thay đổi nhiều",
+        "en": "has changed so much"
+      },
+      {
+        "t": "đến mức tôi gần như",
+        "en": "that I almost"
+      },
+      {
+        "t": "không nhận ra",
+        "en": "couldn't recognize"
+      },
+      {
+        "t": "con đường dẫn về nhà mình nữa.",
+        "en": "the road leading back to my own house"
+      }
+    ],
+    "answers": [
+      "My hometown has changed so much that I almost couldn't recognize the road leading back to my own house.",
+      "My hometown has changed so much that I could barely recognize the way home."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu đơn xin visa của tôi",
+        "en": "if my visa application"
+      },
+      {
+        "t": "không bị từ chối lần trước,",
+        "en": "hadn't been rejected last time,"
+      },
+      {
+        "t": "có lẽ giờ tôi đã đang đứng",
+        "en": "I might well be standing"
+      },
+      {
+        "t": "ở châu Âu rồi.",
+        "en": "in Europe right now"
+      }
+    ],
+    "answers": [
+      "If my visa application hadn't been rejected last time, I might well be standing in Europe right now.",
+      "Had my visa not been denied last time, I could be in Europe as we speak."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Tỷ giá đổi tiền hôm đó",
+        "en": "the exchange rate that day"
+      },
+      {
+        "t": "thấp đến mức",
+        "en": "was so low that"
+      },
+      {
+        "t": "tôi vẫn còn tiếc mãi",
+        "en": "I still regret it"
+      },
+      {
+        "t": "cho tới bây giờ.",
+        "en": "even now"
+      }
+    ],
+    "answers": [
+      "The exchange rate that day was so low that I still regret it even now.",
+      "The exchange rate was so bad that day that I still feel bitter about it now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Hiếm khi tôi say xe nặng đến vậy,",
+        "en": "rarely have I gotten so carsick,"
+      },
+      {
+        "t": "và điều đó khiến",
+        "en": "and that turned"
+      },
+      {
+        "t": "cả chuyến đi trở thành",
+        "en": "the entire trip into"
+      },
+      {
+        "t": "một cơn ác mộng.",
+        "en": "a nightmare"
+      }
+    ],
+    "answers": [
+      "Rarely have I gotten so carsick, and that turned the entire trip into a nightmare.",
+      "I've rarely been that carsick, and it turned the whole trip into a nightmare."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Những bức ảnh được đăng lên mạng xã hội",
+        "en": "the photos posted on social media"
+      },
+      {
+        "t": "thường chỉ cho thấy",
+        "en": "usually only show"
+      },
+      {
+        "t": "phần đẹp nhất của một chuyến đi,",
+        "en": "the prettiest part of a trip,"
+      },
+      {
+        "t": "chứ không phải toàn bộ sự thật.",
+        "en": "not the whole truth"
+      }
+    ],
+    "answers": [
+      "The photos posted on social media usually only show the prettiest part of a trip, not the whole truth.",
+      "Photos shared on social media tend to show only the best moments of a trip, never the full picture."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu tôi có nhiều thời gian hơn,",
+        "en": "if I had more time,"
+      },
+      {
+        "t": "tôi sẽ dành hẳn một tháng",
+        "en": "I would spend a whole month"
+      },
+      {
+        "t": "để khám phá",
+        "en": "exploring"
+      },
+      {
+        "t": "từng ngóc ngách của thành phố đó.",
+        "en": "every corner of that city"
+      }
+    ],
+    "answers": [
+      "If I had more time, I would spend a whole month exploring every corner of that city.",
+      "If I had more free time, I'd spend an entire month getting to know every corner of that city."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến bay bị hủy vào phút chót",
+        "en": "the last-minute flight cancellation"
+      },
+      {
+        "t": "khiến cả kế hoạch cẩn thận",
+        "en": "made all the careful plans"
+      },
+      {
+        "t": "mà chúng tôi đã chuẩn bị suốt mấy tuần",
+        "en": "that we had spent weeks preparing"
+      },
+      {
+        "t": "sụp đổ hoàn toàn.",
+        "en": "fall apart completely"
+      }
+    ],
+    "answers": [
+      "The last-minute flight cancellation made all the careful plans that we had spent weeks preparing fall apart completely.",
+      "The flight being canceled at the last minute completely wrecked the plans we had spent weeks carefully preparing."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến đi mà tôi nhớ nhất",
+        "en": "the trip I remember most"
+      },
+      {
+        "t": "không phải chuyến đắt tiền nhất,",
+        "en": "wasn't the most expensive one,"
+      },
+      {
+        "t": "mà là lần đi bụi",
+        "en": "but the time I backpacked"
+      },
+      {
+        "t": "với chỉ một cái ba lô.",
+        "en": "with just a backpack"
+      }
+    ],
+    "answers": [
+      "The trip I remember most wasn't the most expensive one, but the time I backpacked with just a backpack.",
+      "The trip that stays with me most wasn't the priciest, it was the time I traveled rough with only a backpack."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu không có sự giúp đỡ",
+        "en": "if it hadn't been for the help"
+      },
+      {
+        "t": "của một người lạ tốt bụng hôm đó,",
+        "en": "of a kind stranger that day,"
+      },
+      {
+        "t": "chúng tôi đã không thể",
+        "en": "we wouldn't have been able"
+      },
+      {
+        "t": "tìm được đường về khách sạn.",
+        "en": "to find our way back to the hotel"
+      }
+    ],
+    "answers": [
+      "If it hadn't been for the help of a kind stranger that day, we wouldn't have been able to find our way back to the hotel.",
+      "Without the help of a kind stranger that day, we would never have found our way back to the hotel."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên xin visa sớm hơn",
+        "en": "I should have applied for the visa earlier"
+      },
+      {
+        "t": "thay vì đợi đến sát ngày",
+        "en": "instead of waiting until the last minute"
+      },
+      {
+        "t": "mới nộp hồ sơ.",
+        "en": "to submit the application"
+      }
+    ],
+    "answers": [
+      "I should have applied for the visa earlier instead of waiting until the last minute to submit the application.",
+      "I really should have applied for my visa sooner rather than leaving it until the last minute."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Người dân ở ngôi làng nhỏ đó",
+        "en": "the people in that small village"
+      },
+      {
+        "t": "thân thiện đến mức",
+        "en": "were so friendly that"
+      },
+      {
+        "t": "mời hẳn chúng tôi",
+        "en": "they even invited us"
+      },
+      {
+        "t": "ở lại ăn tối miễn phí.",
+        "en": "to stay for a free dinner"
+      }
+    ],
+    "answers": [
+      "The people in that small village were so friendly that they even invited us to stay for a free dinner.",
+      "The villagers were so welcoming that they invited us to stay and have dinner for free."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu biết đường sẽ tắc nghẽn",
+        "en": "if we'd known the traffic would be jammed"
+      },
+      {
+        "t": "kinh khủng như thế,",
+        "en": "that badly,"
+      },
+      {
+        "t": "chúng tôi đã xuất phát",
+        "en": "we would have set off"
+      },
+      {
+        "t": "từ nửa đêm rồi.",
+        "en": "at midnight instead"
+      }
+    ],
+    "answers": [
+      "If we'd known the traffic would be jammed that badly, we would have set off at midnight instead.",
+      "Had we known the traffic would be that bad, we'd have left at midnight."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Không chỉ mất hộ chiếu,",
+        "en": "not only did I lose my passport,"
+      },
+      {
+        "t": "tôi còn bị móc túi",
+        "en": "I also got pickpocketed"
+      },
+      {
+        "t": "ngay trong ngày đầu tiên",
+        "en": "on the very first day"
+      },
+      {
+        "t": "đặt chân đến thành phố.",
+        "en": "of arriving in the city"
+      }
+    ],
+    "answers": [
+      "Not only did I lose my passport, I also got pickpocketed on the very first day of arriving in the city.",
+      "I not only lost my passport but also got pickpocketed on my very first day in the city."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến đi đó đã dạy tôi",
+        "en": "that trip taught me"
+      },
+      {
+        "t": "rằng đôi khi kế hoạch bị đảo lộn",
+        "en": "that sometimes when plans go wrong"
+      },
+      {
+        "t": "lại mang đến",
+        "en": "they bring about"
+      },
+      {
+        "t": "những trải nghiệm đáng nhớ nhất.",
+        "en": "the most memorable experiences"
+      }
+    ],
+    "answers": [
+      "That trip taught me that sometimes when plans go wrong they bring about the most memorable experiences.",
+      "That trip taught me that things going sideways sometimes leads to the most unforgettable moments."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu tôi được chọn lại,",
+        "en": "if I could choose again,"
+      },
+      {
+        "t": "tôi sẽ không bao giờ đặt phòng",
+        "en": "I would never book a room"
+      },
+      {
+        "t": "qua một app mà tôi chưa từng nghe tên.",
+        "en": "through an app I'd never heard of"
+      }
+    ],
+    "answers": [
+      "If I could choose again, I would never book a room through an app I'd never heard of.",
+      "If I had it to do over, I'd never book through an app I've never heard of."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cơn bão bất ngờ đổ bộ",
+        "en": "the storm that suddenly hit"
+      },
+      {
+        "t": "đã khiến",
+        "en": "caused"
+      },
+      {
+        "t": "toàn bộ các chuyến bay trong ngày",
+        "en": "all the flights that day"
+      },
+      {
+        "t": "bị hoãn lại vô thời hạn.",
+        "en": "to be delayed indefinitely"
+      }
+    ],
+    "answers": [
+      "The storm that suddenly hit caused all the flights that day to be delayed indefinitely.",
+      "The unexpected storm led to every flight that day being delayed indefinitely."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Người hướng dẫn viên,",
+        "en": "the tour guide,"
+      },
+      {
+        "t": "người đã đồng hành cùng chúng tôi",
+        "en": "who had accompanied us"
+      },
+      {
+        "t": "suốt chuyến đi,",
+        "en": "throughout the whole trip,"
+      },
+      {
+        "t": "hóa ra từng là một nhà báo.",
+        "en": "turned out to have once been a journalist"
+      }
+    ],
+    "answers": [
+      "The tour guide, who had accompanied us throughout the whole trip, turned out to have once been a journalist.",
+      "Our guide, who'd been with us the entire trip, turned out to be a former journalist."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Giả sử chúng tôi đặt vé",
+        "en": "suppose we had booked"
+      },
+      {
+        "t": "sớm hơn một tuần,",
+        "en": "a week earlier,"
+      },
+      {
+        "t": "có lẽ chúng tôi đã tiết kiệm được",
+        "en": "we probably would have saved"
+      },
+      {
+        "t": "kha khá tiền rồi.",
+        "en": "quite a bit of money"
+      }
+    ],
+    "answers": [
+      "Suppose we had booked a week earlier, we probably would have saved quite a bit of money.",
+      "Had we booked a week earlier, we would probably have saved a fair amount of money."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Điều khiến tôi ấn tượng nhất",
+        "en": "what impressed me most"
+      },
+      {
+        "t": "không phải là cảnh đẹp,",
+        "en": "wasn't the scenery,"
+      },
+      {
+        "t": "mà là sự hiếu khách",
+        "en": "but the hospitality"
+      },
+      {
+        "t": "của những người mà tôi tình cờ gặp.",
+        "en": "of the people I happened to meet"
+      }
+    ],
+    "answers": [
+      "What impressed me most wasn't the scenery, but the hospitality of the people I happened to meet.",
+      "What struck me most wasn't the scenery but the warmth of the people I met along the way."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu ứng dụng đặt phòng đó",
+        "en": "if that booking app"
+      },
+      {
+        "t": "không có phần đánh giá thật",
+        "en": "didn't have genuine reviews"
+      },
+      {
+        "t": "từ khách hàng,",
+        "en": "from customers,"
+      },
+      {
+        "t": "tôi sẽ chẳng bao giờ tin tưởng nó.",
+        "en": "I would never trust it"
+      }
+    ],
+    "answers": [
+      "If that booking app didn't have genuine reviews from customers, I would never trust it.",
+      "If that app didn't have real customer reviews, I'd never trust it at all."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chưa bao giờ tôi cảm thấy nhỏ bé đến vậy",
+        "en": "never have I felt so small"
+      },
+      {
+        "t": "như khi đứng trước",
+        "en": "as when I stood in front of"
+      },
+      {
+        "t": "ngọn núi phủ đầy tuyết trắng đó.",
+        "en": "that snow-covered mountain"
+      }
+    ],
+    "answers": [
+      "Never have I felt so small as when I stood in front of that snow-covered mountain.",
+      "I've never felt as tiny as I did standing before that snow-capped mountain."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu hộ chiếu của tôi",
+        "en": "if my passport"
+      },
+      {
+        "t": "không bị mất ngay trước chuyến bay,",
+        "en": "hadn't gone missing right before the flight,"
+      },
+      {
+        "t": "có lẽ tôi đã không bao giờ gặp được",
+        "en": "I might never have met"
+      },
+      {
+        "t": "người bạn đời của mình.",
+        "en": "my life partner"
+      }
+    ],
+    "answers": [
+      "If my passport hadn't gone missing right before the flight, I might never have met my life partner.",
+      "Had my passport not disappeared right before my flight, I may never have met my partner."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu không phải vì công việc bận rộn,",
+        "en": "if it weren't for my busy job,"
+      },
+      {
+        "t": "có lẽ tôi đã đi du lịch",
+        "en": "I would probably travel"
+      },
+      {
+        "t": "nhiều hơn hẳn so với bây giờ.",
+        "en": "far more than I do now"
+      }
+    ],
+    "answers": [
+      "If it weren't for my busy job, I would probably travel far more than I do now.",
+      "Were it not for my hectic job, I'd likely be traveling a lot more than I do now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chiếc xe máy cà tàng",
+        "en": "the rickety old motorbike"
+      },
+      {
+        "t": "mà tôi thuê",
+        "en": "that I rented"
+      },
+      {
+        "t": "lại chính là thứ",
+        "en": "turned out to be exactly what"
+      },
+      {
+        "t": "mang đến cho tôi cảm giác tự do nhất",
+        "en": "gave me the greatest sense of freedom"
+      },
+      {
+        "t": "trong suốt chuyến phượt.",
+        "en": "throughout the whole trip"
+      }
+    ],
+    "answers": [
+      "The rickety old motorbike that I rented turned out to be exactly what gave me the greatest sense of freedom throughout the whole trip.",
+      "That beat-up motorbike I rented ended up being what gave me the strongest sense of freedom on the whole trip."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đến giữa chuyến đi,",
+        "en": "halfway through the trip,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I realized"
+      },
+      {
+        "t": "thẻ ngân hàng của mình",
+        "en": "my bank card"
+      },
+      {
+        "t": "đã bị khóa",
+        "en": "had been blocked"
+      },
+      {
+        "t": "vì giao dịch ở nước ngoài.",
+        "en": "because of the foreign transactions"
+      }
+    ],
+    "answers": [
+      "Halfway through the trip, I realized my bank card had been blocked because of the foreign transactions.",
+      "Midway through the trip, I found out my card had been frozen due to overseas charges."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Biến đổi khí hậu",
+        "en": "climate change"
+      },
+      {
+        "t": "đang khiến nhiều bãi biển nổi tiếng",
+        "en": "is causing many famous beaches"
+      },
+      {
+        "t": "dần biến mất,",
+        "en": "to gradually disappear,"
+      },
+      {
+        "t": "điều mà ít khách du lịch",
+        "en": "something that few tourists"
+      },
+      {
+        "t": "từng nghĩ tới.",
+        "en": "have ever considered"
+      }
+    ],
+    "answers": [
+      "Climate change is causing many famous beaches to gradually disappear, something that few tourists have ever considered.",
+      "Climate change is slowly making many well-known beaches vanish, a fact hardly any tourist ever thinks about."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đáng lẽ chúng tôi nên đi",
+        "en": "we should have gone"
+      },
+      {
+        "t": "sớm hơn vài năm,",
+        "en": "a few years earlier,"
+      },
+      {
+        "t": "khi bố mẹ tôi",
+        "en": "when my parents"
+      },
+      {
+        "t": "còn đủ sức khỏe để leo núi cùng.",
+        "en": "were still healthy enough to hike with us"
+      }
+    ],
+    "answers": [
+      "We should have gone a few years earlier, when my parents were still healthy enough to hike with us.",
+      "We really should have made this trip years ago, back when my parents could still climb with us."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Người bạn đồng hành",
+        "en": "the fellow traveler"
+      },
+      {
+        "t": "mà tôi tình cờ gặp trên tàu",
+        "en": "I happened to meet on the train"
+      },
+      {
+        "t": "đã thay đổi hoàn toàn",
+        "en": "completely changed"
+      },
+      {
+        "t": "cách tôi nhìn nhận",
+        "en": "the way I viewed"
+      },
+      {
+        "t": "về việc đi du lịch một mình.",
+        "en": "traveling alone"
+      }
+    ],
+    "answers": [
+      "The fellow traveler I happened to meet on the train completely changed the way I viewed traveling alone.",
+      "A fellow traveler I met by chance on the train totally changed how I saw solo travel."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu mạng xã hội không tồn tại,",
+        "en": "if social media didn't exist,"
+      },
+      {
+        "t": "có lẽ người ta sẽ tận hưởng",
+        "en": "people would probably enjoy"
+      },
+      {
+        "t": "chuyến đi của mình",
+        "en": "their trips"
+      },
+      {
+        "t": "một cách trọn vẹn hơn nhiều.",
+        "en": "far more fully"
+      }
+    ],
+    "answers": [
+      "If social media didn't exist, people would probably enjoy their trips far more fully.",
+      "Without social media, people would likely enjoy their travels much more completely."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Món ăn kỳ lạ",
+        "en": "the strange dish"
+      },
+      {
+        "t": "mà tôi từng chê bai",
+        "en": "that I once complained about"
+      },
+      {
+        "t": "giờ lại là thứ tôi nhớ nhất",
+        "en": "is now the thing I miss most"
+      },
+      {
+        "t": "mỗi khi nghĩ về chuyến đi đó.",
+        "en": "whenever I think about that trip"
+      }
+    ],
+    "answers": [
+      "The strange dish that I once complained about is now the thing I miss most whenever I think about that trip.",
+      "The odd dish I used to complain about is now what I miss most whenever that trip crosses my mind."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sân bay đông nghẹt người",
+        "en": "the airport was so packed"
+      },
+      {
+        "t": "đến mức chúng tôi phải chen chân",
+        "en": "that we had to squeeze"
+      },
+      {
+        "t": "qua từng centimet",
+        "en": "through every inch"
+      },
+      {
+        "t": "để ra được cổng.",
+        "en": "just to reach the gate"
+      }
+    ],
+    "answers": [
+      "The airport was so packed that we had to squeeze through every inch just to reach the gate.",
+      "The airport was so crowded that we had to push our way through inch by inch to get to the gate."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Trên chuyến tàu đêm đó,",
+        "en": "on that night train,"
+      },
+      {
+        "t": "tôi đã trò chuyện",
+        "en": "I talked"
+      },
+      {
+        "t": "với một cụ ông",
+        "en": "with an elderly man"
+      },
+      {
+        "t": "mà những câu chuyện của ông",
+        "en": "whose stories"
+      },
+      {
+        "t": "khiến tôi suy nghĩ mãi.",
+        "en": "stayed with me for a long time"
+      }
+    ],
+    "answers": [
+      "On that night train, I talked with an elderly man whose stories stayed with me for a long time.",
+      "On that night train, I met an old man whose stories I kept thinking about long after."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Việc mất hộ chiếu ở nước ngoài",
+        "en": "losing my passport abroad"
+      },
+      {
+        "t": "đã dạy cho tôi bài học",
+        "en": "taught me the lesson"
+      },
+      {
+        "t": "rằng lòng tin tưởng",
+        "en": "that trust"
+      },
+      {
+        "t": "đôi khi cần thiết hơn cả sự cẩn trọng.",
+        "en": "is sometimes more necessary than caution"
+      }
+    ],
+    "answers": [
+      "Losing my passport abroad taught me the lesson that trust is sometimes more necessary than caution.",
+      "Losing my passport overseas taught me that trusting others can matter more than being cautious."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Giá như tôi đã rủ cô ấy",
+        "en": "I wish I had invited her"
+      },
+      {
+        "t": "đi cùng năm đó,",
+        "en": "to come along that year,"
+      },
+      {
+        "t": "có lẽ mọi chuyện đã khác đi",
+        "en": "maybe things would have turned out differently"
+      },
+      {
+        "t": "rất nhiều.",
+        "en": "quite a lot"
+      }
+    ],
+    "answers": [
+      "I wish I had invited her to come along that year, maybe things would have turned out differently.",
+      "If I had asked her to come with me that year, things might have turned out very differently."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Quá trình xin visa khó khăn ấy,",
+        "en": "that difficult visa process,"
+      },
+      {
+        "t": "dù mệt mỏi,",
+        "en": "exhausting as it was,"
+      },
+      {
+        "t": "lại dạy tôi cách kiên nhẫn hơn",
+        "en": "taught me to be more patient"
+      },
+      {
+        "t": "với những thứ ngoài tầm kiểm soát.",
+        "en": "with things beyond my control"
+      }
+    ],
+    "answers": [
+      "That difficult visa process, exhausting as it was, taught me to be more patient with things beyond my control.",
+      "As tiring as that visa process was, it taught me to be more patient with things I can't control."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cái khách sạn năm sao đó",
+        "en": "that five-star hotel"
+      },
+      {
+        "t": "sang trọng nhưng vô hồn",
+        "en": "was luxurious but soulless"
+      },
+      {
+        "t": "đến mức tôi lại thấy nhớ",
+        "en": "to the point that I found myself missing"
+      },
+      {
+        "t": "căn homestay giản dị ở chuyến trước.",
+        "en": "the simple homestay from my last trip"
+      }
+    ],
+    "answers": [
+      "That five-star hotel was luxurious but soulless to the point that I found myself missing the simple homestay from my last trip.",
+      "That five-star hotel was so polished yet lifeless that I actually missed the simple homestay from my previous trip."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khoản bồi thường",
+        "en": "the compensation"
+      },
+      {
+        "t": "mà hãng hàng không đưa ra",
+        "en": "that the airline offered"
+      },
+      {
+        "t": "chẳng thấm vào đâu",
+        "en": "was nowhere near enough"
+      },
+      {
+        "t": "so với những gì tôi đã mất trong va li.",
+        "en": "compared to what I'd lost in my suitcase"
+      }
+    ],
+    "answers": [
+      "The compensation that the airline offered was nowhere near enough compared to what I'd lost in my suitcase.",
+      "What the airline offered as compensation barely covered a fraction of what I lost in my suitcase."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đi phượt bụi",
+        "en": "traveling rough"
+      },
+      {
+        "t": "không chỉ tiết kiệm tiền,",
+        "en": "doesn't just save money,"
+      },
+      {
+        "t": "mà còn dạy tôi",
+        "en": "it also taught me"
+      },
+      {
+        "t": "cách sống với ít đồ đạc hơn rất nhiều.",
+        "en": "how to live with far fewer belongings"
+      }
+    ],
+    "answers": [
+      "Traveling rough doesn't just save money, it also taught me how to live with far fewer belongings.",
+      "Backpacking on a shoestring not only saves money, it also taught me to live with a lot less stuff."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Dù tốn kém hơn nhiều",
+        "en": "although it cost much more"
+      },
+      {
+        "t": "so với đi riêng,",
+        "en": "than traveling alone,"
+      },
+      {
+        "t": "chuyến du lịch cả đại gia đình",
+        "en": "the trip with the whole extended family"
+      },
+      {
+        "t": "vẫn đáng từng đồng đã bỏ ra.",
+        "en": "was still worth every penny spent"
+      }
+    ],
+    "answers": [
+      "Although it cost much more than traveling alone, the trip with the whole extended family was still worth every penny spent.",
+      "Even though it was far pricier than a solo trip, traveling with the whole family was worth every cent."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Quay lại nơi tôi từng sống",
+        "en": "going back to the place I once lived"
+      },
+      {
+        "t": "mười năm trước,",
+        "en": "ten years ago,"
+      },
+      {
+        "t": "tôi khó mà nhận ra được",
+        "en": "I could hardly recognize"
+      },
+      {
+        "t": "con phố quen thuộc ngày xưa.",
+        "en": "the once-familiar street"
+      }
+    ],
+    "answers": [
+      "Going back to the place I once lived ten years ago, I could hardly recognize the once-familiar street.",
+      "Returning to where I lived a decade ago, I barely recognized the street I used to know so well."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến đi đó",
+        "en": "that trip"
+      },
+      {
+        "t": "đã thay đổi quan điểm sống của tôi",
+        "en": "changed my outlook on life"
+      },
+      {
+        "t": "nhiều đến mức",
+        "en": "so much that"
+      },
+      {
+        "t": "tôi quyết định nghỉ việc",
+        "en": "I decided to quit my job"
+      },
+      {
+        "t": "ngay khi trở về.",
+        "en": "as soon as I got back"
+      }
+    ],
+    "answers": [
+      "That trip changed my outlook on life so much that I decided to quit my job as soon as I got back.",
+      "That journey changed how I saw life so deeply that I quit my job the moment I returned."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu ai đó từng nói với tôi",
+        "en": "if someone had told me"
+      },
+      {
+        "t": "rằng du lịch một mình",
+        "en": "that traveling alone"
+      },
+      {
+        "t": "sẽ khiến tôi trưởng thành nhanh đến vậy,",
+        "en": "would make me grow up that fast,"
+      },
+      {
+        "t": "tôi đã không tin.",
+        "en": "I wouldn't have believed it"
+      }
+    ],
+    "answers": [
+      "If someone had told me that traveling alone would make me grow up that fast, I wouldn't have believed it.",
+      "Had anyone told me solo travel would mature me this quickly, I wouldn't have believed them."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chỉ khi đứng giữa",
+        "en": "only when standing in the middle of"
+      },
+      {
+        "t": "sa mạc mênh mông đó,",
+        "en": "that vast desert,"
+      },
+      {
+        "t": "tôi mới thực sự hiểu được",
+        "en": "did I truly understand"
+      },
+      {
+        "t": "cảm giác nhỏ bé trước thiên nhiên.",
+        "en": "the feeling of being tiny before nature"
+      }
+    ],
+    "answers": [
+      "Only when standing in the middle of that vast desert did I truly understand the feeling of being tiny before nature.",
+      "It was only standing in the middle of that endless desert that I truly grasped how small nature can make you feel."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu chính phủ không nới lỏng",
+        "en": "if the government hadn't eased"
+      },
+      {
+        "t": "quy định visa,",
+        "en": "the visa regulations,"
+      },
+      {
+        "t": "số lượng khách du lịch đến đây",
+        "en": "the number of tourists coming here"
+      },
+      {
+        "t": "đã không tăng vọt như vậy.",
+        "en": "wouldn't have surged like that"
+      }
+    ],
+    "answers": [
+      "If the government hadn't eased the visa regulations, the number of tourists coming here wouldn't have surged like that.",
+      "Had the government not relaxed the visa rules, tourist numbers here wouldn't have jumped this much."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Điều tôi tiếc nhất",
+        "en": "what I regret most"
+      },
+      {
+        "t": "không phải là số tiền đã mất,",
+        "en": "isn't the money I lost,"
+      },
+      {
+        "t": "mà là những ngày",
+        "en": "but the days"
+      },
+      {
+        "t": "lẽ ra đã có thể tận hưởng trọn vẹn hơn.",
+        "en": "I could have enjoyed more fully"
+      }
+    ],
+    "answers": [
+      "What I regret most isn't the money I lost, but the days I could have enjoyed more fully.",
+      "What I regret most isn't the money lost, it's the days I could have made the most of but didn't."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đứng trước tòa lâu đài cổ kính đó,",
+        "en": "standing before that ancient castle,"
+      },
+      {
+        "t": "hiếm có ai",
+        "en": "hardly anyone"
+      },
+      {
+        "t": "không cảm thấy choáng ngợp",
+        "en": "fails to feel overwhelmed"
+      },
+      {
+        "t": "bởi vẻ đẹp của nó.",
+        "en": "by its beauty"
+      }
+    ],
+    "answers": [
+      "Standing before that ancient castle, hardly anyone fails to feel overwhelmed by its beauty.",
+      "Almost no one stands in front of that ancient castle without being awed by its beauty."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu không phải nhờ",
+        "en": "if it weren't for"
+      },
+      {
+        "t": "những gợi ý của một người bạn",
+        "en": "the suggestions of a friend"
+      },
+      {
+        "t": "đã từng đến đó,",
+        "en": "who had been there before,"
+      },
+      {
+        "t": "chúng tôi hẳn đã bỏ lỡ",
+        "en": "we would surely have missed"
+      },
+      {
+        "t": "nhiều điểm đẹp nhất.",
+        "en": "many of the best spots"
+      }
+    ],
+    "answers": [
+      "If it weren't for the suggestions of a friend who had been there before, we would surely have missed many of the best spots.",
+      "Without the tips from a friend who'd already been there, we definitely would have missed the best spots."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Những gì tôi học được",
+        "en": "what I learned"
+      },
+      {
+        "t": "từ chuyến đi đó",
+        "en": "from that trip"
+      },
+      {
+        "t": "có giá trị hơn",
+        "en": "was more valuable than"
+      },
+      {
+        "t": "bất kỳ khóa học nào tôi từng tham gia.",
+        "en": "any course I've ever taken"
+      }
+    ],
+    "answers": [
+      "What I learned from that trip was more valuable than any course I've ever taken.",
+      "That trip taught me more than any course I've ever taken."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Giả sử tôi được quay lại tuổi hai mươi,",
+        "en": "suppose I could go back to being twenty,"
+      },
+      {
+        "t": "việc đầu tiên tôi sẽ làm",
+        "en": "the first thing I would do"
+      },
+      {
+        "t": "là xách ba lô đi khắp thế giới.",
+        "en": "is grab a backpack and travel the world"
+      }
+    ],
+    "answers": [
+      "Suppose I could go back to being twenty, the first thing I would do is grab a backpack and travel the world.",
+      "If I could turn back to my twenties, the first thing I'd do is pack a backpack and see the world."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến bay đêm khuya ấy,",
+        "en": "that late-night flight,"
+      },
+      {
+        "t": "dù mệt mỏi và say sóng,",
+        "en": "exhausting and nauseating as it was,"
+      },
+      {
+        "t": "lại là lần đầu tiên",
+        "en": "was the first time"
+      },
+      {
+        "t": "tôi cảm thấy mình thực sự tự do.",
+        "en": "I felt truly free"
+      }
+    ],
+    "answers": [
+      "That late-night flight, exhausting and nauseating as it was, was the first time I felt truly free.",
+      "As tiring and nauseating as that late-night flight was, it was the first time I ever felt truly free."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi không cãi nhau",
+        "en": "if we hadn't argued"
+      },
+      {
+        "t": "về ngân sách",
+        "en": "about the budget"
+      },
+      {
+        "t": "ngay trước chuyến đi,",
+        "en": "right before the trip,"
+      },
+      {
+        "t": "có lẽ kỳ nghỉ đó",
+        "en": "the vacation would probably"
+      },
+      {
+        "t": "đã vui vẻ hơn nhiều.",
+        "en": "have been much happier"
+      }
+    ],
+    "answers": [
+      "If we hadn't argued about the budget right before the trip, the vacation would probably have been much happier.",
+      "Had we not fought over the budget right before leaving, that vacation would likely have been a lot more fun."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Khách sạn giữ lại hành lý của chúng tôi",
+        "en": "the hotel held onto our luggage"
+      },
+      {
+        "t": "cho đến khi hóa đơn",
+        "en": "until the bill"
+      },
+      {
+        "t": "được thanh toán đầy đủ.",
+        "en": "was paid in full"
+      }
+    ],
+    "answers": [
+      "The hotel held onto our luggage until the bill was paid in full.",
+      "Our bags were kept by the hotel until we settled the bill in full."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến đi trăng mật của chúng tôi",
+        "en": "our honeymoon trip"
+      },
+      {
+        "t": "bị hủy giữa chừng",
+        "en": "was cut short"
+      },
+      {
+        "t": "vì trận động đất bất ngờ",
+        "en": "because of a sudden earthquake"
+      },
+      {
+        "t": "xảy ra ngay hôm sau khi tới nơi.",
+        "en": "that struck the very day after we arrived"
+      }
+    ],
+    "answers": [
+      "Our honeymoon trip was cut short because of a sudden earthquake that struck the very day after we arrived.",
+      "Our honeymoon got cut short by an unexpected earthquake that hit the day after we landed."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Càng đi xa nhà,",
+        "en": "the further I travel from home,"
+      },
+      {
+        "t": "tôi càng thấy rõ",
+        "en": "the more clearly I see"
+      },
+      {
+        "t": "mình vốn đã coi",
+        "en": "how much I used to take"
+      },
+      {
+        "t": "những điều nhỏ nhặt ở quê hương là hiển nhiên.",
+        "en": "the small things back home for granted"
+      }
+    ],
+    "answers": [
+      "The further I travel from home, the more clearly I see how much I used to take the small things back home for granted.",
+      "The farther from home I travel, the more I realize how much I took the little things at home for granted."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đứa con nhỏ của tôi",
+        "en": "my little kid"
+      },
+      {
+        "t": "khóc suốt cả chuyến bay,",
+        "en": "cried the entire flight,"
+      },
+      {
+        "t": "nhưng nhìn lại thì",
+        "en": "but looking back,"
+      },
+      {
+        "t": "đó vẫn là chuyến đi ý nghĩa nhất",
+        "en": "it was still the most meaningful trip"
+      },
+      {
+        "t": "của cả gia đình.",
+        "en": "our family has ever had"
+      }
+    ],
+    "answers": [
+      "My little kid cried the entire flight, but looking back, it was still the most meaningful trip our family has ever had.",
+      "My toddler cried through the whole flight, but in hindsight, it was still the most meaningful family trip we've had."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đi một mình qua vùng núi hẻo lánh đó",
+        "en": "traveling alone through that remote mountain area"
+      },
+      {
+        "t": "lẽ ra là một quyết định liều lĩnh,",
+        "en": "should have been a reckless decision,"
+      },
+      {
+        "t": "nhưng nó lại là điều",
+        "en": "but it turned out to be the thing"
+      },
+      {
+        "t": "tôi tự hào nhất.",
+        "en": "I'm proudest of"
+      }
+    ],
+    "answers": [
+      "Traveling alone through that remote mountain area should have been a reckless decision, but it turned out to be the thing I'm proudest of.",
+      "Going solo through that remote mountain region should have been reckless, yet it's what I'm proudest of."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu tôi tìm hiểu tỷ giá",
+        "en": "if I had researched the exchange rate"
+      },
+      {
+        "t": "trước khi đi,",
+        "en": "before going,"
+      },
+      {
+        "t": "tôi đã không bị lỗ nặng đến vậy",
+        "en": "I wouldn't have lost that much money"
+      },
+      {
+        "t": "khi đổi tiền ở đó.",
+        "en": "exchanging money there"
+      }
+    ],
+    "answers": [
+      "If I had researched the exchange rate before going, I wouldn't have lost that much money exchanging money there.",
+      "Had I checked the exchange rate beforehand, I wouldn't have lost so much money changing currency there."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Vì đồng hồ trên điện thoại",
+        "en": "because my phone's clock"
+      },
+      {
+        "t": "chưa cập nhật múi giờ,",
+        "en": "hadn't updated to the new time zone,"
+      },
+      {
+        "t": "tôi suýt lỡ",
+        "en": "I nearly missed"
+      },
+      {
+        "t": "chuyến bay quan trọng nhất",
+        "en": "the most important flight"
+      },
+      {
+        "t": "trong chuyến công tác.",
+        "en": "of the whole business trip"
+      }
+    ],
+    "answers": [
+      "Because my phone's clock hadn't updated to the new time zone, I nearly missed the most important flight of the whole business trip.",
+      "Since my phone hadn't adjusted to the new time zone, I almost missed the most crucial flight of my business trip."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cảnh quan thiên nhiên tuyệt đẹp",
+        "en": "the stunning natural scenery"
+      },
+      {
+        "t": "mà chúng tôi từng chiêm ngưỡng năm ngoái",
+        "en": "that we admired last year"
+      },
+      {
+        "t": "giờ đã bị phá hủy",
+        "en": "has now been destroyed"
+      },
+      {
+        "t": "bởi các dự án xây dựng.",
+        "en": "by construction projects"
+      }
+    ],
+    "answers": [
+      "The stunning natural scenery that we admired last year has now been destroyed by construction projects.",
+      "The beautiful scenery we marveled at last year has since been ruined by construction."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Không phải tiền bạc,",
+        "en": "it's not money,"
+      },
+      {
+        "t": "mà chính thời gian",
+        "en": "but time"
+      },
+      {
+        "t": "là thứ tôi ước gì mình đã dành nhiều hơn",
+        "en": "that I wish I had spent more of"
+      },
+      {
+        "t": "cho những chuyến đi cùng bố mẹ.",
+        "en": "on trips with my parents"
+      }
+    ],
+    "answers": [
+      "It's not money, but time that I wish I had spent more of on trips with my parents.",
+      "It isn't money I regret, it's the time I wish I'd spent more of traveling with my parents."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nhóm tình nguyện viên đó",
+        "en": "that group of volunteers"
+      },
+      {
+        "t": "đã dành cả kỳ nghỉ",
+        "en": "spent their entire vacation"
+      },
+      {
+        "t": "để giúp xây trường học",
+        "en": "helping build a school"
+      },
+      {
+        "t": "ở một ngôi làng vùng cao,",
+        "en": "in a highland village,"
+      },
+      {
+        "t": "thay vì nghỉ dưỡng như mọi người.",
+        "en": "instead of relaxing like everyone else"
+      }
+    ],
+    "answers": [
+      "That group of volunteers spent their entire vacation helping build a school in a highland village, instead of relaxing like everyone else.",
+      "Rather than relaxing like most people, that group of volunteers spent their whole vacation helping build a school in a mountain village."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Du lịch đại chúng",
+        "en": "mass tourism"
+      },
+      {
+        "t": "đã biến thị trấn yên bình đó",
+        "en": "has turned that once-peaceful town"
+      },
+      {
+        "t": "thành một nơi ồn ào và đắt đỏ",
+        "en": "into a noisy, expensive place"
+      },
+      {
+        "t": "đến mức người dân địa phương",
+        "en": "so much that the locals"
+      },
+      {
+        "t": "gần như không còn nhận ra nó nữa.",
+        "en": "can barely recognize it anymore"
+      }
+    ],
+    "answers": [
+      "Mass tourism has turned that once-peaceful town into a noisy, expensive place so much that the locals can barely recognize it anymore.",
+      "Mass tourism has made that once-quiet town so loud and expensive that locals hardly recognize it now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu tình bạn của chúng tôi",
+        "en": "if our friendship"
+      },
+      {
+        "t": "không được hàn gắn",
+        "en": "hadn't been mended"
+      },
+      {
+        "t": "trong chuyến đi phượt đó,",
+        "en": "during that backpacking trip,"
+      },
+      {
+        "t": "có lẽ giờ chúng tôi đã không còn",
+        "en": "we probably wouldn't still be"
+      },
+      {
+        "t": "nói chuyện với nhau.",
+        "en": "talking to each other now"
+      }
+    ],
+    "answers": [
+      "If our friendship hadn't been mended during that backpacking trip, we probably wouldn't still be talking to each other now.",
+      "Had that backpacking trip not mended our friendship, we likely wouldn't even be on speaking terms now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Những tấm ảnh cũ",
+        "en": "the old photos"
+      },
+      {
+        "t": "chụp cùng bà tôi",
+        "en": "taken with my grandmother"
+      },
+      {
+        "t": "trong chuyến đi năm đó",
+        "en": "on that trip years ago"
+      },
+      {
+        "t": "giờ là thứ duy nhất còn lại",
+        "en": "are now all that's left"
+      },
+      {
+        "t": "để tôi nhớ về bà.",
+        "en": "for me to remember her by"
+      }
+    ],
+    "answers": [
+      "The old photos taken with my grandmother on that trip years ago are now all that's left for me to remember her by.",
+      "Those old photos of my grandmother from that trip years ago are the only thing I have left to remember her by."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đáng lẽ ra tôi không nên tin",
+        "en": "I shouldn't have trusted"
+      },
+      {
+        "t": "lời quảng cáo trên mạng,",
+        "en": "the online advertisement,"
+      },
+      {
+        "t": "bởi khu resort thực tế",
+        "en": "because the actual resort"
+      },
+      {
+        "t": "chẳng giống chút nào so với hình ảnh.",
+        "en": "looked nothing like the pictures"
+      }
+    ],
+    "answers": [
+      "I shouldn't have trusted the online advertisement, because the actual resort looked nothing like the pictures.",
+      "I really shouldn't have believed that online ad, since the resort looked nothing like the photos."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chỉ sau khi tự mình trải nghiệm",
+        "en": "only after experiencing for myself"
+      },
+      {
+        "t": "cảnh chen chúc ở sân bay",
+        "en": "the chaos at the airport"
+      },
+      {
+        "t": "vào mùa cao điểm,",
+        "en": "during peak season,"
+      },
+      {
+        "t": "tôi mới hiểu",
+        "en": "did I understand"
+      },
+      {
+        "t": "tại sao mọi người khuyên nên đi sớm.",
+        "en": "why everyone advises arriving early"
+      }
+    ],
+    "answers": [
+      "Only after experiencing for myself the chaos at the airport during peak season did I understand why everyone advises arriving early.",
+      "It wasn't until I experienced the airport chaos during peak season myself that I understood why people say to arrive early."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu không nhờ",
+        "en": "if it weren't for"
+      },
+      {
+        "t": "ứng dụng dịch ngôn ngữ trên điện thoại,",
+        "en": "the translation app on my phone,"
+      },
+      {
+        "t": "chúng tôi chắc chắn đã không thể",
+        "en": "we definitely wouldn't have been able"
+      },
+      {
+        "t": "mặc cả thành công với người bán.",
+        "en": "to successfully bargain with the seller"
+      }
+    ],
+    "answers": [
+      "If it weren't for the translation app on my phone, we definitely wouldn't have been able to successfully bargain with the seller.",
+      "Without the translation app on my phone, we would never have managed to bargain with the seller."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Điều kỳ lạ là,",
+        "en": "strangely enough,"
+      },
+      {
+        "t": "càng gần đến ngày về,",
+        "en": "the closer it got to the day we had to leave,"
+      },
+      {
+        "t": "tôi lại càng không muốn",
+        "en": "the less I wanted"
+      },
+      {
+        "t": "rời khỏi nơi này chút nào.",
+        "en": "to leave this place at all"
+      }
+    ],
+    "answers": [
+      "Strangely enough, the closer it got to the day we had to leave, the less I wanted to leave this place at all.",
+      "Oddly, as the departure date approached, I found myself wanting to leave less and less."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Chuyến đi bị hoãn liên tục",
+        "en": "the trip being delayed over and over"
+      },
+      {
+        "t": "khiến cả gia đình",
+        "en": "made the whole family"
+      },
+      {
+        "t": "gần như bỏ cuộc",
+        "en": "almost give up"
+      },
+      {
+        "t": "trước khi cuối cùng cũng lên được máy bay.",
+        "en": "before we finally got on the plane"
+      }
+    ],
+    "answers": [
+      "The trip being delayed over and over made the whole family almost give up before we finally got on the plane.",
+      "Repeated delays nearly made the whole family give up before we finally boarded the plane."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Người ta thường nói",
+        "en": "people often say"
+      },
+      {
+        "t": "rằng đi du lịch sẽ mở mang tầm mắt,",
+        "en": "that traveling broadens your horizons,"
+      },
+      {
+        "t": "nhưng ít ai nói",
+        "en": "but few mention"
+      },
+      {
+        "t": "rằng nó cũng có thể khiến bạn nhớ nhà",
+        "en": "that it can also make you so homesick"
+      },
+      {
+        "t": "đến phát khóc.",
+        "en": "you nearly cry"
+      }
+    ],
+    "answers": [
+      "People often say that traveling broadens your horizons, but few mention that it can also make you so homesick you nearly cry.",
+      "People love to say travel broadens your mind, but rarely mention it can also make you homesick to the point of tears."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu được lựa chọn lại,",
+        "en": "if I had to choose again,"
+      },
+      {
+        "t": "tôi vẫn sẽ chọn",
+        "en": "I would still choose"
+      },
+      {
+        "t": "con đường mòn hiểm trở đó,",
+        "en": "that treacherous trail,"
+      },
+      {
+        "t": "dù nó khiến tôi kiệt sức",
+        "en": "even though it left me so exhausted"
+      },
+      {
+        "t": "đến mức không đứng vững.",
+        "en": "I could barely stand"
+      }
+    ],
+    "answers": [
+      "If I had to choose again, I would still choose that treacherous trail, even though it left me so exhausted I could barely stand.",
+      "Given the choice again, I'd still pick that treacherous trail, even though it exhausted me to the point of collapse."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Không một ai trong nhóm ngờ rằng",
+        "en": "none of us in the group ever imagined that"
+      },
+      {
+        "t": "chuyến phượt tưởng chừng đơn giản đó",
+        "en": "that seemingly simple trip"
+      },
+      {
+        "t": "lại biến thành",
+        "en": "would turn into"
+      },
+      {
+        "t": "một cuộc phiêu lưu sinh tử.",
+        "en": "a life-or-death adventure"
+      }
+    ],
+    "answers": [
+      "None of us in the group ever imagined that that seemingly simple trip would turn into a life-or-death adventure.",
+      "Not one of us expected that simple-looking trip to become a life-or-death ordeal."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Sự hào phóng của người dân địa phương,",
+        "en": "the generosity of the local people,"
+      },
+      {
+        "t": "những người sẵn sàng nhường",
+        "en": "who were willing to give up"
+      },
+      {
+        "t": "cả bữa ăn cuối cùng cho khách lạ,",
+        "en": "their very last meal for a stranger,"
+      },
+      {
+        "t": "khiến tôi day dứt mãi.",
+        "en": "has stayed with me ever since"
+      }
+    ],
+    "answers": [
+      "The generosity of the local people, who were willing to give up their very last meal for a stranger, has stayed with me ever since.",
+      "The kindness of the locals, willing to share their last meal with a total stranger, has haunted me in the best way ever since."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên nghe",
+        "en": "I should have listened to"
+      },
+      {
+        "t": "lời cảnh báo của bạn bè",
+        "en": "my friends' warning"
+      },
+      {
+        "t": "và không đi bộ một mình",
+        "en": "and not walked alone"
+      },
+      {
+        "t": "vào rừng sâu lúc chiều tối.",
+        "en": "into the deep forest at dusk"
+      }
+    ],
+    "answers": [
+      "I should have listened to my friends' warning and not walked alone into the deep forest at dusk.",
+      "I really should have heeded my friends' warning instead of walking into the deep forest alone at dusk."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Nếu thời tiết hôm đó",
+        "en": "if the weather that day"
+      },
+      {
+        "t": "không đẹp bất ngờ như vậy,",
+        "en": "hadn't unexpectedly turned out so beautiful,"
+      },
+      {
+        "t": "có lẽ chúng tôi đã bỏ lỡ",
+        "en": "we might have missed"
+      },
+      {
+        "t": "cảnh hoàng hôn đẹp nhất đời mình.",
+        "en": "the most beautiful sunset of our lives"
+      }
+    ],
+    "answers": [
+      "If the weather that day hadn't unexpectedly turned out so beautiful, we might have missed the most beautiful sunset of our lives.",
+      "Had the weather not unexpectedly cleared up that day, we might have missed the most stunning sunset of our lives."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Điều làm tôi bất ngờ nhất",
+        "en": "what surprised me most"
+      },
+      {
+        "t": "không phải cảnh vật,",
+        "en": "wasn't the scenery,"
+      },
+      {
+        "t": "mà là cách con người ở nơi đó",
+        "en": "but the way people there"
+      },
+      {
+        "t": "đối xử với nhau.",
+        "en": "treated one another"
+      }
+    ],
+    "answers": [
+      "What surprised me most wasn't the scenery, but the way people there treated one another.",
+      "What caught me off guard wasn't the landscape but how kindly people there treated each other."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "travel",
+    "chunks": [
+      {
+        "t": "Cuộc sống du mục kỹ thuật số",
+        "en": "the digital nomad lifestyle"
+      },
+      {
+        "t": "nghe có vẻ tự do,",
+        "en": "sounds free,"
+      },
+      {
+        "t": "nhưng ít ai kể cho bạn nghe",
+        "en": "but few people tell you"
+      },
+      {
+        "t": "về những đêm cô đơn",
+        "en": "about the lonely nights"
+      },
+      {
+        "t": "ở một thành phố xa lạ.",
+        "en": "spent in an unfamiliar city"
+      }
+    ],
+    "answers": [
+      "The digital nomad lifestyle sounds free, but few people tell you about the lonely nights spent in an unfamiliar city.",
+      "Being a digital nomad sounds liberating, but hardly anyone mentions the lonely nights in a strange city."
+    ]
+  }
+]

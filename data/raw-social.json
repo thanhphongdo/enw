@@ -1,0 +1,7692 @@
+[
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "bạn có rảnh để",
+        "en": "are you free to"
+      },
+      {
+        "t": "đi cà phê không?",
+        "en": "grab coffee"
+      }
+    ],
+    "answers": [
+      "Are you free to grab coffee tonight?",
+      "Do you have time for coffee tonight?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng ta gặp nhau",
+        "en": "let's meet"
+      },
+      {
+        "t": "lúc 7 giờ",
+        "en": "at 7"
+      },
+      {
+        "t": "ở quán cũ nhé.",
+        "en": "at our usual place"
+      }
+    ],
+    "answers": [
+      "Let's meet at 7 at our usual place.",
+      "Let's meet up at 7 o'clock at the usual spot."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đang đứng",
+        "en": "I'm standing"
+      },
+      {
+        "t": "đợi bạn",
+        "en": "waiting for you"
+      },
+      {
+        "t": "trước cổng trường.",
+        "en": "in front of the school gate"
+      }
+    ],
+    "answers": [
+      "I'm standing in front of the school gate waiting for you.",
+      "I'm waiting for you outside the school gate."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cuối tuần này",
+        "en": "this weekend"
+      },
+      {
+        "t": "cả nhóm định",
+        "en": "the group plans to"
+      },
+      {
+        "t": "đi leo núi.",
+        "en": "go hiking"
+      }
+    ],
+    "answers": [
+      "The group plans to go hiking this weekend.",
+      "This weekend, the whole group is going hiking."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn ơi,",
+        "en": "hey,"
+      },
+      {
+        "t": "mai mình đi xem phim",
+        "en": "shall we watch a movie tomorrow"
+      },
+      {
+        "t": "cùng nhau không?",
+        "en": "together"
+      }
+    ],
+    "answers": [
+      "Hey, shall we watch a movie together tomorrow?",
+      "Hey, do you want to see a movie together tomorrow?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy hẹn tôi",
+        "en": "he arranged to meet me"
+      },
+      {
+        "t": "lúc 5 giờ",
+        "en": "at 5"
+      },
+      {
+        "t": "nhưng tôi không thấy",
+        "en": "but I can't find"
+      },
+      {
+        "t": "anh ấy đâu cả.",
+        "en": "him anywhere"
+      }
+    ],
+    "answers": [
+      "He arranged to meet me at 5, but I can't find him anywhere.",
+      "He was supposed to meet me at 5, but I don't see him anywhere."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Có ai muốn",
+        "en": "does anyone want to"
+      },
+      {
+        "t": "đi ăn tối với tôi",
+        "en": "have dinner with me"
+      },
+      {
+        "t": "tối nay không?",
+        "en": "tonight"
+      }
+    ],
+    "answers": [
+      "Does anyone want to have dinner with me tonight?",
+      "Is anyone free for dinner with me tonight?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi thường gặp nhau",
+        "en": "we usually meet"
+      },
+      {
+        "t": "ở công viên",
+        "en": "at the park"
+      },
+      {
+        "t": "vào Chủ nhật.",
+        "en": "on Sundays"
+      }
+    ],
+    "answers": [
+      "We usually meet at the park on Sundays.",
+      "We often get together in the park on Sundays."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi và Lan",
+        "en": "Lan and I"
+      },
+      {
+        "t": "cãi nhau to",
+        "en": "had a big argument"
+      },
+      {
+        "t": "hôm qua.",
+        "en": "yesterday"
+      }
+    ],
+    "answers": [
+      "Lan and I had a big argument yesterday.",
+      "Lan and I got into a huge fight yesterday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sao bạn lại",
+        "en": "why are you"
+      },
+      {
+        "t": "giận tôi",
+        "en": "mad at me"
+      },
+      {
+        "t": "vậy?",
+        "en": "like that"
+      }
+    ],
+    "answers": [
+      "Why are you so mad at me?",
+      "Why are you angry with me?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mấy ngày nay",
+        "en": "these past few days"
+      },
+      {
+        "t": "cậu ấy không thèm",
+        "en": "she won't even"
+      },
+      {
+        "t": "nói chuyện với tôi.",
+        "en": "talk to me"
+      }
+    ],
+    "answers": [
+      "These past few days, she won't even talk to me.",
+      "She refuses to talk to me these days."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi cãi nhau",
+        "en": "we argued"
+      },
+      {
+        "t": "chỉ vì",
+        "en": "just because of"
+      },
+      {
+        "t": "một chuyện nhỏ xíu.",
+        "en": "a tiny little thing"
+      }
+    ],
+    "answers": [
+      "We argued over such a tiny little thing.",
+      "We fought just because of something so small."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi không muốn",
+        "en": "I don't want to"
+      },
+      {
+        "t": "cãi nhau với bạn",
+        "en": "argue with you"
+      },
+      {
+        "t": "nữa.",
+        "en": "anymore"
+      }
+    ],
+    "answers": [
+      "I don't want to argue with you anymore.",
+      "I don't want to fight with you anymore."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn tôi la lên",
+        "en": "my friend yelled"
+      },
+      {
+        "t": "vì tôi",
+        "en": "because I"
+      },
+      {
+        "t": "đến trễ.",
+        "en": "was late"
+      }
+    ],
+    "answers": [
+      "My friend yelled at me because I was late.",
+      "My friend got angry because I showed up late."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cả hai đứa",
+        "en": "both of us"
+      },
+      {
+        "t": "đều không chịu",
+        "en": "refused to"
+      },
+      {
+        "t": "xin lỗi trước.",
+        "en": "apologize first"
+      }
+    ],
+    "answers": [
+      "Both of us refused to apologize first.",
+      "Neither of us wanted to say sorry first."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi nhắn tin cho bạn",
+        "en": "I texted you"
+      },
+      {
+        "t": "cả sáng nay",
+        "en": "all morning"
+      },
+      {
+        "t": "nhưng bạn không trả lời.",
+        "en": "but you didn't reply"
+      }
+    ],
+    "answers": [
+      "I texted you all morning, but you didn't reply.",
+      "I texted you the whole morning but got no answer."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Điện thoại tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "đang rung liên tục",
+        "en": "keeps buzzing"
+      },
+      {
+        "t": "vì tin nhắn của Mai.",
+        "en": "because of Mai's messages"
+      }
+    ],
+    "answers": [
+      "My phone keeps buzzing because of Mai's messages.",
+      "My phone won't stop buzzing with texts from Mai."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sao bạn xem",
+        "en": "why did you read"
+      },
+      {
+        "t": "tin nhắn của tôi",
+        "en": "my message"
+      },
+      {
+        "t": "mà không trả lời vậy?",
+        "en": "and not reply"
+      }
+    ],
+    "answers": [
+      "Why did you read my message and not reply?",
+      "Why did you see my text and just ignore it?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đang gõ",
+        "en": "I'm typing"
+      },
+      {
+        "t": "tin nhắn",
+        "en": "a message"
+      },
+      {
+        "t": "cho bạn thân của mình.",
+        "en": "to my best friend"
+      }
+    ],
+    "answers": [
+      "I'm typing a message to my best friend.",
+      "I'm texting my best friend right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy gửi cho tôi",
+        "en": "she sent me"
+      },
+      {
+        "t": "một tin nhắn rất dài",
+        "en": "a very long message"
+      },
+      {
+        "t": "đêm qua.",
+        "en": "last night"
+      }
+    ],
+    "answers": [
+      "She sent me a very long message last night.",
+      "Last night, she sent me a really long text."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nhóm chat lớp tôi",
+        "en": "my class group chat"
+      },
+      {
+        "t": "lúc nào cũng",
+        "en": "is always"
+      },
+      {
+        "t": "ồn ào.",
+        "en": "noisy"
+      }
+    ],
+    "answers": [
+      "My class group chat is always so noisy.",
+      "Our class chat group is never quiet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi quên",
+        "en": "I forgot"
+      },
+      {
+        "t": "trả lời tin nhắn của bạn,",
+        "en": "to reply to your message,"
+      },
+      {
+        "t": "xin lỗi nhé.",
+        "en": "sorry about that"
+      }
+    ],
+    "answers": [
+      "I forgot to reply to your message, sorry about that.",
+      "Sorry, I forgot to answer your text."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn có thể",
+        "en": "can you"
+      },
+      {
+        "t": "nhắn tin cho tôi",
+        "en": "text me"
+      },
+      {
+        "t": "khi nào rảnh không?",
+        "en": "whenever you're free"
+      }
+    ],
+    "answers": [
+      "Can you text me whenever you're free?",
+      "Could you message me when you have time?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi vừa đăng",
+        "en": "I just posted"
+      },
+      {
+        "t": "một tấm ảnh mới",
+        "en": "a new photo"
+      },
+      {
+        "t": "lên Facebook.",
+        "en": "on Facebook"
+      }
+    ],
+    "answers": [
+      "I just posted a new photo on Facebook.",
+      "I just put up a new picture on Facebook."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy đang lướt điện thoại",
+        "en": "she's scrolling her phone"
+      },
+      {
+        "t": "xem story",
+        "en": "watching stories"
+      },
+      {
+        "t": "của bạn bè.",
+        "en": "from her friends"
+      }
+    ],
+    "answers": [
+      "She's scrolling through her friends' stories on her phone.",
+      "She's on her phone watching her friends' stories."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Có bao nhiêu người",
+        "en": "how many people"
+      },
+      {
+        "t": "thả tim",
+        "en": "liked"
+      },
+      {
+        "t": "cho bài đăng của tôi vậy?",
+        "en": "my post"
+      }
+    ],
+    "answers": [
+      "How many people liked my post?",
+      "How many likes did my post get?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi bắt đầu theo dõi bạn ấy",
+        "en": "I started following her"
+      },
+      {
+        "t": "trên Instagram",
+        "en": "on Instagram"
+      },
+      {
+        "t": "từ năm ngoái.",
+        "en": "last year"
+      }
+    ],
+    "answers": [
+      "I started following her on Instagram last year.",
+      "I began following her on Instagram last year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ta bình luận",
+        "en": "he commented"
+      },
+      {
+        "t": "rất khiếm nhã",
+        "en": "very rudely"
+      },
+      {
+        "t": "dưới bài viết của tôi.",
+        "en": "under my post"
+      }
+    ],
+    "answers": [
+      "He left a very rude comment under my post.",
+      "He commented really rudely on my post."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đăng story",
+        "en": "I posted a story"
+      },
+      {
+        "t": "mà không ai",
+        "en": "but nobody"
+      },
+      {
+        "t": "xem cả.",
+        "en": "watched it"
+      }
+    ],
+    "answers": [
+      "I posted a story, but nobody watched it.",
+      "I put up a story and no one saw it."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn tôi chia sẻ",
+        "en": "my friend shared"
+      },
+      {
+        "t": "bài viết đó",
+        "en": "that post"
+      },
+      {
+        "t": "cho cả nhóm.",
+        "en": "with the whole group"
+      }
+    ],
+    "answers": [
+      "My friend shared that post with the whole group.",
+      "My friend sent that post to the whole group chat."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Có một tin đồn",
+        "en": "there's a rumor"
+      },
+      {
+        "t": "lan truyền trên mạng",
+        "en": "spreading online"
+      },
+      {
+        "t": "về lớp mình.",
+        "en": "about our class"
+      }
+    ],
+    "answers": [
+      "There's a rumor spreading online about our class.",
+      "A rumor about our class is going around online."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy rủ tôi",
+        "en": "he asked me"
+      },
+      {
+        "t": "đi xem phim",
+        "en": "to see a movie"
+      },
+      {
+        "t": "tối thứ Sáu.",
+        "en": "on Friday night"
+      }
+    ],
+    "answers": [
+      "He asked me to see a movie on Friday night.",
+      "He invited me to a movie on Friday night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi hồi hộp quá",
+        "en": "I'm so nervous"
+      },
+      {
+        "t": "vì tối nay",
+        "en": "because tonight"
+      },
+      {
+        "t": "là buổi hẹn đầu tiên.",
+        "en": "is our first date"
+      }
+    ],
+    "answers": [
+      "I'm so nervous because tonight is our first date.",
+      "I'm really nervous, tonight is our first date."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi bắt đầu",
+        "en": "we started"
+      },
+      {
+        "t": "hẹn hò",
+        "en": "dating"
+      },
+      {
+        "t": "từ hai tháng trước.",
+        "en": "two months ago"
+      }
+    ],
+    "answers": [
+      "We started dating two months ago.",
+      "We've been a couple since two months ago."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy tặng tôi",
+        "en": "she gave me"
+      },
+      {
+        "t": "một bó hoa",
+        "en": "a bunch of flowers"
+      },
+      {
+        "t": "trong buổi hẹn.",
+        "en": "on our date"
+      }
+    ],
+    "answers": [
+      "She gave me a bunch of flowers on our date.",
+      "She brought me flowers during our date."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi không biết",
+        "en": "I don't know"
+      },
+      {
+        "t": "nên mặc gì",
+        "en": "what to wear"
+      },
+      {
+        "t": "cho buổi hẹn tối nay.",
+        "en": "for tonight's date"
+      }
+    ],
+    "answers": [
+      "I don't know what to wear for tonight's date.",
+      "I have no idea what to wear on our date tonight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy đến trễ",
+        "en": "he showed up late"
+      },
+      {
+        "t": "nửa tiếng",
+        "en": "by half an hour"
+      },
+      {
+        "t": "trong buổi hẹn đầu tiên.",
+        "en": "on our first date"
+      }
+    ],
+    "answers": [
+      "He showed up half an hour late on our first date.",
+      "He was thirty minutes late for our first date."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi đang ngồi",
+        "en": "we're sitting"
+      },
+      {
+        "t": "ăn tối",
+        "en": "having dinner"
+      },
+      {
+        "t": "ở một nhà hàng nhỏ.",
+        "en": "at a small restaurant"
+      }
+    ],
+    "answers": [
+      "We're having dinner at a small restaurant.",
+      "We're eating dinner together at a little restaurant."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "chia tay",
+        "en": "broke up"
+      },
+      {
+        "t": "tuần trước.",
+        "en": "last week"
+      }
+    ],
+    "answers": [
+      "We broke up last week.",
+      "We ended our relationship last week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy khóc rất nhiều",
+        "en": "she cried a lot"
+      },
+      {
+        "t": "khi chia tay",
+        "en": "when she broke up with"
+      },
+      {
+        "t": "bạn trai.",
+        "en": "her boyfriend"
+      }
+    ],
+    "answers": [
+      "She cried a lot when she broke up with her boyfriend.",
+      "She cried so much after breaking up with her boyfriend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi vẫn còn",
+        "en": "I'm still"
+      },
+      {
+        "t": "buồn",
+        "en": "sad"
+      },
+      {
+        "t": "về chuyện chia tay đó.",
+        "en": "about that breakup"
+      }
+    ],
+    "answers": [
+      "I'm still sad about that breakup.",
+      "I still feel down about the breakup."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sao",
+        "en": "why"
+      },
+      {
+        "t": "hai người lại chia tay",
+        "en": "did you two break up"
+      },
+      {
+        "t": "vậy?",
+        "en": "like that"
+      }
+    ],
+    "answers": [
+      "Why did you two break up?",
+      "Why did the two of you split up?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "nói lời chia tay",
+        "en": "broke up with me"
+      },
+      {
+        "t": "qua tin nhắn.",
+        "en": "by text message"
+      }
+    ],
+    "answers": [
+      "He broke up with me over text.",
+      "He ended things with me through a text message."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi xóa hết",
+        "en": "I deleted all"
+      },
+      {
+        "t": "ảnh chung",
+        "en": "our photos together"
+      },
+      {
+        "t": "của hai đứa.",
+        "en": "of the two of us"
+      }
+    ],
+    "answers": [
+      "I deleted all the photos of the two of us.",
+      "I deleted every picture we took together."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn tôi",
+        "en": "my friend"
+      },
+      {
+        "t": "đang rất suy sụp",
+        "en": "is really down"
+      },
+      {
+        "t": "vì mới chia tay.",
+        "en": "because of the recent breakup"
+      }
+    ],
+    "answers": [
+      "My friend is really down because of the recent breakup.",
+      "My friend is devastated after the breakup."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "muốn làm hòa",
+        "en": "want to make up"
+      },
+      {
+        "t": "với bạn.",
+        "en": "with you"
+      }
+    ],
+    "answers": [
+      "I want to make up with you.",
+      "I want to patch things up with you."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi bắt tay",
+        "en": "we shook hands"
+      },
+      {
+        "t": "làm hòa",
+        "en": "and made up"
+      },
+      {
+        "t": "sau trận cãi nhau lớn.",
+        "en": "after our big fight"
+      }
+    ],
+    "answers": [
+      "We shook hands and made up after our big fight.",
+      "We made peace after that huge argument."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "có muốn làm hòa",
+        "en": "do you want to make up"
+      },
+      {
+        "t": "với tôi không?",
+        "en": "with me"
+      }
+    ],
+    "answers": [
+      "Do you want to make up with me?",
+      "Do you want to be friends again?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi xin lỗi",
+        "en": "I apologized"
+      },
+      {
+        "t": "bạn trước",
+        "en": "to you first"
+      },
+      {
+        "t": "để làm hòa.",
+        "en": "to make up"
+      }
+    ],
+    "answers": [
+      "I apologized first to make up.",
+      "I said sorry first so we could make up."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cuối cùng",
+        "en": "finally"
+      },
+      {
+        "t": "chúng tôi cũng làm hòa",
+        "en": "we made up"
+      },
+      {
+        "t": "với nhau.",
+        "en": "with each other"
+      }
+    ],
+    "answers": [
+      "We finally made up with each other.",
+      "In the end, we made up."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy mời tôi",
+        "en": "she invited me"
+      },
+      {
+        "t": "đi ăn",
+        "en": "out to eat"
+      },
+      {
+        "t": "để làm hòa.",
+        "en": "to make up"
+      }
+    ],
+    "answers": [
+      "She invited me out to eat to make up.",
+      "She asked me to dinner so we could make up."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi viết",
+        "en": "I wrote"
+      },
+      {
+        "t": "một tin nhắn dài",
+        "en": "a long message"
+      },
+      {
+        "t": "để xin làm hòa.",
+        "en": "asking to make up"
+      }
+    ],
+    "answers": [
+      "I wrote a long message asking to make up.",
+      "I sent a long text asking to patch things up."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "giữ liên lạc",
+        "en": "keep in touch"
+      },
+      {
+        "t": "với bạn cấp ba.",
+        "en": "with my high school friends"
+      }
+    ],
+    "answers": [
+      "I still keep in touch with my high school friends.",
+      "I still stay in contact with my high school friends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi hiếm khi",
+        "en": "we rarely"
+      },
+      {
+        "t": "nói chuyện với nhau",
+        "en": "talk to each other"
+      },
+      {
+        "t": "bây giờ.",
+        "en": "now"
+      }
+    ],
+    "answers": [
+      "We rarely talk to each other now.",
+      "We hardly talk to each other these days."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn cũ của tôi",
+        "en": "my old friend"
+      },
+      {
+        "t": "sống ở",
+        "en": "lives in"
+      },
+      {
+        "t": "một thành phố khác.",
+        "en": "a different city"
+      }
+    ],
+    "answers": [
+      "My old friend lives in a different city.",
+      "My old friend lives in another city now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi gọi điện",
+        "en": "I call"
+      },
+      {
+        "t": "cho bạn cũ",
+        "en": "my old friend"
+      },
+      {
+        "t": "vào mỗi cuối tuần.",
+        "en": "every weekend"
+      }
+    ],
+    "answers": [
+      "I call my old friend every weekend.",
+      "I phone my old friend on weekends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "mất liên lạc",
+        "en": "lost touch"
+      },
+      {
+        "t": "sau khi tốt nghiệp.",
+        "en": "after graduation"
+      }
+    ],
+    "answers": [
+      "We lost touch after graduation.",
+      "We lost contact after we graduated."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi tìm lại bạn cũ",
+        "en": "I found my old friend again"
+      },
+      {
+        "t": "trên Facebook",
+        "en": "on Facebook"
+      },
+      {
+        "t": "tuần trước.",
+        "en": "last week"
+      }
+    ],
+    "answers": [
+      "I found my old friend again on Facebook last week.",
+      "Last week, I tracked down an old friend on Facebook."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn thời đại học của tôi",
+        "en": "my college friend"
+      },
+      {
+        "t": "giờ sống ở",
+        "en": "now lives"
+      },
+      {
+        "t": "nước ngoài.",
+        "en": "abroad"
+      }
+    ],
+    "answers": [
+      "My college friend now lives abroad.",
+      "My friend from college lives overseas now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đang chuẩn bị",
+        "en": "I'm getting ready"
+      },
+      {
+        "t": "tiệc sinh nhật",
+        "en": "a birthday party"
+      },
+      {
+        "t": "cho bạn thân.",
+        "en": "for my best friend"
+      }
+    ],
+    "answers": [
+      "I'm getting a birthday party ready for my best friend.",
+      "I'm planning a birthday party for my best friend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi mời",
+        "en": "we invited"
+      },
+      {
+        "t": "khoảng hai mươi người",
+        "en": "about twenty people"
+      },
+      {
+        "t": "đến bữa tiệc.",
+        "en": "to the party"
+      }
+    ],
+    "answers": [
+      "We invited about twenty people to the party.",
+      "We invited around twenty guests to the party."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi cần mua",
+        "en": "I need to buy"
+      },
+      {
+        "t": "bóng bay và bánh kem",
+        "en": "balloons and a cake"
+      },
+      {
+        "t": "cho bữa tiệc.",
+        "en": "for the party"
+      }
+    ],
+    "answers": [
+      "I need to buy balloons and a cake for the party.",
+      "I have to get balloons and a cake for the party."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bữa tiệc bắt đầu",
+        "en": "the party starts"
+      },
+      {
+        "t": "lúc 6 giờ",
+        "en": "at 6"
+      },
+      {
+        "t": "tối nay.",
+        "en": "tonight"
+      }
+    ],
+    "answers": [
+      "The party starts at 6 tonight.",
+      "Tonight's party starts at 6 o'clock."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Có rất nhiều đồ ăn",
+        "en": "there was so much food"
+      },
+      {
+        "t": "ở bữa tiệc",
+        "en": "at the party"
+      },
+      {
+        "t": "tối qua.",
+        "en": "last night"
+      }
+    ],
+    "answers": [
+      "There was so much food at the party last night.",
+      "There was tons of food at last night's party."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi mời bạn bè",
+        "en": "I'm inviting my friends"
+      },
+      {
+        "t": "đến nhà chơi",
+        "en": "over to my house"
+      },
+      {
+        "t": "cuối tuần này.",
+        "en": "this weekend"
+      }
+    ],
+    "answers": [
+      "I'm inviting my friends over this weekend.",
+      "I'm having friends over to my place this weekend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the group"
+      },
+      {
+        "t": "đang trang trí phòng",
+        "en": "is decorating the room"
+      },
+      {
+        "t": "cho bữa tiệc.",
+        "en": "for the party"
+      }
+    ],
+    "answers": [
+      "The group is decorating the room for the party.",
+      "Everyone is decorating the room for the party."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn bè tôi",
+        "en": "my friends"
+      },
+      {
+        "t": "hát karaoke",
+        "en": "sang karaoke"
+      },
+      {
+        "t": "suốt bữa tiệc.",
+        "en": "the whole party"
+      }
+    ],
+    "answers": [
+      "My friends sang karaoke the whole party.",
+      "My friends sang karaoke all through the party."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Đây là Nam,",
+        "en": "this is Nam,"
+      },
+      {
+        "t": "bạn mới của tôi",
+        "en": "my new friend"
+      },
+      {
+        "t": "ở lớp tiếng Anh.",
+        "en": "from English class"
+      }
+    ],
+    "answers": [
+      "This is Nam, my new friend from English class.",
+      "This is Nam, my new classmate from English class."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi muốn giới thiệu bạn",
+        "en": "I want to introduce you"
+      },
+      {
+        "t": "với những người bạn khác",
+        "en": "to my other friends"
+      },
+      {
+        "t": "của tôi.",
+        "en": "of mine"
+      }
+    ],
+    "answers": [
+      "I want to introduce you to my other friends.",
+      "I'd like you to meet my other friends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy là bạn mới",
+        "en": "she's a new friend"
+      },
+      {
+        "t": "tôi quen",
+        "en": "I met"
+      },
+      {
+        "t": "trong câu lạc bộ sách.",
+        "en": "at the book club"
+      }
+    ],
+    "answers": [
+      "She's a new friend I met at the book club.",
+      "She's a new friend from the book club."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi hơi ngại",
+        "en": "I feel a bit shy"
+      },
+      {
+        "t": "khi gặp bạn mới",
+        "en": "meeting new members"
+      },
+      {
+        "t": "của nhóm.",
+        "en": "of the group"
+      }
+    ],
+    "answers": [
+      "I feel a bit shy meeting new members of the group.",
+      "I get a little nervous meeting new people in the group."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy giới thiệu tôi",
+        "en": "he introduced me"
+      },
+      {
+        "t": "với cả nhóm bạn",
+        "en": "to his whole group of friends"
+      },
+      {
+        "t": "của anh.",
+        "en": "of his"
+      }
+    ],
+    "answers": [
+      "He introduced me to his whole group of friends.",
+      "He introduced me to all of his friends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi mới quen nhau",
+        "en": "we just met"
+      },
+      {
+        "t": "tuần trước",
+        "en": "last week"
+      },
+      {
+        "t": "ở phòng gym.",
+        "en": "at the gym"
+      }
+    ],
+    "answers": [
+      "We just met last week at the gym.",
+      "We met each other at the gym last week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn mới của tôi",
+        "en": "my new friend"
+      },
+      {
+        "t": "rất vui tính",
+        "en": "is really funny"
+      },
+      {
+        "t": "và thân thiện.",
+        "en": "and friendly"
+      }
+    ],
+    "answers": [
+      "My new friend is really funny and friendly.",
+      "My new friend is very cheerful and friendly."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi giúp bạn tôi",
+        "en": "I helped my friend"
+      },
+      {
+        "t": "chuyển nhà",
+        "en": "move house"
+      },
+      {
+        "t": "cuối tuần trước.",
+        "en": "last weekend"
+      }
+    ],
+    "answers": [
+      "I helped my friend move house last weekend.",
+      "I helped my friend move last weekend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn tôi đang gặp khó khăn",
+        "en": "my friend is having a hard time"
+      },
+      {
+        "t": "nên tôi muốn",
+        "en": "so I want to"
+      },
+      {
+        "t": "giúp đỡ.",
+        "en": "help"
+      }
+    ],
+    "answers": [
+      "My friend is having a hard time, so I want to help.",
+      "My friend is struggling, so I want to help out."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi cho bạn mượn tiền",
+        "en": "I lent my friend money"
+      },
+      {
+        "t": "vì bạn ấy",
+        "en": "because she"
+      },
+      {
+        "t": "hết tiền.",
+        "en": "ran out of money"
+      }
+    ],
+    "answers": [
+      "I lent my friend money because she ran out.",
+      "I lent her some money because she was broke."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "luôn giúp tôi",
+        "en": "always helps me"
+      },
+      {
+        "t": "mỗi khi tôi cần.",
+        "en": "whenever I need it"
+      }
+    ],
+    "answers": [
+      "She always helps me whenever I need it.",
+      "She's always there to help whenever I need her."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi chở bạn",
+        "en": "I drove my friend"
+      },
+      {
+        "t": "đi bệnh viện",
+        "en": "to the hospital"
+      },
+      {
+        "t": "lúc nửa đêm.",
+        "en": "at midnight"
+      }
+    ],
+    "answers": [
+      "I drove my friend to the hospital at midnight.",
+      "I took my friend to the hospital at midnight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn thân tôi giúp tôi",
+        "en": "my best friend helped me"
+      },
+      {
+        "t": "ôn thi",
+        "en": "study for the exam"
+      },
+      {
+        "t": "cả tuần.",
+        "en": "all week"
+      }
+    ],
+    "answers": [
+      "My best friend helped me study for the exam all week.",
+      "My best friend helped me review for the test all week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi không biết làm sao",
+        "en": "I don't know how"
+      },
+      {
+        "t": "để giúp bạn ấy",
+        "en": "to help her"
+      },
+      {
+        "t": "vượt qua chuyện này.",
+        "en": "get through this"
+      }
+    ],
+    "answers": [
+      "I don't know how to help her get through this.",
+      "I'm not sure how to help her through this."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi luôn",
+        "en": "we always"
+      },
+      {
+        "t": "giúp đỡ nhau",
+        "en": "help each other"
+      },
+      {
+        "t": "trong nhóm bạn.",
+        "en": "in our friend group"
+      }
+    ],
+    "answers": [
+      "We always help each other in our friend group.",
+      "In our friend group, we always support one another."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi nghe nói",
+        "en": "I heard"
+      },
+      {
+        "t": "cô ấy nói xấu tôi",
+        "en": "she was talking bad about me"
+      },
+      {
+        "t": "sau lưng.",
+        "en": "behind my back"
+      }
+    ],
+    "answers": [
+      "I heard she was talking bad about me behind my back.",
+      "I heard she was bad-mouthing me behind my back."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Đừng",
+        "en": "don't"
+      },
+      {
+        "t": "nói xấu bạn bè",
+        "en": "talk badly about your friends"
+      },
+      {
+        "t": "sau lưng như vậy.",
+        "en": "behind their backs like that"
+      }
+    ],
+    "answers": [
+      "Don't talk badly about your friends behind their backs like that.",
+      "Don't bad-mouth your friends behind their backs."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Có người",
+        "en": "someone"
+      },
+      {
+        "t": "kể lại cho tôi",
+        "en": "told me"
+      },
+      {
+        "t": "những gì bạn ấy nói.",
+        "en": "what she said"
+      }
+    ],
+    "answers": [
+      "Someone told me what she said.",
+      "Someone told me exactly what she said."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi rất buồn",
+        "en": "I felt really sad"
+      },
+      {
+        "t": "khi biết",
+        "en": "when I found out"
+      },
+      {
+        "t": "bạn thân nói xấu mình.",
+        "en": "my best friend talked bad about me"
+      }
+    ],
+    "answers": [
+      "I felt really sad when I found out my best friend talked bad about me.",
+      "I was so hurt to learn my best friend bad-mouthed me."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "đang bàn tán",
+        "en": "is gossiping"
+      },
+      {
+        "t": "về chuyện của Lan.",
+        "en": "about Lan's situation"
+      }
+    ],
+    "answers": [
+      "The whole group is gossiping about Lan's situation.",
+      "Everyone in the group is talking about Lan."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi không thích",
+        "en": "I don't like"
+      },
+      {
+        "t": "những người hay nói xấu",
+        "en": "people gossiping about"
+      },
+      {
+        "t": "người khác.",
+        "en": "others"
+      }
+    ],
+    "answers": [
+      "I don't like people gossiping about others.",
+      "I really dislike gossipy people."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "phủ nhận",
+        "en": "denied"
+      },
+      {
+        "t": "việc nói xấu tôi.",
+        "en": "talking badly about me"
+      }
+    ],
+    "answers": [
+      "She denied talking badly about me.",
+      "She said she never bad-mouthed me."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn hứa sẽ đến",
+        "en": "you promised to come"
+      },
+      {
+        "t": "nhưng giờ",
+        "en": "but now"
+      },
+      {
+        "t": "vẫn không thấy đâu cả.",
+        "en": "you're still nowhere to be seen"
+      }
+    ],
+    "answers": [
+      "You promised to come, but now you're nowhere to be seen.",
+      "You said you'd come, but you still haven't shown up."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy hứa",
+        "en": "he promised"
+      },
+      {
+        "t": "gọi cho tôi",
+        "en": "to call me"
+      },
+      {
+        "t": "nhưng không gọi.",
+        "en": "but he never did"
+      }
+    ],
+    "answers": [
+      "He promised to call me, but he never did.",
+      "He said he'd call, but he didn't."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi thất vọng",
+        "en": "I'm disappointed"
+      },
+      {
+        "t": "vì bạn thất hứa",
+        "en": "because you broke your promise"
+      },
+      {
+        "t": "lần nữa.",
+        "en": "again"
+      }
+    ],
+    "answers": [
+      "I'm disappointed because you broke your promise again.",
+      "I'm upset that you broke your word again."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy hứa",
+        "en": "she promised"
+      },
+      {
+        "t": "giúp tôi",
+        "en": "to help me"
+      },
+      {
+        "t": "nhưng lại quên mất.",
+        "en": "but forgot"
+      }
+    ],
+    "answers": [
+      "She promised to help me but forgot.",
+      "She said she'd help me, but she forgot."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn luôn hứa",
+        "en": "you always promise"
+      },
+      {
+        "t": "rồi lại",
+        "en": "and then"
+      },
+      {
+        "t": "không giữ lời.",
+        "en": "break your word"
+      }
+    ],
+    "answers": [
+      "You always promise and then break your word.",
+      "You always make promises and never keep them."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi tin lời hứa của bạn",
+        "en": "I believed your promise"
+      },
+      {
+        "t": "nhưng bạn lại",
+        "en": "but you"
+      },
+      {
+        "t": "làm tôi thất vọng.",
+        "en": "let me down"
+      }
+    ],
+    "answers": [
+      "I believed your promise, but you let me down.",
+      "I trusted your word, but you disappointed me."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy hứa",
+        "en": "he promised"
+      },
+      {
+        "t": "rủ tôi đi chơi",
+        "en": "to invite me out"
+      },
+      {
+        "t": "nhưng không nhắn lại.",
+        "en": "but never texted back"
+      }
+    ],
+    "answers": [
+      "He promised to invite me out but never texted back.",
+      "He said he'd ask me out but never messaged again."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi ngồi",
+        "en": "we sat"
+      },
+      {
+        "t": "tám chuyện",
+        "en": "gossiping"
+      },
+      {
+        "t": "cả buổi chiều.",
+        "en": "all afternoon"
+      }
+    ],
+    "answers": [
+      "We sat gossiping all afternoon.",
+      "We chatted away the whole afternoon."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn có nghe",
+        "en": "did you hear"
+      },
+      {
+        "t": "tin gì mới",
+        "en": "any news"
+      },
+      {
+        "t": "về lớp mình không?",
+        "en": "about our class"
+      }
+    ],
+    "answers": [
+      "Did you hear any news about our class?",
+      "Did you catch any news about our class?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy kể cho tôi nghe",
+        "en": "she told me"
+      },
+      {
+        "t": "đủ thứ chuyện",
+        "en": "all sorts of things"
+      },
+      {
+        "t": "trên trời dưới đất.",
+        "en": "about everything under the sun"
+      }
+    ],
+    "answers": [
+      "She told me all sorts of things under the sun.",
+      "She talked to me about everything and anything."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi buôn chuyện với nhau",
+        "en": "we gossip with each other"
+      },
+      {
+        "t": "qua điện thoại",
+        "en": "over the phone"
+      },
+      {
+        "t": "hàng giờ.",
+        "en": "for hours"
+      }
+    ],
+    "answers": [
+      "We gossip with each other over the phone for hours.",
+      "We chat on the phone for hours."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn tôi rất thích",
+        "en": "my friend loves"
+      },
+      {
+        "t": "tám chuyện về",
+        "en": "gossiping about"
+      },
+      {
+        "t": "người nổi tiếng.",
+        "en": "celebrities"
+      }
+    ],
+    "answers": [
+      "My friend loves gossiping about celebrities.",
+      "My friend really enjoys talking about celebrities."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi và bạn",
+        "en": "my friend and I"
+      },
+      {
+        "t": "ngồi tám chuyện",
+        "en": "sat chatting"
+      },
+      {
+        "t": "ở quán cà phê.",
+        "en": "at a coffee shop"
+      }
+    ],
+    "answers": [
+      "My friend and I sat chatting at a coffee shop.",
+      "My friend and I hung out chatting at a cafe."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy luôn có",
+        "en": "she always has"
+      },
+      {
+        "t": "chuyện mới",
+        "en": "new stories"
+      },
+      {
+        "t": "để kể cho tôi.",
+        "en": "to tell me"
+      }
+    ],
+    "answers": [
+      "She always has new stories to tell me.",
+      "She's always got something new to tell me."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "cười suốt",
+        "en": "laughed nonstop"
+      },
+      {
+        "t": "vì những câu chuyện phiếm.",
+        "en": "because of the gossip"
+      }
+    ],
+    "answers": [
+      "We laughed nonstop because of the gossip.",
+      "We couldn't stop laughing over the gossip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi rất ngại",
+        "en": "I feel really shy"
+      },
+      {
+        "t": "khi phải nói chuyện",
+        "en": "having to talk"
+      },
+      {
+        "t": "với người lạ.",
+        "en": "to strangers"
+      }
+    ],
+    "answers": [
+      "I feel really shy having to talk to strangers.",
+      "I get very nervous talking to strangers."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy nhút nhát",
+        "en": "she's shy"
+      },
+      {
+        "t": "nên ít khi",
+        "en": "so she rarely"
+      },
+      {
+        "t": "bắt chuyện trước.",
+        "en": "starts a conversation first"
+      }
+    ],
+    "answers": [
+      "She's shy, so she rarely starts a conversation first.",
+      "She's shy and hardly ever speaks first."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi không biết",
+        "en": "I don't know"
+      },
+      {
+        "t": "nói gì",
+        "en": "what to say"
+      },
+      {
+        "t": "khi gặp người mới.",
+        "en": "when I meet new people"
+      }
+    ],
+    "answers": [
+      "I don't know what to say when I meet new people.",
+      "I never know what to say around new people."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy ngại",
+        "en": "he feels nervous"
+      },
+      {
+        "t": "đứng trước đám đông",
+        "en": "standing in front of a crowd"
+      },
+      {
+        "t": "nói chuyện.",
+        "en": "speaking"
+      }
+    ],
+    "answers": [
+      "He feels nervous speaking in front of a crowd.",
+      "He gets shy talking in front of a crowd."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi thường tránh",
+        "en": "I usually avoid"
+      },
+      {
+        "t": "những buổi tụ tập",
+        "en": "gatherings"
+      },
+      {
+        "t": "đông người.",
+        "en": "with lots of people"
+      }
+    ],
+    "answers": [
+      "I usually avoid gatherings with lots of people.",
+      "I tend to avoid big crowded gatherings."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy đỏ mặt",
+        "en": "she blushes"
+      },
+      {
+        "t": "mỗi khi nói chuyện",
+        "en": "every time she talks"
+      },
+      {
+        "t": "với người lạ.",
+        "en": "to strangers"
+      }
+    ],
+    "answers": [
+      "She blushes every time she talks to strangers.",
+      "She turns red whenever she talks with strangers."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi cảm thấy lo lắng",
+        "en": "I feel anxious"
+      },
+      {
+        "t": "trước khi gặp",
+        "en": "before meeting"
+      },
+      {
+        "t": "bạn mới.",
+        "en": "new friends"
+      }
+    ],
+    "answers": [
+      "I feel anxious before meeting new friends.",
+      "I get nervous before meeting new people."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn thân của tôi",
+        "en": "my best friend"
+      },
+      {
+        "t": "sắp chuyển đi",
+        "en": "is about to move to"
+      },
+      {
+        "t": "thành phố khác.",
+        "en": "another city"
+      }
+    ],
+    "answers": [
+      "My best friend is about to move to another city.",
+      "My best friend is moving to a different city soon."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi rất buồn",
+        "en": "I feel really sad"
+      },
+      {
+        "t": "vì bạn thân",
+        "en": "because my best friend"
+      },
+      {
+        "t": "sắp đi xa.",
+        "en": "is moving far away"
+      }
+    ],
+    "answers": [
+      "I feel really sad because my best friend is moving far away.",
+      "I'm so sad my best friend is going far away soon."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi tổ chức",
+        "en": "we're throwing"
+      },
+      {
+        "t": "tiệc chia tay",
+        "en": "a farewell party"
+      },
+      {
+        "t": "cho bạn ấy.",
+        "en": "for her"
+      }
+    ],
+    "answers": [
+      "We're throwing a farewell party for her.",
+      "We're organizing a going-away party for her."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "chuyển đi nước ngoài",
+        "en": "is moving abroad"
+      },
+      {
+        "t": "sống cùng gia đình.",
+        "en": "to live with her family"
+      }
+    ],
+    "answers": [
+      "She's moving abroad to live with her family.",
+      "She's moving overseas to be with her family."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi hứa",
+        "en": "I promise"
+      },
+      {
+        "t": "sẽ đến thăm bạn ấy",
+        "en": "to visit her"
+      },
+      {
+        "t": "mỗi năm.",
+        "en": "every year"
+      }
+    ],
+    "answers": [
+      "I promise to visit her every year.",
+      "I promise I'll visit her every year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn thân tôi gọi video cho tôi",
+        "en": "my best friend video calls me"
+      },
+      {
+        "t": "mỗi tuần",
+        "en": "every week"
+      },
+      {
+        "t": "từ xa.",
+        "en": "from far away"
+      }
+    ],
+    "answers": [
+      "My best friend video calls me every week from far away.",
+      "My best friend calls me on video every week from afar."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi nhớ",
+        "en": "I miss"
+      },
+      {
+        "t": "bạn thân của mình",
+        "en": "my best friend"
+      },
+      {
+        "t": "rất nhiều.",
+        "en": "so much"
+      }
+    ],
+    "answers": [
+      "I miss my best friend so much.",
+      "I miss my best friend a lot."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi quen",
+        "en": "I met"
+      },
+      {
+        "t": "một người bạn mới",
+        "en": "a new friend"
+      },
+      {
+        "t": "trên mạng.",
+        "en": "online"
+      }
+    ],
+    "answers": [
+      "I met a new friend online.",
+      "I made a new friend on the internet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi nói chuyện",
+        "en": "we chat"
+      },
+      {
+        "t": "qua game online",
+        "en": "through an online game"
+      },
+      {
+        "t": "mỗi tối.",
+        "en": "every night"
+      }
+    ],
+    "answers": [
+      "We chat through an online game every night.",
+      "We talk every night while playing an online game."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy sống ở nước khác",
+        "en": "she lives in another country"
+      },
+      {
+        "t": "nhưng chúng tôi vẫn",
+        "en": "but we still"
+      },
+      {
+        "t": "nói chuyện.",
+        "en": "talk"
+      }
+    ],
+    "answers": [
+      "She lives in another country, but we still talk.",
+      "She lives abroad, but we still keep in touch."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi kết bạn",
+        "en": "I became friends"
+      },
+      {
+        "t": "với một người lạ",
+        "en": "with a stranger"
+      },
+      {
+        "t": "trên Instagram.",
+        "en": "on Instagram"
+      }
+    ],
+    "answers": [
+      "I became friends with a stranger on Instagram.",
+      "I made friends with someone I didn't know on Instagram."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bạn online của tôi",
+        "en": "my online friend"
+      },
+      {
+        "t": "rất hài hước",
+        "en": "is really funny"
+      },
+      {
+        "t": "và tốt bụng.",
+        "en": "and kind"
+      }
+    ],
+    "answers": [
+      "My online friend is really funny and kind.",
+      "My online friend is very funny and sweet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi lo",
+        "en": "I'm worried"
+      },
+      {
+        "t": "vì tôi không biết",
+        "en": "because I don't know"
+      },
+      {
+        "t": "mặt thật của bạn ấy.",
+        "en": "what she really looks like"
+      }
+    ],
+    "answers": [
+      "I'm worried because I don't know what she really looks like.",
+      "I'm a bit worried since I've never seen her real face."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi hẹn gặp nhau",
+        "en": "we're meeting up"
+      },
+      {
+        "t": "lần đầu tiên",
+        "en": "for the first time"
+      },
+      {
+        "t": "tuần sau.",
+        "en": "next week"
+      }
+    ],
+    "answers": [
+      "We're meeting up for the first time next week.",
+      "We're finally meeting in person next week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nhóm bạn tôi",
+        "en": "my friend group"
+      },
+      {
+        "t": "đang có",
+        "en": "is having"
+      },
+      {
+        "t": "mâu thuẫn lớn.",
+        "en": "a big conflict"
+      }
+    ],
+    "answers": [
+      "My friend group is having a big conflict.",
+      "There's a big conflict in my friend group right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Hai người",
+        "en": "two people"
+      },
+      {
+        "t": "trong nhóm",
+        "en": "in the group"
+      },
+      {
+        "t": "không nói chuyện với nhau.",
+        "en": "aren't talking to each other"
+      }
+    ],
+    "answers": [
+      "Two people in the group aren't talking to each other.",
+      "Two of them in the group stopped talking to each other."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "chia phe",
+        "en": "split into sides"
+      },
+      {
+        "t": "vì một chuyện nhỏ.",
+        "en": "over something small"
+      }
+    ],
+    "answers": [
+      "The whole group split into sides over something small.",
+      "Everyone took sides over something so small."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "không muốn đứng về",
+        "en": "don't want to take"
+      },
+      {
+        "t": "phe nào cả.",
+        "en": "anyone's side"
+      }
+    ],
+    "answers": [
+      "I don't want to take anyone's side.",
+      "I don't want to pick a side at all."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nhóm chat của chúng tôi",
+        "en": "our group chat"
+      },
+      {
+        "t": "im lặng",
+        "en": "was silent"
+      },
+      {
+        "t": "suốt mấy ngày.",
+        "en": "for days"
+      }
+    ],
+    "answers": [
+      "Our group chat was silent for days.",
+      "Our group chat stayed quiet for days."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mọi người",
+        "en": "everyone"
+      },
+      {
+        "t": "trong nhóm",
+        "en": "in the group"
+      },
+      {
+        "t": "đang giận nhau.",
+        "en": "is angry with each other"
+      }
+    ],
+    "answers": [
+      "Everyone in the group is angry with each other.",
+      "Everyone in the group is mad at one another."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi cảm thấy",
+        "en": "I feel"
+      },
+      {
+        "t": "khó xử",
+        "en": "awkward"
+      },
+      {
+        "t": "giữa hai người bạn.",
+        "en": "between two friends"
+      }
+    ],
+    "answers": [
+      "I feel awkward being stuck between two friends.",
+      "I feel caught in the middle between two friends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "họp lại",
+        "en": "got together"
+      },
+      {
+        "t": "để giải quyết mâu thuẫn.",
+        "en": "to resolve the conflict"
+      }
+    ],
+    "answers": [
+      "The whole group got together to resolve the conflict.",
+      "Everyone met up to sort out the conflict."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì trời mưa to",
+        "en": "because it was raining heavily"
+      },
+      {
+        "t": "nên chúng tôi phải hoãn",
+        "en": "we had to postpone"
+      },
+      {
+        "t": "buổi hẹn gặp mặt",
+        "en": "our meet-up"
+      },
+      {
+        "t": "sang tuần sau.",
+        "en": "until next week"
+      }
+    ],
+    "answers": [
+      "Because it was raining heavily, we had to postpone our meet-up until next week.",
+      "We had to put off our get-together until next week because it was pouring rain."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã đợi bạn",
+        "en": "I waited for you"
+      },
+      {
+        "t": "hơn một tiếng",
+        "en": "for over an hour"
+      },
+      {
+        "t": "trước khi bạn nhắn tin",
+        "en": "before you texted"
+      },
+      {
+        "t": "xin lỗi.",
+        "en": "to apologize"
+      }
+    ],
+    "answers": [
+      "I waited for over an hour before you texted to apologize.",
+      "I'd been waiting more than an hour before you finally texted an apology."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Khi tôi đến nơi,",
+        "en": "when I arrived,"
+      },
+      {
+        "t": "cả nhóm đã ngồi đợi sẵn",
+        "en": "the whole group was already sitting there waiting"
+      },
+      {
+        "t": "ở quán rồi.",
+        "en": "at the cafe"
+      }
+    ],
+    "answers": [
+      "When I arrived, the whole group was already sitting there waiting at the cafe.",
+      "By the time I got there, everyone was already waiting at the cafe."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn rảnh",
+        "en": "if you're free"
+      },
+      {
+        "t": "cuối tuần này,",
+        "en": "this weekend,"
+      },
+      {
+        "t": "chúng ta có thể",
+        "en": "we could"
+      },
+      {
+        "t": "đi cắm trại cùng nhau.",
+        "en": "go camping together"
+      }
+    ],
+    "answers": [
+      "If you're free this weekend, we could go camping together.",
+      "We can go camping together if you have time this weekend."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tuy đã hẹn trước cả tuần,",
+        "en": "although we'd arranged it a week ahead,"
+      },
+      {
+        "t": "cuối cùng",
+        "en": "in the end,"
+      },
+      {
+        "t": "chúng tôi vẫn không",
+        "en": "we still didn't"
+      },
+      {
+        "t": "gặp được nhau.",
+        "en": "manage to meet up"
+      }
+    ],
+    "answers": [
+      "Although we'd arranged it a week ahead, we still didn't manage to meet up.",
+      "Even though we planned it a week in advance, we never ended up meeting."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi phải hủy hẹn với bạn",
+        "en": "I had to cancel on you"
+      },
+      {
+        "t": "vì công việc đột xuất",
+        "en": "because something came up at work"
+      },
+      {
+        "t": "phát sinh.",
+        "en": "unexpectedly"
+      }
+    ],
+    "answers": [
+      "I had to cancel on you because something unexpected came up at work.",
+      "I had to call off our plans since work came up out of nowhere."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi tan làm,",
+        "en": "after I finish work,"
+      },
+      {
+        "t": "tôi sẽ ghé qua",
+        "en": "I'll drop by"
+      },
+      {
+        "t": "nhà bạn chơi",
+        "en": "your place"
+      },
+      {
+        "t": "một lát.",
+        "en": "for a bit"
+      }
+    ],
+    "answers": [
+      "After I finish work, I'll drop by your place for a bit.",
+      "I'll stop by your house for a while after work."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã không nói chuyện",
+        "en": "we haven't talked"
+      },
+      {
+        "t": "với nhau",
+        "en": "to each other"
+      },
+      {
+        "t": "kể từ khi cãi nhau",
+        "en": "since we argued"
+      },
+      {
+        "t": "tuần trước.",
+        "en": "last week"
+      }
+    ],
+    "answers": [
+      "We haven't talked to each other since we argued last week.",
+      "We've been giving each other the silent treatment since our fight last week."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù tôi biết mình sai,",
+        "en": "although I knew I was wrong,"
+      },
+      {
+        "t": "tôi vẫn không chịu",
+        "en": "I still refused to"
+      },
+      {
+        "t": "nhận lỗi trước.",
+        "en": "admit it first"
+      }
+    ],
+    "answers": [
+      "Although I knew I was wrong, I still refused to admit it first.",
+      "Even though I knew I was in the wrong, I wouldn't own up to it first."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cuộc cãi vã nổ ra",
+        "en": "the argument broke out"
+      },
+      {
+        "t": "khi cô ấy phát hiện",
+        "en": "when she found out"
+      },
+      {
+        "t": "tôi giấu chuyện đó.",
+        "en": "I'd been hiding that"
+      }
+    ],
+    "answers": [
+      "The argument broke out when she found out I'd been hiding that.",
+      "The fight started when she discovered I'd been keeping that from her."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã cố nói chuyện với cậu ấy",
+        "en": "I've tried talking to him"
+      },
+      {
+        "t": "nhưng cậu ấy cứ",
+        "en": "but he keeps"
+      },
+      {
+        "t": "lảng tránh.",
+        "en": "avoiding me"
+      }
+    ],
+    "answers": [
+      "I've tried talking to him, but he keeps avoiding me.",
+      "I keep trying to talk to him, but he just brushes me off."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Trong lúc cãi nhau,",
+        "en": "during the argument,"
+      },
+      {
+        "t": "cả hai đều nói ra",
+        "en": "both of us said"
+      },
+      {
+        "t": "những lời khiến nhau tổn thương.",
+        "en": "things that hurt each other"
+      }
+    ],
+    "answers": [
+      "During the argument, both of us said things that hurt each other.",
+      "While we were fighting, we both said hurtful things to each other."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì quá tức giận,",
+        "en": "because I was so angry,"
+      },
+      {
+        "t": "tôi đã bỏ về",
+        "en": "I walked out"
+      },
+      {
+        "t": "giữa chừng cuộc trò chuyện.",
+        "en": "in the middle of the conversation"
+      }
+    ],
+    "answers": [
+      "Because I was so angry, I walked out in the middle of the conversation.",
+      "I was so mad that I just left in the middle of talking."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã nhắn tin cho bạn",
+        "en": "I've texted you"
+      },
+      {
+        "t": "ba lần rồi",
+        "en": "three times already"
+      },
+      {
+        "t": "mà vẫn chưa thấy",
+        "en": "but still haven't got"
+      },
+      {
+        "t": "trả lời.",
+        "en": "a reply"
+      }
+    ],
+    "answers": [
+      "I've texted you three times already, but I still haven't got a reply.",
+      "I've messaged you three times now and still no answer."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi đọc tin nhắn,",
+        "en": "after reading the message,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I realized"
+      },
+      {
+        "t": "mình đã hiểu lầm",
+        "en": "I had misunderstood"
+      },
+      {
+        "t": "bạn ấy.",
+        "en": "her"
+      }
+    ],
+    "answers": [
+      "After reading the message, I realized I had misunderstood her.",
+      "Once I read the text, I realized I'd gotten her wrong."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì bận họp cả ngày,",
+        "en": "because I was in meetings all day,"
+      },
+      {
+        "t": "tôi không kịp",
+        "en": "I didn't get a chance to"
+      },
+      {
+        "t": "trả lời tin nhắn",
+        "en": "reply to messages"
+      },
+      {
+        "t": "của ai cả.",
+        "en": "from anyone"
+      }
+    ],
+    "answers": [
+      "Because I was in meetings all day, I didn't get a chance to reply to anyone.",
+      "I was tied up in meetings all day, so I couldn't answer anyone's texts."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy nhắn tin cho tôi",
+        "en": "she texted me"
+      },
+      {
+        "t": "ngay khi vừa",
+        "en": "as soon as she"
+      },
+      {
+        "t": "xuống máy bay.",
+        "en": "got off the plane"
+      }
+    ],
+    "answers": [
+      "She texted me as soon as she got off the plane.",
+      "As soon as she landed, she texted me right away."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đang nhắn tin qua lại",
+        "en": "I was texting back and forth"
+      },
+      {
+        "t": "với anh ấy",
+        "en": "with him"
+      },
+      {
+        "t": "thì điện thoại hết pin.",
+        "en": "when my phone died"
+      }
+    ],
+    "answers": [
+      "I was texting back and forth with him when my phone died.",
+      "My phone died right while I was texting him."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn không trả lời",
+        "en": "if you don't reply"
+      },
+      {
+        "t": "trong hôm nay,",
+        "en": "today,"
+      },
+      {
+        "t": "tôi sẽ gọi điện",
+        "en": "I'll just call"
+      },
+      {
+        "t": "thẳng luôn.",
+        "en": "you directly"
+      }
+    ],
+    "answers": [
+      "If you don't reply today, I'll just call you directly.",
+      "I'll call you directly if I don't hear back today."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi hay nhắn tin dài dòng",
+        "en": "I tend to send long texts"
+      },
+      {
+        "t": "nên bạn bè",
+        "en": "so my friends"
+      },
+      {
+        "t": "thường trêu tôi",
+        "en": "often tease me"
+      },
+      {
+        "t": "vì điều đó.",
+        "en": "about it"
+      }
+    ],
+    "answers": [
+      "I tend to send long texts, so my friends often tease me about it.",
+      "I always write long messages, which my friends love to make fun of."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Kể từ khi xóa Facebook,",
+        "en": "since I deleted Facebook,"
+      },
+      {
+        "t": "tôi cảm thấy",
+        "en": "I feel"
+      },
+      {
+        "t": "đỡ căng thẳng hẳn.",
+        "en": "much less stressed"
+      }
+    ],
+    "answers": [
+      "Since I deleted Facebook, I feel much less stressed.",
+      "I've felt way less stressed ever since I got off Facebook."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã bỏ theo dõi cô ấy",
+        "en": "I unfollowed her"
+      },
+      {
+        "t": "vì những bài đăng",
+        "en": "because of the posts"
+      },
+      {
+        "t": "gây khó chịu.",
+        "en": "that were annoying"
+      }
+    ],
+    "answers": [
+      "I unfollowed her because of the annoying posts.",
+      "I unfollowed her over those irritating posts of hers."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù ít khi đăng bài,",
+        "en": "although I rarely post,"
+      },
+      {
+        "t": "tôi vẫn lướt",
+        "en": "I still scroll through"
+      },
+      {
+        "t": "mạng xã hội",
+        "en": "social media"
+      },
+      {
+        "t": "mỗi ngày.",
+        "en": "every day"
+      }
+    ],
+    "answers": [
+      "Although I rarely post, I still scroll through social media every day.",
+      "I hardly post anything, but I still browse social media daily."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi bài viết đó lan truyền,",
+        "en": "after that post went viral,"
+      },
+      {
+        "t": "điện thoại tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "không ngừng reo.",
+        "en": "wouldn't stop ringing"
+      }
+    ],
+    "answers": [
+      "After that post went viral, my phone wouldn't stop ringing.",
+      "Once that post blew up, my phone kept ringing nonstop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi thường tắt thông báo",
+        "en": "I usually turn off notifications"
+      },
+      {
+        "t": "vì chúng làm phiền tôi",
+        "en": "because they bother me"
+      },
+      {
+        "t": "cả ngày.",
+        "en": "all day"
+      }
+    ],
+    "answers": [
+      "I usually turn off notifications because they bother me all day.",
+      "I tend to mute notifications since they distract me all day long."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu ai đó bình luận thô lỗ,",
+        "en": "if someone leaves a rude comment,"
+      },
+      {
+        "t": "tôi sẽ xóa",
+        "en": "I'll delete it"
+      },
+      {
+        "t": "ngay lập tức.",
+        "en": "right away"
+      }
+    ],
+    "answers": [
+      "If someone leaves a rude comment, I'll delete it right away.",
+      "I delete rude comments immediately whenever someone posts one."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã hẹn hò",
+        "en": "we had been dating"
+      },
+      {
+        "t": "được sáu tháng",
+        "en": "for six months"
+      },
+      {
+        "t": "trước khi anh ấy giới thiệu tôi",
+        "en": "before he introduced me"
+      },
+      {
+        "t": "với gia đình.",
+        "en": "to his family"
+      }
+    ],
+    "answers": [
+      "We had been dating for six months before he introduced me to his family.",
+      "We'd already dated six months by the time he introduced me to his family."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì quá lo lắng,",
+        "en": "because I was so nervous,"
+      },
+      {
+        "t": "tôi đã đến sớm",
+        "en": "I arrived early"
+      },
+      {
+        "t": "nửa tiếng",
+        "en": "by half an hour"
+      },
+      {
+        "t": "cho buổi hẹn đầu tiên.",
+        "en": "for our first date"
+      }
+    ],
+    "answers": [
+      "Because I was so nervous, I arrived half an hour early for our first date.",
+      "I was so anxious that I showed up thirty minutes early for our first date."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu anh ấy mời tôi",
+        "en": "if he asks me"
+      },
+      {
+        "t": "đi ăn tối nữa,",
+        "en": "out to dinner again,"
+      },
+      {
+        "t": "tôi chắc chắn sẽ",
+        "en": "I'll definitely"
+      },
+      {
+        "t": "nhận lời.",
+        "en": "say yes"
+      }
+    ],
+    "answers": [
+      "If he asks me out to dinner again, I'll definitely say yes.",
+      "I'll say yes for sure if he invites me to dinner again."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù mới quen,",
+        "en": "although we'd only just met,"
+      },
+      {
+        "t": "chúng tôi nói chuyện",
+        "en": "we hit it off"
+      },
+      {
+        "t": "hợp nhau đến bất ngờ.",
+        "en": "surprisingly well"
+      }
+    ],
+    "answers": [
+      "Although we'd only just met, we hit it off surprisingly well.",
+      "Even though we just met, we got along surprisingly well."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi chia sẻ hết mọi chuyện,",
+        "en": "after we shared everything,"
+      },
+      {
+        "t": "tôi cảm thấy gần gũi",
+        "en": "I felt closer"
+      },
+      {
+        "t": "với anh ấy hơn.",
+        "en": "to him"
+      }
+    ],
+    "answers": [
+      "After we shared everything, I felt closer to him.",
+      "Once we'd opened up to each other, I felt a lot closer to him."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy hủy hẹn",
+        "en": "he canceled our date"
+      },
+      {
+        "t": "vào phút chót",
+        "en": "at the last minute"
+      },
+      {
+        "t": "nên tôi khá thất vọng.",
+        "en": "so I was pretty disappointed"
+      }
+    ],
+    "answers": [
+      "He canceled our date at the last minute, so I was pretty disappointed.",
+      "He called off our date last minute, which left me pretty let down."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã hẹn hò trực tuyến",
+        "en": "we'd been dating online"
+      },
+      {
+        "t": "vài tuần",
+        "en": "for a few weeks"
+      },
+      {
+        "t": "trước khi gặp mặt trực tiếp.",
+        "en": "before meeting in person"
+      }
+    ],
+    "answers": [
+      "We'd been dating online for a few weeks before meeting in person.",
+      "We dated virtually for a few weeks before we finally met face to face."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi chia tay,",
+        "en": "after we broke up,"
+      },
+      {
+        "t": "tôi đã mất",
+        "en": "it took me"
+      },
+      {
+        "t": "một thời gian dài",
+        "en": "a long time"
+      },
+      {
+        "t": "để vượt qua.",
+        "en": "to get over it"
+      }
+    ],
+    "answers": [
+      "After we broke up, it took me a long time to get over it.",
+      "It took me quite a while to move on after the breakup."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù đã chia tay,",
+        "en": "although we broke up,"
+      },
+      {
+        "t": "chúng tôi vẫn giữ liên lạc",
+        "en": "we still keep in touch"
+      },
+      {
+        "t": "như bạn bè.",
+        "en": "as friends"
+      }
+    ],
+    "answers": [
+      "Although we broke up, we still keep in touch as friends.",
+      "Even though we split up, we still stay in touch as friends."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy chia tay tôi",
+        "en": "she broke up with me"
+      },
+      {
+        "t": "vì cảm thấy",
+        "en": "because she felt"
+      },
+      {
+        "t": "chúng tôi không còn hợp nhau nữa.",
+        "en": "we weren't right for each other anymore"
+      }
+    ],
+    "answers": [
+      "She broke up with me because she felt we weren't right for each other anymore.",
+      "She ended things because she felt we'd grown apart."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi nói chuyện thẳng thắn hơn,",
+        "en": "if we had talked more openly,"
+      },
+      {
+        "t": "có lẽ đã không",
+        "en": "we might not have"
+      },
+      {
+        "t": "chia tay.",
+        "en": "broken up"
+      }
+    ],
+    "answers": [
+      "If we had talked more openly, we might not have broken up.",
+      "We probably wouldn't have split up if we'd been more honest with each other."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau chia tay,",
+        "en": "after the breakup,"
+      },
+      {
+        "t": "tôi bỏ hết",
+        "en": "I got rid of everything"
+      },
+      {
+        "t": "mọi thứ liên quan đến anh ấy",
+        "en": "related to him"
+      },
+      {
+        "t": "trên điện thoại.",
+        "en": "on my phone"
+      }
+    ],
+    "answers": [
+      "After the breakup, I got rid of everything related to him on my phone.",
+      "Once we broke up, I deleted everything of his from my phone."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã khóc suốt cả tuần",
+        "en": "I cried all week"
+      },
+      {
+        "t": "sau khi biết tin",
+        "en": "after hearing"
+      },
+      {
+        "t": "họ chia tay.",
+        "en": "they broke up"
+      }
+    ],
+    "answers": [
+      "I cried all week after hearing they broke up.",
+      "I spent the whole week crying once I found out they'd split up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi bình tĩnh lại,",
+        "en": "after we calmed down,"
+      },
+      {
+        "t": "chúng tôi mới ngồi xuống",
+        "en": "we finally sat down"
+      },
+      {
+        "t": "nói chuyện",
+        "en": "to talk"
+      },
+      {
+        "t": "để làm hòa.",
+        "en": "and make up"
+      }
+    ],
+    "answers": [
+      "After we calmed down, we finally sat down to talk and make up.",
+      "Once we'd both cooled off, we sat down and worked things out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn xin lỗi trước,",
+        "en": "if you apologize first,"
+      },
+      {
+        "t": "tôi nghĩ mọi chuyện",
+        "en": "I think everything"
+      },
+      {
+        "t": "sẽ ổn thôi.",
+        "en": "will be fine"
+      }
+    ],
+    "answers": [
+      "If you apologize first, I think everything will be fine.",
+      "Things will probably be fine if you say sorry first."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù còn giận,",
+        "en": "although I was still upset,"
+      },
+      {
+        "t": "tôi vẫn quyết định",
+        "en": "I still decided to"
+      },
+      {
+        "t": "nhắn tin làm hòa trước.",
+        "en": "text first to make up"
+      }
+    ],
+    "answers": [
+      "Although I was still upset, I still decided to text first to make up.",
+      "Even though I was still mad, I decided to reach out and make peace first."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã làm hòa",
+        "en": "we made up"
+      },
+      {
+        "t": "sau khi cả hai",
+        "en": "after both of us"
+      },
+      {
+        "t": "cùng nhận ra",
+        "en": "realized"
+      },
+      {
+        "t": "mình đều sai.",
+        "en": "we were both wrong"
+      }
+    ],
+    "answers": [
+      "We made up after both of us realized we were both wrong.",
+      "We patched things up once we both admitted we'd been wrong."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì không muốn mất",
+        "en": "because I didn't want to lose"
+      },
+      {
+        "t": "một người bạn tốt,",
+        "en": "a good friend,"
+      },
+      {
+        "t": "tôi đã chủ động",
+        "en": "I took the initiative"
+      },
+      {
+        "t": "làm hòa trước.",
+        "en": "to make up first"
+      }
+    ],
+    "answers": [
+      "Because I didn't want to lose a good friend, I took the initiative to make up first.",
+      "I didn't want to lose such a good friend, so I made the first move to make peace."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi làm hòa,",
+        "en": "after we made up,"
+      },
+      {
+        "t": "tình bạn của chúng tôi",
+        "en": "our friendship"
+      },
+      {
+        "t": "lại càng gắn bó hơn.",
+        "en": "grew even closer"
+      }
+    ],
+    "answers": [
+      "After we made up, our friendship grew even closer.",
+      "Our friendship became even stronger once we made up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã cố gắng làm hòa",
+        "en": "I've tried to make up"
+      },
+      {
+        "t": "nhiều lần",
+        "en": "several times"
+      },
+      {
+        "t": "nhưng cậu ấy vẫn",
+        "en": "but he still"
+      },
+      {
+        "t": "phớt lờ tôi.",
+        "en": "ignores me"
+      }
+    ],
+    "answers": [
+      "I've tried to make up several times, but he still ignores me.",
+      "I've made several attempts to patch things up, but he keeps ignoring me."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi chuyển trường,",
+        "en": "after I changed schools,"
+      },
+      {
+        "t": "chúng tôi vẫn giữ liên lạc",
+        "en": "we still kept in touch"
+      },
+      {
+        "t": "qua tin nhắn hàng tuần.",
+        "en": "by texting every week"
+      }
+    ],
+    "answers": [
+      "After I changed schools, we still kept in touch by texting every week.",
+      "Even after changing schools, we stayed in contact through weekly texts."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù đã nhiều năm không gặp,",
+        "en": "although we hadn't seen each other for years,"
+      },
+      {
+        "t": "tình bạn của chúng tôi",
+        "en": "our friendship"
+      },
+      {
+        "t": "vẫn như xưa.",
+        "en": "stayed the same"
+      }
+    ],
+    "answers": [
+      "Although we hadn't seen each other for years, our friendship stayed the same.",
+      "Even after years apart, our friendship never changed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã tình cờ gặp lại bạn cũ",
+        "en": "I ran into an old friend"
+      },
+      {
+        "t": "khi đang mua sắm",
+        "en": "while shopping"
+      },
+      {
+        "t": "ở siêu thị.",
+        "en": "at the supermarket"
+      }
+    ],
+    "answers": [
+      "I ran into an old friend while shopping at the supermarket.",
+      "While I was shopping at the supermarket, I bumped into an old friend."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu có dịp về quê,",
+        "en": "if I get the chance to go back home,"
+      },
+      {
+        "t": "tôi sẽ ghé thăm",
+        "en": "I'll visit"
+      },
+      {
+        "t": "mấy đứa bạn thời cấp hai.",
+        "en": "my middle school friends"
+      }
+    ],
+    "answers": [
+      "If I get the chance to go back home, I'll visit my middle school friends.",
+      "I'll drop by to see my middle school friends if I ever go back to my hometown."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi vẫn hay gọi video",
+        "en": "we still video call"
+      },
+      {
+        "t": "mỗi khi rảnh",
+        "en": "whenever we're free"
+      },
+      {
+        "t": "dù sống cách xa nhau.",
+        "en": "even though we live far apart"
+      }
+    ],
+    "answers": [
+      "We still video call whenever we're free, even though we live far apart.",
+      "Even living far apart, we still video chat when we have time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi tốt nghiệp,",
+        "en": "after graduation,"
+      },
+      {
+        "t": "nhiều người trong nhóm bạn",
+        "en": "many people in the friend group"
+      },
+      {
+        "t": "dần mất liên lạc với nhau.",
+        "en": "gradually lost touch with each other"
+      }
+    ],
+    "answers": [
+      "After graduation, many people in the friend group gradually lost touch with each other.",
+      "Once we graduated, a lot of us in the group slowly drifted apart."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì muốn tạo bất ngờ,",
+        "en": "because we wanted to surprise her,"
+      },
+      {
+        "t": "chúng tôi đã lên kế hoạch",
+        "en": "we planned"
+      },
+      {
+        "t": "bí mật suốt một tháng.",
+        "en": "secretly for a whole month"
+      }
+    ],
+    "answers": [
+      "Because we wanted to surprise her, we planned secretly for a whole month.",
+      "We spent a whole month planning it in secret to surprise her."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Trong khi tôi đang trang trí phòng,",
+        "en": "while I was decorating the room,"
+      },
+      {
+        "t": "các bạn khác",
+        "en": "the others"
+      },
+      {
+        "t": "lo phần đồ ăn.",
+        "en": "took care of the food"
+      }
+    ],
+    "answers": [
+      "While I was decorating the room, the others took care of the food.",
+      "The rest handled the food while I decorated the room."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu trời không mưa,",
+        "en": "if it doesn't rain,"
+      },
+      {
+        "t": "chúng tôi sẽ tổ chức tiệc",
+        "en": "we'll hold the party"
+      },
+      {
+        "t": "ngoài sân vườn.",
+        "en": "in the garden"
+      }
+    ],
+    "answers": [
+      "If it doesn't rain, we'll hold the party in the garden.",
+      "We'll throw the party out in the garden as long as it doesn't rain."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi mọi người về hết,",
+        "en": "after everyone left,"
+      },
+      {
+        "t": "tôi phải dọn dẹp",
+        "en": "I had to clean up"
+      },
+      {
+        "t": "một mình đến khuya.",
+        "en": "alone until late"
+      }
+    ],
+    "answers": [
+      "After everyone left, I had to clean up alone until late.",
+      "Once everyone had gone home, I was stuck cleaning up by myself until late."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bữa tiệc suýt bị hủy",
+        "en": "the party was almost canceled"
+      },
+      {
+        "t": "vì người đặt bánh",
+        "en": "because the cake shop"
+      },
+      {
+        "t": "giao nhầm địa chỉ.",
+        "en": "delivered to the wrong address"
+      }
+    ],
+    "answers": [
+      "The party was almost canceled because the cake shop delivered to the wrong address.",
+      "We nearly had to cancel the party since the bakery sent the cake to the wrong place."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù chuẩn bị vội vàng,",
+        "en": "although we prepared it in a rush,"
+      },
+      {
+        "t": "bữa tiệc vẫn diễn ra",
+        "en": "the party still went"
+      },
+      {
+        "t": "suôn sẻ.",
+        "en": "smoothly"
+      }
+    ],
+    "answers": [
+      "Although we prepared it in a rush, the party still went smoothly.",
+      "Even though we threw it together last minute, the party still went off without a hitch."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã mời hết mọi người",
+        "en": "I invited everyone"
+      },
+      {
+        "t": "nhưng chỉ một nửa",
+        "en": "but only half"
+      },
+      {
+        "t": "đến dự thôi.",
+        "en": "actually showed up"
+      }
+    ],
+    "answers": [
+      "I invited everyone, but only half actually showed up.",
+      "I sent invites to everyone, yet only about half turned up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Khi giới thiệu bạn mới,",
+        "en": "when I introduce a new friend,"
+      },
+      {
+        "t": "tôi luôn cố kể",
+        "en": "I always try to mention"
+      },
+      {
+        "t": "vài điều thú vị về họ.",
+        "en": "a few interesting things about them"
+      }
+    ],
+    "answers": [
+      "When I introduce a new friend, I always try to mention a few interesting things about them.",
+      "Whenever I introduce someone new, I try to share something interesting about them."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì cùng sở thích,",
+        "en": "because we shared the same interests,"
+      },
+      {
+        "t": "tôi và người bạn mới",
+        "en": "my new friend and I"
+      },
+      {
+        "t": "nhanh chóng trở nên thân thiết.",
+        "en": "quickly became close"
+      }
+    ],
+    "answers": [
+      "Because we shared the same interests, my new friend and I quickly became close.",
+      "We hit it off fast since we had so much in common."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi được giới thiệu,",
+        "en": "after being introduced,"
+      },
+      {
+        "t": "chúng tôi nói chuyện với nhau",
+        "en": "we talked"
+      },
+      {
+        "t": "suốt cả buổi tối.",
+        "en": "the whole evening"
+      }
+    ],
+    "answers": [
+      "After being introduced, we talked to each other the whole evening.",
+      "Once we were introduced, we ended up talking all evening."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù hơi ngại lúc đầu,",
+        "en": "although I felt shy at first,"
+      },
+      {
+        "t": "tôi dần cảm thấy thoải mái",
+        "en": "I gradually felt comfortable"
+      },
+      {
+        "t": "với nhóm bạn mới.",
+        "en": "with the new group of friends"
+      }
+    ],
+    "answers": [
+      "Although I felt shy at first, I gradually felt comfortable with the new group of friends.",
+      "I was a bit nervous at first, but I slowly warmed up to the new group."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn không phiền,",
+        "en": "if you don't mind,"
+      },
+      {
+        "t": "tôi muốn giới thiệu bạn",
+        "en": "I'd like to introduce you"
+      },
+      {
+        "t": "với anh trai tôi.",
+        "en": "to my brother"
+      }
+    ],
+    "answers": [
+      "If you don't mind, I'd like to introduce you to my brother.",
+      "I'd love to introduce you to my brother, if that's okay."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô bạn mới",
+        "en": "my new friend"
+      },
+      {
+        "t": "hóa ra lại học chung",
+        "en": "turned out to have gone to the same"
+      },
+      {
+        "t": "trường cấp ba với tôi.",
+        "en": "high school as me"
+      }
+    ],
+    "answers": [
+      "My new friend turned out to have gone to the same high school as me.",
+      "It turned out my new friend and I went to the same high school."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì bạn tôi vừa mất việc,",
+        "en": "because my friend just lost his job,"
+      },
+      {
+        "t": "tôi đã cho anh ấy mượn tiền",
+        "en": "I lent him some money"
+      },
+      {
+        "t": "để trang trải.",
+        "en": "to get by"
+      }
+    ],
+    "answers": [
+      "Because my friend just lost his job, I lent him some money to get by.",
+      "My friend had just lost his job, so I lent him money to help him get by."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi nghe bạn tâm sự,",
+        "en": "after hearing my friend open up,"
+      },
+      {
+        "t": "tôi đã cố gắng",
+        "en": "I tried"
+      },
+      {
+        "t": "đưa ra vài lời khuyên.",
+        "en": "to give some advice"
+      }
+    ],
+    "answers": [
+      "After hearing my friend open up, I tried to give some advice.",
+      "Once she told me everything, I tried offering a bit of advice."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù rất bận,",
+        "en": "although I was really busy,"
+      },
+      {
+        "t": "tôi vẫn dành thời gian",
+        "en": "I still made time"
+      },
+      {
+        "t": "đưa bạn đi khám bệnh.",
+        "en": "to take my friend to the doctor"
+      }
+    ],
+    "answers": [
+      "Although I was really busy, I still made time to take my friend to the doctor.",
+      "Even though I was swamped, I still found time to drive my friend to the doctor."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn cần giúp đỡ,",
+        "en": "if you need help,"
+      },
+      {
+        "t": "đừng ngại nhắn tin cho tôi",
+        "en": "don't hesitate to text me"
+      },
+      {
+        "t": "bất cứ lúc nào.",
+        "en": "anytime"
+      }
+    ],
+    "answers": [
+      "If you need help, don't hesitate to text me anytime.",
+      "Feel free to text me anytime you need help."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã thức khuya",
+        "en": "I stayed up late"
+      },
+      {
+        "t": "giúp bạn hoàn thành",
+        "en": "helping my friend finish"
+      },
+      {
+        "t": "bài thuyết trình kịp hạn.",
+        "en": "the presentation in time"
+      }
+    ],
+    "answers": [
+      "I stayed up late helping my friend finish the presentation in time.",
+      "I stayed up late to help my friend get the presentation done on time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Khi biết bạn gặp khó khăn tài chính,",
+        "en": "when we found out our friend was struggling financially,"
+      },
+      {
+        "t": "cả nhóm đã góp tiền",
+        "en": "the whole group chipped in"
+      },
+      {
+        "t": "hỗ trợ.",
+        "en": "to help"
+      }
+    ],
+    "answers": [
+      "When we found out our friend was struggling financially, the whole group chipped in to help.",
+      "Once we learned our friend was in financial trouble, everyone pitched in to support her."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi luôn cố gắng giúp đỡ bạn bè",
+        "en": "I always try to help my friends"
+      },
+      {
+        "t": "dù đôi khi",
+        "en": "even when sometimes"
+      },
+      {
+        "t": "họ không nhờ.",
+        "en": "they don't ask"
+      }
+    ],
+    "answers": [
+      "I always try to help my friends even when they don't ask.",
+      "I try to help my friends out even if they haven't asked for it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã rất sốc",
+        "en": "I was so shocked"
+      },
+      {
+        "t": "khi phát hiện",
+        "en": "when I found out"
+      },
+      {
+        "t": "người bạn thân nói xấu mình",
+        "en": "my best friend was talking about me"
+      },
+      {
+        "t": "sau lưng.",
+        "en": "behind my back"
+      }
+    ],
+    "answers": [
+      "I was so shocked when I found out my best friend was talking about me behind my back.",
+      "Finding out my best friend badmouthed me behind my back really shocked me."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì không muốn gây rắc rối,",
+        "en": "because I didn't want to cause trouble,"
+      },
+      {
+        "t": "tôi quyết định",
+        "en": "I decided"
+      },
+      {
+        "t": "không đối chất với cô ấy.",
+        "en": "not to confront her"
+      }
+    ],
+    "answers": [
+      "Because I didn't want to cause trouble, I decided not to confront her.",
+      "I chose not to confront her since I didn't want to stir up drama."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi biết sự thật,",
+        "en": "after learning the truth,"
+      },
+      {
+        "t": "tôi bắt đầu",
+        "en": "I started"
+      },
+      {
+        "t": "giữ khoảng cách với người đó.",
+        "en": "keeping my distance from that person"
+      }
+    ],
+    "answers": [
+      "After learning the truth, I started keeping my distance from that person.",
+      "Once I knew the truth, I began distancing myself from her."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù cô ấy chối,",
+        "en": "although she denied it,"
+      },
+      {
+        "t": "tôi vẫn có bằng chứng",
+        "en": "I still had proof"
+      },
+      {
+        "t": "cô ấy nói xấu tôi.",
+        "en": "that she'd talked bad about me"
+      }
+    ],
+    "answers": [
+      "Although she denied it, I still had proof that she'd talked bad about me.",
+      "Even though she denied it, I had evidence she'd bad-mouthed me."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi ghét khi ai đó",
+        "en": "I hate it when someone"
+      },
+      {
+        "t": "nói xấu sau lưng",
+        "en": "talks behind my back"
+      },
+      {
+        "t": "thay vì nói thẳng với tôi.",
+        "en": "instead of telling me directly"
+      }
+    ],
+    "answers": [
+      "I hate it when someone talks behind my back instead of telling me directly.",
+      "I can't stand it when people gossip about me instead of just being upfront."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cả nhóm bắt đầu xa lánh cô ấy",
+        "en": "the whole group started avoiding her"
+      },
+      {
+        "t": "sau khi biết",
+        "en": "after finding out"
+      },
+      {
+        "t": "cô ấy hay đâm sau lưng.",
+        "en": "she often stabbed people in the back"
+      }
+    ],
+    "answers": [
+      "The whole group started avoiding her after finding out she often stabbed people in the back.",
+      "Everyone in the group started keeping away from her once they learned she was two-faced."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù đã hứa chắc chắn,",
+        "en": "although he promised for sure,"
+      },
+      {
+        "t": "anh ấy vẫn không",
+        "en": "he still didn't"
+      },
+      {
+        "t": "xuất hiện đúng giờ.",
+        "en": "show up on time"
+      }
+    ],
+    "answers": [
+      "Although he promised for sure, he still didn't show up on time.",
+      "Even though he swore he'd be there, he still didn't turn up on time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn hứa điều gì,",
+        "en": "if you promise something,"
+      },
+      {
+        "t": "hãy cố gắng giữ lời",
+        "en": "try to keep your word"
+      },
+      {
+        "t": "thay vì thất hẹn.",
+        "en": "instead of breaking it"
+      }
+    ],
+    "answers": [
+      "If you promise something, try to keep your word instead of breaking it.",
+      "Try to keep any promise you make instead of going back on it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau nhiều lần thất hứa,",
+        "en": "after so many broken promises,"
+      },
+      {
+        "t": "tôi không còn",
+        "en": "I no longer"
+      },
+      {
+        "t": "tin tưởng cậu ấy nữa.",
+        "en": "trust him anymore"
+      }
+    ],
+    "answers": [
+      "After so many broken promises, I no longer trust him anymore.",
+      "I've stopped trusting him after all the broken promises."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy hứa sẽ đến",
+        "en": "she promised she'd come"
+      },
+      {
+        "t": "dự sinh nhật tôi",
+        "en": "to my birthday"
+      },
+      {
+        "t": "nhưng lại bận việc đột xuất.",
+        "en": "but ended up busy with something unexpected"
+      }
+    ],
+    "answers": [
+      "She promised she'd come to my birthday, but ended up busy with something unexpected.",
+      "She said she'd be at my birthday, but something came up unexpectedly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì bị thất hẹn",
+        "en": "because I've been let down"
+      },
+      {
+        "t": "quá nhiều lần,",
+        "en": "so many times,"
+      },
+      {
+        "t": "tôi không đặt kỳ vọng cao nữa.",
+        "en": "I no longer set high expectations"
+      }
+    ],
+    "answers": [
+      "Because I've been let down so many times, I no longer set high expectations.",
+      "I've stopped expecting much since I've been stood up so many times."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Khi cậu ấy lại thất hứa,",
+        "en": "when he broke his promise again,"
+      },
+      {
+        "t": "tôi chỉ biết thở dài",
+        "en": "I could only sigh"
+      },
+      {
+        "t": "và bỏ qua.",
+        "en": "and let it go"
+      }
+    ],
+    "answers": [
+      "When he broke his promise again, I could only sigh and let it go.",
+      "When he let me down again, all I could do was sigh and move on."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi từng tin lời hứa của bạn",
+        "en": "I used to believe your promises"
+      },
+      {
+        "t": "nhưng giờ thì",
+        "en": "but now"
+      },
+      {
+        "t": "không nữa.",
+        "en": "I don't anymore"
+      }
+    ],
+    "answers": [
+      "I used to believe your promises, but now I don't anymore.",
+      "I used to trust what you promised, but not anymore."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi thường tám chuyện phiếm",
+        "en": "we often chat casually"
+      },
+      {
+        "t": "sau giờ làm",
+        "en": "after work"
+      },
+      {
+        "t": "để giải tỏa căng thẳng.",
+        "en": "to relieve stress"
+      }
+    ],
+    "answers": [
+      "We often chat casually after work to relieve stress.",
+      "After work, we usually gossip a bit to unwind."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì quá mải tám chuyện,",
+        "en": "because we were so caught up gossiping,"
+      },
+      {
+        "t": "chúng tôi quên mất",
+        "en": "we forgot"
+      },
+      {
+        "t": "giờ hẹn với người khác.",
+        "en": "our appointment with someone else"
+      }
+    ],
+    "answers": [
+      "Because we were so caught up gossiping, we forgot our appointment with someone else.",
+      "We got so wrapped up chatting that we forgot we had another appointment."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi tám đủ thứ chuyện,",
+        "en": "after chatting about everything,"
+      },
+      {
+        "t": "chúng tôi mới nhận ra",
+        "en": "we finally realized"
+      },
+      {
+        "t": "đã hai tiếng trôi qua.",
+        "en": "two hours had passed"
+      }
+    ],
+    "answers": [
+      "After chatting about everything, we finally realized two hours had passed.",
+      "We chatted about everything and only then noticed two hours had gone by."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù không có gì mới,",
+        "en": "although there was nothing new,"
+      },
+      {
+        "t": "chúng tôi vẫn tám chuyện được",
+        "en": "we still managed to chat"
+      },
+      {
+        "t": "cả buổi.",
+        "en": "the whole time"
+      }
+    ],
+    "answers": [
+      "Although there was nothing new, we still managed to chat the whole time.",
+      "Even with nothing new to say, we still ended up talking for hours."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cô ấy hay tám chuyện",
+        "en": "she chats so much"
+      },
+      {
+        "t": "đến mức bạn bè",
+        "en": "that her friends"
+      },
+      {
+        "t": "phải nhắc cô ấy về giờ giấc.",
+        "en": "have to remind her about the time"
+      }
+    ],
+    "answers": [
+      "She chats so much that her friends have to remind her about the time.",
+      "She talks so much her friends have to remind her to watch the clock."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu không phải bận việc,",
+        "en": "if I weren't busy,"
+      },
+      {
+        "t": "tôi sẽ ngồi tám chuyện với bạn",
+        "en": "I'd sit and chat with you"
+      },
+      {
+        "t": "cả ngày.",
+        "en": "all day"
+      }
+    ],
+    "answers": [
+      "If I weren't busy, I'd sit and chat with you all day.",
+      "I'd chat with you all day if I didn't have things to do."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì quá nhút nhát,",
+        "en": "because I'm so shy,"
+      },
+      {
+        "t": "tôi thường tránh",
+        "en": "I usually avoid"
+      },
+      {
+        "t": "bắt chuyện với người lạ.",
+        "en": "starting conversations with strangers"
+      }
+    ],
+    "answers": [
+      "Because I'm so shy, I usually avoid starting conversations with strangers.",
+      "I'm quite shy, so I tend to avoid talking to strangers."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù đã cố gắng,",
+        "en": "although I've tried,"
+      },
+      {
+        "t": "tôi vẫn cảm thấy lo lắng",
+        "en": "I still feel anxious"
+      },
+      {
+        "t": "khi phát biểu trước đám đông.",
+        "en": "speaking in front of a crowd"
+      }
+    ],
+    "answers": [
+      "Although I've tried, I still feel anxious speaking in front of a crowd.",
+      "Even after trying hard, I still get nervous talking in front of crowds."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi tham gia câu lạc bộ,",
+        "en": "after joining the club,"
+      },
+      {
+        "t": "tôi dần bớt ngại",
+        "en": "I gradually became less shy"
+      },
+      {
+        "t": "giao tiếp hơn trước.",
+        "en": "about talking than before"
+      }
+    ],
+    "answers": [
+      "After joining the club, I gradually became less shy about talking than before.",
+      "Since joining the club, I've slowly grown more comfortable talking to people."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu phải nói chuyện với người lạ,",
+        "en": "if I have to talk to a stranger,"
+      },
+      {
+        "t": "tôi thường chuẩn bị sẵn",
+        "en": "I usually prepare"
+      },
+      {
+        "t": "vài câu trước.",
+        "en": "a few lines beforehand"
+      }
+    ],
+    "answers": [
+      "If I have to talk to a stranger, I usually prepare a few lines beforehand.",
+      "I usually think of a few things to say beforehand if I have to talk to a stranger."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi từng rất ngại giao tiếp",
+        "en": "I used to be really shy about talking to people"
+      },
+      {
+        "t": "nhưng giờ",
+        "en": "but now"
+      },
+      {
+        "t": "đã tự tin hơn nhiều.",
+        "en": "I'm much more confident"
+      }
+    ],
+    "answers": [
+      "I used to be really shy about talking to people, but now I'm much more confident.",
+      "I used to be quite awkward socially, but I've become far more confident now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì sợ bị đánh giá,",
+        "en": "because I'm afraid of being judged,"
+      },
+      {
+        "t": "tôi ít khi",
+        "en": "I rarely"
+      },
+      {
+        "t": "chia sẻ ý kiến trong nhóm.",
+        "en": "share my opinion in the group"
+      }
+    ],
+    "answers": [
+      "Because I'm afraid of being judged, I rarely share my opinion in the group.",
+      "I hardly ever voice my opinion in the group since I'm scared of being judged."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Khi gặp người mới,",
+        "en": "when I meet someone new,"
+      },
+      {
+        "t": "tim tôi luôn đập nhanh",
+        "en": "my heart always races"
+      },
+      {
+        "t": "vì quá hồi hộp.",
+        "en": "because I'm so nervous"
+      }
+    ],
+    "answers": [
+      "When I meet someone new, my heart always races because I'm so nervous.",
+      "My heart pounds every time I meet someone new, I get that nervous."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Kể từ khi bạn thân chuyển đi,",
+        "en": "since my best friend moved away,"
+      },
+      {
+        "t": "cuộc sống của tôi",
+        "en": "my life"
+      },
+      {
+        "t": "trở nên buồn tẻ hơn.",
+        "en": "has become more boring"
+      }
+    ],
+    "answers": [
+      "Since my best friend moved away, my life has become more boring.",
+      "My life's felt duller ever since my best friend moved away."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã khóc rất nhiều",
+        "en": "we cried a lot"
+      },
+      {
+        "t": "khi tiễn bạn ấy",
+        "en": "when we saw her off"
+      },
+      {
+        "t": "ra sân bay.",
+        "en": "at the airport"
+      }
+    ],
+    "answers": [
+      "We cried a lot when we saw her off at the airport.",
+      "We cried our eyes out saying goodbye to her at the airport."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù ở xa,",
+        "en": "although we're far apart,"
+      },
+      {
+        "t": "chúng tôi vẫn cố gắng",
+        "en": "we still try to"
+      },
+      {
+        "t": "gọi video mỗi tuần.",
+        "en": "video call each week"
+      }
+    ],
+    "answers": [
+      "Although we're far apart, we still try to video call each week.",
+      "Even living far apart, we make an effort to video chat weekly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu có kỳ nghỉ dài,",
+        "en": "if I get a long vacation,"
+      },
+      {
+        "t": "tôi sẽ bay sang",
+        "en": "I'll fly over"
+      },
+      {
+        "t": "thăm bạn ấy ngay.",
+        "en": "to visit her right away"
+      }
+    ],
+    "answers": [
+      "If I get a long vacation, I'll fly over to visit her right away.",
+      "I'll fly to see her as soon as I get a long break."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi bạn ấy đi,",
+        "en": "after she left,"
+      },
+      {
+        "t": "căn phòng bên cạnh nhà tôi",
+        "en": "the room next to my house"
+      },
+      {
+        "t": "trống trơn.",
+        "en": "felt completely empty"
+      }
+    ],
+    "answers": [
+      "After she left, the room next to my house felt completely empty.",
+      "The place next door felt empty once she moved away."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi vẫn nhớ những ngày",
+        "en": "I still remember the days"
+      },
+      {
+        "t": "chúng tôi đi học cùng nhau",
+        "en": "we went to school together"
+      },
+      {
+        "t": "trước khi bạn ấy chuyển đi.",
+        "en": "before she moved away"
+      }
+    ],
+    "answers": [
+      "I still remember the days we went to school together before she moved away.",
+      "I still think back on the days we walked to school together before she left."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì có chung sở thích,",
+        "en": "because we shared the same interest,"
+      },
+      {
+        "t": "tôi đã kết bạn",
+        "en": "I became friends"
+      },
+      {
+        "t": "với một người trên diễn đàn.",
+        "en": "with someone on a forum"
+      }
+    ],
+    "answers": [
+      "Because we shared the same interest, I became friends with someone on a forum.",
+      "I made friends with someone on a forum since we liked the same things."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi trò chuyện được vài tháng,",
+        "en": "after chatting for a few months,"
+      },
+      {
+        "t": "chúng tôi quyết định",
+        "en": "we decided"
+      },
+      {
+        "t": "gặp nhau ngoài đời.",
+        "en": "to meet in person"
+      }
+    ],
+    "answers": [
+      "After chatting for a few months, we decided to meet in person.",
+      "We chatted for a couple of months before deciding to meet up in real life."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù chưa từng gặp mặt,",
+        "en": "although we'd never met in person,"
+      },
+      {
+        "t": "chúng tôi vẫn hiểu nhau",
+        "en": "we still understood each other"
+      },
+      {
+        "t": "rất rõ.",
+        "en": "very well"
+      }
+    ],
+    "answers": [
+      "Although we'd never met in person, we still understood each other very well.",
+      "Even without ever meeting face to face, we understood each other perfectly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn online nói dối",
+        "en": "if an online friend lies"
+      },
+      {
+        "t": "về thông tin cá nhân,",
+        "en": "about personal information,"
+      },
+      {
+        "t": "tôi sẽ ngừng liên lạc ngay.",
+        "en": "I'll stop talking to them right away"
+      }
+    ],
+    "answers": [
+      "If an online friend lies about personal information, I'll stop talking to them right away.",
+      "I'll cut off contact immediately if an online friend lies about who they are."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi đã kết bạn",
+        "en": "I made friends"
+      },
+      {
+        "t": "với một cô gái nước ngoài",
+        "en": "with a foreign girl"
+      },
+      {
+        "t": "qua một ứng dụng học tiếng Anh.",
+        "en": "through an English learning app"
+      }
+    ],
+    "answers": [
+      "I made friends with a foreign girl through an English learning app.",
+      "I befriended a girl from abroad on an app for learning English."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì lo bị lừa,",
+        "en": "because I'm worried about being scammed,"
+      },
+      {
+        "t": "tôi luôn cẩn thận",
+        "en": "I'm always careful"
+      },
+      {
+        "t": "khi kết bạn với người lạ trên mạng.",
+        "en": "when making friends with strangers online"
+      }
+    ],
+    "answers": [
+      "Because I'm worried about being scammed, I'm always careful when making friends with strangers online.",
+      "I'm always cautious about befriending strangers online since I'm afraid of getting scammed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi mất liên lạc một thời gian,",
+        "en": "after losing touch for a while,"
+      },
+      {
+        "t": "chúng tôi lại kết nối",
+        "en": "we reconnected"
+      },
+      {
+        "t": "qua mạng xã hội.",
+        "en": "through social media"
+      }
+    ],
+    "answers": [
+      "After losing touch for a while, we reconnected through social media.",
+      "We lost contact for a while but reconnected on social media."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Vì hai người trong nhóm",
+        "en": "because two people in the group"
+      },
+      {
+        "t": "bất đồng quan điểm,",
+        "en": "disagreed,"
+      },
+      {
+        "t": "cả hội bạn",
+        "en": "the whole friend group"
+      },
+      {
+        "t": "bị chia rẽ.",
+        "en": "got split up"
+      }
+    ],
+    "answers": [
+      "Because two people in the group disagreed, the whole friend group got split up.",
+      "The whole group got divided because two people couldn't see eye to eye."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu không ai chịu nhường,",
+        "en": "if no one is willing to give in,"
+      },
+      {
+        "t": "mâu thuẫn này",
+        "en": "this conflict"
+      },
+      {
+        "t": "sẽ không bao giờ",
+        "en": "will never"
+      },
+      {
+        "t": "giải quyết được.",
+        "en": "be resolved"
+      }
+    ],
+    "answers": [
+      "If no one is willing to give in, this conflict will never be resolved.",
+      "This conflict will never get resolved unless someone backs down."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sau khi họp nhóm,",
+        "en": "after the group meeting,"
+      },
+      {
+        "t": "mọi hiểu lầm",
+        "en": "all the misunderstandings"
+      },
+      {
+        "t": "cuối cùng cũng được làm rõ.",
+        "en": "finally got cleared up"
+      }
+    ],
+    "answers": [
+      "After the group meeting, all the misunderstandings finally got cleared up.",
+      "Once we all sat down together, everything got sorted out at last."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mặc dù mâu thuẫn kéo dài,",
+        "en": "although the conflict dragged on,"
+      },
+      {
+        "t": "cả nhóm vẫn cố giữ",
+        "en": "the whole group still tried to preserve"
+      },
+      {
+        "t": "tình bạn.",
+        "en": "the friendship"
+      }
+    ],
+    "answers": [
+      "Although the conflict dragged on, the whole group still tried to preserve the friendship.",
+      "Even though the tension lasted a while, everyone tried to keep the friendship intact."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi cảm thấy mệt mỏi",
+        "en": "I feel exhausted"
+      },
+      {
+        "t": "vì phải đứng giữa",
+        "en": "having to stand between"
+      },
+      {
+        "t": "hai phe trong nhóm.",
+        "en": "two sides in the group"
+      }
+    ],
+    "answers": [
+      "I feel exhausted having to stand between two sides in the group.",
+      "I'm tired of being caught in the middle of two sides in the group."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Khi mâu thuẫn nổ ra,",
+        "en": "when the conflict broke out,"
+      },
+      {
+        "t": "một vài người",
+        "en": "a few people"
+      },
+      {
+        "t": "đã rời khỏi nhóm luôn.",
+        "en": "left the group for good"
+      }
+    ],
+    "answers": [
+      "When the conflict broke out, a few people left the group for good.",
+      "A few people quit the group altogether once the conflict erupted."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết trước",
+        "en": "if I'd known beforehand"
+      },
+      {
+        "t": "bạn sẽ hủy hẹn vào phút chót,",
+        "en": "you'd cancel at the last minute,"
+      },
+      {
+        "t": "tôi đã không gác lại",
+        "en": "I wouldn't have put off"
+      },
+      {
+        "t": "công việc quan trọng",
+        "en": "important work"
+      },
+      {
+        "t": "để gặp bạn.",
+        "en": "to meet you"
+      }
+    ],
+    "answers": [
+      "If I'd known you'd cancel at the last minute, I wouldn't have put off important work to meet you.",
+      "Had I known you were going to bail last minute, I wouldn't have set aside important work to see you."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Buổi gặp mặt",
+        "en": "the get-together"
+      },
+      {
+        "t": "mà lẽ ra chỉ kéo dài một tiếng",
+        "en": "that was only supposed to last an hour"
+      },
+      {
+        "t": "cuối cùng lại biến thành",
+        "en": "ended up turning into"
+      },
+      {
+        "t": "cả một buổi tối dài.",
+        "en": "an entire long evening"
+      }
+    ],
+    "answers": [
+      "The get-together that was only supposed to last an hour ended up turning into an entire long evening.",
+      "What was meant to be a one-hour meetup turned into a whole long evening."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng chờ đợi lâu",
+        "en": "the longer I waited"
+      },
+      {
+        "t": "ở quán cà phê,",
+        "en": "at the cafe,"
+      },
+      {
+        "t": "tôi càng nghi ngờ",
+        "en": "the more I doubted"
+      },
+      {
+        "t": "liệu bạn có đến hay không.",
+        "en": "whether you'd show up at all"
+      }
+    ],
+    "answers": [
+      "The longer I waited at the cafe, the more I doubted whether you'd show up at all.",
+      "The more time passed at the cafe, the more I began to wonder if you'd come at all."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Hiếm khi nào",
+        "en": "rarely"
+      },
+      {
+        "t": "cả nhóm bạn thân của tôi",
+        "en": "my whole group of close friends"
+      },
+      {
+        "t": "tụ họp đông đủ",
+        "en": "gather all together"
+      },
+      {
+        "t": "như buổi tối hôm đó.",
+        "en": "like they did that evening"
+      }
+    ],
+    "answers": [
+      "Rarely did my whole group of close friends gather all together like they did that evening.",
+      "It was rare for my entire circle of close friends to be together the way they were that evening."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tôi ước gì mình đã sắp xếp",
+        "en": "I wish I had arranged"
+      },
+      {
+        "t": "gặp bạn sớm hơn",
+        "en": "to meet you sooner"
+      },
+      {
+        "t": "thay vì trì hoãn",
+        "en": "instead of putting it off"
+      },
+      {
+        "t": "hết lần này đến lần khác.",
+        "en": "time after time"
+      }
+    ],
+    "answers": [
+      "I wish I had arranged to meet you sooner instead of putting it off time after time.",
+      "I regret not scheduling to see you sooner rather than postponing it over and over."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi không để",
+        "en": "if we hadn't let"
+      },
+      {
+        "t": "cái tôi lấn át,",
+        "en": "our egos take over,"
+      },
+      {
+        "t": "cuộc cãi vã đó",
+        "en": "that argument"
+      },
+      {
+        "t": "đã không kéo dài đến vậy.",
+        "en": "wouldn't have dragged on that long"
+      }
+    ],
+    "answers": [
+      "If we hadn't let our egos take over, that argument wouldn't have dragged on that long.",
+      "That argument wouldn't have lasted so long had we not let our pride get in the way."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Những lời được thốt ra",
+        "en": "the words spoken"
+      },
+      {
+        "t": "trong lúc nóng giận",
+        "en": "in the heat of anger"
+      },
+      {
+        "t": "thường để lại vết thương",
+        "en": "often leave wounds"
+      },
+      {
+        "t": "lâu lành hơn ta tưởng.",
+        "en": "that heal slower than we think"
+      }
+    ],
+    "answers": [
+      "The words spoken in the heat of anger often leave wounds that heal slower than we think.",
+      "Words said in anger tend to leave scars that take longer to heal than expected."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Giá mà tôi biết kiềm chế hơn,",
+        "en": "if only I'd been more restrained,"
+      },
+      {
+        "t": "tôi đã không nói ra",
+        "en": "I wouldn't have said"
+      },
+      {
+        "t": "những điều khiến bạn tổn thương như vậy.",
+        "en": "the things that hurt you so much"
+      }
+    ],
+    "answers": [
+      "If only I'd been more restrained, I wouldn't have said the things that hurt you so much.",
+      "I wish I had controlled myself better instead of saying things that hurt you that badly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cuộc tranh cãi,",
+        "en": "the argument,"
+      },
+      {
+        "t": "vốn bắt nguồn từ một hiểu lầm nhỏ,",
+        "en": "which started from a small misunderstanding,"
+      },
+      {
+        "t": "dần biến thành",
+        "en": "gradually turned into"
+      },
+      {
+        "t": "một cuộc chiến im lặng kéo dài cả tháng.",
+        "en": "a month-long silent standoff"
+      }
+    ],
+    "answers": [
+      "The argument, which started from a small misunderstanding, gradually turned into a month-long silent standoff.",
+      "What began as a tiny misunderstanding slowly grew into a whole month of silence between us."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu cả hai chịu lắng nghe nhau nhiều hơn,",
+        "en": "if we'd both listened to each other more,"
+      },
+      {
+        "t": "có lẽ mâu thuẫn ấy",
+        "en": "that conflict probably"
+      },
+      {
+        "t": "đã không đi xa đến mức này.",
+        "en": "wouldn't have gone this far"
+      }
+    ],
+    "answers": [
+      "If we'd both listened to each other more, that conflict probably wouldn't have gone this far.",
+      "Had we listened to each other better, the disagreement probably wouldn't have escalated this much."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Tin nhắn mà tôi gửi",
+        "en": "the message I sent"
+      },
+      {
+        "t": "lúc nửa đêm",
+        "en": "at midnight"
+      },
+      {
+        "t": "hóa ra lại là nguyên nhân",
+        "en": "turned out to be the cause"
+      },
+      {
+        "t": "của mọi hiểu lầm sau này.",
+        "en": "of all the misunderstandings that followed"
+      }
+    ],
+    "answers": [
+      "The message I sent at midnight turned out to be the cause of all the misunderstandings that followed.",
+      "That midnight text of mine ended up causing every misunderstanding that came after."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn nhắn lại sớm hơn,",
+        "en": "if you'd texted back sooner,"
+      },
+      {
+        "t": "có lẽ mọi chuyện",
+        "en": "things probably"
+      },
+      {
+        "t": "đã không căng thẳng đến thế.",
+        "en": "wouldn't have gotten that tense"
+      }
+    ],
+    "answers": [
+      "If you'd texted back sooner, things probably wouldn't have gotten that tense.",
+      "Had you replied earlier, the situation probably wouldn't have turned so tense."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng đọc lại",
+        "en": "the more I reread"
+      },
+      {
+        "t": "đoạn tin nhắn đó,",
+        "en": "that message,"
+      },
+      {
+        "t": "tôi càng thấy",
+        "en": "the more I realized"
+      },
+      {
+        "t": "mình đã phản ứng thái quá.",
+        "en": "I had overreacted"
+      }
+    ],
+    "answers": [
+      "The more I reread that message, the more I realized I had overreacted.",
+      "Rereading that message again and again, I kept seeing how much I'd overreacted."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Việc bị bơ tin nhắn",
+        "en": "being ignored on text"
+      },
+      {
+        "t": "suốt cả ngày",
+        "en": "all day"
+      },
+      {
+        "t": "khiến tôi cảm thấy",
+        "en": "made me feel"
+      },
+      {
+        "t": "mình không được coi trọng.",
+        "en": "like I didn't matter"
+      }
+    ],
+    "answers": [
+      "Being ignored on text all day made me feel like I didn't matter.",
+      "Getting left on read all day made me feel completely unimportant."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu người ta không dành quá nhiều thời gian",
+        "en": "if people didn't spend so much time"
+      },
+      {
+        "t": "so sánh cuộc sống mình",
+        "en": "comparing their lives"
+      },
+      {
+        "t": "với người khác trên mạng,",
+        "en": "to others online,"
+      },
+      {
+        "t": "có lẽ họ sẽ hạnh phúc hơn.",
+        "en": "they'd probably be happier"
+      }
+    ],
+    "answers": [
+      "If people didn't spend so much time comparing their lives to others online, they'd probably be happier.",
+      "People would likely be happier if they stopped comparing their lives to others on social media so much."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bài đăng đó,",
+        "en": "that post,"
+      },
+      {
+        "t": "vốn chỉ định để khoe vui,",
+        "en": "which was only meant as a bit of fun bragging,"
+      },
+      {
+        "t": "lại bị hiểu lầm",
+        "en": "got misunderstood"
+      },
+      {
+        "t": "và gây ra một trận cãi vã lớn.",
+        "en": "and sparked a huge argument"
+      }
+    ],
+    "answers": [
+      "That post, which was only meant as a bit of fun bragging, got misunderstood and sparked a huge argument.",
+      "That post, meant to be lighthearted, was taken the wrong way and set off a big fight."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng lướt mạng xã hội nhiều,",
+        "en": "the more I scroll through social media,"
+      },
+      {
+        "t": "tôi càng cảm thấy cô đơn",
+        "en": "the lonelier I feel"
+      },
+      {
+        "t": "dù xung quanh toàn là bạn bè.",
+        "en": "even though I'm surrounded by friends"
+      }
+    ],
+    "answers": [
+      "The more I scroll through social media, the lonelier I feel, even though I'm surrounded by friends.",
+      "The more time I spend on social media, the more isolated I feel, despite having so many friends around."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chưa bao giờ",
+        "en": "never"
+      },
+      {
+        "t": "tôi cảm thấy áp lực",
+        "en": "have I felt such pressure"
+      },
+      {
+        "t": "phải thể hiện một cuộc sống hoàn hảo",
+        "en": "to portray a perfect life"
+      },
+      {
+        "t": "như từ khi dùng mạng xã hội.",
+        "en": "as I have since using social media"
+      }
+    ],
+    "answers": [
+      "Never have I felt such pressure to portray a perfect life as I have since using social media.",
+      "I've never felt more pressure to seem like I have a perfect life than since I started using social media."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu tôi không kịp thời xóa",
+        "en": "if I hadn't deleted in time"
+      },
+      {
+        "t": "bài đăng đó,",
+        "en": "that post,"
+      },
+      {
+        "t": "hậu quả có lẽ",
+        "en": "the consequences might"
+      },
+      {
+        "t": "đã nghiêm trọng hơn nhiều.",
+        "en": "have been much worse"
+      }
+    ],
+    "answers": [
+      "If I hadn't deleted that post in time, the consequences might have been much worse.",
+      "Had I not taken that post down quickly, things could have turned out much worse."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu tôi thẳng thắn hơn",
+        "en": "if I'd been more honest"
+      },
+      {
+        "t": "ngay từ đầu,",
+        "en": "from the start,"
+      },
+      {
+        "t": "có lẽ mối quan hệ",
+        "en": "the relationship might"
+      },
+      {
+        "t": "đã không rơi vào bế tắc như vậy.",
+        "en": "not have hit such a dead end"
+      }
+    ],
+    "answers": [
+      "If I'd been more honest from the start, the relationship might not have hit such a dead end.",
+      "Had I been upfront from the beginning, we probably wouldn't have ended up so stuck."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng tìm hiểu nhau lâu,",
+        "en": "the longer we got to know each other,"
+      },
+      {
+        "t": "chúng tôi càng nhận ra",
+        "en": "the more we realized"
+      },
+      {
+        "t": "mình khác biệt nhiều hơn tưởng tượng.",
+        "en": "how different we were than we'd imagined"
+      }
+    ],
+    "answers": [
+      "The longer we got to know each other, the more we realized how different we were than we'd imagined.",
+      "The more time we spent together, the clearer it became how much we differed from what we'd expected."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Anh ấy là kiểu người",
+        "en": "he's the kind of person"
+      },
+      {
+        "t": "mà tôi chưa từng nghĩ",
+        "en": "that I never thought"
+      },
+      {
+        "t": "mình sẽ rung động.",
+        "en": "I'd fall for"
+      }
+    ],
+    "answers": [
+      "He's the kind of person I never thought I'd fall for.",
+      "He's someone I never imagined myself falling for."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu không phải vì bạn bè giới thiệu,",
+        "en": "if it weren't for a friend's introduction,"
+      },
+      {
+        "t": "có lẽ chúng tôi",
+        "en": "we probably"
+      },
+      {
+        "t": "đã không bao giờ gặp nhau.",
+        "en": "would never have met"
+      }
+    ],
+    "answers": [
+      "If it weren't for a friend's introduction, we probably would never have met.",
+      "We probably never would have met had a mutual friend not introduced us."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chuyện tình cảm giữa chúng tôi,",
+        "en": "our relationship,"
+      },
+      {
+        "t": "được xây dựng chậm rãi",
+        "en": "built slowly"
+      },
+      {
+        "t": "qua từng buổi hẹn,",
+        "en": "through each date,"
+      },
+      {
+        "t": "cuối cùng lại trở nên nghiêm túc hơn",
+        "en": "eventually became more serious"
+      },
+      {
+        "t": "cả hai kỳ vọng.",
+        "en": "than either of us expected"
+      }
+    ],
+    "answers": [
+      "Our relationship, built slowly through each date, eventually became more serious than either of us expected.",
+      "What grew slowly through our dates turned into something far more serious than we'd both expected."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi không quá bận rộn",
+        "en": "if we hadn't been so busy"
+      },
+      {
+        "t": "với công việc,",
+        "en": "with work,"
+      },
+      {
+        "t": "có lẽ cuộc chia tay",
+        "en": "the breakup probably"
+      },
+      {
+        "t": "đã không xảy ra.",
+        "en": "wouldn't have happened"
+      }
+    ],
+    "answers": [
+      "If we hadn't been so busy with work, the breakup probably wouldn't have happened.",
+      "Had we not been so caught up in work, we probably wouldn't have split up."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Điều khiến tôi đau lòng nhất",
+        "en": "what hurt me the most"
+      },
+      {
+        "t": "không phải là chia tay,",
+        "en": "wasn't the breakup itself,"
+      },
+      {
+        "t": "mà là cách anh ấy chọn",
+        "en": "but the way he chose"
+      },
+      {
+        "t": "để nói lời chia tay.",
+        "en": "to say goodbye"
+      }
+    ],
+    "answers": [
+      "What hurt me the most wasn't the breakup itself, but the way he chose to say goodbye.",
+      "It wasn't the breakup that hurt me most, it was how he went about ending it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Mãi đến khi mọi thứ đã kết thúc,",
+        "en": "not until everything was over"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "did I realize"
+      },
+      {
+        "t": "mình đã bỏ lỡ",
+        "en": "I had missed"
+      },
+      {
+        "t": "những dấu hiệu cảnh báo.",
+        "en": "the warning signs"
+      }
+    ],
+    "answers": [
+      "Not until everything was over did I realize I had missed the warning signs.",
+      "It wasn't until it all ended that I finally noticed the warning signs I'd overlooked."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng cố quên anh ấy,",
+        "en": "the more I tried to forget him,"
+      },
+      {
+        "t": "tôi càng nhớ về",
+        "en": "the more I remembered"
+      },
+      {
+        "t": "những kỷ niệm chúng tôi từng có.",
+        "en": "the memories we once shared"
+      }
+    ],
+    "answers": [
+      "The more I tried to forget him, the more I remembered the memories we once shared.",
+      "The harder I tried to move on, the more the memories we shared kept coming back."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu được quay lại thời điểm đó,",
+        "en": "if I could go back to that moment,"
+      },
+      {
+        "t": "tôi sẽ không để",
+        "en": "I wouldn't let"
+      },
+      {
+        "t": "mọi thứ kết thúc theo cách ấy.",
+        "en": "things end that way"
+      }
+    ],
+    "answers": [
+      "If I could go back to that moment, I wouldn't let things end that way.",
+      "Given the chance to relive that moment, I wouldn't have let it end like that."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu không có ai chủ động",
+        "en": "if no one had taken the first step"
+      },
+      {
+        "t": "làm hòa trước,",
+        "en": "to make peace,"
+      },
+      {
+        "t": "tình bạn của chúng tôi",
+        "en": "our friendship"
+      },
+      {
+        "t": "có lẽ đã chấm dứt từ lâu.",
+        "en": "probably would have ended long ago"
+      }
+    ],
+    "answers": [
+      "If no one had taken the first step to make peace, our friendship probably would have ended long ago.",
+      "Had neither of us reached out first, our friendship would likely have died out a long time ago."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Làm hòa không có nghĩa là",
+        "en": "making up doesn't mean"
+      },
+      {
+        "t": "quên đi mọi chuyện đã xảy ra,",
+        "en": "forgetting everything that happened,"
+      },
+      {
+        "t": "mà là chọn cách",
+        "en": "it means choosing"
+      },
+      {
+        "t": "bước tiếp cùng nhau.",
+        "en": "to move forward together"
+      }
+    ],
+    "answers": [
+      "Making up doesn't mean forgetting everything that happened; it means choosing to move forward together.",
+      "Reconciling isn't about erasing the past, it's about deciding to move on together."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Cuộc trò chuyện,",
+        "en": "the conversation,"
+      },
+      {
+        "t": "dù ngắn ngủi,",
+        "en": "though brief,"
+      },
+      {
+        "t": "lại là điều giúp hai chúng tôi",
+        "en": "was what helped the two of us"
+      },
+      {
+        "t": "hàn gắn được mối quan hệ.",
+        "en": "mend our relationship"
+      }
+    ],
+    "answers": [
+      "The conversation, though brief, was what helped the two of us mend our relationship.",
+      "Short as it was, that talk was what helped us patch things up."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn không nhắn tin xin lỗi",
+        "en": "if you hadn't texted an apology"
+      },
+      {
+        "t": "tối hôm đó,",
+        "en": "that night,"
+      },
+      {
+        "t": "có lẽ chúng ta",
+        "en": "we probably"
+      },
+      {
+        "t": "đã không còn là bạn.",
+        "en": "wouldn't be friends anymore"
+      }
+    ],
+    "answers": [
+      "If you hadn't texted an apology that night, we probably wouldn't be friends anymore.",
+      "Had you not sent that apology that night, we likely wouldn't still be friends."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Dù thời gian và khoảng cách",
+        "en": "although time and distance"
+      },
+      {
+        "t": "đã thay đổi nhiều thứ,",
+        "en": "have changed a lot of things,"
+      },
+      {
+        "t": "tình bạn giữa chúng tôi",
+        "en": "the friendship between us"
+      },
+      {
+        "t": "vẫn được duy trì.",
+        "en": "has still been maintained"
+      }
+    ],
+    "answers": [
+      "Although time and distance have changed a lot of things, the friendship between us has still been maintained.",
+      "Even though time and distance have changed so much, our friendship has managed to endure."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi không tình cờ gặp lại nhau",
+        "en": "if we hadn't run into each other"
+      },
+      {
+        "t": "hôm đó,",
+        "en": "that day,"
+      },
+      {
+        "t": "có lẽ tình bạn ấy",
+        "en": "that friendship probably"
+      },
+      {
+        "t": "đã phai nhạt hoàn toàn.",
+        "en": "would have faded completely"
+      }
+    ],
+    "answers": [
+      "If we hadn't run into each other that day, that friendship probably would have faded completely.",
+      "Had we not bumped into each other that day, our friendship would likely have faded away entirely."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng lớn tuổi,",
+        "en": "the older I get,"
+      },
+      {
+        "t": "tôi càng trân trọng",
+        "en": "the more I value"
+      },
+      {
+        "t": "những người bạn đã đồng hành cùng mình",
+        "en": "the friends who've been with me"
+      },
+      {
+        "t": "từ thời thơ ấu.",
+        "en": "since childhood"
+      }
+    ],
+    "answers": [
+      "The older I get, the more I value the friends who've been with me since childhood.",
+      "As I grow older, I appreciate more and more the friends who've stuck by me since I was a kid."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Người bạn mà tôi từng nghĩ",
+        "en": "the friend I once thought"
+      },
+      {
+        "t": "đã quên mất tôi",
+        "en": "had forgotten about me"
+      },
+      {
+        "t": "lại là người đầu tiên",
+        "en": "turned out to be the first one"
+      },
+      {
+        "t": "nhắn tin hỏi thăm.",
+        "en": "to check in on me"
+      }
+    ],
+    "answers": [
+      "The friend I once thought had forgotten about me turned out to be the first one to check in on me.",
+      "The friend I assumed had drifted away was actually the first to reach out and ask how I was."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Giữ liên lạc với bạn cũ",
+        "en": "staying in touch with old friends"
+      },
+      {
+        "t": "đòi hỏi nỗ lực",
+        "en": "requires effort"
+      },
+      {
+        "t": "từ cả hai phía,",
+        "en": "from both sides,"
+      },
+      {
+        "t": "chứ không chỉ một người.",
+        "en": "not just one"
+      }
+    ],
+    "answers": [
+      "Staying in touch with old friends requires effort from both sides, not just one.",
+      "Keeping in contact with an old friend takes work from both people, not only one."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi lên kế hoạch kỹ lưỡng hơn,",
+        "en": "if we'd planned more carefully,"
+      },
+      {
+        "t": "bữa tiệc có lẽ",
+        "en": "the party probably"
+      },
+      {
+        "t": "đã không rối tung lên như vậy.",
+        "en": "wouldn't have turned into such a mess"
+      }
+    ],
+    "answers": [
+      "If we'd planned more carefully, the party probably wouldn't have turned into such a mess.",
+      "Had we been more thorough with the planning, the party wouldn't have ended up so chaotic."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Bữa tiệc,",
+        "en": "the party,"
+      },
+      {
+        "t": "vốn được tổ chức",
+        "en": "which was originally organized"
+      },
+      {
+        "t": "để mừng sinh nhật tôi,",
+        "en": "to celebrate my birthday,"
+      },
+      {
+        "t": "lại trở thành dịp",
+        "en": "ended up becoming an occasion"
+      },
+      {
+        "t": "cả nhóm bạn hàn gắn với nhau.",
+        "en": "for the whole group to reconcile"
+      }
+    ],
+    "answers": [
+      "The party, which was originally organized to celebrate my birthday, ended up becoming an occasion for the whole group to reconcile.",
+      "What started as my birthday party ended up being the moment the whole group patched things up."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng gần đến ngày tổ chức,",
+        "en": "the closer it got to the day,"
+      },
+      {
+        "t": "tôi càng cảm thấy áp lực",
+        "en": "the more pressure I felt"
+      },
+      {
+        "t": "phải làm mọi thứ hoàn hảo.",
+        "en": "to make everything perfect"
+      }
+    ],
+    "answers": [
+      "The closer it got to the day, the more pressure I felt to make everything perfect.",
+      "As the date approached, I felt more and more pressure to get everything just right."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu không nhờ sự giúp đỡ của bạn bè,",
+        "en": "if it weren't for my friends' help,"
+      },
+      {
+        "t": "tôi đã không thể",
+        "en": "I wouldn't have been able"
+      },
+      {
+        "t": "tổ chức được một bữa tiệc chỉn chu như vậy.",
+        "en": "to put together such a well-organized party"
+      }
+    ],
+    "answers": [
+      "If it weren't for my friends' help, I wouldn't have been able to put together such a well-organized party.",
+      "Without my friends' help, I never could have pulled off such a well-put-together party."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Người bạn mà tôi giới thiệu",
+        "en": "the friend I introduced"
+      },
+      {
+        "t": "hôm đó",
+        "en": "that day"
+      },
+      {
+        "t": "cuối cùng lại trở thành",
+        "en": "ended up becoming"
+      },
+      {
+        "t": "người thân thiết nhất trong nhóm.",
+        "en": "the closest person in the group"
+      }
+    ],
+    "answers": [
+      "The friend I introduced that day ended up becoming the closest person in the group.",
+      "The person I introduced back then eventually turned out to be the closest one in the whole group."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu tôi không mạnh dạn",
+        "en": "if I hadn't been bold enough"
+      },
+      {
+        "t": "giới thiệu bản thân trước,",
+        "en": "to introduce myself first,"
+      },
+      {
+        "t": "có lẽ chúng tôi",
+        "en": "we probably"
+      },
+      {
+        "t": "đã không bao giờ thân nhau.",
+        "en": "would never have become close"
+      }
+    ],
+    "answers": [
+      "If I hadn't been bold enough to introduce myself first, we probably would never have become close.",
+      "Had I not taken the initiative to introduce myself, we likely never would have gotten close."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng quen biết lâu,",
+        "en": "the longer I knew her,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realized"
+      },
+      {
+        "t": "người bạn mới ấy có nhiều điểm chung",
+        "en": "that new friend had more in common"
+      },
+      {
+        "t": "với mình hơn tôi tưởng.",
+        "en": "with me than I'd expected"
+      }
+    ],
+    "answers": [
+      "The longer I knew her, the more I realized that new friend had more in common with me than I'd expected.",
+      "The more time passed, the clearer it became how much that new friend and I actually had in common."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Giới thiệu một người bạn mới",
+        "en": "introducing a new friend"
+      },
+      {
+        "t": "với cả nhóm",
+        "en": "to the whole group"
+      },
+      {
+        "t": "đôi khi khiến tôi lo lắng",
+        "en": "sometimes makes me worry"
+      },
+      {
+        "t": "liệu họ có hòa hợp được không.",
+        "en": "whether they'll fit in"
+      }
+    ],
+    "answers": [
+      "Introducing a new friend to the whole group sometimes makes me worry whether they'll fit in.",
+      "Sometimes I get anxious introducing a new friend to the group, wondering if they'll click with everyone."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu tôi không sẵn lòng",
+        "en": "if I hadn't been willing"
+      },
+      {
+        "t": "bỏ dở công việc",
+        "en": "to drop everything"
+      },
+      {
+        "t": "để giúp bạn,",
+        "en": "to help my friend,"
+      },
+      {
+        "t": "có lẽ cô ấy",
+        "en": "she probably"
+      },
+      {
+        "t": "đã không vượt qua được giai đoạn khó khăn đó.",
+        "en": "wouldn't have gotten through that hard time"
+      }
+    ],
+    "answers": [
+      "If I hadn't been willing to drop everything to help my friend, she probably wouldn't have gotten through that hard time.",
+      "Had I not been ready to set aside my own work, she likely wouldn't have made it through that rough patch."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Điều khiến tôi cảm động nhất",
+        "en": "what touched me most"
+      },
+      {
+        "t": "không phải là số tiền bạn cho mượn,",
+        "en": "wasn't the money you lent me,"
+      },
+      {
+        "t": "mà là cách bạn sẵn sàng giúp",
+        "en": "but the way you were willing to help"
+      },
+      {
+        "t": "mà không do dự.",
+        "en": "without hesitation"
+      }
+    ],
+    "answers": [
+      "What touched me most wasn't the money you lent me, but the way you were willing to help without hesitation.",
+      "It wasn't the money that moved me most, it was how readily you helped without a second thought."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng giúp đỡ người khác nhiều,",
+        "en": "the more I help others,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "mình cũng nhận lại được",
+        "en": "I also gain back"
+      },
+      {
+        "t": "nhiều điều quý giá.",
+        "en": "many valuable things"
+      }
+    ],
+    "answers": [
+      "The more I help others, the more I realize I also gain back many valuable things.",
+      "The more I lend a hand to others, the more I find I get something valuable in return too."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu không phải vì bạn bè động viên",
+        "en": "if it weren't for my friends encouraging me"
+      },
+      {
+        "t": "suốt thời gian đó,",
+        "en": "the whole time,"
+      },
+      {
+        "t": "tôi đã không đủ can đảm",
+        "en": "I wouldn't have had the courage"
+      },
+      {
+        "t": "để vượt qua.",
+        "en": "to get through it"
+      }
+    ],
+    "answers": [
+      "If it weren't for my friends encouraging me the whole time, I wouldn't have had the courage to get through it.",
+      "Without my friends cheering me on the whole time, I never would have found the courage to get through it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Sự giúp đỡ mà tôi nhận được",
+        "en": "the help I received"
+      },
+      {
+        "t": "từ bạn bè",
+        "en": "from my friends"
+      },
+      {
+        "t": "trong giai đoạn đó",
+        "en": "during that time"
+      },
+      {
+        "t": "là điều tôi sẽ không bao giờ quên.",
+        "en": "is something I'll never forget"
+      }
+    ],
+    "answers": [
+      "The help I received from my friends during that time is something I'll never forget.",
+      "I'll never forget the support my friends gave me back then."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu tôi không tình cờ nghe được",
+        "en": "if I hadn't accidentally overheard"
+      },
+      {
+        "t": "cuộc trò chuyện đó,",
+        "en": "that conversation,"
+      },
+      {
+        "t": "có lẽ tôi đã không bao giờ",
+        "en": "I probably would never"
+      },
+      {
+        "t": "biết sự thật.",
+        "en": "have known the truth"
+      }
+    ],
+    "answers": [
+      "If I hadn't accidentally overheard that conversation, I probably would never have known the truth.",
+      "Had I not happened to overhear that conversation, I might never have found out the truth."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Người mà tôi từng tin tưởng nhất",
+        "en": "the person I once trusted the most"
+      },
+      {
+        "t": "lại chính là",
+        "en": "turned out to be exactly"
+      },
+      {
+        "t": "người nói xấu tôi sau lưng nhiều nhất.",
+        "en": "the one who badmouthed me the most"
+      }
+    ],
+    "answers": [
+      "The person I once trusted the most turned out to be exactly the one who badmouthed me the most.",
+      "The very person I trusted most ended up being the one talking about me the most behind my back."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng biết nhiều về",
+        "en": "the more I learned about"
+      },
+      {
+        "t": "những gì cô ấy nói,",
+        "en": "what she'd said,"
+      },
+      {
+        "t": "tôi càng thấy khó",
+        "en": "the harder I found it"
+      },
+      {
+        "t": "tin tưởng bất kỳ ai trong nhóm nữa.",
+        "en": "to trust anyone in the group anymore"
+      }
+    ],
+    "answers": [
+      "The more I learned about what she'd said, the harder I found it to trust anyone in the group anymore.",
+      "The more I found out what she'd been saying, the more difficult it became to trust anyone in the group."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn có điều gì không hài lòng,",
+        "en": "if there's something you're unhappy about,"
+      },
+      {
+        "t": "hãy nói thẳng với tôi",
+        "en": "please say it to my face"
+      },
+      {
+        "t": "thay vì bàn tán sau lưng.",
+        "en": "instead of gossiping behind my back"
+      }
+    ],
+    "answers": [
+      "If there's something you're unhappy about, please say it to my face instead of gossiping behind my back.",
+      "If something's bothering you, tell me directly rather than talking about it behind my back."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Việc bị chính người bạn thân nhất nói xấu",
+        "en": "being badmouthed by my closest friend"
+      },
+      {
+        "t": "khiến tôi mất niềm tin",
+        "en": "made me lose faith"
+      },
+      {
+        "t": "vào tình bạn",
+        "en": "in friendship"
+      },
+      {
+        "t": "trong một thời gian dài.",
+        "en": "for a long time"
+      }
+    ],
+    "answers": [
+      "Being badmouthed by my closest friend made me lose faith in friendship for a long time.",
+      "Having my best friend talk badly about me made me distrust friendships for quite a while."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu bạn không giữ lời hứa",
+        "en": "if you hadn't broken your promises"
+      },
+      {
+        "t": "nhiều lần đến vậy,",
+        "en": "so many times,"
+      },
+      {
+        "t": "có lẽ tôi",
+        "en": "I probably"
+      },
+      {
+        "t": "đã không mất niềm tin vào bạn.",
+        "en": "wouldn't have lost faith in you"
+      }
+    ],
+    "answers": [
+      "If you hadn't broken your promises so many times, I probably wouldn't have lost faith in you.",
+      "Had you not gone back on your word so often, I likely wouldn't have stopped trusting you."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Điều làm tôi thất vọng nhất",
+        "en": "what disappointed me the most"
+      },
+      {
+        "t": "không phải là lời hứa bị phá vỡ,",
+        "en": "wasn't the broken promise itself,"
+      },
+      {
+        "t": "mà là sự thờ ơ",
+        "en": "but the indifference"
+      },
+      {
+        "t": "sau đó.",
+        "en": "that followed"
+      }
+    ],
+    "answers": [
+      "What disappointed me the most wasn't the broken promise itself, but the indifference that followed.",
+      "It wasn't the broken promise that upset me most, it was how indifferent you were afterward."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng bị thất hứa nhiều lần,",
+        "en": "the more times I've been let down,"
+      },
+      {
+        "t": "tôi càng học được cách",
+        "en": "the more I've learned"
+      },
+      {
+        "t": "không đặt kỳ vọng quá cao",
+        "en": "not to expect too much"
+      },
+      {
+        "t": "vào người khác.",
+        "en": "from other people"
+      }
+    ],
+    "answers": [
+      "The more times I've been let down, the more I've learned not to expect too much from other people.",
+      "The more broken promises I've faced, the better I've gotten at keeping my expectations low."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu người ta thực sự coi trọng",
+        "en": "if people truly valued"
+      },
+      {
+        "t": "lời hứa của mình,",
+        "en": "their own promises,"
+      },
+      {
+        "t": "họ sẽ không dễ dàng",
+        "en": "they wouldn't so easily"
+      },
+      {
+        "t": "thất hẹn như vậy.",
+        "en": "break them like that"
+      }
+    ],
+    "answers": [
+      "If people truly valued their own promises, they wouldn't so easily break them like that.",
+      "People wouldn't break their word so easily if they actually took their promises seriously."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng ngồi tám chuyện lâu,",
+        "en": "the longer we sat chatting,"
+      },
+      {
+        "t": "chúng tôi càng quên mất",
+        "en": "the more we lost track of"
+      },
+      {
+        "t": "khoảng thời gian đã trôi qua.",
+        "en": "how much time had passed"
+      }
+    ],
+    "answers": [
+      "The longer we sat chatting, the more we lost track of how much time had passed.",
+      "The longer we gossiped, the more we forgot how many hours had gone by."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Những câu chuyện phiếm",
+        "en": "idle gossip"
+      },
+      {
+        "t": "tưởng chừng vô hại",
+        "en": "that seems harmless"
+      },
+      {
+        "t": "đôi khi lại bị thổi phồng",
+        "en": "sometimes gets blown up"
+      },
+      {
+        "t": "thành những tin đồn nghiêm trọng.",
+        "en": "into serious rumors"
+      }
+    ],
+    "answers": [
+      "Idle gossip that seems harmless sometimes gets blown up into serious rumors.",
+      "What seems like harmless chit-chat can sometimes snowball into serious rumors."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi không mải mê tám chuyện,",
+        "en": "if we hadn't gotten so caught up chatting,"
+      },
+      {
+        "t": "có lẽ đã không",
+        "en": "we probably wouldn't have"
+      },
+      {
+        "t": "bỏ lỡ chuyến xe buýt cuối cùng.",
+        "en": "missed the last bus"
+      }
+    ],
+    "answers": [
+      "If we hadn't gotten so caught up chatting, we probably wouldn't have missed the last bus.",
+      "Had we not been so absorbed in gossiping, we wouldn't have missed the last bus."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Điều tôi thích nhất ở tình bạn này",
+        "en": "what I love most about this friendship"
+      },
+      {
+        "t": "là những buổi tám chuyện",
+        "en": "is the chats"
+      },
+      {
+        "t": "chẳng đầu chẳng cuối",
+        "en": "that go nowhere in particular"
+      },
+      {
+        "t": "mà vẫn khiến tôi thấy vui.",
+        "en": "yet still make me happy"
+      }
+    ],
+    "answers": [
+      "What I love most about this friendship is the chats that go nowhere in particular, yet still make me happy.",
+      "What I enjoy most in this friendship is those pointless conversations that somehow still make me happy."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu tôi không buộc mình",
+        "en": "if I hadn't forced myself"
+      },
+      {
+        "t": "bước ra khỏi vùng an toàn,",
+        "en": "to step out of my comfort zone,"
+      },
+      {
+        "t": "có lẽ tôi đã vẫn còn",
+        "en": "I might still be"
+      },
+      {
+        "t": "ngại giao tiếp như trước.",
+        "en": "as socially anxious as before"
+      }
+    ],
+    "answers": [
+      "If I hadn't forced myself to step out of my comfort zone, I might still be as socially anxious as before.",
+      "Had I not pushed myself out of my comfort zone, I'd probably still be just as shy as I used to be."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng cố tránh giao tiếp xã hội,",
+        "en": "the more I tried to avoid socializing,"
+      },
+      {
+        "t": "tôi càng cảm thấy khó",
+        "en": "the harder I found it"
+      },
+      {
+        "t": "hòa nhập với mọi người xung quanh.",
+        "en": "to fit in with those around me"
+      }
+    ],
+    "answers": [
+      "The more I tried to avoid socializing, the harder I found it to fit in with those around me.",
+      "The more I avoided social situations, the more difficult it became to connect with people around me."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Điều mà ít ai biết là",
+        "en": "what few people know is that"
+      },
+      {
+        "t": "đằng sau vẻ ngoài tự tin,",
+        "en": "behind my confident exterior,"
+      },
+      {
+        "t": "tôi luôn cảm thấy lo lắng",
+        "en": "I always feel anxious"
+      },
+      {
+        "t": "khi giao tiếp.",
+        "en": "when socializing"
+      }
+    ],
+    "answers": [
+      "What few people know is that behind my confident exterior, I always feel anxious when socializing.",
+      "Few people realize that beneath my confident front, I always get nervous around people."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu người khác hiểu được",
+        "en": "if others understood"
+      },
+      {
+        "t": "nỗi sợ giao tiếp của tôi,",
+        "en": "my fear of socializing,"
+      },
+      {
+        "t": "có lẽ họ sẽ",
+        "en": "they'd probably be"
+      },
+      {
+        "t": "kiên nhẫn hơn với tôi.",
+        "en": "more patient with me"
+      }
+    ],
+    "answers": [
+      "If others understood my fear of socializing, they'd probably be more patient with me.",
+      "People would likely be more patient with me if they understood my anxiety about social situations."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Chỉ khi ở bên những người thân quen,",
+        "en": "only when I'm around people I know well"
+      },
+      {
+        "t": "tôi mới thực sự",
+        "en": "do I truly"
+      },
+      {
+        "t": "cảm thấy thoải mái",
+        "en": "feel comfortable enough"
+      },
+      {
+        "t": "để mở lòng.",
+        "en": "to open up"
+      }
+    ],
+    "answers": [
+      "Only when I'm around people I know well do I truly feel comfortable enough to open up.",
+      "It's only with people close to me that I ever feel relaxed enough to open up."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết trước",
+        "en": "if I had known"
+      },
+      {
+        "t": "cuộc chia tay ở sân bay hôm đó",
+        "en": "that goodbye at the airport that day"
+      },
+      {
+        "t": "là lần cuối gặp mặt,",
+        "en": "was our last time seeing each other,"
+      },
+      {
+        "t": "tôi đã ôm bạn lâu hơn.",
+        "en": "I would have hugged you longer"
+      }
+    ],
+    "answers": [
+      "If I had known that goodbye at the airport was our last time seeing each other, I would have hugged you longer.",
+      "Had I realized that airport farewell would be the last time we'd meet, I'd have held on longer."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Kể từ khi bạn thân chuyển đi,",
+        "en": "ever since my best friend moved away,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I've come to realize"
+      },
+      {
+        "t": "mình đã coi sự hiện diện của bạn ấy",
+        "en": "I'd taken her presence"
+      },
+      {
+        "t": "là điều hiển nhiên.",
+        "en": "for granted"
+      }
+    ],
+    "answers": [
+      "Ever since my best friend moved away, I've come to realize I'd taken her presence for granted.",
+      "Since my best friend left, I've realized just how much I took having her around for granted."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng xa cách về địa lý,",
+        "en": "the further apart we live,"
+      },
+      {
+        "t": "chúng tôi càng phải cố gắng hơn",
+        "en": "the harder we have to try"
+      },
+      {
+        "t": "để giữ tình bạn không phai nhạt.",
+        "en": "to keep the friendship from fading"
+      }
+    ],
+    "answers": [
+      "The further apart we live, the harder we have to try to keep the friendship from fading.",
+      "The greater the distance between us, the more effort it takes to keep our friendship alive."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Người bạn từng ngồi cạnh tôi mỗi ngày",
+        "en": "the friend who used to sit next to me every day"
+      },
+      {
+        "t": "giờ chỉ còn là",
+        "en": "is now just"
+      },
+      {
+        "t": "một khung hình nhỏ",
+        "en": "a small frame"
+      },
+      {
+        "t": "trên màn hình điện thoại.",
+        "en": "on a phone screen"
+      }
+    ],
+    "answers": [
+      "The friend who used to sit next to me every day is now just a small frame on a phone screen.",
+      "The friend I once sat beside daily has become nothing more than a tiny face on my phone screen."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu tôi không chủ động nhắn tin trước,",
+        "en": "if I hadn't messaged first,"
+      },
+      {
+        "t": "có lẽ tình bạn online ấy",
+        "en": "that online friendship probably"
+      },
+      {
+        "t": "đã không bao giờ trở nên thân thiết.",
+        "en": "would never have grown close"
+      }
+    ],
+    "answers": [
+      "If I hadn't messaged first, that online friendship probably would never have grown close.",
+      "Had I not reached out first, that online friendship might never have become so close."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Người bạn mà tôi quen qua mạng",
+        "en": "the friend I met online"
+      },
+      {
+        "t": "hóa ra lại hiểu tôi",
+        "en": "turned out to understand me"
+      },
+      {
+        "t": "hơn cả những người bạn ngoài đời.",
+        "en": "better than my friends in real life"
+      }
+    ],
+    "answers": [
+      "The friend I met online turned out to understand me better than my friends in real life.",
+      "The friend I made online ended up knowing me better than any friend I have in person."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng trò chuyện với người bạn online đó,",
+        "en": "the more I talked with that online friend,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realized"
+      },
+      {
+        "t": "sự đồng cảm giữa hai đứa",
+        "en": "how much we connected"
+      },
+      {
+        "t": "lớn đến mức nào.",
+        "en": "emotionally"
+      }
+    ],
+    "answers": [
+      "The more I talked with that online friend, the more I realized how much we connected emotionally.",
+      "The more I chatted with that online friend, the clearer it became how deeply we understood each other."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu ai đó nói với tôi",
+        "en": "if someone had told me"
+      },
+      {
+        "t": "vài năm trước",
+        "en": "a few years ago"
+      },
+      {
+        "t": "rằng bạn thân nhất của tôi",
+        "en": "that my closest friend"
+      },
+      {
+        "t": "sẽ là người quen qua mạng,",
+        "en": "would be someone I met online,"
+      },
+      {
+        "t": "tôi đã không tin.",
+        "en": "I wouldn't have believed it"
+      }
+    ],
+    "answers": [
+      "If someone had told me a few years ago that my closest friend would be someone I met online, I wouldn't have believed it.",
+      "I never would have believed, years ago, that my best friend today would be someone I first met on the internet."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Kết bạn online",
+        "en": "making friends online"
+      },
+      {
+        "t": "đòi hỏi một mức độ tin tưởng nhất định,",
+        "en": "requires a certain level of trust,"
+      },
+      {
+        "t": "điều mà không phải ai cũng",
+        "en": "something not everyone"
+      },
+      {
+        "t": "sẵn sàng trao đi.",
+        "en": "is willing to give"
+      }
+    ],
+    "answers": [
+      "Making friends online requires a certain level of trust, something not everyone is willing to give.",
+      "Befriending people online takes a certain amount of trust that not everyone is ready to offer."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu ngay từ đầu",
+        "en": "if right from the start"
+      },
+      {
+        "t": "ai đó đứng ra hòa giải,",
+        "en": "someone had stepped in to mediate,"
+      },
+      {
+        "t": "mâu thuẫn trong nhóm",
+        "en": "the conflict in the group"
+      },
+      {
+        "t": "đã không kéo dài đến vậy.",
+        "en": "wouldn't have dragged on this long"
+      }
+    ],
+    "answers": [
+      "If right from the start someone had stepped in to mediate, the conflict in the group wouldn't have dragged on this long.",
+      "Had someone intervened early on, the tension in the group wouldn't have lasted this long."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Điều đáng buồn nhất",
+        "en": "the saddest part"
+      },
+      {
+        "t": "không phải là mâu thuẫn,",
+        "en": "isn't the conflict itself,"
+      },
+      {
+        "t": "mà là việc nhóm bạn thân thiết",
+        "en": "it's that a once-close group of friends"
+      },
+      {
+        "t": "ngày nào giờ chia thành nhiều phe.",
+        "en": "has now split into different sides"
+      }
+    ],
+    "answers": [
+      "The saddest part isn't the conflict itself, it's that a once-close group of friends has now split into different sides.",
+      "What's saddest isn't the fight itself but how a once tight-knit group has now broken into factions."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Càng để mâu thuẫn kéo dài,",
+        "en": "the longer a conflict is left unresolved,"
+      },
+      {
+        "t": "các mối quan hệ trong nhóm",
+        "en": "the relationships within the group"
+      },
+      {
+        "t": "càng khó có thể hàn gắn.",
+        "en": "become harder to mend"
+      }
+    ],
+    "answers": [
+      "The longer a conflict is left unresolved, the harder the relationships within the group become to mend.",
+      "The longer tensions are allowed to fester, the more difficult it gets to repair relationships in the group."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nếu mỗi người chịu nhường một bước,",
+        "en": "if everyone had been willing to give a little,"
+      },
+      {
+        "t": "có lẽ cả nhóm",
+        "en": "the group probably"
+      },
+      {
+        "t": "đã không tan rã như hiện tại.",
+        "en": "wouldn't have fallen apart like this"
+      }
+    ],
+    "answers": [
+      "If everyone had been willing to give a little, the group probably wouldn't have fallen apart like this.",
+      "Had everyone compromised even a bit, the group likely wouldn't have broken apart the way it has."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "social",
+    "chunks": [
+      {
+        "t": "Nhóm bạn mà tôi từng nghĩ",
+        "en": "the friend group I once thought"
+      },
+      {
+        "t": "sẽ gắn bó mãi mãi",
+        "en": "would stay close forever"
+      },
+      {
+        "t": "lại chia rẽ",
+        "en": "ended up falling apart"
+      },
+      {
+        "t": "chỉ vì một hiểu lầm nhỏ.",
+        "en": "over just a small misunderstanding"
+      }
+    ],
+    "answers": [
+      "The friend group I once thought would stay close forever ended up falling apart over just a small misunderstanding.",
+      "The circle of friends I thought would last forever broke apart because of a tiny misunderstanding."
+    ]
+  }
+]

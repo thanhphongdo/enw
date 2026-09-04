@@ -1,0 +1,7670 @@
+[
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp mới của tôi",
+        "en": "my new boss"
+      },
+      {
+        "t": "rất khó tính",
+        "en": "is very strict"
+      },
+      {
+        "t": "về giờ giấc.",
+        "en": "about punctuality"
+      }
+    ],
+    "answers": [
+      "My new boss is very strict about punctuality.",
+      "My new boss is really strict about being on time."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp của tôi",
+        "en": "my coworker"
+      },
+      {
+        "t": "luôn chia sẻ",
+        "en": "always shares"
+      },
+      {
+        "t": "đồ ăn vặt",
+        "en": "snacks"
+      },
+      {
+        "t": "trong giờ làm.",
+        "en": "during work hours"
+      }
+    ],
+    "answers": [
+      "My coworker always shares snacks during work hours.",
+      "My colleague always shares snacks while we're working."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Deadline của dự án này",
+        "en": "the deadline for this project"
+      },
+      {
+        "t": "là",
+        "en": "is"
+      },
+      {
+        "t": "ngày mai.",
+        "en": "tomorrow"
+      }
+    ],
+    "answers": [
+      "The deadline for this project is tomorrow.",
+      "This project's deadline is tomorrow."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cuộc họp sáng nay",
+        "en": "this morning's meeting"
+      },
+      {
+        "t": "kéo dài",
+        "en": "lasted"
+      },
+      {
+        "t": "gần hai tiếng.",
+        "en": "almost two hours"
+      }
+    ],
+    "answers": [
+      "This morning's meeting lasted almost two hours.",
+      "The meeting this morning went on for nearly two hours."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đang xin",
+        "en": "I'm asking for"
+      },
+      {
+        "t": "nghỉ phép ba ngày",
+        "en": "three days off"
+      },
+      {
+        "t": "tuần sau.",
+        "en": "next week"
+      }
+    ],
+    "answers": [
+      "I'm asking for three days off next week.",
+      "I'm requesting three days of leave next week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Công ty vừa thông báo",
+        "en": "the company just announced"
+      },
+      {
+        "t": "tăng lương",
+        "en": "a pay raise"
+      },
+      {
+        "t": "cho mọi người.",
+        "en": "for everyone"
+      }
+    ],
+    "answers": [
+      "The company just announced a pay raise for everyone.",
+      "The company just announced a salary increase for everyone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Ngày mai",
+        "en": "tomorrow"
+      },
+      {
+        "t": "tôi có",
+        "en": "I have"
+      },
+      {
+        "t": "một buổi phỏng vấn xin việc.",
+        "en": "a job interview"
+      }
+    ],
+    "answers": [
+      "I have a job interview tomorrow.",
+      "Tomorrow I have a job interview."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tuần này",
+        "en": "this week"
+      },
+      {
+        "t": "tôi phải làm thêm giờ",
+        "en": "I have to work overtime"
+      },
+      {
+        "t": "mỗi ngày.",
+        "en": "every day"
+      }
+    ],
+    "answers": [
+      "I have to work overtime every day this week.",
+      "This week I have to do overtime every day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Dạo này",
+        "en": "these days"
+      },
+      {
+        "t": "tôi cảm thấy",
+        "en": "I feel"
+      },
+      {
+        "t": "kiệt sức",
+        "en": "exhausted"
+      },
+      {
+        "t": "vì công việc.",
+        "en": "because of work"
+      }
+    ],
+    "answers": [
+      "These days I feel exhausted because of work.",
+      "Lately I feel really tired from work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Hôm nay",
+        "en": "today"
+      },
+      {
+        "t": "tôi làm việc",
+        "en": "I'm working"
+      },
+      {
+        "t": "từ nhà.",
+        "en": "from home"
+      }
+    ],
+    "answers": [
+      "I'm working from home today.",
+      "Today I'm working from home."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chị ấy",
+        "en": "she"
+      },
+      {
+        "t": "vừa được thăng chức",
+        "en": "just got promoted"
+      },
+      {
+        "t": "lên trưởng phòng.",
+        "en": "to department head"
+      }
+    ],
+    "answers": [
+      "She just got promoted to department head.",
+      "She was just made department head."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Anh ta quyết định",
+        "en": "he decided"
+      },
+      {
+        "t": "nghỉ việc",
+        "en": "to quit his job"
+      },
+      {
+        "t": "vào cuối tháng này.",
+        "en": "at the end of this month"
+      }
+    ],
+    "answers": [
+      "He decided to quit his job at the end of this month.",
+      "He decided to leave his job at the end of this month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Có một đồng nghiệp",
+        "en": "there's a coworker"
+      },
+      {
+        "t": "trong nhóm tôi",
+        "en": "on my team"
+      },
+      {
+        "t": "rất khó chịu.",
+        "en": "who is really annoying"
+      }
+    ],
+    "answers": [
+      "There's a really annoying coworker on my team.",
+      "One of my coworkers on the team is really annoying."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Dự án của chúng tôi",
+        "en": "our project"
+      },
+      {
+        "t": "lại bị trễ",
+        "en": "is behind again"
+      },
+      {
+        "t": "tiến độ.",
+        "en": "schedule"
+      }
+    ],
+    "answers": [
+      "Our project is behind schedule again.",
+      "Our project is late again."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sáng mai",
+        "en": "tomorrow morning"
+      },
+      {
+        "t": "tôi có buổi đánh giá hiệu suất",
+        "en": "I have a performance review"
+      },
+      {
+        "t": "với sếp.",
+        "en": "with my boss"
+      }
+    ],
+    "answers": [
+      "I have a performance review with my boss tomorrow morning.",
+      "Tomorrow morning I have a performance review with my boss."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa gửi nhầm",
+        "en": "I just sent by mistake"
+      },
+      {
+        "t": "email",
+        "en": "an email"
+      },
+      {
+        "t": "cho cả công ty.",
+        "en": "to the whole company"
+      }
+    ],
+    "answers": [
+      "I just sent an email to the whole company by mistake.",
+      "I accidentally sent an email to the entire company."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tuần sau",
+        "en": "next week"
+      },
+      {
+        "t": "tôi phải đi công tác",
+        "en": "I have to go on a business trip"
+      },
+      {
+        "t": "ở Đà Nẵng.",
+        "en": "to Da Nang"
+      }
+    ],
+    "answers": [
+      "I have to go on a business trip to Da Nang next week.",
+      "Next week I have to travel to Da Nang for work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Hôm nay",
+        "en": "today"
+      },
+      {
+        "t": "có một nhân viên mới",
+        "en": "a new employee"
+      },
+      {
+        "t": "bắt đầu làm việc.",
+        "en": "starts working"
+      }
+    ],
+    "answers": [
+      "A new employee starts working today.",
+      "Today a new staff member starts work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Mọi người trong văn phòng",
+        "en": "people in the office"
+      },
+      {
+        "t": "hay nói xấu",
+        "en": "often talk badly"
+      },
+      {
+        "t": "sau lưng nhau.",
+        "en": "behind each other's backs"
+      }
+    ],
+    "answers": [
+      "People in the office often talk behind each other's backs.",
+      "People at the office often bad-mouth each other."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Lương tháng này của tôi",
+        "en": "my salary this month"
+      },
+      {
+        "t": "bị trả trễ",
+        "en": "was paid late"
+      },
+      {
+        "t": "ba ngày.",
+        "en": "three days"
+      }
+    ],
+    "answers": [
+      "My salary this month was paid three days late.",
+      "This month my pay was three days late."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Giờ làm việc ở công ty tôi",
+        "en": "working hours at my company"
+      },
+      {
+        "t": "bắt đầu",
+        "en": "start"
+      },
+      {
+        "t": "lúc tám giờ.",
+        "en": "at eight o'clock"
+      }
+    ],
+    "answers": [
+      "Working hours at my company start at eight o'clock.",
+      "At my company, work starts at eight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Máy tính của tôi",
+        "en": "my computer"
+      },
+      {
+        "t": "bị treo",
+        "en": "froze"
+      },
+      {
+        "t": "ngay giữa cuộc họp.",
+        "en": "right in the middle of the meeting"
+      }
+    ],
+    "answers": [
+      "My computer froze right in the middle of the meeting.",
+      "My laptop crashed in the middle of the meeting."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sáng nay",
+        "en": "this morning"
+      },
+      {
+        "t": "tôi đi làm muộn",
+        "en": "I was late for work"
+      },
+      {
+        "t": "vì tắc đường.",
+        "en": "because of traffic"
+      }
+    ],
+    "answers": [
+      "I was late for work this morning because of traffic.",
+      "This morning I was late for work due to traffic."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Giờ nghỉ trưa ở công ty tôi",
+        "en": "the lunch break at my company"
+      },
+      {
+        "t": "chỉ có",
+        "en": "is only"
+      },
+      {
+        "t": "một tiếng.",
+        "en": "one hour"
+      }
+    ],
+    "answers": [
+      "The lunch break at my company is only one hour.",
+      "We only get one hour for lunch at my company."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Bạn có muốn",
+        "en": "do you want"
+      },
+      {
+        "t": "đi uống cà phê",
+        "en": "to get coffee"
+      },
+      {
+        "t": "sau giờ làm không?",
+        "en": "after work"
+      }
+    ],
+    "answers": [
+      "Do you want to get coffee after work?",
+      "Would you like to grab a coffee after work?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cuộc họp online hôm qua",
+        "en": "yesterday's online meeting"
+      },
+      {
+        "t": "bị gián đoạn",
+        "en": "kept getting interrupted"
+      },
+      {
+        "t": "liên tục.",
+        "en": "constantly"
+      }
+    ],
+    "answers": [
+      "Yesterday's online meeting kept getting interrupted.",
+      "The video call yesterday was constantly interrupted."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp",
+        "en": "my boss"
+      },
+      {
+        "t": "vừa khen tôi",
+        "en": "just praised me"
+      },
+      {
+        "t": "trước cả phòng.",
+        "en": "in front of the whole department"
+      }
+    ],
+    "answers": [
+      "My boss just praised me in front of the whole department.",
+      "My boss just complimented me in front of everyone in the office."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp bên cạnh",
+        "en": "the coworker next to me"
+      },
+      {
+        "t": "luôn giúp tôi",
+        "en": "always helps me"
+      },
+      {
+        "t": "lúc khó khăn.",
+        "en": "in tough times"
+      }
+    ],
+    "answers": [
+      "The coworker next to me always helps me in tough times.",
+      "My deskmate always helps me out when things get hard."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đang viết",
+        "en": "I'm writing"
+      },
+      {
+        "t": "báo cáo cuối tuần",
+        "en": "the weekly report"
+      },
+      {
+        "t": "cho sếp.",
+        "en": "for my boss"
+      }
+    ],
+    "answers": [
+      "I'm writing the weekly report for my boss.",
+      "I'm working on the weekly report for my manager."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Máy in trong văn phòng",
+        "en": "the printer in the office"
+      },
+      {
+        "t": "lại hết mực",
+        "en": "is out of ink again"
+      },
+      {
+        "t": "rồi.",
+        "en": "already"
+      }
+    ],
+    "answers": [
+      "The printer in the office is out of ink again.",
+      "The office printer is out of ink again."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa cập nhật",
+        "en": "I just updated"
+      },
+      {
+        "t": "CV",
+        "en": "my resume"
+      },
+      {
+        "t": "để nộp cho vài công ty.",
+        "en": "to send to a few companies"
+      }
+    ],
+    "answers": [
+      "I just updated my resume to send to a few companies.",
+      "I just updated my CV to apply to a few companies."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Anh ấy quên mang",
+        "en": "he forgot to bring"
+      },
+      {
+        "t": "hợp đồng lao động",
+        "en": "his labor contract"
+      },
+      {
+        "t": "đến công ty.",
+        "en": "to the office"
+      }
+    ],
+    "answers": [
+      "He forgot to bring his labor contract to the office.",
+      "He forgot to bring his employment contract to work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Văn phòng mới của công ty tôi",
+        "en": "my company's new office"
+      },
+      {
+        "t": "rất rộng",
+        "en": "is very spacious"
+      },
+      {
+        "t": "và sáng.",
+        "en": "and bright"
+      }
+    ],
+    "answers": [
+      "My company's new office is very spacious and bright.",
+      "Our new office is really big and bright."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cuối tuần này",
+        "en": "this weekend"
+      },
+      {
+        "t": "tôi phải đến công ty",
+        "en": "I have to go to the office"
+      },
+      {
+        "t": "làm việc.",
+        "en": "to work"
+      }
+    ],
+    "answers": [
+      "I have to go to the office to work this weekend.",
+      "This weekend I have to work at the office."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Buổi onboarding cho nhân viên mới",
+        "en": "the onboarding session for new employees"
+      },
+      {
+        "t": "bắt đầu",
+        "en": "starts"
+      },
+      {
+        "t": "lúc chín giờ.",
+        "en": "at nine o'clock"
+      }
+    ],
+    "answers": [
+      "The onboarding session for new employees starts at nine.",
+      "New employee onboarding starts at nine o'clock."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cuối năm nay,",
+        "en": "at the end of this year"
+      },
+      {
+        "t": "công ty có",
+        "en": "does the company"
+      },
+      {
+        "t": "thưởng Tết không?",
+        "en": "give a Tet bonus"
+      }
+    ],
+    "answers": [
+      "Does the company give a Tet bonus at the end of this year?",
+      "Is the company giving a Tet bonus this year?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chúng tôi họp trực tiếp",
+        "en": "we're meeting in person"
+      },
+      {
+        "t": "thay vì họp online",
+        "en": "instead of meeting online"
+      },
+      {
+        "t": "lần này.",
+        "en": "this time"
+      }
+    ],
+    "answers": [
+      "We're meeting in person instead of online this time.",
+      "This time we're having an in-person meeting instead of a video call."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải",
+        "en": "I have to"
+      },
+      {
+        "t": "xin nghỉ ốm",
+        "en": "call in sick"
+      },
+      {
+        "t": "vì bị sốt cao.",
+        "en": "because I have a high fever"
+      }
+    ],
+    "answers": [
+      "I have to call in sick because I have a high fever.",
+      "I have to take a sick day because of a high fever."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cô ấy đang tìm việc mới",
+        "en": "she's looking for a new job"
+      },
+      {
+        "t": "vì lương ở đây",
+        "en": "because the pay here"
+      },
+      {
+        "t": "quá thấp.",
+        "en": "is too low"
+      }
+    ],
+    "answers": [
+      "She's looking for a new job because the pay here is too low.",
+      "She's job hunting because her salary here is too low."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp thân nhất của tôi",
+        "en": "my closest coworker"
+      },
+      {
+        "t": "vừa chuyển",
+        "en": "just moved"
+      },
+      {
+        "t": "sang phòng khác.",
+        "en": "to another department"
+      }
+    ],
+    "answers": [
+      "My closest coworker just moved to another department.",
+      "My best friend at work just transferred to a different department."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Công ty vừa thông báo",
+        "en": "the company just announced"
+      },
+      {
+        "t": "cắt giảm nhân sự",
+        "en": "layoffs"
+      },
+      {
+        "t": "trong tháng này.",
+        "en": "this month"
+      }
+    ],
+    "answers": [
+      "The company just announced layoffs this month.",
+      "The company just announced staff cuts this month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp la mắng cả phòng",
+        "en": "the boss yelled at the whole team"
+      },
+      {
+        "t": "vì số liệu sai",
+        "en": "because of the wrong numbers"
+      },
+      {
+        "t": "trong báo cáo.",
+        "en": "in the report"
+      }
+    ],
+    "answers": [
+      "The boss yelled at the whole team because of the wrong numbers in the report.",
+      "The boss scolded the whole department for the wrong numbers in the report."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa đặt vé máy bay",
+        "en": "I just booked a flight"
+      },
+      {
+        "t": "cho chuyến công tác",
+        "en": "for the business trip"
+      },
+      {
+        "t": "tuần sau.",
+        "en": "next week"
+      }
+    ],
+    "answers": [
+      "I just booked a flight for the business trip next week.",
+      "I just booked my flight for next week's business trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khách sạn của tôi",
+        "en": "my hotel"
+      },
+      {
+        "t": "ở khá xa",
+        "en": "is quite far from"
+      },
+      {
+        "t": "văn phòng công ty.",
+        "en": "the company office"
+      }
+    ],
+    "answers": [
+      "My hotel is quite far from the company office.",
+      "My hotel is a bit far from the office."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi quên",
+        "en": "I forgot"
+      },
+      {
+        "t": "mật khẩu email công ty",
+        "en": "my work email password"
+      },
+      {
+        "t": "sáng nay.",
+        "en": "this morning"
+      }
+    ],
+    "answers": [
+      "I forgot my work email password this morning.",
+      "This morning I forgot the password to my work email."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Wifi ở nhà tôi",
+        "en": "the wifi at my house"
+      },
+      {
+        "t": "bị chậm",
+        "en": "is slow"
+      },
+      {
+        "t": "nên tôi không họp online được.",
+        "en": "so I can't join the video call"
+      }
+    ],
+    "answers": [
+      "The wifi at my house is slow, so I can't join the video call.",
+      "My home wifi is slow, so I can't get on the video call."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Deadline gấp quá,",
+        "en": "the deadline is so tight"
+      },
+      {
+        "t": "tôi không kịp",
+        "en": "I don't have time"
+      },
+      {
+        "t": "ăn trưa.",
+        "en": "to eat lunch"
+      }
+    ],
+    "answers": [
+      "The deadline is so tight that I don't have time for lunch.",
+      "The deadline is so tight I can't even eat lunch."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp yêu cầu cả nhóm",
+        "en": "the boss asked the whole team"
+      },
+      {
+        "t": "làm thêm giờ",
+        "en": "to work overtime"
+      },
+      {
+        "t": "tối nay.",
+        "en": "tonight"
+      }
+    ],
+    "answers": [
+      "The boss asked the whole team to work overtime tonight.",
+      "The boss wants the whole team to do overtime tonight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải làm thay",
+        "en": "I have to cover"
+      },
+      {
+        "t": "việc của đồng nghiệp",
+        "en": "my coworker's work"
+      },
+      {
+        "t": "vì cô ấy nghỉ phép.",
+        "en": "because she's on leave"
+      }
+    ],
+    "answers": [
+      "I have to cover my coworker's work because she's on leave.",
+      "I have to take over my colleague's work while she's off."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cả nhóm đi ăn mừng",
+        "en": "the whole team went out to celebrate"
+      },
+      {
+        "t": "vì dự án",
+        "en": "because the project"
+      },
+      {
+        "t": "hoàn thành đúng hạn.",
+        "en": "finished on time"
+      }
+    ],
+    "answers": [
+      "The whole team went out to celebrate because the project finished on time.",
+      "The team celebrated because the project was done on time."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đang chuẩn bị",
+        "en": "I'm preparing"
+      },
+      {
+        "t": "tài liệu",
+        "en": "documents"
+      },
+      {
+        "t": "cho cuộc họp chiều nay.",
+        "en": "for this afternoon's meeting"
+      }
+    ],
+    "answers": [
+      "I'm preparing documents for this afternoon's meeting.",
+      "I'm getting the documents ready for the meeting this afternoon."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi luôn ghi chú công việc",
+        "en": "I always write down my tasks"
+      },
+      {
+        "t": "ra giấy",
+        "en": "on paper"
+      },
+      {
+        "t": "để không quên.",
+        "en": "so I don't forget"
+      }
+    ],
+    "answers": [
+      "I always write down my tasks on paper so I don't forget.",
+      "I always note my work down on paper so I won't forget."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Lịch làm việc",
+        "en": "my schedule"
+      },
+      {
+        "t": "tuần này của tôi",
+        "en": "this week"
+      },
+      {
+        "t": "kín hết.",
+        "en": "is completely full"
+      }
+    ],
+    "answers": [
+      "My schedule this week is completely full.",
+      "My work schedule this week is packed."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải tăng ca",
+        "en": "I have to work overtime"
+      },
+      {
+        "t": "vào cả thứ Bảy",
+        "en": "even on Saturday"
+      },
+      {
+        "t": "tuần này.",
+        "en": "this week"
+      }
+    ],
+    "answers": [
+      "I have to work overtime even on Saturday this week.",
+      "This week I even have to do overtime on Saturday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp tôi đang đi công tác",
+        "en": "my boss is on a business trip"
+      },
+      {
+        "t": "nên không ai",
+        "en": "so no one"
+      },
+      {
+        "t": "duyệt hồ sơ.",
+        "en": "can approve the documents"
+      }
+    ],
+    "answers": [
+      "My boss is on a business trip, so no one can approve the documents.",
+      "My boss is away on business, so nobody can sign off on the paperwork."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cả nhóm chúng tôi",
+        "en": "our whole team"
+      },
+      {
+        "t": "làm việc rất ăn ý",
+        "en": "works together really well"
+      },
+      {
+        "t": "với nhau.",
+        "en": "with each other"
+      }
+    ],
+    "answers": [
+      "Our whole team works together really well.",
+      "Our team works really well together."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa viết xong",
+        "en": "I just finished writing"
+      },
+      {
+        "t": "thư giới thiệu bản thân",
+        "en": "a cover letter"
+      },
+      {
+        "t": "cho nhà tuyển dụng.",
+        "en": "for the employer"
+      }
+    ],
+    "answers": [
+      "I just finished writing a cover letter for the employer.",
+      "I just finished my cover letter for the recruiter."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vẫn đang",
+        "en": "I'm still"
+      },
+      {
+        "t": "trong thời gian thử việc",
+        "en": "in my probation period"
+      },
+      {
+        "t": "ở công ty mới.",
+        "en": "at the new company"
+      }
+    ],
+    "answers": [
+      "I'm still in my probation period at the new company.",
+      "I'm still on probation at the new company."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cuối tháng",
+        "en": "at the end of the month"
+      },
+      {
+        "t": "tôi mới được ký",
+        "en": "I'll finally get to sign"
+      },
+      {
+        "t": "hợp đồng chính thức.",
+        "en": "my official contract"
+      }
+    ],
+    "answers": [
+      "I'll finally get to sign my official contract at the end of the month.",
+      "At the end of the month I finally sign my permanent contract."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Công ty tôi có",
+        "en": "my company has"
+      },
+      {
+        "t": "bảo hiểm sức khỏe",
+        "en": "health insurance"
+      },
+      {
+        "t": "cho toàn bộ nhân viên.",
+        "en": "for all employees"
+      }
+    ],
+    "answers": [
+      "My company has health insurance for all employees.",
+      "My company provides health insurance for every employee."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Ngày nghỉ lễ tới,",
+        "en": "on the upcoming holiday"
+      },
+      {
+        "t": "công ty tôi",
+        "en": "my company"
+      },
+      {
+        "t": "vẫn phải trực.",
+        "en": "still has to be on duty"
+      }
+    ],
+    "answers": [
+      "My company still has to be on duty on the upcoming holiday.",
+      "We still have to work on the next public holiday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Một đồng nghiệp cũ của tôi",
+        "en": "a former coworker of mine"
+      },
+      {
+        "t": "vừa nghỉ việc",
+        "en": "just quit"
+      },
+      {
+        "t": "tuần trước.",
+        "en": "last week"
+      }
+    ],
+    "answers": [
+      "A former coworker of mine just quit last week.",
+      "One of my old colleagues quit last week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cả phòng tổ chức",
+        "en": "the whole department organized"
+      },
+      {
+        "t": "tiệc chia tay",
+        "en": "a farewell party"
+      },
+      {
+        "t": "cho đồng nghiệp sắp nghỉ.",
+        "en": "for the coworker leaving soon"
+      }
+    ],
+    "answers": [
+      "The whole department organized a farewell party for the coworker leaving soon.",
+      "The team threw a farewell party for the coworker about to leave."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tiệc cuối năm của công ty",
+        "en": "the company's year-end party"
+      },
+      {
+        "t": "tổ chức",
+        "en": "was held"
+      },
+      {
+        "t": "ở một nhà hàng lớn.",
+        "en": "at a big restaurant"
+      }
+    ],
+    "answers": [
+      "The company's year-end party was held at a big restaurant.",
+      "Our company's end-of-year party took place at a large restaurant."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng phục công ty tôi",
+        "en": "my company's uniform"
+      },
+      {
+        "t": "màu xanh navy,",
+        "en": "is navy blue"
+      },
+      {
+        "t": "khá đơn giản.",
+        "en": "pretty simple"
+      }
+    ],
+    "answers": [
+      "My company's uniform is navy blue and pretty simple.",
+      "Our work uniform is navy blue and quite simple."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi làm mất",
+        "en": "I lost"
+      },
+      {
+        "t": "thẻ nhân viên",
+        "en": "my employee card"
+      },
+      {
+        "t": "ngay tuần đầu đi làm.",
+        "en": "in my very first week at work"
+      }
+    ],
+    "answers": [
+      "I lost my employee card in my very first week at work.",
+      "I lost my staff ID in my first week on the job."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Giờ tan làm hôm nay",
+        "en": "at quitting time today"
+      },
+      {
+        "t": "tôi vẫn còn",
+        "en": "I still have"
+      },
+      {
+        "t": "việc chưa xong.",
+        "en": "unfinished work"
+      }
+    ],
+    "answers": [
+      "At quitting time today, I still have unfinished work.",
+      "It's already time to leave and I still have work left."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi xin lỗi sếp",
+        "en": "I apologized to my boss"
+      },
+      {
+        "t": "vì đến họp trễ",
+        "en": "for arriving at the meeting late"
+      },
+      {
+        "t": "mười phút.",
+        "en": "by ten minutes"
+      }
+    ],
+    "answers": [
+      "I apologized to my boss for being ten minutes late to the meeting.",
+      "I said sorry to my boss for arriving ten minutes late to the meeting."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi ngủ quên",
+        "en": "I overslept"
+      },
+      {
+        "t": "nên suýt trễ",
+        "en": "so I almost missed"
+      },
+      {
+        "t": "giờ họp sáng nay.",
+        "en": "this morning's meeting"
+      }
+    ],
+    "answers": [
+      "I overslept, so I almost missed this morning's meeting.",
+      "I overslept and nearly missed the meeting this morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp hay nhắn tin công việc",
+        "en": "my boss often texts about work"
+      },
+      {
+        "t": "cho tôi",
+        "en": "to me"
+      },
+      {
+        "t": "vào lúc mười giờ tối.",
+        "en": "at ten at night"
+      }
+    ],
+    "answers": [
+      "My boss often texts me about work at ten at night.",
+      "My boss often messages me about work stuff at ten pm."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nhóm tôi",
+        "en": "my team"
+      },
+      {
+        "t": "đang làm chung",
+        "en": "is working together on"
+      },
+      {
+        "t": "một dự án lớn.",
+        "en": "a big project"
+      }
+    ],
+    "answers": [
+      "My team is working together on a big project.",
+      "My team is currently working on a big project together."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi được thăng chức",
+        "en": "I got promoted"
+      },
+      {
+        "t": "nhưng lương",
+        "en": "but my salary"
+      },
+      {
+        "t": "vẫn không tăng.",
+        "en": "still didn't increase"
+      }
+    ],
+    "answers": [
+      "I got promoted, but my salary still didn't increase.",
+      "I was promoted, but my pay stayed the same."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi xin nghỉ",
+        "en": "I asked for time off"
+      },
+      {
+        "t": "nhưng sếp",
+        "en": "but my boss"
+      },
+      {
+        "t": "không đồng ý.",
+        "en": "didn't agree"
+      }
+    ],
+    "answers": [
+      "I asked for time off, but my boss didn't agree.",
+      "I asked for leave, but my boss said no."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp tôi",
+        "en": "my coworker"
+      },
+      {
+        "t": "hay so bì lương",
+        "en": "often compares her salary"
+      },
+      {
+        "t": "với người khác.",
+        "en": "with other people's"
+      }
+    ],
+    "answers": [
+      "My coworker often compares her salary with other people's.",
+      "My colleague is always comparing his pay with others."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi dọn bàn làm việc",
+        "en": "I tidy my desk"
+      },
+      {
+        "t": "cho gọn gàng",
+        "en": "to make it neat"
+      },
+      {
+        "t": "vào mỗi sáng thứ Hai.",
+        "en": "every Monday morning"
+      }
+    ],
+    "answers": [
+      "I tidy my desk every Monday morning.",
+      "Every Monday morning I clean up my desk."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Ngồi làm việc cả ngày",
+        "en": "sitting all day at work"
+      },
+      {
+        "t": "khiến lưng tôi",
+        "en": "makes my back"
+      },
+      {
+        "t": "rất mỏi.",
+        "en": "really sore"
+      }
+    ],
+    "answers": [
+      "Sitting all day at work makes my back really sore.",
+      "My back gets really sore from sitting all day at work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi uống cà phê mỗi sáng",
+        "en": "I drink coffee every morning"
+      },
+      {
+        "t": "để tỉnh táo",
+        "en": "to stay alert"
+      },
+      {
+        "t": "làm việc.",
+        "en": "for work"
+      }
+    ],
+    "answers": [
+      "I drink coffee every morning to stay alert for work.",
+      "I have coffee every morning to feel awake for work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đến họp",
+        "en": "I went to the meeting"
+      },
+      {
+        "t": "mà quên mang theo",
+        "en": "but forgot to bring"
+      },
+      {
+        "t": "tài liệu.",
+        "en": "the documents"
+      }
+    ],
+    "answers": [
+      "I went to the meeting but forgot to bring the documents.",
+      "I showed up to the meeting without the documents."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi gửi báo cáo trễ",
+        "en": "I sent the report late"
+      },
+      {
+        "t": "nên sếp",
+        "en": "so my boss"
+      },
+      {
+        "t": "không vui.",
+        "en": "wasn't happy"
+      }
+    ],
+    "answers": [
+      "I sent the report late, so my boss wasn't happy.",
+      "I was late sending the report, and my boss wasn't pleased."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Mỗi sáng",
+        "en": "every morning"
+      },
+      {
+        "t": "tôi phải chấm công",
+        "en": "I have to clock in"
+      },
+      {
+        "t": "trước khi vào làm.",
+        "en": "before starting work"
+      }
+    ],
+    "answers": [
+      "I have to clock in every morning before starting work.",
+      "Every morning I have to clock in before I start work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi quẹt thẻ",
+        "en": "I swipe my card"
+      },
+      {
+        "t": "ra vào cổng công ty",
+        "en": "at the company gate"
+      },
+      {
+        "t": "mỗi ngày hai lần.",
+        "en": "twice a day"
+      }
+    ],
+    "answers": [
+      "I swipe my card at the company gate twice a day.",
+      "I swipe my card at the gate twice every day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi xin sếp",
+        "en": "I asked my boss"
+      },
+      {
+        "t": "cho làm remote",
+        "en": "to let me work from home"
+      },
+      {
+        "t": "hai ngày một tuần.",
+        "en": "two days a week"
+      }
+    ],
+    "answers": [
+      "I asked my boss to let me work from home two days a week.",
+      "I asked my boss for two remote days a week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp tôi nghỉ ốm nhiều",
+        "en": "my coworker takes a lot of sick days"
+      },
+      {
+        "t": "nên nhóm",
+        "en": "so the team"
+      },
+      {
+        "t": "thiếu người.",
+        "en": "is short-staffed"
+      }
+    ],
+    "answers": [
+      "My coworker takes a lot of sick days, so the team is short-staffed.",
+      "My colleague is often out sick, so our team is understaffed."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đang học",
+        "en": "I'm learning"
+      },
+      {
+        "t": "một kỹ năng mới",
+        "en": "a new skill"
+      },
+      {
+        "t": "cho công việc.",
+        "en": "for my job"
+      }
+    ],
+    "answers": [
+      "I'm learning a new skill for my job.",
+      "I'm picking up a new skill for work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Công ty tôi mở",
+        "en": "my company is offering"
+      },
+      {
+        "t": "khóa đào tạo miễn phí",
+        "en": "a free training course"
+      },
+      {
+        "t": "cho nhân viên.",
+        "en": "for employees"
+      }
+    ],
+    "answers": [
+      "My company is offering a free training course for employees.",
+      "My company is running a free training course for staff."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Deadline dí sát nút,",
+        "en": "the deadline is right on top of me"
+      },
+      {
+        "t": "tôi phải làm việc",
+        "en": "I have to work"
+      },
+      {
+        "t": "xuyên trưa.",
+        "en": "through lunch"
+      }
+    ],
+    "answers": [
+      "The deadline is right on top of me, so I have to work through lunch.",
+      "The deadline is so close I have to skip lunch and keep working."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp gọi điện cho tôi",
+        "en": "my boss calls me"
+      },
+      {
+        "t": "ngay cả",
+        "en": "even"
+      },
+      {
+        "t": "vào cuối tuần.",
+        "en": "on weekends"
+      }
+    ],
+    "answers": [
+      "My boss calls me even on weekends.",
+      "My boss even calls me on the weekend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đi công tác xa nhà cả tuần",
+        "en": "being away on a business trip for a whole week"
+      },
+      {
+        "t": "khiến tôi",
+        "en": "makes me"
+      },
+      {
+        "t": "thấy buồn.",
+        "en": "feel sad"
+      }
+    ],
+    "answers": [
+      "Being away on a business trip for a whole week makes me feel sad.",
+      "A week-long business trip away from home makes me feel down."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Buổi phỏng vấn online của tôi",
+        "en": "my online interview"
+      },
+      {
+        "t": "bị rớt mạng",
+        "en": "lost connection"
+      },
+      {
+        "t": "giữa chừng.",
+        "en": "halfway through"
+      }
+    ],
+    "answers": [
+      "My online interview lost connection halfway through.",
+      "My video interview dropped the connection in the middle."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi chuẩn bị outfit",
+        "en": "I prepared my outfit"
+      },
+      {
+        "t": "từ tối hôm trước",
+        "en": "the night before"
+      },
+      {
+        "t": "để đi phỏng vấn.",
+        "en": "for the interview"
+      }
+    ],
+    "answers": [
+      "I prepared my outfit the night before the interview.",
+      "I got my outfit ready the night before for the interview."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "rất hồi hộp",
+        "en": "am really nervous"
+      },
+      {
+        "t": "trước buổi phỏng vấn xin việc.",
+        "en": "before the job interview"
+      }
+    ],
+    "answers": [
+      "I'm really nervous before the job interview.",
+      "I feel so nervous before job interviews."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa nhận được",
+        "en": "I just received"
+      },
+      {
+        "t": "lời mời làm việc",
+        "en": "a job offer"
+      },
+      {
+        "t": "từ một công ty mới.",
+        "en": "from a new company"
+      }
+    ],
+    "answers": [
+      "I just received a job offer from a new company.",
+      "I just got a job offer from a new company."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi từ chối",
+        "en": "I turned down"
+      },
+      {
+        "t": "lời mời làm việc đó",
+        "en": "that job offer"
+      },
+      {
+        "t": "vì lương quá thấp.",
+        "en": "because the pay was too low"
+      }
+    ],
+    "answers": [
+      "I turned down that job offer because the pay was too low.",
+      "I declined the job offer because the salary was too low."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Dự án này kéo dài",
+        "en": "this project dragged on"
+      },
+      {
+        "t": "cả tháng",
+        "en": "for a whole month"
+      },
+      {
+        "t": "nhưng vẫn chưa xong.",
+        "en": "and still isn't finished"
+      }
+    ],
+    "answers": [
+      "This project dragged on for a whole month and still isn't finished.",
+      "This project took a whole month and it's still not finished."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp cứ thay đổi kế hoạch",
+        "en": "my boss keeps changing the plan"
+      },
+      {
+        "t": "liên tục",
+        "en": "constantly"
+      },
+      {
+        "t": "khiến cả nhóm",
+        "en": "which makes the whole team"
+      },
+      {
+        "t": "mệt mỏi.",
+        "en": "tired"
+      }
+    ],
+    "answers": [
+      "My boss keeps changing the plan constantly, which makes the whole team tired.",
+      "My boss constantly changes plans, and it wears the whole team out."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp đó",
+        "en": "that coworker"
+      },
+      {
+        "t": "làm việc rất chậm",
+        "en": "works really slowly"
+      },
+      {
+        "t": "và hay trễ deadline.",
+        "en": "and often misses deadlines"
+      }
+    ],
+    "answers": [
+      "That coworker works really slowly and often misses deadlines.",
+      "That colleague is really slow and often misses deadlines."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sáng thứ Hai nào",
+        "en": "every Monday morning"
+      },
+      {
+        "t": "nhóm tôi cũng họp",
+        "en": "my team has a meeting"
+      },
+      {
+        "t": "đầu tuần.",
+        "en": "to start the week"
+      }
+    ],
+    "answers": [
+      "My team has a meeting every Monday morning to start the week.",
+      "Every Monday morning my team has a kickoff meeting."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải báo cáo",
+        "en": "I have to report"
+      },
+      {
+        "t": "tiến độ công việc",
+        "en": "my work progress"
+      },
+      {
+        "t": "mỗi ngày.",
+        "en": "every day"
+      }
+    ],
+    "answers": [
+      "I have to report my work progress every day.",
+      "I have to give a progress update every day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi gửi nhầm",
+        "en": "I mistakenly sent"
+      },
+      {
+        "t": "file sai định dạng",
+        "en": "a file in the wrong format"
+      },
+      {
+        "t": "cho khách hàng.",
+        "en": "to the client"
+      }
+    ],
+    "answers": [
+      "I mistakenly sent a file in the wrong format to the client.",
+      "I sent the client a file in the wrong format by mistake."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Máy chiếu bị hỏng",
+        "en": "the projector broke down"
+      },
+      {
+        "t": "ngay lúc",
+        "en": "right when"
+      },
+      {
+        "t": "tôi đang thuyết trình.",
+        "en": "I was presenting"
+      }
+    ],
+    "answers": [
+      "The projector broke down right when I was presenting.",
+      "The projector stopped working just as I was giving my presentation."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi thuyết trình",
+        "en": "I'm giving a presentation"
+      },
+      {
+        "t": "trước khách hàng lớn",
+        "en": "to a big client"
+      },
+      {
+        "t": "vào chiều nay.",
+        "en": "this afternoon"
+      }
+    ],
+    "answers": [
+      "I'm giving a presentation to a big client this afternoon.",
+      "This afternoon I'm presenting to a major client."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khách hàng phàn nàn",
+        "en": "the client complained"
+      },
+      {
+        "t": "về chất lượng dịch vụ",
+        "en": "about the quality of service"
+      },
+      {
+        "t": "của công ty.",
+        "en": "of the company"
+      }
+    ],
+    "answers": [
+      "The client complained about the quality of the company's service.",
+      "The customer complained about our company's service quality."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp yêu cầu tôi",
+        "en": "my boss asked me"
+      },
+      {
+        "t": "sửa lại báo cáo",
+        "en": "to redo the report"
+      },
+      {
+        "t": "lần thứ ba.",
+        "en": "for the third time"
+      }
+    ],
+    "answers": [
+      "My boss asked me to redo the report for the third time.",
+      "My boss made me revise the report a third time."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi làm việc muộn",
+        "en": "I worked late"
+      },
+      {
+        "t": "tới tận chín giờ tối",
+        "en": "until nine at night"
+      },
+      {
+        "t": "hôm qua.",
+        "en": "yesterday"
+      }
+    ],
+    "answers": [
+      "I worked late until nine at night yesterday.",
+      "Yesterday I worked until nine pm."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi ăn tối",
+        "en": "I had dinner"
+      },
+      {
+        "t": "ngay tại bàn làm việc",
+        "en": "right at my desk"
+      },
+      {
+        "t": "vì quá bận.",
+        "en": "because I was too busy"
+      }
+    ],
+    "answers": [
+      "I had dinner right at my desk because I was too busy.",
+      "I ate dinner at my desk because I was so busy."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đi bộ về nhà",
+        "en": "I walk home"
+      },
+      {
+        "t": "sau giờ làm",
+        "en": "after work"
+      },
+      {
+        "t": "để thư giãn đầu óc.",
+        "en": "to clear my mind"
+      }
+    ],
+    "answers": [
+      "I walk home after work to clear my mind.",
+      "After work I walk home to relax my mind."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Hôm nay công ty tôi",
+        "en": "today my company"
+      },
+      {
+        "t": "có buổi tiệc",
+        "en": "is having a party"
+      },
+      {
+        "t": "mừng dự án thành công.",
+        "en": "to celebrate the project's success"
+      }
+    ],
+    "answers": [
+      "Today my company is having a party to celebrate the project's success.",
+      "My company is throwing a party today to celebrate a successful project."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Anh đồng nghiệp mới",
+        "en": "the new coworker"
+      },
+      {
+        "t": "rất hòa đồng",
+        "en": "is very friendly"
+      },
+      {
+        "t": "với mọi người.",
+        "en": "with everyone"
+      }
+    ],
+    "answers": [
+      "The new coworker is very friendly with everyone.",
+      "The new guy is really friendly with everybody."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp tôi rất công bằng",
+        "en": "my boss is very fair"
+      },
+      {
+        "t": "và luôn lắng nghe",
+        "en": "and always listens to"
+      },
+      {
+        "t": "nhân viên.",
+        "en": "employees"
+      }
+    ],
+    "answers": [
+      "My boss is very fair and always listens to employees.",
+      "My boss is really fair and always listens to the staff."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi ghét",
+        "en": "I hate"
+      },
+      {
+        "t": "phải ngồi họp",
+        "en": "having to sit in meetings"
+      },
+      {
+        "t": "cả buổi chiều.",
+        "en": "all afternoon"
+      }
+    ],
+    "answers": [
+      "I hate having to sit in meetings all afternoon.",
+      "I hate sitting through meetings the whole afternoon."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Công ty tôi cho nhân viên",
+        "en": "my company gives employees"
+      },
+      {
+        "t": "nghỉ sinh nhật",
+        "en": "a birthday day off"
+      },
+      {
+        "t": "hằng năm.",
+        "en": "every year"
+      }
+    ],
+    "answers": [
+      "My company gives employees a birthday day off every year.",
+      "My company gives us the day off on our birthday each year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Bàn làm việc của tôi",
+        "en": "my desk"
+      },
+      {
+        "t": "lúc nào cũng",
+        "en": "is always"
+      },
+      {
+        "t": "ngập giấy tờ.",
+        "en": "buried in paperwork"
+      }
+    ],
+    "answers": [
+      "My desk is always buried in paperwork.",
+      "My desk is always covered in papers."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa nộp",
+        "en": "I just handed in"
+      },
+      {
+        "t": "đơn xin nghỉ việc",
+        "en": "my resignation letter"
+      },
+      {
+        "t": "sáng nay.",
+        "en": "this morning"
+      }
+    ],
+    "answers": [
+      "I just handed in my resignation letter this morning.",
+      "I just submitted my resignation this morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp cố giữ tôi lại",
+        "en": "my boss tried to keep me"
+      },
+      {
+        "t": "nhưng tôi",
+        "en": "but I"
+      },
+      {
+        "t": "vẫn quyết định nghỉ.",
+        "en": "still decided to quit"
+      }
+    ],
+    "answers": [
+      "My boss tried to keep me, but I still decided to quit.",
+      "My boss tried to convince me to stay, but I still chose to leave."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cả phòng đều ngạc nhiên",
+        "en": "the whole department was surprised"
+      },
+      {
+        "t": "khi nghe tin",
+        "en": "when they heard the news"
+      },
+      {
+        "t": "tôi nghỉ việc.",
+        "en": "that I was quitting"
+      }
+    ],
+    "answers": [
+      "The whole department was surprised when they heard I was quitting.",
+      "Everyone in the office was shocked to hear I was leaving."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi thấy vui",
+        "en": "I feel happy"
+      },
+      {
+        "t": "vì cuối cùng",
+        "en": "because finally"
+      },
+      {
+        "t": "cũng được nghỉ phép năm.",
+        "en": "I get my annual leave"
+      }
+    ],
+    "answers": [
+      "I feel happy because I finally get my annual leave.",
+      "I'm happy that I'm finally getting my annual leave."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Có bao nhiêu ngày nghỉ phép",
+        "en": "how many days off"
+      },
+      {
+        "t": "mỗi năm",
+        "en": "per year"
+      },
+      {
+        "t": "ở công ty bạn?",
+        "en": "at your company"
+      }
+    ],
+    "answers": [
+      "How many days off do you get per year at your company?",
+      "How many vacation days do you get a year at your company?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi thích làm việc từ xa hơn",
+        "en": "I prefer working remotely"
+      },
+      {
+        "t": "vì đỡ mất thời gian",
+        "en": "because it saves time"
+      },
+      {
+        "t": "đi lại.",
+        "en": "commuting"
+      }
+    ],
+    "answers": [
+      "I prefer working remotely because it saves time commuting.",
+      "I like working from home more because it saves commute time."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Công ty tôi đang tuyển thêm",
+        "en": "my company is hiring"
+      },
+      {
+        "t": "ba nhân viên",
+        "en": "three more people"
+      },
+      {
+        "t": "cho phòng marketing.",
+        "en": "for the marketing department"
+      }
+    ],
+    "answers": [
+      "My company is hiring three more people for the marketing department.",
+      "My company is looking for three new employees for marketing."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trưởng phòng của tôi",
+        "en": "my department head"
+      },
+      {
+        "t": "luôn đến sớm nhất",
+        "en": "always arrives earliest"
+      },
+      {
+        "t": "văn phòng.",
+        "en": "at the office"
+      }
+    ],
+    "answers": [
+      "My department head always arrives earliest at the office.",
+      "My manager is always the first one at the office."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi thường ăn trưa",
+        "en": "I usually have lunch"
+      },
+      {
+        "t": "cùng đồng nghiệp",
+        "en": "with my coworkers"
+      },
+      {
+        "t": "ở quán gần công ty.",
+        "en": "at a place near the office"
+      }
+    ],
+    "answers": [
+      "I usually have lunch with my coworkers at a place near the office.",
+      "I usually eat lunch with my colleagues near the office."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Hôm nay tôi mặc đồ trang trọng",
+        "en": "today I'm dressed formally"
+      },
+      {
+        "t": "vì có khách quan trọng",
+        "en": "because an important guest"
+      },
+      {
+        "t": "đến.",
+        "en": "is coming"
+      }
+    ],
+    "answers": [
+      "Today I'm dressed formally because an important guest is coming.",
+      "I'm wearing formal clothes today because we have an important visitor."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp tặng cả phòng",
+        "en": "my boss gave the whole department"
+      },
+      {
+        "t": "một chuyến du lịch",
+        "en": "a trip"
+      },
+      {
+        "t": "cuối năm.",
+        "en": "at the end of the year"
+      }
+    ],
+    "answers": [
+      "My boss gave the whole department a trip at the end of the year.",
+      "My boss treated the whole office to a year-end trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi và đồng nghiệp",
+        "en": "my coworker and I"
+      },
+      {
+        "t": "thường trêu chọc nhau",
+        "en": "often tease each other"
+      },
+      {
+        "t": "trong giờ làm.",
+        "en": "during work hours"
+      }
+    ],
+    "answers": [
+      "My coworker and I often tease each other during work hours.",
+      "My colleague and I often joke around at work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi cần in gấp",
+        "en": "I urgently need to print"
+      },
+      {
+        "t": "mười bản báo cáo",
+        "en": "ten copies of the report"
+      },
+      {
+        "t": "cho cuộc họp.",
+        "en": "for the meeting"
+      }
+    ],
+    "answers": [
+      "I urgently need to print ten copies of the report for the meeting.",
+      "I need to print ten copies of the report right away for the meeting."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chị lễ tân",
+        "en": "the receptionist"
+      },
+      {
+        "t": "luôn chào đón khách",
+        "en": "always greets guests"
+      },
+      {
+        "t": "rất niềm nở.",
+        "en": "very warmly"
+      }
+    ],
+    "answers": [
+      "The receptionist always greets guests very warmly.",
+      "The receptionist always welcomes visitors so warmly."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Phòng họp tầng ba",
+        "en": "the meeting room on the third floor"
+      },
+      {
+        "t": "đang được sửa chữa",
+        "en": "is being repaired"
+      },
+      {
+        "t": "tuần này.",
+        "en": "this week"
+      }
+    ],
+    "answers": [
+      "The meeting room on the third floor is being repaired this week.",
+      "The third-floor meeting room is under repair this week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Có một thông báo mới",
+        "en": "there's a new announcement"
+      },
+      {
+        "t": "về giờ làm việc",
+        "en": "about the working hours"
+      },
+      {
+        "t": "mùa hè.",
+        "en": "in summer"
+      }
+    ],
+    "answers": [
+      "There's a new announcement about summer working hours.",
+      "There's a new notice about the summer work schedule."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi gửi email cảm ơn",
+        "en": "I sent a thank-you email"
+      },
+      {
+        "t": "khách hàng",
+        "en": "to the client"
+      },
+      {
+        "t": "sau buổi họp.",
+        "en": "after the meeting"
+      }
+    ],
+    "answers": [
+      "I sent a thank-you email to the client after the meeting.",
+      "After the meeting, I emailed the client to say thanks."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chúng tôi đang tìm",
+        "en": "we're looking for"
+      },
+      {
+        "t": "phòng họp trống",
+        "en": "an empty meeting room"
+      },
+      {
+        "t": "cho cuộc gọi khách hàng.",
+        "en": "for the client call"
+      }
+    ],
+    "answers": [
+      "We're looking for an empty meeting room for the client call.",
+      "We're trying to find a free meeting room for the client call."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải học",
+        "en": "I have to learn"
+      },
+      {
+        "t": "cách dùng phần mềm mới",
+        "en": "how to use the new software"
+      },
+      {
+        "t": "của công ty.",
+        "en": "at the company"
+      }
+    ],
+    "answers": [
+      "I have to learn how to use the company's new software.",
+      "I have to figure out how to use the new software at work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Có mấy đồng nghiệp",
+        "en": "a few coworkers"
+      },
+      {
+        "t": "đang đứng bàn tán",
+        "en": "are standing around gossiping"
+      },
+      {
+        "t": "ngoài hành lang.",
+        "en": "in the hallway"
+      }
+    ],
+    "answers": [
+      "A few coworkers are standing around gossiping in the hallway.",
+      "Some colleagues are chatting and gossiping out in the hallway."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chúng tôi đổi giờ họp",
+        "en": "we changed the meeting time"
+      },
+      {
+        "t": "sang chín giờ",
+        "en": "to nine o'clock"
+      },
+      {
+        "t": "sáng mai.",
+        "en": "tomorrow morning"
+      }
+    ],
+    "answers": [
+      "We changed the meeting time to nine tomorrow morning.",
+      "We moved the meeting to nine o'clock tomorrow morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sáng nay",
+        "en": "this morning"
+      },
+      {
+        "t": "tôi phải dậy sớm",
+        "en": "I had to get up early"
+      },
+      {
+        "t": "để chuẩn bị đi công tác.",
+        "en": "to get ready for the business trip"
+      }
+    ],
+    "answers": [
+      "I had to get up early this morning to get ready for the business trip.",
+      "This morning I got up early to prepare for the business trip."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã làm việc",
+        "en": "I've worked"
+      },
+      {
+        "t": "ở công ty này",
+        "en": "at this company"
+      },
+      {
+        "t": "được ba năm rồi.",
+        "en": "for three years now"
+      }
+    ],
+    "answers": [
+      "I've worked at this company for three years now.",
+      "I've been working at this company for three years now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Mặc dù rất mệt,",
+        "en": "although I'm really tired"
+      },
+      {
+        "t": "tôi vẫn phải hoàn thành",
+        "en": "I still have to finish"
+      },
+      {
+        "t": "báo cáo tối nay.",
+        "en": "the report tonight"
+      }
+    ],
+    "answers": [
+      "Although I'm really tired, I still have to finish the report tonight.",
+      "Even though I'm exhausted, I still have to get the report done tonight."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi sếp bước vào phòng họp,",
+        "en": "when the boss walked into the meeting room"
+      },
+      {
+        "t": "mọi người",
+        "en": "everyone"
+      },
+      {
+        "t": "đột nhiên im lặng.",
+        "en": "suddenly went quiet"
+      }
+    ],
+    "answers": [
+      "When the boss walked into the meeting room, everyone suddenly went quiet.",
+      "Everyone suddenly went quiet when the boss walked into the meeting room."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đang soạn email",
+        "en": "I was writing an email"
+      },
+      {
+        "t": "thì máy tính",
+        "en": "when my computer"
+      },
+      {
+        "t": "bỗng tắt nguồn.",
+        "en": "suddenly shut down"
+      }
+    ],
+    "answers": [
+      "I was writing an email when my computer suddenly shut down.",
+      "I was in the middle of writing an email when my computer shut off."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng làm việc ca đêm",
+        "en": "I used to work night shifts"
+      },
+      {
+        "t": "ở một nhà máy.",
+        "en": "at a factory"
+      }
+    ],
+    "answers": [
+      "I used to work night shifts at a factory.",
+      "I used to do night shifts at a factory before."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu sếp đồng ý,",
+        "en": "if my boss agrees"
+      },
+      {
+        "t": "tôi sẽ nghỉ phép hai tuần",
+        "en": "I'll take two weeks off"
+      },
+      {
+        "t": "vào tháng sau.",
+        "en": "next month"
+      }
+    ],
+    "answers": [
+      "If my boss agrees, I'll take two weeks off next month.",
+      "If my boss says yes, I'll take a two-week vacation next month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải hoãn cuộc họp lại",
+        "en": "I have to put off the meeting"
+      },
+      {
+        "t": "vì khách hàng",
+        "en": "because the client"
+      },
+      {
+        "t": "đột ngột hủy hẹn.",
+        "en": "suddenly canceled"
+      }
+    ],
+    "answers": [
+      "I have to put off the meeting because the client suddenly canceled.",
+      "I have to postpone the meeting because the client canceled at the last minute."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi nộp đơn xin việc,",
+        "en": "after submitting my job application"
+      },
+      {
+        "t": "tôi chờ suốt hai tuần",
+        "en": "I waited two whole weeks"
+      },
+      {
+        "t": "mới có phản hồi.",
+        "en": "before hearing back"
+      }
+    ],
+    "answers": [
+      "After submitting my job application, I waited two whole weeks before hearing back.",
+      "After I applied for the job, it took two full weeks to get a response."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trước khi đi phỏng vấn,",
+        "en": "before going to the interview"
+      },
+      {
+        "t": "tôi tìm hiểu kỹ",
+        "en": "I researched thoroughly"
+      },
+      {
+        "t": "về công ty đó.",
+        "en": "about that company"
+      }
+    ],
+    "answers": [
+      "Before going to the interview, I researched that company thoroughly.",
+      "Before the interview, I did a lot of research on that company."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trong khi tôi đang thuyết trình,",
+        "en": "while I was giving my presentation"
+      },
+      {
+        "t": "điện thoại của tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "cứ rung liên tục.",
+        "en": "kept buzzing nonstop"
+      }
+    ],
+    "answers": [
+      "While I was giving my presentation, my phone kept buzzing nonstop.",
+      "My phone kept buzzing the whole time I was presenting."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa xin nghỉ việc",
+        "en": "I just resigned"
+      },
+      {
+        "t": "nên giờ phải bàn giao lại",
+        "en": "so now I have to hand over"
+      },
+      {
+        "t": "công việc.",
+        "en": "my work"
+      }
+    ],
+    "answers": [
+      "I just resigned, so now I have to hand over my work.",
+      "I've just quit, so I now need to hand over all my tasks."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp của tôi",
+        "en": "my coworker"
+      },
+      {
+        "t": "đã nghỉ việc",
+        "en": "has quit"
+      },
+      {
+        "t": "mà không báo trước.",
+        "en": "without giving any notice"
+      }
+    ],
+    "answers": [
+      "My coworker has quit without giving any notice.",
+      "My colleague has just left the job without any warning."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì dự án bị trễ tiến độ,",
+        "en": "because the project is behind schedule"
+      },
+      {
+        "t": "cả nhóm phải làm việc",
+        "en": "the whole team has to work"
+      },
+      {
+        "t": "cuối tuần.",
+        "en": "on weekends"
+      }
+    ],
+    "answers": [
+      "Because the project is behind schedule, the whole team has to work on weekends.",
+      "The project is behind schedule, so the whole team has to work weekends."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã gửi email nhắc nhở",
+        "en": "I've sent a reminder email"
+      },
+      {
+        "t": "nhưng anh ấy",
+        "en": "but he"
+      },
+      {
+        "t": "vẫn quên deadline.",
+        "en": "still forgot the deadline"
+      }
+    ],
+    "answers": [
+      "I've sent a reminder email, but he still forgot the deadline.",
+      "I sent him a reminder email, but he still missed the deadline."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu bạn không xử lý xong hôm nay,",
+        "en": "if you don't finish it today"
+      },
+      {
+        "t": "khách hàng sẽ",
+        "en": "the client will"
+      },
+      {
+        "t": "rất khó chịu.",
+        "en": "be really unhappy"
+      }
+    ],
+    "answers": [
+      "If you don't finish it today, the client will be really unhappy.",
+      "If this isn't done today, the client is going to be really upset."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi họp xong,",
+        "en": "after the meeting ended"
+      },
+      {
+        "t": "sếp gọi riêng tôi",
+        "en": "my boss called me aside"
+      },
+      {
+        "t": "vào phòng để nói chuyện.",
+        "en": "into his office to talk"
+      }
+    ],
+    "answers": [
+      "After the meeting ended, my boss called me aside to talk in his office.",
+      "Once the meeting was over, my boss pulled me aside to talk."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đang tăng ca",
+        "en": "I was working overtime"
+      },
+      {
+        "t": "thì mất điện",
+        "en": "when the power went out"
+      },
+      {
+        "t": "cả tòa nhà.",
+        "en": "in the whole building"
+      }
+    ],
+    "answers": [
+      "I was working overtime when the power went out in the whole building.",
+      "The whole building lost power while I was doing overtime."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Công việc này khiến tôi kiệt sức",
+        "en": "this job has burned me out"
+      },
+      {
+        "t": "đến mức",
+        "en": "to the point that"
+      },
+      {
+        "t": "không muốn dậy vào buổi sáng.",
+        "en": "I don't want to get up in the morning"
+      }
+    ],
+    "answers": [
+      "This job has burned me out to the point that I don't want to get up in the morning.",
+      "This job has worn me out so much that I dread getting up in the morning."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Từ khi làm việc từ xa,",
+        "en": "since I started working remotely"
+      },
+      {
+        "t": "tôi tiết kiệm được",
+        "en": "I've saved"
+      },
+      {
+        "t": "rất nhiều thời gian.",
+        "en": "a lot of time"
+      }
+    ],
+    "answers": [
+      "Since I started working remotely, I've saved a lot of time.",
+      "I've saved so much time since I began working from home."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì đạt chỉ tiêu tháng này,",
+        "en": "because I hit this month's target"
+      },
+      {
+        "t": "tôi được thăng chức",
+        "en": "I got promoted"
+      },
+      {
+        "t": "sớm hơn dự kiến.",
+        "en": "earlier than expected"
+      }
+    ],
+    "answers": [
+      "Because I hit this month's target, I got promoted earlier than expected.",
+      "I got promoted earlier than expected because I hit my target this month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp đó hay nói xấu người khác",
+        "en": "that coworker often bad-mouths others"
+      },
+      {
+        "t": "nên chẳng ai",
+        "en": "so nobody"
+      },
+      {
+        "t": "muốn làm cùng.",
+        "en": "wants to work with her"
+      }
+    ],
+    "answers": [
+      "That coworker often bad-mouths others, so nobody wants to work with her.",
+      "That colleague always talks trash about people, so no one wants to team up with her."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Dù đã cố gắng hết sức,",
+        "en": "although we've tried our best"
+      },
+      {
+        "t": "dự án của chúng tôi",
+        "en": "our project"
+      },
+      {
+        "t": "vẫn trễ hai tuần.",
+        "en": "is still two weeks late"
+      }
+    ],
+    "answers": [
+      "Although we've tried our best, our project is still two weeks late.",
+      "Even though we've given it our all, our project is still running two weeks behind."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi tôi nhận được",
+        "en": "when I got"
+      },
+      {
+        "t": "kết quả đánh giá hiệu suất,",
+        "en": "my performance review results"
+      },
+      {
+        "t": "tôi khá bất ngờ.",
+        "en": "I was pretty surprised"
+      }
+    ],
+    "answers": [
+      "When I got my performance review results, I was pretty surprised.",
+      "I was quite surprised when I received my performance review."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải điền vào",
+        "en": "I have to fill out"
+      },
+      {
+        "t": "biểu mẫu này",
+        "en": "this form"
+      },
+      {
+        "t": "trước khi gửi cho phòng nhân sự.",
+        "en": "before sending it to HR"
+      }
+    ],
+    "answers": [
+      "I have to fill out this form before sending it to HR.",
+      "I need to fill in this form before I send it to HR."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Từ lúc có nhân viên mới,",
+        "en": "since we got a new employee"
+      },
+      {
+        "t": "khối lượng công việc của tôi",
+        "en": "my workload"
+      },
+      {
+        "t": "giảm hẳn.",
+        "en": "has dropped a lot"
+      }
+    ],
+    "answers": [
+      "Since we got a new employee, my workload has dropped a lot.",
+      "My workload has gone down a lot since the new hire started."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp bắt tôi làm lại",
+        "en": "my boss made me redo"
+      },
+      {
+        "t": "toàn bộ báo cáo",
+        "en": "the entire report"
+      },
+      {
+        "t": "dù tôi đã cố hết sức.",
+        "en": "even though I'd tried my best"
+      }
+    ],
+    "answers": [
+      "My boss made me redo the entire report even though I'd tried my best.",
+      "My boss made me start the whole report over, even though I'd done my best."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi định xin nghỉ việc",
+        "en": "I'm planning to quit"
+      },
+      {
+        "t": "nhưng chưa tìm được",
+        "en": "but I haven't found"
+      },
+      {
+        "t": "công việc mới.",
+        "en": "a new job yet"
+      }
+    ],
+    "answers": [
+      "I'm planning to quit, but I haven't found a new job yet.",
+      "I want to resign, but I still haven't found a new job."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì công ty cắt giảm ngân sách,",
+        "en": "because the company cut the budget"
+      },
+      {
+        "t": "phòng marketing",
+        "en": "the marketing department"
+      },
+      {
+        "t": "bị giảm một nửa nhân sự.",
+        "en": "had its staff cut in half"
+      }
+    ],
+    "answers": [
+      "Because the company cut the budget, the marketing department had its staff cut in half.",
+      "The marketing department lost half its staff because the company cut the budget."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã làm việc với anh ấy",
+        "en": "I've worked with him"
+      },
+      {
+        "t": "được hai năm",
+        "en": "for two years"
+      },
+      {
+        "t": "nên tôi khá hiểu tính anh ấy.",
+        "en": "so I know his personality pretty well"
+      }
+    ],
+    "answers": [
+      "I've worked with him for two years, so I know his personality pretty well.",
+      "I've been working with him for two years now, so I know how he is."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi tôi mới vào công ty,",
+        "en": "when I first joined the company"
+      },
+      {
+        "t": "đồng nghiệp cũ",
+        "en": "the older staff"
+      },
+      {
+        "t": "nhiệt tình chỉ dẫn tôi rất nhiều.",
+        "en": "were really eager to show me the ropes"
+      }
+    ],
+    "answers": [
+      "When I first joined the company, the older staff were really eager to show me the ropes.",
+      "When I started at the company, my coworkers were very keen to help me learn everything."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi sắp phát điên",
+        "en": "I'm about to lose my mind"
+      },
+      {
+        "t": "vì sếp cứ đổi ý liên tục",
+        "en": "because my boss keeps changing his mind"
+      },
+      {
+        "t": "về dự án này.",
+        "en": "about this project"
+      }
+    ],
+    "answers": [
+      "I'm about to lose my mind because my boss keeps changing his mind about this project.",
+      "My boss keeps flip-flopping on this project, and it's driving me crazy."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi không được tăng lương lần này,",
+        "en": "if I don't get a raise this time"
+      },
+      {
+        "t": "tôi sẽ",
+        "en": "I'll"
+      },
+      {
+        "t": "tìm việc khác.",
+        "en": "look for another job"
+      }
+    ],
+    "answers": [
+      "If I don't get a raise this time, I'll look for another job.",
+      "If I don't get a pay raise this time, I'm going to start job hunting."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi bị sếp la,",
+        "en": "after being yelled at by the boss"
+      },
+      {
+        "t": "cô ấy ra ngoài",
+        "en": "she went outside"
+      },
+      {
+        "t": "khóc một mình.",
+        "en": "to cry alone"
+      }
+    ],
+    "answers": [
+      "After being yelled at by the boss, she went outside to cry alone.",
+      "She went outside to cry by herself after the boss yelled at her."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trong khi đồng nghiệp bận họp,",
+        "en": "while my coworker was busy in a meeting"
+      },
+      {
+        "t": "tôi phải trả lời hết",
+        "en": "I had to answer all"
+      },
+      {
+        "t": "email khách hàng.",
+        "en": "the client emails"
+      }
+    ],
+    "answers": [
+      "While my coworker was busy in a meeting, I had to answer all the client emails.",
+      "I had to handle all the client emails while my colleague was tied up in a meeting."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi từng nghĩ",
+        "en": "I used to think"
+      },
+      {
+        "t": "công việc văn phòng rất nhàn",
+        "en": "office work was really easy"
+      },
+      {
+        "t": "nhưng thực tế không phải vậy.",
+        "en": "but that's not actually the case"
+      }
+    ],
+    "answers": [
+      "I used to think office work was really easy, but that's not actually the case.",
+      "I used to think office jobs were easy, but it turns out that's not true."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì phải đi công tác gấp,",
+        "en": "because I had to go on a sudden business trip"
+      },
+      {
+        "t": "tôi không kịp chuẩn bị",
+        "en": "I didn't have time to prepare"
+      },
+      {
+        "t": "hành lý cẩn thận.",
+        "en": "my luggage carefully"
+      }
+    ],
+    "answers": [
+      "Because I had to go on a sudden business trip, I didn't have time to pack carefully.",
+      "I had to leave for a business trip so suddenly that I couldn't pack properly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi mới ra trường,",
+        "en": "right after I graduated"
+      },
+      {
+        "t": "tôi từng nộp đơn",
+        "en": "I used to apply for jobs"
+      },
+      {
+        "t": "xin việc hơn hai mươi nơi.",
+        "en": "at more than twenty places"
+      }
+    ],
+    "answers": [
+      "Right after I graduated, I applied for jobs at more than twenty places.",
+      "When I first graduated, I used to send applications to over twenty companies."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp mới có vẻ khá tự tin",
+        "en": "the new coworker seems pretty confident"
+      },
+      {
+        "t": "dù mới onboarding",
+        "en": "even though he only started onboarding"
+      },
+      {
+        "t": "được vài ngày.",
+        "en": "a few days ago"
+      }
+    ],
+    "answers": [
+      "The new coworker seems pretty confident, even though he only started onboarding a few days ago.",
+      "The new hire looks really confident, even though it's only been a few days since onboarding."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã cố gắng làm hòa",
+        "en": "I've tried to make peace"
+      },
+      {
+        "t": "với đồng nghiệp toxic đó",
+        "en": "with that toxic coworker"
+      },
+      {
+        "t": "nhưng không hiệu quả.",
+        "en": "but it hasn't worked"
+      }
+    ],
+    "answers": [
+      "I've tried to make peace with that toxic coworker, but it hasn't worked.",
+      "I've tried to get along with that toxic colleague, but nothing has changed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì phải chăm con ốm,",
+        "en": "because I had to take care of my sick kid"
+      },
+      {
+        "t": "tôi phải xin nghỉ đột xuất",
+        "en": "I had to take an unexpected day off"
+      },
+      {
+        "t": "hôm qua.",
+        "en": "yesterday"
+      }
+    ],
+    "answers": [
+      "Because I had to take care of my sick kid, I had to take an unexpected day off yesterday.",
+      "I had to call in unexpectedly yesterday because my child was sick."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu bạn không trả lời email khách hàng sớm,",
+        "en": "if you don't reply to the client's email soon"
+      },
+      {
+        "t": "họ sẽ chuyển sang",
+        "en": "they'll switch to"
+      },
+      {
+        "t": "đối thủ.",
+        "en": "a competitor"
+      }
+    ],
+    "answers": [
+      "If you don't reply to the client's email soon, they'll switch to a competitor.",
+      "If you don't answer the client's email quickly, they'll go to a competitor instead."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau nhiều tháng cố gắng,",
+        "en": "after months of trying"
+      },
+      {
+        "t": "cuối cùng tôi cũng",
+        "en": "I finally"
+      },
+      {
+        "t": "vượt qua vòng phỏng vấn cuối.",
+        "en": "made it through the final interview round"
+      }
+    ],
+    "answers": [
+      "After months of trying, I finally made it through the final interview round.",
+      "After trying for months, I finally passed the last round of interviews."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đang chuẩn bị bài thuyết trình",
+        "en": "I was preparing my presentation"
+      },
+      {
+        "t": "thì sếp",
+        "en": "when my boss"
+      },
+      {
+        "t": "đột nhiên đổi chủ đề.",
+        "en": "suddenly changed the topic"
+      }
+    ],
+    "answers": [
+      "I was preparing my presentation when my boss suddenly changed the topic.",
+      "My boss suddenly changed the topic while I was working on my presentation."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì làm việc quá sức",
+        "en": "because he had been overworking"
+      },
+      {
+        "t": "trong nhiều tháng,",
+        "en": "for months"
+      },
+      {
+        "t": "cuối cùng anh ấy",
+        "en": "he finally"
+      },
+      {
+        "t": "phải nhập viện.",
+        "en": "had to be hospitalized"
+      }
+    ],
+    "answers": [
+      "Because he had been overworking for months, he finally had to be hospitalized.",
+      "After months of overworking, he ended up having to go to the hospital."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa hoàn thành khóa đào tạo",
+        "en": "I just finished the training course"
+      },
+      {
+        "t": "nên giờ",
+        "en": "so now"
+      },
+      {
+        "t": "có thể tự làm việc độc lập.",
+        "en": "I can work independently"
+      }
+    ],
+    "answers": [
+      "I just finished the training course, so now I can work independently.",
+      "I've just wrapped up the training, so I can handle things on my own now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trước khi ký hợp đồng chính thức,",
+        "en": "before signing the official contract"
+      },
+      {
+        "t": "bạn nên đọc kỹ",
+        "en": "you should read carefully"
+      },
+      {
+        "t": "tất cả các điều khoản.",
+        "en": "all the terms"
+      }
+    ],
+    "answers": [
+      "Before signing the official contract, you should read all the terms carefully.",
+      "Before you sign the official contract, make sure you read every term closely."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải chạy deadline gấp",
+        "en": "I have to race against a tight deadline"
+      },
+      {
+        "t": "trong khi máy tính",
+        "en": "while my computer"
+      },
+      {
+        "t": "lại đơ liên tục.",
+        "en": "keeps freezing up"
+      }
+    ],
+    "answers": [
+      "I have to race against a tight deadline while my computer keeps freezing up.",
+      "My computer keeps freezing while I'm racing to meet a tight deadline."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp tôi hay đổ lỗi",
+        "en": "my coworker often puts the blame"
+      },
+      {
+        "t": "cho người khác",
+        "en": "on other people"
+      },
+      {
+        "t": "mỗi khi công việc trục trặc.",
+        "en": "whenever something goes wrong at work"
+      }
+    ],
+    "answers": [
+      "My coworker often puts the blame on other people whenever something goes wrong at work.",
+      "My colleague always blames others whenever work problems come up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì hệ thống bị sập,",
+        "en": "because the system crashed"
+      },
+      {
+        "t": "cả phòng phải hoãn cuộc họp",
+        "en": "the whole department had to postpone the meeting"
+      },
+      {
+        "t": "sang ngày khác.",
+        "en": "to another day"
+      }
+    ],
+    "answers": [
+      "Because the system crashed, the whole department had to postpone the meeting to another day.",
+      "The system crashed, so the whole department had to push the meeting to another day."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã nộp đơn xin nghỉ việc",
+        "en": "I've submitted my resignation"
+      },
+      {
+        "t": "nhưng sếp",
+        "en": "but my boss"
+      },
+      {
+        "t": "vẫn chưa duyệt.",
+        "en": "still hasn't approved it"
+      }
+    ],
+    "answers": [
+      "I've submitted my resignation, but my boss still hasn't approved it.",
+      "I've handed in my resignation letter, but it hasn't been approved yet."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi phát hiện lỗi trong báo cáo,",
+        "en": "when I found a mistake in the report"
+      },
+      {
+        "t": "tôi vội vàng sửa lại",
+        "en": "I quickly fixed it"
+      },
+      {
+        "t": "trước giờ họp.",
+        "en": "before the meeting"
+      }
+    ],
+    "answers": [
+      "When I found a mistake in the report, I quickly fixed it before the meeting.",
+      "I noticed an error in the report and rushed to fix it before the meeting."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Dù công việc rất áp lực,",
+        "en": "although the job is really stressful"
+      },
+      {
+        "t": "tôi vẫn cố gắng",
+        "en": "I still try"
+      },
+      {
+        "t": "giữ tinh thần lạc quan.",
+        "en": "to stay positive"
+      }
+    ],
+    "answers": [
+      "Although the job is really stressful, I still try to stay positive.",
+      "Even though this job is stressful, I still try to keep an optimistic mindset."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải làm quen",
+        "en": "I have to get to know"
+      },
+      {
+        "t": "với đồng nghiệp mới",
+        "en": "my new coworkers"
+      },
+      {
+        "t": "sau khi bộ phận sáp nhập.",
+        "en": "after the departments merged"
+      }
+    ],
+    "answers": [
+      "I have to get to know my new coworkers after the departments merged.",
+      "After the departments merged, I had to get used to a whole new set of coworkers."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì khách hàng đổi yêu cầu",
+        "en": "because the client changed the requirements"
+      },
+      {
+        "t": "vào phút chót,",
+        "en": "at the last minute"
+      },
+      {
+        "t": "cả nhóm phải làm lại từ đầu.",
+        "en": "the whole team had to start over"
+      }
+    ],
+    "answers": [
+      "Because the client changed the requirements at the last minute, the whole team had to start over.",
+      "The client changed the requirements at the last minute, so we had to redo everything from scratch."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đang chờ sếp",
+        "en": "I was waiting for my boss"
+      },
+      {
+        "t": "phê duyệt ngân sách",
+        "en": "to approve the budget"
+      },
+      {
+        "t": "thì nhận được tin",
+        "en": "when I got the news"
+      },
+      {
+        "t": "dự án bị hủy.",
+        "en": "that the project was canceled"
+      }
+    ],
+    "answers": [
+      "I was waiting for my boss to approve the budget when I got the news that the project was canceled.",
+      "While I was waiting for budget approval, I found out the project got canceled."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi từng làm",
+        "en": "I used to work"
+      },
+      {
+        "t": "ba công việc cùng lúc",
+        "en": "three jobs at once"
+      },
+      {
+        "t": "để trang trải cuộc sống.",
+        "en": "to make ends meet"
+      }
+    ],
+    "answers": [
+      "I used to work three jobs at once to make ends meet.",
+      "I used to hold down three jobs at the same time just to get by."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu deadline không đổi,",
+        "en": "if the deadline doesn't change"
+      },
+      {
+        "t": "chúng tôi sẽ không kịp",
+        "en": "we won't have time"
+      },
+      {
+        "t": "kiểm tra chất lượng sản phẩm.",
+        "en": "to check the product quality"
+      }
+    ],
+    "answers": [
+      "If the deadline doesn't change, we won't have time to check the product quality.",
+      "If the deadline stays the same, we won't be able to test the product properly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi nghe tin bị sa thải,",
+        "en": "after hearing he'd been laid off"
+      },
+      {
+        "t": "anh ấy im lặng",
+        "en": "he stayed silent"
+      },
+      {
+        "t": "suốt cả buổi chiều.",
+        "en": "for the whole afternoon"
+      }
+    ],
+    "answers": [
+      "After hearing he'd been laid off, he stayed silent for the whole afternoon.",
+      "He didn't say a word all afternoon after learning he'd been laid off."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trong khi cả nhóm đang ăn mừng,",
+        "en": "while the whole team was celebrating"
+      },
+      {
+        "t": "tôi vẫn lo lắng",
+        "en": "I was still worried"
+      },
+      {
+        "t": "về báo cáo tài chính.",
+        "en": "about the financial report"
+      }
+    ],
+    "answers": [
+      "While the whole team was celebrating, I was still worried about the financial report.",
+      "The team was celebrating, but I was still stressed about the financial report."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp cứ đùn đẩy công việc",
+        "en": "my coworkers keep pushing off their work"
+      },
+      {
+        "t": "cho tôi",
+        "en": "onto me"
+      },
+      {
+        "t": "nên tôi luôn phải",
+        "en": "so I always have to"
+      },
+      {
+        "t": "làm thêm giờ.",
+        "en": "work overtime"
+      }
+    ],
+    "answers": [
+      "My coworkers keep pushing their work onto me, so I always have to work overtime.",
+      "My colleagues keep dumping their tasks on me, which means I'm always doing overtime."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì mới thăng chức,",
+        "en": "because I just got promoted"
+      },
+      {
+        "t": "tôi cảm thấy áp lực",
+        "en": "I feel pressure"
+      },
+      {
+        "t": "phải chứng minh năng lực.",
+        "en": "to prove myself"
+      }
+    ],
+    "answers": [
+      "Because I just got promoted, I feel pressure to prove myself.",
+      "Since I was just promoted, I feel like I need to prove I deserve it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi tham gia buổi onboarding,",
+        "en": "after attending the onboarding session"
+      },
+      {
+        "t": "nhân viên mới",
+        "en": "the new employees"
+      },
+      {
+        "t": "hiểu rõ hơn",
+        "en": "understand better"
+      },
+      {
+        "t": "về quy trình công ty.",
+        "en": "the company's processes"
+      }
+    ],
+    "answers": [
+      "After attending the onboarding session, the new employees understand the company's processes better.",
+      "Once they've gone through onboarding, new hires get a much clearer picture of how the company works."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chính trị công sở ở đây",
+        "en": "office politics here"
+      },
+      {
+        "t": "phức tạp đến mức",
+        "en": "are so complicated that"
+      },
+      {
+        "t": "tôi không biết tin ai.",
+        "en": "I don't know who to trust"
+      }
+    ],
+    "answers": [
+      "Office politics here are so complicated that I don't know who to trust.",
+      "The office politics here are so messy that I don't know who to believe."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã cố hết sức",
+        "en": "I've tried my hardest"
+      },
+      {
+        "t": "nhưng vẫn không",
+        "en": "but I still can't"
+      },
+      {
+        "t": "lấy lòng được sếp mới.",
+        "en": "win over the new boss"
+      }
+    ],
+    "answers": [
+      "I've tried my hardest, but I still can't win over the new boss.",
+      "I've done everything I can, but I still haven't gotten on the new boss's good side."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì công ty chuyển văn phòng,",
+        "en": "because the company moved offices"
+      },
+      {
+        "t": "tôi phải đi làm",
+        "en": "I have to commute"
+      },
+      {
+        "t": "xa hơn trước rất nhiều.",
+        "en": "much farther than before"
+      }
+    ],
+    "answers": [
+      "Because the company moved offices, I have to commute much farther than before.",
+      "The company relocated, so now my commute is way longer than it used to be."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi bị khách hàng phàn nàn,",
+        "en": "after getting a complaint from a client"
+      },
+      {
+        "t": "sếp yêu cầu cả nhóm",
+        "en": "the boss called the whole team"
+      },
+      {
+        "t": "họp khẩn cấp.",
+        "en": "to an emergency meeting"
+      }
+    ],
+    "answers": [
+      "After getting a complaint from a client, the boss called the whole team to an emergency meeting.",
+      "The boss called an emergency meeting after a client complained."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi định nghỉ việc",
+        "en": "I'm planning to quit"
+      },
+      {
+        "t": "ngay khi tìm được",
+        "en": "as soon as I find"
+      },
+      {
+        "t": "chỗ làm tốt hơn.",
+        "en": "a better job"
+      }
+    ],
+    "answers": [
+      "I'm planning to quit as soon as I find a better job.",
+      "I plan to resign the moment I land a better position."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi tôi đề nghị tăng lương,",
+        "en": "when I asked for a raise"
+      },
+      {
+        "t": "sếp chỉ im lặng",
+        "en": "my boss just went quiet"
+      },
+      {
+        "t": "rồi đổi chủ đề.",
+        "en": "and then changed the subject"
+      }
+    ],
+    "answers": [
+      "When I asked for a raise, my boss just went quiet and changed the subject.",
+      "My boss just stayed silent and changed the topic when I brought up a raise."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Dù đã làm việc chăm chỉ",
+        "en": "although I've worked hard"
+      },
+      {
+        "t": "suốt năm,",
+        "en": "all year"
+      },
+      {
+        "t": "tôi vẫn không được xét tăng lương.",
+        "en": "I still wasn't considered for a raise"
+      }
+    ],
+    "answers": [
+      "Although I've worked hard all year, I still wasn't considered for a raise.",
+      "Even though I worked hard the whole year, I still didn't get considered for a raise."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi phải deal với",
+        "en": "I have to deal with"
+      },
+      {
+        "t": "hàng đống email tồn đọng",
+        "en": "a huge pile of backed-up emails"
+      },
+      {
+        "t": "sau kỳ nghỉ phép.",
+        "en": "after my vacation"
+      }
+    ],
+    "answers": [
+      "I have to deal with a huge pile of backed-up emails after my vacation.",
+      "After my time off, I have to catch up on a mountain of emails."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi được đào tạo kỹ,",
+        "en": "after being trained thoroughly"
+      },
+      {
+        "t": "nhân viên mới",
+        "en": "the new employee"
+      },
+      {
+        "t": "làm việc hiệu quả hơn hẳn.",
+        "en": "works much more efficiently"
+      }
+    ],
+    "answers": [
+      "After being trained thoroughly, the new employee works much more efficiently.",
+      "Once properly trained, the new hire performs a lot better."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì sếp đi công tác cả tuần,",
+        "en": "because the boss is away on a business trip all week"
+      },
+      {
+        "t": "văn phòng có vẻ",
+        "en": "the office seems"
+      },
+      {
+        "t": "thoải mái hơn hẳn.",
+        "en": "much more relaxed"
+      }
+    ],
+    "answers": [
+      "Because the boss is away on a business trip all week, the office seems much more relaxed.",
+      "The office feels a lot more relaxed since the boss is out of town all week."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã chuẩn bị câu trả lời phỏng vấn kỹ",
+        "en": "I've prepared my interview answers so carefully"
+      },
+      {
+        "t": "đến mức",
+        "en": "that"
+      },
+      {
+        "t": "không còn hồi hộp nữa.",
+        "en": "I'm not even nervous anymore"
+      }
+    ],
+    "answers": [
+      "I've prepared my interview answers so carefully that I'm not even nervous anymore.",
+      "I've practiced my interview answers so much that I don't feel nervous at all now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trong khi chờ kết quả phỏng vấn,",
+        "en": "while waiting for the interview results"
+      },
+      {
+        "t": "tôi vẫn tiếp tục",
+        "en": "I keep on"
+      },
+      {
+        "t": "nộp đơn ở chỗ khác.",
+        "en": "applying to other places"
+      }
+    ],
+    "answers": [
+      "While waiting for the interview results, I keep applying to other places.",
+      "I'm still applying to other jobs while I wait to hear back from the interview."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì bị đồng nghiệp toxic chơi xấu,",
+        "en": "because a toxic coworker played dirty"
+      },
+      {
+        "t": "tôi suýt mất luôn",
+        "en": "I almost lost"
+      },
+      {
+        "t": "vị trí trưởng nhóm.",
+        "en": "my team lead position"
+      }
+    ],
+    "answers": [
+      "Because a toxic coworker played dirty, I almost lost my team lead position.",
+      "A toxic colleague pulled some dirty tricks, and I nearly lost my team lead role because of it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi bị cắt giảm nhân sự,",
+        "en": "after the layoffs"
+      },
+      {
+        "t": "những người còn lại",
+        "en": "the remaining staff"
+      },
+      {
+        "t": "phải gánh thêm việc.",
+        "en": "have to take on extra work"
+      }
+    ],
+    "answers": [
+      "After the layoffs, the remaining staff have to take on extra work.",
+      "Following the layoffs, everyone left has to pick up more work."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa quay lại văn phòng",
+        "en": "I just got back to the office"
+      },
+      {
+        "t": "sau chuyến công tác",
+        "en": "from my business trip"
+      },
+      {
+        "t": "nên bàn làm việc",
+        "en": "so my desk"
+      },
+      {
+        "t": "đầy giấy tờ.",
+        "en": "is piled with paperwork"
+      }
+    ],
+    "answers": [
+      "I just got back to the office from my business trip, so my desk is piled with paperwork.",
+      "I've just returned from my business trip, and now my desk is buried in paperwork."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi nghe tin công ty sáp nhập,",
+        "en": "when they heard the company was merging"
+      },
+      {
+        "t": "mọi người trong phòng",
+        "en": "everyone in the department"
+      },
+      {
+        "t": "đều lo lắng.",
+        "en": "got worried"
+      }
+    ],
+    "answers": [
+      "When they heard the company was merging, everyone in the department got worried.",
+      "Everyone in the department got anxious when they heard about the merger."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã học được",
+        "en": "I've learned"
+      },
+      {
+        "t": "cách xử lý email quan trọng",
+        "en": "how to handle important emails"
+      },
+      {
+        "t": "trước khi bắt đầu ngày làm việc.",
+        "en": "before starting my workday"
+      }
+    ],
+    "answers": [
+      "I've learned how to handle important emails before starting my workday.",
+      "I've picked up the habit of dealing with important emails before my workday even begins."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu công ty không cải thiện",
+        "en": "if the company doesn't improve"
+      },
+      {
+        "t": "văn hóa làm việc,",
+        "en": "the work culture"
+      },
+      {
+        "t": "nhiều người sẽ nghỉ việc.",
+        "en": "a lot of people will quit"
+      }
+    ],
+    "answers": [
+      "If the company doesn't improve the work culture, a lot of people will quit.",
+      "If the work culture doesn't get better, many employees will leave."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vốn định nghỉ sớm",
+        "en": "I was planning to leave early"
+      },
+      {
+        "t": "nhưng sếp",
+        "en": "but my boss"
+      },
+      {
+        "t": "bất ngờ giao thêm việc.",
+        "en": "suddenly gave me more work"
+      }
+    ],
+    "answers": [
+      "I was planning to leave early, but my boss suddenly gave me more work.",
+      "I meant to leave work early, but my boss dumped extra tasks on me out of nowhere."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi thức trắng đêm làm báo cáo,",
+        "en": "after staying up all night on the report"
+      },
+      {
+        "t": "tôi gần như",
+        "en": "I almost"
+      },
+      {
+        "t": "ngủ gật trong cuộc họp.",
+        "en": "fell asleep in the meeting"
+      }
+    ],
+    "answers": [
+      "After staying up all night on the report, I almost fell asleep in the meeting.",
+      "I nearly dozed off in the meeting after pulling an all-nighter on the report."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đang chuẩn bị hồ sơ xin việc",
+        "en": "I was preparing my job application"
+      },
+      {
+        "t": "thì nhận được",
+        "en": "when I got"
+      },
+      {
+        "t": "cuộc gọi mời phỏng vấn.",
+        "en": "a call inviting me to an interview"
+      }
+    ],
+    "answers": [
+      "I was preparing my job application when I got a call inviting me to an interview.",
+      "I got an interview call right while I was putting together my application."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì lo cho sức khỏe,",
+        "en": "because I'm worried about my health"
+      },
+      {
+        "t": "tôi quyết định từ chối",
+        "en": "I decided to turn down"
+      },
+      {
+        "t": "tăng ca cuối tuần này.",
+        "en": "overtime this weekend"
+      }
+    ],
+    "answers": [
+      "Because I'm worried about my health, I decided to turn down overtime this weekend.",
+      "I'm concerned about my health, so I decided to say no to this weekend's overtime."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp tôi luôn tranh công",
+        "en": "my coworker always takes the credit"
+      },
+      {
+        "t": "dù không đóng góp nhiều",
+        "en": "even though he doesn't contribute much"
+      },
+      {
+        "t": "cho dự án.",
+        "en": "to the project"
+      }
+    ],
+    "answers": [
+      "My coworker always takes the credit even though he doesn't contribute much to the project.",
+      "My colleague always claims credit, even though he barely contributes to the project."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Từ khi được thăng chức,",
+        "en": "since he got promoted"
+      },
+      {
+        "t": "anh ấy đối xử với đồng nghiệp",
+        "en": "he treats his coworkers"
+      },
+      {
+        "t": "khác hẳn trước.",
+        "en": "completely differently than before"
+      }
+    ],
+    "answers": [
+      "Since he got promoted, he treats his coworkers completely differently than before.",
+      "Ever since his promotion, he's been acting totally different toward his coworkers."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp gửi email lúc nửa đêm",
+        "en": "my boss sends emails at midnight"
+      },
+      {
+        "t": "nên tôi không dám",
+        "en": "so I don't dare"
+      },
+      {
+        "t": "tắt điện thoại.",
+        "en": "turn off my phone"
+      }
+    ],
+    "answers": [
+      "My boss sends emails at midnight, so I don't dare turn off my phone.",
+      "My boss emails me at midnight, so I never turn my phone off."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu deadline dự án dời lại,",
+        "en": "if the project deadline gets pushed back"
+      },
+      {
+        "t": "cả nhóm sẽ có",
+        "en": "the whole team will have"
+      },
+      {
+        "t": "thêm thời gian nghỉ ngơi.",
+        "en": "more time to rest"
+      }
+    ],
+    "answers": [
+      "If the project deadline gets pushed back, the whole team will have more time to rest.",
+      "If the deadline gets moved, the team will get some extra time to breathe."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trước khi nghỉ việc,",
+        "en": "before I left the job"
+      },
+      {
+        "t": "tôi cố gắng bàn giao lại",
+        "en": "I tried to hand everything over"
+      },
+      {
+        "t": "mọi thứ thật rõ ràng.",
+        "en": "very clearly"
+      }
+    ],
+    "answers": [
+      "Before I left the job, I tried to hand everything over very clearly.",
+      "Before quitting, I made sure to hand over everything clearly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì thiếu nhân sự,",
+        "en": "because they're short-staffed"
+      },
+      {
+        "t": "phòng nhân sự phải gấp rút",
+        "en": "HR has to rush"
+      },
+      {
+        "t": "tuyển thêm người.",
+        "en": "to hire more people"
+      }
+    ],
+    "answers": [
+      "Because they're short-staffed, HR has to rush to hire more people.",
+      "HR is scrambling to hire more people because they're short on staff."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã quen",
+        "en": "I've gotten used to"
+      },
+      {
+        "t": "với việc bị sếp gọi bất chợt",
+        "en": "being called by my boss out of nowhere"
+      },
+      {
+        "t": "vào cuối tuần.",
+        "en": "on weekends"
+      }
+    ],
+    "answers": [
+      "I've gotten used to being called by my boss out of nowhere on weekends.",
+      "I'm used to my boss calling me randomly on weekends by now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi họp xong,",
+        "en": "after the meeting ended"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I only realized"
+      },
+      {
+        "t": "mình quên tắt mic suốt buổi.",
+        "en": "that I'd forgotten to mute my mic the whole time"
+      }
+    ],
+    "answers": [
+      "After the meeting ended, I only realized I'd forgotten to mute my mic the whole time.",
+      "It wasn't until after the meeting that I noticed I'd left my mic on the entire time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì đi công tác liên tục,",
+        "en": "because I'm constantly traveling for work"
+      },
+      {
+        "t": "tôi hầu như không có",
+        "en": "I barely have"
+      },
+      {
+        "t": "thời gian cho gia đình.",
+        "en": "time for my family"
+      }
+    ],
+    "answers": [
+      "Because I'm constantly traveling for work, I barely have time for my family.",
+      "I'm always on business trips, so I hardly get any time with my family."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Dù mới onboarding tuần đầu tiên,",
+        "en": "although it's only his first week of onboarding"
+      },
+      {
+        "t": "đồng nghiệp mới đã hỏi",
+        "en": "the new coworker has asked"
+      },
+      {
+        "t": "rất nhiều câu hỏi thông minh.",
+        "en": "a lot of smart questions"
+      }
+    ],
+    "answers": [
+      "Although it's only his first week of onboarding, the new coworker has asked a lot of smart questions.",
+      "Even though he just started onboarding, the new guy has already asked a ton of great questions."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi định góp ý cho sếp",
+        "en": "I meant to give my boss feedback"
+      },
+      {
+        "t": "nhưng lại sợ",
+        "en": "but I'm afraid"
+      },
+      {
+        "t": "ảnh hưởng đến chính trị công sở.",
+        "en": "it'll affect office politics"
+      }
+    ],
+    "answers": [
+      "I meant to give my boss feedback, but I'm afraid it'll affect office politics.",
+      "I wanted to speak up to my boss, but I'm worried about the office politics."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi kết quả đánh giá hiệu suất công bố,",
+        "en": "when the performance review results were announced"
+      },
+      {
+        "t": "cả phòng",
+        "en": "the whole department"
+      },
+      {
+        "t": "bàn tán xôn xao.",
+        "en": "was buzzing with gossip"
+      }
+    ],
+    "answers": [
+      "When the performance review results were announced, the whole department was buzzing with gossip.",
+      "The whole office was abuzz with talk when the performance reviews came out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã học cách nói không",
+        "en": "I've learned to say no"
+      },
+      {
+        "t": "với sếp",
+        "en": "to my boss"
+      },
+      {
+        "t": "khi khối lượng công việc quá tải.",
+        "en": "when my workload is too much"
+      }
+    ],
+    "answers": [
+      "I've learned to say no to my boss when my workload is too much.",
+      "I've finally learned how to push back on my boss when I'm overloaded with work."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì máy chủ công ty bị lỗi,",
+        "en": "because the company server broke down"
+      },
+      {
+        "t": "chúng tôi không thể",
+        "en": "we couldn't"
+      },
+      {
+        "t": "gửi báo cáo đúng hạn.",
+        "en": "send the report on time"
+      }
+    ],
+    "answers": [
+      "Because the company server broke down, we couldn't send the report on time.",
+      "The company server crashed, so we couldn't get the report in on time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi đi công tác về,",
+        "en": "after getting back from my business trip"
+      },
+      {
+        "t": "tôi phải xử lý",
+        "en": "I have to deal with"
+      },
+      {
+        "t": "cả núi công việc tồn đọng.",
+        "en": "a mountain of backed-up work"
+      }
+    ],
+    "answers": [
+      "After getting back from my business trip, I have to deal with a mountain of backed-up work.",
+      "Once I got back from my trip, I had a mountain of work waiting for me."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi từng ghét",
+        "en": "I used to hate"
+      },
+      {
+        "t": "công việc này",
+        "en": "this job"
+      },
+      {
+        "t": "nhưng giờ lại thấy",
+        "en": "but now I find it"
+      },
+      {
+        "t": "khá thú vị.",
+        "en": "pretty interesting"
+      }
+    ],
+    "answers": [
+      "I used to hate this job, but now I find it pretty interesting.",
+      "I used to dislike this job, but I actually think it's kind of fun now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì bị sếp khiển trách",
+        "en": "because he got scolded by the boss"
+      },
+      {
+        "t": "trước mặt cả nhóm,",
+        "en": "in front of the whole team"
+      },
+      {
+        "t": "anh ấy cảm thấy",
+        "en": "he felt"
+      },
+      {
+        "t": "rất mất mặt.",
+        "en": "really embarrassed"
+      }
+    ],
+    "answers": [
+      "Because he got scolded by the boss in front of the whole team, he felt really embarrassed.",
+      "He felt so humiliated after getting told off by the boss in front of everyone."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi trao đổi thẳng thắn,",
+        "en": "after having an honest talk"
+      },
+      {
+        "t": "tôi và đồng nghiệp toxic đó",
+        "en": "that toxic coworker and I"
+      },
+      {
+        "t": "hiểu nhau hơn.",
+        "en": "understand each other better now"
+      }
+    ],
+    "answers": [
+      "After having an honest talk, that toxic coworker and I understand each other better now.",
+      "We had a frank conversation, and now that difficult colleague and I get along better."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi tôi mới xin nghỉ phép,",
+        "en": "when I first asked for time off"
+      },
+      {
+        "t": "sếp hỏi lý do",
+        "en": "my boss asked for my reasons"
+      },
+      {
+        "t": "rất kỹ.",
+        "en": "in great detail"
+      }
+    ],
+    "answers": [
+      "When I first asked for time off, my boss asked for my reasons in great detail.",
+      "My boss grilled me on the reasons when I first asked for leave."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã chuẩn bị tinh thần",
+        "en": "I mentally prepared myself"
+      },
+      {
+        "t": "trước khi nhận",
+        "en": "before getting"
+      },
+      {
+        "t": "kết quả đánh giá hiệu suất.",
+        "en": "my performance review results"
+      }
+    ],
+    "answers": [
+      "I mentally prepared myself before getting my performance review results.",
+      "I braced myself before I saw my performance review results."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu bạn cứ trả lời email chậm,",
+        "en": "if you keep replying to emails slowly"
+      },
+      {
+        "t": "khách hàng sẽ nghĩ",
+        "en": "the client will think"
+      },
+      {
+        "t": "công ty thiếu chuyên nghiệp.",
+        "en": "the company is unprofessional"
+      }
+    ],
+    "answers": [
+      "If you keep replying to emails slowly, the client will think the company is unprofessional.",
+      "If you keep being slow with emails, the client will assume we're unprofessional."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp cứ nhắn tin công việc cho tôi",
+        "en": "my coworker keeps texting me about work"
+      },
+      {
+        "t": "dù đã hết giờ làm",
+        "en": "even though work hours are over"
+      },
+      {
+        "t": "từ lâu.",
+        "en": "long ago"
+      }
+    ],
+    "answers": [
+      "My coworker keeps texting me about work even though work hours ended a long time ago.",
+      "My colleague still messages me about work stuff, even though we clocked out ages ago."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi vừa nhận được",
+        "en": "I just got"
+      },
+      {
+        "t": "lời mời làm việc tốt hơn",
+        "en": "a better job offer"
+      },
+      {
+        "t": "nên đang cân nhắc nghỉ việc.",
+        "en": "so I'm considering quitting"
+      }
+    ],
+    "answers": [
+      "I just got a better job offer, so I'm considering quitting.",
+      "I've just received a better offer, so I'm thinking about leaving my job."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Trong khi tôi đi công tác,",
+        "en": "while I was away on a business trip"
+      },
+      {
+        "t": "đồng nghiệp lại lan truyền",
+        "en": "a coworker was spreading"
+      },
+      {
+        "t": "tin đồn sai về tôi.",
+        "en": "false rumors about me"
+      }
+    ],
+    "answers": [
+      "While I was away on a business trip, a coworker was spreading false rumors about me.",
+      "A colleague spread false rumors about me while I was traveling for work."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì bị đối xử bất công,",
+        "en": "because of being treated unfairly"
+      },
+      {
+        "t": "nhiều nhân viên đã quyết định",
+        "en": "many employees have decided"
+      },
+      {
+        "t": "nghỉ việc cùng lúc.",
+        "en": "to quit at the same time"
+      }
+    ],
+    "answers": [
+      "Because of being treated unfairly, many employees have decided to quit at the same time.",
+      "A lot of employees have chosen to quit all at once because of unfair treatment."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi thăng chức,",
+        "en": "after getting promoted"
+      },
+      {
+        "t": "tôi phải quản lý",
+        "en": "I now have to manage"
+      },
+      {
+        "t": "luôn cả nhóm cũ của mình.",
+        "en": "my own former team"
+      }
+    ],
+    "answers": [
+      "After getting promoted, I now have to manage my own former team.",
+      "Since my promotion, I've had to start managing the very team I used to be part of."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã cố nhịn",
+        "en": "I tried to hold my tongue"
+      },
+      {
+        "t": "không nói gì",
+        "en": "and say nothing"
+      },
+      {
+        "t": "nhưng cuối cùng vẫn cãi nhau",
+        "en": "but I still ended up arguing"
+      },
+      {
+        "t": "với sếp.",
+        "en": "with my boss"
+      }
+    ],
+    "answers": [
+      "I tried to hold my tongue and say nothing, but I still ended up arguing with my boss.",
+      "I tried to stay quiet, but I ended up getting into an argument with my boss anyway."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Khi công ty công bố kết quả kinh doanh,",
+        "en": "when the company announced its business results"
+      },
+      {
+        "t": "mọi người đều nín thở",
+        "en": "everyone held their breath"
+      },
+      {
+        "t": "chờ tin thưởng.",
+        "en": "waiting for news about bonuses"
+      }
+    ],
+    "answers": [
+      "When the company announced its business results, everyone held their breath waiting for news about bonuses.",
+      "Everyone held their breath for bonus news when the company revealed its results."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi từ chối",
+        "en": "if I turn down"
+      },
+      {
+        "t": "chuyến công tác này,",
+        "en": "this business trip"
+      },
+      {
+        "t": "sếp chắc chắn sẽ",
+        "en": "my boss will definitely"
+      },
+      {
+        "t": "không hài lòng.",
+        "en": "not be pleased"
+      }
+    ],
+    "answers": [
+      "If I turn down this business trip, my boss will definitely not be pleased.",
+      "My boss definitely won't be happy if I refuse this business trip."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi đã dành cả cuối tuần",
+        "en": "I spent the whole weekend"
+      },
+      {
+        "t": "để chuẩn bị",
+        "en": "preparing"
+      },
+      {
+        "t": "cho buổi đánh giá hiệu suất.",
+        "en": "for the performance review"
+      }
+    ],
+    "answers": [
+      "I spent the whole weekend preparing for the performance review.",
+      "I've spent the entire weekend getting ready for my performance review."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vì công ty đang trong giai đoạn tái cơ cấu,",
+        "en": "because the company is going through restructuring"
+      },
+      {
+        "t": "không ai dám chắc",
+        "en": "nobody dares to be sure"
+      },
+      {
+        "t": "vị trí của mình.",
+        "en": "about their own position"
+      }
+    ],
+    "answers": [
+      "Because the company is going through restructuring, nobody dares to be sure about their own position.",
+      "The company is restructuring, so no one feels secure about their job right now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sau khi tranh cãi với đồng nghiệp,",
+        "en": "after arguing with a coworker"
+      },
+      {
+        "t": "tôi quyết định báo cáo sự việc",
+        "en": "I decided to report the incident"
+      },
+      {
+        "t": "lên phòng nhân sự.",
+        "en": "to HR"
+      }
+    ],
+    "answers": [
+      "After arguing with a coworker, I decided to report the incident to HR.",
+      "I decided to report the incident to HR after getting into an argument with a colleague."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi từng nghĩ",
+        "en": "I used to think"
+      },
+      {
+        "t": "mình sẽ gắn bó lâu dài",
+        "en": "I'd stay for the long haul"
+      },
+      {
+        "t": "với công ty này",
+        "en": "at this company"
+      },
+      {
+        "t": "nhưng giờ đã đổi ý.",
+        "en": "but I've changed my mind now"
+      }
+    ],
+    "answers": [
+      "I used to think I'd stay for the long haul at this company, but I've changed my mind now.",
+      "I used to think I'd be at this company forever, but I feel differently now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết",
+        "en": "if I'd known"
+      },
+      {
+        "t": "dự án này khó đến vậy,",
+        "en": "this project would be this hard"
+      },
+      {
+        "t": "tôi đã không nhận nó",
+        "en": "I wouldn't have taken it on"
+      },
+      {
+        "t": "ngay từ đầu.",
+        "en": "in the first place"
+      }
+    ],
+    "answers": [
+      "If I'd known this project would be this hard, I wouldn't have taken it on in the first place.",
+      "Had I known how difficult this project would be, I never would have agreed to it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Báo cáo cuối cùng",
+        "en": "the final report"
+      },
+      {
+        "t": "đã được sếp duyệt",
+        "en": "was approved by my boss"
+      },
+      {
+        "t": "sau ba lần chỉnh sửa liên tiếp.",
+        "en": "after three rounds of revisions in a row"
+      }
+    ],
+    "answers": [
+      "The final report was approved by my boss after three rounds of revisions in a row.",
+      "After three rounds of edits in a row, the final report finally got approved by my boss."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Người quản lý",
+        "en": "the manager"
+      },
+      {
+        "t": "mà tôi từng làm việc cùng",
+        "en": "who I used to work with"
+      },
+      {
+        "t": "năm ngoái",
+        "en": "last year"
+      },
+      {
+        "t": "giờ đã trở thành CEO",
+        "en": "is now the CEO"
+      },
+      {
+        "t": "của một công ty khác.",
+        "en": "of a different company"
+      }
+    ],
+    "answers": [
+      "The manager who I used to work with last year is now the CEO of a different company.",
+      "The manager I worked with last year has since become the CEO of another company."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi càng cố gắng",
+        "en": "the more I try"
+      },
+      {
+        "t": "làm hài lòng sếp,",
+        "en": "to please my boss"
+      },
+      {
+        "t": "tôi càng cảm thấy",
+        "en": "the more I feel"
+      },
+      {
+        "t": "mình bị lợi dụng.",
+        "en": "like I'm being taken advantage of"
+      }
+    ],
+    "answers": [
+      "The more I try to please my boss, the more I feel like I'm being taken advantage of.",
+      "The harder I try to keep my boss happy, the more used I feel."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chưa bao giờ tôi cảm thấy",
+        "en": "never have I felt"
+      },
+      {
+        "t": "kiệt sức đến mức",
+        "en": "so exhausted that"
+      },
+      {
+        "t": "phải nghĩ đến chuyện nghỉ việc",
+        "en": "I've actually considered quitting"
+      },
+      {
+        "t": "như lúc này.",
+        "en": "like I do right now"
+      }
+    ],
+    "answers": [
+      "Never have I felt so exhausted that I've actually considered quitting, like I do right now.",
+      "I've never felt so burned out that I seriously thought about quitting, until now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Giá mà công ty",
+        "en": "if only the company"
+      },
+      {
+        "t": "linh hoạt hơn về giờ giấc,",
+        "en": "were more flexible about working hours"
+      },
+      {
+        "t": "chắc tôi đã không nghĩ đến",
+        "en": "I probably wouldn't be thinking about"
+      },
+      {
+        "t": "chuyện tìm việc khác.",
+        "en": "looking for another job"
+      }
+    ],
+    "answers": [
+      "If only the company were more flexible about working hours, I probably wouldn't be thinking about looking for another job.",
+      "I wish the company were more flexible with hours; then I probably wouldn't be considering a new job."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi là sếp,",
+        "en": "if I were the boss"
+      },
+      {
+        "t": "tôi sẽ không bao giờ bắt nhân viên",
+        "en": "I would never make employees"
+      },
+      {
+        "t": "làm việc muộn như vậy.",
+        "en": "work that late"
+      }
+    ],
+    "answers": [
+      "If I were the boss, I would never make employees work that late.",
+      "If I were in charge, I'd never make my staff work that late."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Dự án bị hủy đột ngột",
+        "en": "the project that got suddenly canceled"
+      },
+      {
+        "t": "là dự án",
+        "en": "was one"
+      },
+      {
+        "t": "mà cả nhóm đã dồn hết tâm huyết vào",
+        "en": "the whole team had poured their heart into"
+      },
+      {
+        "t": "suốt sáu tháng.",
+        "en": "for six months"
+      }
+    ],
+    "answers": [
+      "The project that got suddenly canceled was one the whole team had poured their heart into for six months.",
+      "The project that was abruptly canceled had had the whole team's full effort behind it for six months."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi hối hận",
+        "en": "I regret"
+      },
+      {
+        "t": "vì đã không hỏi kỹ",
+        "en": "not asking more carefully"
+      },
+      {
+        "t": "về mức lương",
+        "en": "about the salary"
+      },
+      {
+        "t": "trước khi nhận lời mời làm việc đó.",
+        "en": "before accepting that job offer"
+      }
+    ],
+    "answers": [
+      "I regret not asking more about the salary before accepting that job offer.",
+      "I wish I'd asked more about the pay before I took that job offer."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu công ty tiếp tục phớt lờ",
+        "en": "if the company keeps ignoring"
+      },
+      {
+        "t": "ý kiến nhân viên,",
+        "en": "employees' opinions"
+      },
+      {
+        "t": "sớm muộn gì cũng sẽ mất",
+        "en": "it will sooner or later lose"
+      },
+      {
+        "t": "những người giỏi nhất.",
+        "en": "its best people"
+      }
+    ],
+    "answers": [
+      "If the company keeps ignoring employees' opinions, it will sooner or later lose its best people.",
+      "If the company continues to ignore what employees think, it's bound to lose its top talent eventually."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Kế hoạch tăng lương",
+        "en": "the plan to raise salaries"
+      },
+      {
+        "t": "cho toàn bộ nhân viên",
+        "en": "for all employees"
+      },
+      {
+        "t": "đã bị hoãn lại vô thời hạn",
+        "en": "has been postponed indefinitely"
+      },
+      {
+        "t": "vì tình hình tài chính khó khăn.",
+        "en": "because of the company's financial troubles"
+      }
+    ],
+    "answers": [
+      "The plan to raise everyone's salary has been postponed indefinitely because of the company's financial troubles.",
+      "The company-wide raise has been put off indefinitely due to financial difficulties."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp",
+        "en": "the coworker"
+      },
+      {
+        "t": "mà tôi tin tưởng nhất",
+        "en": "who I trusted the most"
+      },
+      {
+        "t": "hóa ra lại là người",
+        "en": "turned out to be the one"
+      },
+      {
+        "t": "báo cáo sai sự thật với sếp.",
+        "en": "who lied to the boss about what happened"
+      }
+    ],
+    "answers": [
+      "The coworker who I trusted the most turned out to be the one who lied to the boss about what happened.",
+      "It turned out the coworker I trusted most was the one who gave the boss a false report."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Hiếm khi nào tôi thấy sếp khen ai đó",
+        "en": "rarely have I seen my boss praise someone"
+      },
+      {
+        "t": "thẳng thắn",
+        "en": "as openly"
+      },
+      {
+        "t": "như cách ông ấy khen",
+        "en": "as he praised"
+      },
+      {
+        "t": "cô thực tập sinh mới.",
+        "en": "the new intern"
+      }
+    ],
+    "answers": [
+      "Rarely have I seen my boss praise someone as openly as he praised the new intern.",
+      "I've hardly ever seen my boss compliment anyone as openly as he did the new intern."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi đã chấp nhận",
+        "en": "if I'd accepted"
+      },
+      {
+        "t": "lời mời làm việc kia,",
+        "en": "that other job offer"
+      },
+      {
+        "t": "có lẽ giờ tôi đã không phải",
+        "en": "I probably wouldn't have to"
+      },
+      {
+        "t": "chịu đựng sếp toxic này.",
+        "en": "put up with this toxic boss now"
+      }
+    ],
+    "answers": [
+      "If I'd accepted that other job offer, I probably wouldn't have to put up with this toxic boss now.",
+      "Had I taken that other offer, I might not be stuck dealing with this toxic boss now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Toàn bộ email nội bộ",
+        "en": "all internal emails"
+      },
+      {
+        "t": "đều bị theo dõi bởi phòng IT,",
+        "en": "are monitored by the IT department"
+      },
+      {
+        "t": "điều mà không phải ai cũng biết.",
+        "en": "which not everyone knows"
+      }
+    ],
+    "answers": [
+      "All internal emails are monitored by the IT department, which not everyone knows.",
+      "Every internal email gets monitored by IT, something most people aren't even aware of."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nhân viên nào",
+        "en": "any employee"
+      },
+      {
+        "t": "đã làm việc quá năm năm",
+        "en": "who has worked for more than five years"
+      },
+      {
+        "t": "sẽ được hưởng thêm",
+        "en": "gets an extra"
+      },
+      {
+        "t": "một ngày nghỉ phép mỗi năm.",
+        "en": "day of leave each year"
+      }
+    ],
+    "answers": [
+      "Any employee who has worked for more than five years gets one extra day of leave each year.",
+      "Employees who've been with the company for over five years get an additional day off every year."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu sếp lắng nghe nhân viên nhiều hơn,",
+        "en": "if the boss listened to employees more"
+      },
+      {
+        "t": "có lẽ tinh thần làm việc",
+        "en": "the morale"
+      },
+      {
+        "t": "của cả phòng",
+        "en": "of the whole department"
+      },
+      {
+        "t": "đã tốt hơn nhiều.",
+        "en": "would probably be a lot better"
+      }
+    ],
+    "answers": [
+      "If the boss listened to employees more, the whole department's morale would probably be a lot better.",
+      "If the boss paid more attention to his staff, morale in the whole department would likely be much higher."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên từ chối",
+        "en": "I should have turned down"
+      },
+      {
+        "t": "chuyến công tác đó",
+        "en": "that business trip"
+      },
+      {
+        "t": "vì nó khiến tôi bỏ lỡ",
+        "en": "because it made me miss"
+      },
+      {
+        "t": "sinh nhật con gái.",
+        "en": "my daughter's birthday"
+      }
+    ],
+    "answers": [
+      "I should have turned down that business trip because it made me miss my daughter's birthday.",
+      "I regret not declining that business trip since it made me miss my daughter's birthday."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Ý tưởng của tôi",
+        "en": "my idea"
+      },
+      {
+        "t": "bị bác bỏ ngay lập tức",
+        "en": "was rejected immediately"
+      },
+      {
+        "t": "mà không ai buồn giải thích",
+        "en": "and no one even bothered to explain"
+      },
+      {
+        "t": "lý do.",
+        "en": "why"
+      }
+    ],
+    "answers": [
+      "My idea was rejected immediately, and no one even bothered to explain why.",
+      "My idea got shot down right away, without anyone bothering to explain the reason."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Công việc càng nhiều,",
+        "en": "the more work I have"
+      },
+      {
+        "t": "tôi càng thấy mình",
+        "en": "the more I feel like I"
+      },
+      {
+        "t": "không còn thời gian",
+        "en": "don't have time"
+      },
+      {
+        "t": "cho bản thân.",
+        "en": "for myself"
+      }
+    ],
+    "answers": [
+      "The more work I have, the less time I feel like I have for myself.",
+      "The busier I get with work, the less time I seem to have for myself."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Buổi phỏng vấn",
+        "en": "the interview"
+      },
+      {
+        "t": "mà tôi chuẩn bị kỹ lưỡng nhất",
+        "en": "I prepared for most thoroughly"
+      },
+      {
+        "t": "hóa ra lại là buổi",
+        "en": "turned out to be the one"
+      },
+      {
+        "t": "tôi bị từ chối nhanh nhất.",
+        "en": "I got rejected from the fastest"
+      }
+    ],
+    "answers": [
+      "The interview I prepared for most thoroughly turned out to be the one I got rejected from the fastest.",
+      "Ironically, the interview I prepped hardest for was the one that rejected me the quickest."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Toàn bộ quy trình onboarding",
+        "en": "the entire onboarding process"
+      },
+      {
+        "t": "đã được thiết kế lại",
+        "en": "has been redesigned"
+      },
+      {
+        "t": "sau khi nhiều nhân viên mới",
+        "en": "after many new employees"
+      },
+      {
+        "t": "phàn nàn rằng nó quá rối rắm.",
+        "en": "complained that it was too confusing"
+      }
+    ],
+    "answers": [
+      "The entire onboarding process has been redesigned after many new employees complained that it was too confusing.",
+      "After a lot of new hires complained it was too confusing, the whole onboarding process got redesigned."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết trước",
+        "en": "if I'd known beforehand"
+      },
+      {
+        "t": "dự án này sẽ trễ tiến độ nghiêm trọng như vậy,",
+        "en": "this project would fall so seriously behind schedule"
+      },
+      {
+        "t": "tôi đã báo cho khách hàng",
+        "en": "I would have told the client"
+      },
+      {
+        "t": "sớm hơn nhiều.",
+        "en": "much earlier"
+      }
+    ],
+    "answers": [
+      "If I'd known beforehand this project would fall so seriously behind schedule, I would have told the client much earlier.",
+      "Had I known the project would run this far behind, I'd have warned the client much sooner."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Theo tôi,",
+        "en": "in my opinion"
+      },
+      {
+        "t": "việc đánh giá hiệu suất",
+        "en": "judging performance"
+      },
+      {
+        "t": "chỉ dựa trên số liệu",
+        "en": "based only on numbers"
+      },
+      {
+        "t": "là hoàn toàn không công bằng",
+        "en": "is completely unfair"
+      },
+      {
+        "t": "với những người làm công việc sáng tạo.",
+        "en": "to people doing creative work"
+      }
+    ],
+    "answers": [
+      "In my opinion, judging performance based only on numbers is completely unfair to people doing creative work.",
+      "I personally think evaluating performance purely by the numbers is unfair to people in creative roles."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Cuộc họp khẩn cấp",
+        "en": "an emergency meeting"
+      },
+      {
+        "t": "đã được triệu tập",
+        "en": "was called"
+      },
+      {
+        "t": "ngay sau khi khách hàng lớn nhất",
+        "en": "right after our biggest client"
+      },
+      {
+        "t": "đe dọa hủy hợp đồng.",
+        "en": "threatened to cancel the contract"
+      }
+    ],
+    "answers": [
+      "An emergency meeting was called right after our biggest client threatened to cancel the contract.",
+      "Right after our biggest client threatened to walk away, an emergency meeting was called."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Sếp mới,",
+        "en": "the new boss"
+      },
+      {
+        "t": "người vừa được điều chuyển từ chi nhánh khác,",
+        "en": "who was just transferred from another branch"
+      },
+      {
+        "t": "có phong cách quản lý",
+        "en": "has a management style"
+      },
+      {
+        "t": "hoàn toàn khác với người tiền nhiệm.",
+        "en": "completely different from his predecessor"
+      }
+    ],
+    "answers": [
+      "The new boss, who was just transferred from another branch, has a completely different management style from his predecessor.",
+      "Our new boss, recently transferred from another branch, manages very differently from the last one."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi càng làm việc từ xa lâu,",
+        "en": "the longer I work remotely"
+      },
+      {
+        "t": "tôi càng nhớ",
+        "en": "the more I miss"
+      },
+      {
+        "t": "cảm giác trò chuyện trực tiếp",
+        "en": "the feeling of chatting in person"
+      },
+      {
+        "t": "với đồng nghiệp.",
+        "en": "with coworkers"
+      }
+    ],
+    "answers": [
+      "The longer I work remotely, the more I miss the feeling of chatting with coworkers in person.",
+      "The more time I spend working from home, the more I miss talking to colleagues face to face."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Giá như tôi nói thẳng với sếp",
+        "en": "if only I'd been upfront with my boss"
+      },
+      {
+        "t": "về khối lượng công việc quá tải",
+        "en": "about the overload"
+      },
+      {
+        "t": "ngay từ đầu,",
+        "en": "from the start"
+      },
+      {
+        "t": "có lẽ tôi đã không kiệt sức",
+        "en": "I probably wouldn't be this burned out"
+      },
+      {
+        "t": "như bây giờ.",
+        "en": "now"
+      }
+    ],
+    "answers": [
+      "If only I'd been upfront with my boss about the overload from the start, I probably wouldn't be this burned out now.",
+      "I wish I'd told my boss about the workload from day one; maybe I wouldn't be this exhausted now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Kết quả phỏng vấn",
+        "en": "the interview results"
+      },
+      {
+        "t": "sẽ được thông báo qua email",
+        "en": "will be announced by email"
+      },
+      {
+        "t": "trong vòng một tuần tới,",
+        "en": "within the next week"
+      },
+      {
+        "t": "theo lời nhà tuyển dụng.",
+        "en": "according to the recruiter"
+      }
+    ],
+    "answers": [
+      "The interview results will be announced by email within the next week, according to the recruiter.",
+      "According to the recruiter, we'll hear the interview results by email sometime in the next week."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu bạn nhận lời thăng chức lần này,",
+        "en": "if you accept this promotion"
+      },
+      {
+        "t": "khối lượng công việc của bạn",
+        "en": "your workload"
+      },
+      {
+        "t": "chắc chắn sẽ tăng đáng kể.",
+        "en": "will definitely increase significantly"
+      }
+    ],
+    "answers": [
+      "If you accept this promotion, your workload will definitely increase significantly.",
+      "If you take this promotion, you're going to end up with a lot more on your plate."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chính sách làm việc từ xa",
+        "en": "the remote-work policy"
+      },
+      {
+        "t": "mà công ty vừa ban hành",
+        "en": "that the company just introduced"
+      },
+      {
+        "t": "nhận được phản hồi tích cực",
+        "en": "has received positive feedback"
+      },
+      {
+        "t": "từ hầu hết nhân viên.",
+        "en": "from most employees"
+      }
+    ],
+    "answers": [
+      "The remote-work policy that the company just introduced has received positive feedback from most employees.",
+      "Most employees have responded positively to the new remote-work policy the company just rolled out."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Danh sách nhân viên",
+        "en": "the list of employees"
+      },
+      {
+        "t": "được xét tăng lương năm nay",
+        "en": "up for a raise this year"
+      },
+      {
+        "t": "đã bị rò rỉ",
+        "en": "was leaked"
+      },
+      {
+        "t": "trước khi thông báo chính thức.",
+        "en": "before the official announcement"
+      }
+    ],
+    "answers": [
+      "The list of employees up for a raise this year was leaked before the official announcement.",
+      "Somehow the raise list leaked before it was even officially announced."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi không phải lo tiền nhà,",
+        "en": "if I didn't have to worry about rent"
+      },
+      {
+        "t": "chắc tôi đã bỏ",
+        "en": "I probably would have quit"
+      },
+      {
+        "t": "công việc căng thẳng này",
+        "en": "this stressful job"
+      },
+      {
+        "t": "từ lâu rồi.",
+        "en": "a long time ago"
+      }
+    ],
+    "answers": [
+      "If I didn't have to worry about rent, I probably would have quit this stressful job a long time ago.",
+      "Were it not for rent, I'd have left this stressful job ages ago."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Không chỉ trễ deadline,",
+        "en": "not only did he miss the deadline"
+      },
+      {
+        "t": "đồng nghiệp đó còn đổ lỗi",
+        "en": "that coworker also blamed"
+      },
+      {
+        "t": "cho cả nhóm",
+        "en": "the whole team"
+      },
+      {
+        "t": "trước mặt khách hàng.",
+        "en": "in front of the client"
+      }
+    ],
+    "answers": [
+      "Not only did that coworker miss the deadline, but he also blamed the whole team in front of the client.",
+      "That coworker missed the deadline and then, on top of that, blamed the whole team in front of the client."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Buổi đánh giá hiệu suất của tôi",
+        "en": "my performance review"
+      },
+      {
+        "t": "bị dời lại hai lần",
+        "en": "has been rescheduled twice"
+      },
+      {
+        "t": "vì sếp quá bận",
+        "en": "because my boss is too busy"
+      },
+      {
+        "t": "với dự án khác.",
+        "en": "with another project"
+      }
+    ],
+    "answers": [
+      "My performance review has been rescheduled twice because my boss is too busy with another project.",
+      "My performance review got pushed back twice since my boss has been swamped with another project."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Email mà tôi gửi nhầm",
+        "en": "the email that I accidentally sent"
+      },
+      {
+        "t": "cho cả công ty",
+        "en": "to the whole company"
+      },
+      {
+        "t": "hóa ra lại chứa",
+        "en": "turned out to contain"
+      },
+      {
+        "t": "vài lời than phiền về sếp.",
+        "en": "some complaints about my boss"
+      }
+    ],
+    "answers": [
+      "The email that I accidentally sent to the whole company turned out to contain some complaints about my boss.",
+      "It turned out the email I sent to the entire company by mistake had some complaints about my boss in it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Lẽ ra tôi nên đọc kỹ hợp đồng",
+        "en": "I should have read the contract carefully"
+      },
+      {
+        "t": "trước khi ký,",
+        "en": "before signing"
+      },
+      {
+        "t": "thay vì tin tưởng",
+        "en": "instead of trusting"
+      },
+      {
+        "t": "lời hứa miệng của nhà tuyển dụng.",
+        "en": "the recruiter's verbal promises"
+      }
+    ],
+    "answers": [
+      "I should have read the contract carefully before signing, instead of trusting the recruiter's verbal promises.",
+      "I really should have gone through the contract properly instead of just taking the recruiter's word for it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Dự án càng kéo dài,",
+        "en": "the longer the project drags on"
+      },
+      {
+        "t": "ngân sách càng bị đội lên",
+        "en": "the more the budget balloons"
+      },
+      {
+        "t": "đến mức không thể kiểm soát.",
+        "en": "until it becomes uncontrollable"
+      }
+    ],
+    "answers": [
+      "The longer the project drags on, the more the budget balloons, until it becomes uncontrollable.",
+      "The longer this project runs, the more out of control the budget gets."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Toàn bộ hồ sơ ứng viên",
+        "en": "all candidate applications"
+      },
+      {
+        "t": "đều được sàng lọc tự động",
+        "en": "are automatically screened"
+      },
+      {
+        "t": "bởi phần mềm",
+        "en": "by software"
+      },
+      {
+        "t": "trước khi đến tay nhà tuyển dụng.",
+        "en": "before they reach the recruiter"
+      }
+    ],
+    "answers": [
+      "All candidate applications are automatically screened by software before they reach the recruiter.",
+      "Every application gets automatically filtered by software before a recruiter ever sees it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi không xử lý ngay email đó,",
+        "en": "if I don't deal with that email right away"
+      },
+      {
+        "t": "khách hàng sẽ nghĩ",
+        "en": "the client will think"
+      },
+      {
+        "t": "chúng tôi phớt lờ họ.",
+        "en": "we're ignoring them"
+      }
+    ],
+    "answers": [
+      "If I don't deal with that email right away, the client will think we're ignoring them.",
+      "If that email doesn't get answered soon, the client will assume we're ignoring them."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Người sếp toxic",
+        "en": "the toxic boss"
+      },
+      {
+        "t": "mà tôi phải chịu đựng suốt hai năm",
+        "en": "who I had to put up with for two years"
+      },
+      {
+        "t": "cuối cùng cũng bị công ty sa thải.",
+        "en": "finally got fired by the company"
+      }
+    ],
+    "answers": [
+      "The toxic boss who I had to put up with for two years finally got fired by the company.",
+      "The toxic boss I put up with for two years finally got let go by the company."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chuyến công tác của tôi",
+        "en": "my business trip"
+      },
+      {
+        "t": "đã được sắp xếp lại",
+        "en": "was rearranged"
+      },
+      {
+        "t": "vào phút chót",
+        "en": "at the last minute"
+      },
+      {
+        "t": "vì lịch bay bị hủy.",
+        "en": "because the flight got canceled"
+      }
+    ],
+    "answers": [
+      "My business trip was rearranged at the last minute because the flight got canceled.",
+      "My flight got canceled, so my whole business trip had to be rearranged last minute."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi cho rằng",
+        "en": "I think"
+      },
+      {
+        "t": "văn hóa làm việc quá đề cao sự bận rộn",
+        "en": "a work culture that glorifies busyness so much"
+      },
+      {
+        "t": "đang khiến nhiều người kiệt sức",
+        "en": "is burning a lot of people out"
+      },
+      {
+        "t": "mà không dám lên tiếng.",
+        "en": "without them daring to speak up"
+      }
+    ],
+    "answers": [
+      "I think a work culture that glorifies busyness so much is burning a lot of people out without them daring to speak up.",
+      "In my view, this culture of glorifying overwork is exhausting people who are too afraid to say anything."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu công ty đã đầu tư",
+        "en": "if the company had invested"
+      },
+      {
+        "t": "vào đào tạo nhân viên sớm hơn,",
+        "en": "in employee training earlier"
+      },
+      {
+        "t": "có lẽ họ đã không mất",
+        "en": "it probably wouldn't have lost"
+      },
+      {
+        "t": "nhiều người giỏi như vậy.",
+        "en": "so many good people"
+      }
+    ],
+    "answers": [
+      "If the company had invested in employee training earlier, it probably wouldn't have lost so many good people.",
+      "Had the company invested in training sooner, it likely wouldn't have lost this many talented people."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Vị trí trưởng nhóm đó",
+        "en": "that team lead position"
+      },
+      {
+        "t": "cuối cùng được giao cho một người ngoài,",
+        "en": "ended up being given to an outsider"
+      },
+      {
+        "t": "khiến cả phòng",
+        "en": "which got the whole department"
+      },
+      {
+        "t": "không khỏi bàn tán.",
+        "en": "talking"
+      }
+    ],
+    "answers": [
+      "That team lead position ended up being given to an outsider, which got the whole department talking.",
+      "The team lead role went to an outside hire in the end, and it set the whole office gossiping."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp mà ai cũng nghĩ",
+        "en": "the coworker everyone thought"
+      },
+      {
+        "t": "sẽ được thăng chức",
+        "en": "would get promoted"
+      },
+      {
+        "t": "lại là người bất ngờ",
+        "en": "turned out to be the one who unexpectedly"
+      },
+      {
+        "t": "nộp đơn xin nghỉ việc.",
+        "en": "resigned"
+      }
+    ],
+    "answers": [
+      "The coworker everyone thought would get promoted turned out to be the one who unexpectedly resigned.",
+      "The colleague everybody expected to get the promotion was the one who suddenly quit instead."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi được chọn lại,",
+        "en": "if I could choose again"
+      },
+      {
+        "t": "tôi sẽ không bao giờ nhận",
+        "en": "I would never take"
+      },
+      {
+        "t": "công việc đòi hỏi đi công tác nhiều đến vậy.",
+        "en": "a job that requires this much traveling"
+      }
+    ],
+    "answers": [
+      "If I could choose again, I would never take a job that requires this much traveling.",
+      "Given a second chance, I'd never accept a job with this much business travel."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Mọi quyết định quan trọng trong công ty",
+        "en": "every important decision in the company"
+      },
+      {
+        "t": "đều được đưa ra sau lưng nhân viên,",
+        "en": "gets made behind employees' backs"
+      },
+      {
+        "t": "mà không ai được hỏi ý kiến.",
+        "en": "without anyone being consulted"
+      }
+    ],
+    "answers": [
+      "Every important decision in the company gets made behind employees' backs, without anyone being consulted.",
+      "All the major decisions here get made without consulting the employees at all."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chỉ khi bị mất một khách hàng lớn,",
+        "en": "only after losing a major client"
+      },
+      {
+        "t": "sếp mới nhận ra",
+        "en": "did the boss realize"
+      },
+      {
+        "t": "quy trình làm việc của công ty có vấn đề.",
+        "en": "there was something wrong with the company's workflow"
+      }
+    ],
+    "answers": [
+      "Only after losing a major client did the boss realize there was something wrong with the company's workflow.",
+      "It took losing a big client for the boss to finally see the flaws in how the company operates."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Những nhân viên",
+        "en": "the employees"
+      },
+      {
+        "t": "đã gắn bó với công ty",
+        "en": "who have been with the company"
+      },
+      {
+        "t": "từ những ngày đầu",
+        "en": "since the early days"
+      },
+      {
+        "t": "giờ đây cảm thấy bị bỏ rơi.",
+        "en": "now feel left behind"
+      }
+    ],
+    "answers": [
+      "The employees who have been with the company since the early days now feel left behind.",
+      "The staff who've stuck with the company from the beginning now feel like they've been forgotten."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Toàn bộ dữ liệu khách hàng",
+        "en": "all the client data"
+      },
+      {
+        "t": "đã bị xóa nhầm",
+        "en": "was accidentally deleted"
+      },
+      {
+        "t": "bởi một nhân viên mới",
+        "en": "by a new employee"
+      },
+      {
+        "t": "chưa quen với hệ thống.",
+        "en": "who wasn't yet familiar with the system"
+      }
+    ],
+    "answers": [
+      "All the client data was accidentally deleted by a new employee who wasn't yet familiar with the system.",
+      "A new employee who didn't know the system well ended up accidentally wiping all the client data."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu chúng ta không nộp",
+        "en": "if we don't submit"
+      },
+      {
+        "t": "báo cáo tài chính đúng hạn,",
+        "en": "the financial report on time"
+      },
+      {
+        "t": "công ty có thể bị phạt nặng.",
+        "en": "the company could face a heavy fine"
+      }
+    ],
+    "answers": [
+      "If we don't submit the financial report on time, the company could face a heavy fine.",
+      "If the financial report isn't turned in on time, the company might get hit with a big fine."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi ước gì",
+        "en": "I wish"
+      },
+      {
+        "t": "mình đã lên tiếng phản đối sớm hơn",
+        "en": "I had spoken up sooner"
+      },
+      {
+        "t": "thay vì im lặng chịu đựng",
+        "en": "instead of silently putting up with"
+      },
+      {
+        "t": "đồng nghiệp toxic đó suốt cả năm.",
+        "en": "that toxic coworker for a whole year"
+      }
+    ],
+    "answers": [
+      "I wish I had spoken up sooner instead of silently putting up with that toxic coworker for a whole year.",
+      "I wish I'd said something earlier rather than quietly tolerating that toxic colleague all year."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chương trình đào tạo mới",
+        "en": "the new training program"
+      },
+      {
+        "t": "được thiết kế riêng cho",
+        "en": "which was designed specifically for"
+      },
+      {
+        "t": "nhân viên làm việc từ xa",
+        "en": "remote employees"
+      },
+      {
+        "t": "sẽ ra mắt vào tháng tới.",
+        "en": "will launch next month"
+      }
+    ],
+    "answers": [
+      "The new training program, which was designed specifically for remote employees, will launch next month.",
+      "A new training program built specifically for remote staff is launching next month."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết cách từ chối khéo léo hơn,",
+        "en": "if I knew how to say no more tactfully"
+      },
+      {
+        "t": "tôi đã không bị dồn việc",
+        "en": "I wouldn't be overloaded with work"
+      },
+      {
+        "t": "như bây giờ.",
+        "en": "like I am now"
+      }
+    ],
+    "answers": [
+      "If I knew how to say no more tactfully, I wouldn't be overloaded with work like I am now.",
+      "If I were better at politely turning things down, I wouldn't be this buried in work right now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi càng thăng chức cao,",
+        "en": "the higher I get promoted"
+      },
+      {
+        "t": "tôi càng cảm thấy cô đơn",
+        "en": "the lonelier I feel"
+      },
+      {
+        "t": "vì không còn ai để tâm sự",
+        "en": "since I no longer have anyone to confide in"
+      },
+      {
+        "t": "trong công ty.",
+        "en": "at the company"
+      }
+    ],
+    "answers": [
+      "The higher I get promoted, the lonelier I feel, since I no longer have anyone to confide in at the company.",
+      "The further up I climb, the more isolated I feel, because there's no one left to really talk to at work."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Buổi phỏng vấn của tôi",
+        "en": "my interview"
+      },
+      {
+        "t": "bị hoãn lại không lý do,",
+        "en": "was postponed without any reason"
+      },
+      {
+        "t": "và tôi vẫn chưa nhận được",
+        "en": "and I still haven't received"
+      },
+      {
+        "t": "lời giải thích nào.",
+        "en": "any explanation"
+      }
+    ],
+    "answers": [
+      "My interview was postponed without any reason, and I still haven't received any explanation.",
+      "They pushed back my interview for no clear reason, and I still haven't gotten an explanation."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Công việc mà tôi từng nghĩ",
+        "en": "the job I once thought"
+      },
+      {
+        "t": "là công việc trong mơ",
+        "en": "was my dream job"
+      },
+      {
+        "t": "hóa ra lại khiến tôi kiệt sức",
+        "en": "turned out to be the one that burned me out"
+      },
+      {
+        "t": "nhanh nhất.",
+        "en": "the fastest"
+      }
+    ],
+    "answers": [
+      "The job I once thought was my dream job turned out to be the one that burned me out the fastest.",
+      "What I used to think was my dream job ended up being the one that wore me out the quickest."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu sếp đã tin tưởng giao",
+        "en": "if the boss had trusted me with"
+      },
+      {
+        "t": "dự án này cho tôi",
+        "en": "this project"
+      },
+      {
+        "t": "ngay từ đầu,",
+        "en": "from the start"
+      },
+      {
+        "t": "có lẽ mọi thứ đã không rối tung lên như vậy.",
+        "en": "things probably wouldn't have gotten this messy"
+      }
+    ],
+    "answers": [
+      "If the boss had trusted me with this project from the start, things probably wouldn't have gotten this messy.",
+      "Had the boss handed me this project from day one, it probably wouldn't be this chaotic now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Hầu hết các cuộc họp trong công ty",
+        "en": "most meetings at the company"
+      },
+      {
+        "t": "đều được ghi lại",
+        "en": "are recorded"
+      },
+      {
+        "t": "để những ai vắng mặt",
+        "en": "so that anyone who's absent"
+      },
+      {
+        "t": "có thể xem sau.",
+        "en": "can watch them later"
+      }
+    ],
+    "answers": [
+      "Most meetings at the company are recorded so that anyone who's absent can watch them later.",
+      "Nearly every meeting here gets recorded so people who miss it can catch up later."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi nghĩ chính trị công sở",
+        "en": "I think office politics"
+      },
+      {
+        "t": "tồn tại ở đâu cũng có,",
+        "en": "exist everywhere"
+      },
+      {
+        "t": "chỉ là mức độ nghiêm trọng khác nhau",
+        "en": "it's just that the severity varies"
+      },
+      {
+        "t": "tùy công ty.",
+        "en": "from company to company"
+      }
+    ],
+    "answers": [
+      "I think office politics exist everywhere; it's just that the severity varies from company to company.",
+      "In my opinion, office politics happen everywhere, just to different degrees depending on the company."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Bản hợp đồng",
+        "en": "the contract"
+      },
+      {
+        "t": "mà tôi ký năm ngoái",
+        "en": "that I signed last year"
+      },
+      {
+        "t": "vừa được sửa đổi",
+        "en": "has just been revised"
+      },
+      {
+        "t": "mà không hề thông báo trước cho tôi.",
+        "en": "without any notice to me beforehand"
+      }
+    ],
+    "answers": [
+      "The contract that I signed last year has just been revised without any notice to me beforehand.",
+      "They just revised the contract I signed last year without giving me any advance notice."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu bạn tiếp tục trễ deadline như thế này,",
+        "en": "if you keep missing deadlines like this"
+      },
+      {
+        "t": "sếp sẽ không ngần ngại",
+        "en": "the boss won't hesitate"
+      },
+      {
+        "t": "thay bạn bằng người khác.",
+        "en": "to replace you with someone else"
+      }
+    ],
+    "answers": [
+      "If you keep missing deadlines like this, the boss won't hesitate to replace you with someone else.",
+      "Keep missing deadlines like this, and the boss will replace you without a second thought."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chính sách nghỉ phép mới",
+        "en": "the new leave policy"
+      },
+      {
+        "t": "sẽ được áp dụng",
+        "en": "will be applied"
+      },
+      {
+        "t": "cho tất cả các chi nhánh",
+        "en": "to all branches"
+      },
+      {
+        "t": "kể từ đầu năm sau.",
+        "en": "starting from the beginning of next year"
+      }
+    ],
+    "answers": [
+      "The new leave policy will be applied to all branches starting from the beginning of next year.",
+      "Starting next year, the new leave policy will roll out across every branch."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên thương lượng lương kỹ hơn",
+        "en": "I should have negotiated my salary more carefully"
+      },
+      {
+        "t": "trong buổi phỏng vấn",
+        "en": "during the interview"
+      },
+      {
+        "t": "thay vì vội vàng đồng ý ngay.",
+        "en": "instead of hastily agreeing right away"
+      }
+    ],
+    "answers": [
+      "I should have negotiated my salary more carefully during the interview instead of hastily agreeing right away.",
+      "I really should've pushed harder on salary in the interview instead of just accepting on the spot."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Không những phải đi công tác liên tục,",
+        "en": "not only do I have to travel constantly for work"
+      },
+      {
+        "t": "tôi còn phải xử lý",
+        "en": "but I also have to handle"
+      },
+      {
+        "t": "deadline dí sát nút",
+        "en": "a tight deadline"
+      },
+      {
+        "t": "từ dự án cũ.",
+        "en": "from an old project"
+      }
+    ],
+    "answers": [
+      "Not only do I have to travel constantly for work, but I also have to handle a tight deadline from an old project.",
+      "On top of constant business trips, I also have a looming deadline from an old project to deal with."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chị trưởng phòng nhân sự,",
+        "en": "the HR manager"
+      },
+      {
+        "t": "người vừa nghỉ thai sản về,",
+        "en": "who just returned from maternity leave"
+      },
+      {
+        "t": "đã thay đổi hoàn toàn",
+        "en": "has completely changed"
+      },
+      {
+        "t": "quy trình tuyển dụng.",
+        "en": "the recruitment process"
+      }
+    ],
+    "answers": [
+      "The HR manager, who just returned from maternity leave, has completely changed the recruitment process.",
+      "Our HR manager, back from maternity leave, has overhauled the entire hiring process."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Toàn bộ chi phí",
+        "en": "all the expenses"
+      },
+      {
+        "t": "cho chuyến công tác lần này",
+        "en": "for this business trip"
+      },
+      {
+        "t": "sẽ được công ty hoàn lại",
+        "en": "will be reimbursed by the company"
+      },
+      {
+        "t": "trong vòng một tháng.",
+        "en": "within a month"
+      }
+    ],
+    "answers": [
+      "All the expenses for this business trip will be reimbursed by the company within a month.",
+      "The company will reimburse every expense from this trip within a month."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu công ty trả lương xứng đáng hơn,",
+        "en": "if the company paid more fairly"
+      },
+      {
+        "t": "có lẽ tỷ lệ nhân viên nghỉ việc",
+        "en": "the employee turnover rate"
+      },
+      {
+        "t": "đã không cao đến vậy.",
+        "en": "probably wouldn't be this high"
+      }
+    ],
+    "answers": [
+      "If the company paid more fairly, the employee turnover rate probably wouldn't be this high.",
+      "If the pay here were fairer, turnover probably wouldn't be this bad."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Những email bị đánh dấu khẩn cấp",
+        "en": "the emails marked urgent"
+      },
+      {
+        "t": "thường là những email",
+        "en": "are usually the ones"
+      },
+      {
+        "t": "mà tôi lo lắng nhất",
+        "en": "that worry me the most"
+      },
+      {
+        "t": "khi mở ra.",
+        "en": "when I open them"
+      }
+    ],
+    "answers": [
+      "The emails marked urgent are usually the ones that worry me the most when I open them.",
+      "Emails flagged as urgent are usually the ones I dread opening the most."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tôi đã không nhận thêm",
+        "en": "if I hadn't taken on"
+      },
+      {
+        "t": "dự án đó,",
+        "en": "that extra project"
+      },
+      {
+        "t": "chắc tôi đã không phải",
+        "en": "I probably wouldn't have had to"
+      },
+      {
+        "t": "làm việc thâu đêm suốt tuần qua.",
+        "en": "work through the night all week"
+      }
+    ],
+    "answers": [
+      "If I hadn't taken on that extra project, I probably wouldn't have had to work through the night all week.",
+      "Had I not taken that extra project, I wouldn't have had to pull all-nighters this whole week."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Ứng viên được chọn cuối cùng",
+        "en": "the candidate who was finally chosen"
+      },
+      {
+        "t": "lại là người có ít kinh nghiệm nhất",
+        "en": "turned out to be the one with the least experience"
+      },
+      {
+        "t": "trong số các ứng viên.",
+        "en": "among the applicants"
+      }
+    ],
+    "answers": [
+      "The candidate who was finally chosen turned out to be the one with the least experience among the applicants.",
+      "Oddly, the person who ended up getting hired had the least experience of all the applicants."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Áp lực từ deadline",
+        "en": "the deadline pressure"
+      },
+      {
+        "t": "mà chúng tôi phải chịu tuần này",
+        "en": "that we're under this week"
+      },
+      {
+        "t": "còn tệ hơn cả",
+        "en": "is even worse than"
+      },
+      {
+        "t": "khoảng thời gian cuối năm.",
+        "en": "the end-of-year crunch"
+      }
+    ],
+    "answers": [
+      "The deadline pressure that we're under this week is even worse than the end-of-year crunch.",
+      "This week's deadline pressure is worse than even the year-end rush."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Buổi họp toàn công ty sáng nay",
+        "en": "this morning's company-wide meeting"
+      },
+      {
+        "t": "được tổ chức",
+        "en": "was held"
+      },
+      {
+        "t": "chỉ để thông báo",
+        "en": "just to announce"
+      },
+      {
+        "t": "về đợt cắt giảm nhân sự sắp tới.",
+        "en": "the upcoming layoffs"
+      }
+    ],
+    "answers": [
+      "This morning's company-wide meeting was held just to announce the upcoming layoffs.",
+      "The whole-company meeting this morning turned out to be just about the upcoming layoffs."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu phải chọn lại,",
+        "en": "if I had to choose again"
+      },
+      {
+        "t": "tôi vẫn sẽ chọn nghỉ việc",
+        "en": "I'd still choose to quit"
+      },
+      {
+        "t": "thay vì tiếp tục làm",
+        "en": "rather than keep working"
+      },
+      {
+        "t": "dưới quyền một người sếp như vậy.",
+        "en": "under a boss like that"
+      }
+    ],
+    "answers": [
+      "If I had to choose again, I'd still choose to quit rather than keep working under a boss like that.",
+      "Given the choice again, I'd still rather resign than keep working for a boss like that."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nhân viên bị sa thải oan",
+        "en": "the employee who was wrongfully fired"
+      },
+      {
+        "t": "hồi năm ngoái",
+        "en": "last year"
+      },
+      {
+        "t": "cuối cùng cũng được công ty",
+        "en": "finally received from the company"
+      },
+      {
+        "t": "bồi thường thỏa đáng.",
+        "en": "fair compensation"
+      }
+    ],
+    "answers": [
+      "The employee who was wrongfully fired last year finally received fair compensation from the company.",
+      "The person who got wrongfully fired last year was finally given proper compensation by the company."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu tình trạng kiệt sức này tiếp diễn,",
+        "en": "if this burnout continues"
+      },
+      {
+        "t": "tôi sẽ phải xin nghỉ phép dài hạn",
+        "en": "I'll have to take extended leave"
+      },
+      {
+        "t": "để hồi phục.",
+        "en": "to recover"
+      }
+    ],
+    "answers": [
+      "If this burnout continues, I'll have to take extended leave to recover.",
+      "If I keep burning out like this, I'll need to take a long break to recover."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Số liệu trong báo cáo quý này",
+        "en": "the figures in this quarter's report"
+      },
+      {
+        "t": "đã được kiểm tra lại nhiều lần",
+        "en": "have been double-checked multiple times"
+      },
+      {
+        "t": "trước khi trình lên ban giám đốc.",
+        "en": "before being presented to the board"
+      }
+    ],
+    "answers": [
+      "The figures in this quarter's report have been double-checked multiple times before being presented to the board.",
+      "This quarter's report figures have gone through several rounds of checking before reaching the board."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Tôi càng cố tỏ ra vui vẻ",
+        "en": "the more I try to seem cheerful"
+      },
+      {
+        "t": "trong các cuộc họp online,",
+        "en": "in online meetings"
+      },
+      {
+        "t": "tôi càng thấy mệt mỏi",
+        "en": "the more exhausted I feel"
+      },
+      {
+        "t": "khi tắt camera.",
+        "en": "once I turn off the camera"
+      }
+    ],
+    "answers": [
+      "The more I try to seem cheerful in online meetings, the more exhausted I feel once I turn off the camera.",
+      "The harder I fake enthusiasm in video calls, the more drained I feel the second the camera goes off."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Đồng nghiệp mà tôi từng nghĩ",
+        "en": "the coworker who I once thought"
+      },
+      {
+        "t": "là bạn thân",
+        "en": "was a close friend"
+      },
+      {
+        "t": "hóa ra lại là người báo cáo tôi với sếp",
+        "en": "turned out to be the one who reported me to the boss"
+      },
+      {
+        "t": "vì đi làm trễ.",
+        "en": "for being late"
+      }
+    ],
+    "answers": [
+      "The coworker who I once thought was a close friend turned out to be the one who reported me to the boss for being late.",
+      "It turned out the colleague I considered a close friend was the one who ratted me out to the boss for being late."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Nếu ban giám đốc đã lắng nghe",
+        "en": "if the board had listened to"
+      },
+      {
+        "t": "cảnh báo từ đội kỹ thuật sớm hơn,",
+        "en": "the tech team's warnings sooner"
+      },
+      {
+        "t": "dự án đã không sụp đổ như vậy.",
+        "en": "the project wouldn't have collapsed like that"
+      }
+    ],
+    "answers": [
+      "If the board had listened to the tech team's warnings sooner, the project wouldn't have collapsed like that.",
+      "Had management heeded the tech team's warnings earlier, the project wouldn't have fallen apart like it did."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Toàn bộ nhân viên mới",
+        "en": "all new employees"
+      },
+      {
+        "t": "đều phải trải qua",
+        "en": "are required to go through"
+      },
+      {
+        "t": "một tuần onboarding",
+        "en": "a week of onboarding"
+      },
+      {
+        "t": "trước khi được phân vào các phòng ban.",
+        "en": "before being assigned to departments"
+      }
+    ],
+    "answers": [
+      "All new employees are required to go through a week of onboarding before being assigned to departments.",
+      "Every new hire has to complete a week of onboarding before getting placed into a department."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "work",
+    "chunks": [
+      {
+        "t": "Chỉ sau khi tự mình làm sếp,",
+        "en": "only after becoming a boss myself"
+      },
+      {
+        "t": "tôi mới hiểu được",
+        "en": "did I understand"
+      },
+      {
+        "t": "áp lực mà người quản lý cũ",
+        "en": "the pressure that my former manager"
+      },
+      {
+        "t": "từng phải chịu.",
+        "en": "used to be under"
+      }
+    ],
+    "answers": [
+      "Only after becoming a boss myself did I understand the pressure my former manager used to be under.",
+      "It wasn't until I became a manager myself that I truly understood what my old boss used to go through."
+    ]
+  }
+]

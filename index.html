@@ -1,0 +1,1319 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vở luyện viết tiếng Anh</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Instrument+Serif&family=Caveat:wght@500;600&display=swap">
+
+<style>
+:root{
+  --bg:#F6F4F0; --card:#FFFFFF; --line:#E6E2DA; --line-soft:#EDEAE3;
+  --ink:#17161A; --muted:#6E6A61; --faint:#8C867B; --dim:#A29C91; --pale:#C3BDB1;
+  --accent:#1F6F5C; --accent-2:#14503F; --accent-bg:#E7F1ED; --accent-line:#C7E0D6;
+  --amber:#9A5B12; --amber-bg:#F8F0E1; --amber-line:#C99A3A;
+  --red:#B03A2E; --violet:#5B4BA8; --violet-bg:#EDEAF8;
+  --pen:#2E4A9E; --rule:#D3CDC2; --rule-2:#C6BFB2;
+  --panel:#FBFAF7; --chip:#F3F1EC; --track:#EDEAE3; --dash:#DCD7CD;
+  --sel:#D9EBE3; --ph:#BDB7AC;
+  --shadow:0 1px 2px rgba(23,22,26,.03);
+  --pop:0 18px 40px -18px rgba(23,22,26,.32), 0 2px 6px rgba(23,22,26,.06);
+  --toolbar:rgba(246,244,240,.86);
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#15141A; --card:#1D1C23; --line:#2E2C36; --line-soft:#292830;
+  --ink:#EDEBE6; --muted:#A19C93; --faint:#8A857C; --dim:#7C776F; --pale:#5E594F;
+  --accent:#57B394; --accent-2:#78C9AE; --accent-bg:#1B2E28; --accent-line:#2C4A40;
+  --amber:#D19A4E; --amber-bg:#2E2618; --amber-line:#8A6A2E;
+  --red:#E4796B; --violet:#9C8FE0; --violet-bg:#26223A;
+  --pen:#8FA9F2; --rule:#3D3A44; --rule-2:#454250;
+  --panel:#232229; --chip:#292830; --track:#2E2C36; --dash:#3A3843;
+  --sel:#264238; --ph:#6A655D;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+  --pop:0 20px 44px -18px rgba(0,0,0,.7), 0 2px 8px rgba(0,0,0,.4);
+  --toolbar:rgba(21,20,26,.86);
+} }
+:root[data-theme="dark"]{
+  --bg:#15141A; --card:#1D1C23; --line:#2E2C36; --line-soft:#292830;
+  --ink:#EDEBE6; --muted:#A19C93; --faint:#8A857C; --dim:#7C776F; --pale:#5E594F;
+  --accent:#57B394; --accent-2:#78C9AE; --accent-bg:#1B2E28; --accent-line:#2C4A40;
+  --amber:#D19A4E; --amber-bg:#2E2618; --amber-line:#8A6A2E;
+  --red:#E4796B; --violet:#9C8FE0; --violet-bg:#26223A;
+  --pen:#8FA9F2; --rule:#3D3A44; --rule-2:#454250;
+  --panel:#232229; --chip:#292830; --track:#2E2C36; --dash:#3A3843;
+  --sel:#264238; --ph:#6A655D;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+  --pop:0 20px 44px -18px rgba(0,0,0,.7), 0 2px 8px rgba(0,0,0,.4);
+  --toolbar:rgba(21,20,26,.86);
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:Manrope,system-ui,-apple-system,sans-serif;
+  -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
+  min-height:100vh; padding-bottom:120px;
+}
+::selection{background:var(--sel)}
+::placeholder{color:var(--ph)}
+textarea,input,select,button{font-family:inherit}
+:focus-visible{outline:2px solid var(--accent); outline-offset:2px; border-radius:6px}
+@keyframes fadeUp{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+.wrap{max-width:1060px; margin:0 auto; padding:0 28px}
+
+/* ---------- masthead ---------- */
+.masthead{
+  max-width:1060px; margin:0 auto; padding:56px 28px 26px;
+  display:flex; flex-wrap:wrap; gap:30px; align-items:flex-end; justify-content:space-between;
+}
+.brandcol{min-width:280px}
+.brandrow{display:flex; align-items:center; gap:10px; margin-bottom:14px}
+.glyph{
+  width:26px; height:26px; border-radius:8px; background:var(--ink); color:var(--bg);
+  display:inline-flex; align-items:center; justify-content:center;
+  font-family:"Instrument Serif",serif; font-size:16px; line-height:1;
+}
+.eyebrow{font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--faint); font-weight:700}
+h1{
+  font-family:"Instrument Serif",Georgia,serif; font-weight:400; font-size:52px;
+  line-height:1.03; letter-spacing:-.02em; margin:0 0 10px; text-wrap:balance;
+}
+.lede{margin:0; font-size:15px; line-height:1.55; color:var(--muted); max-width:46ch}
+
+.statcol{display:flex; gap:12px; flex-wrap:wrap; align-items:stretch}
+.stat{background:var(--card); border:1px solid var(--line); border-radius:16px; padding:15px 20px; min-width:130px}
+.statlabel{font-size:10px; letter-spacing:.14em; text-transform:uppercase; color:var(--faint); font-weight:800; margin-bottom:8px}
+.statval{display:flex; align-items:baseline; gap:4px}
+.statval .big{font-family:"Instrument Serif",serif; font-size:32px; line-height:1; font-variant-numeric:tabular-nums}
+.statval .sub{font-size:14px; color:var(--dim); font-weight:700}
+.track{margin-top:12px; height:4px; border-radius:99px; background:var(--track); overflow:hidden}
+.track > i{display:block; height:100%; border-radius:99px; background:var(--accent); width:0; transition:width .3s}
+.statnote{margin-top:12px; font-size:12px; color:var(--faint); font-weight:700}
+.ghostbtn{
+  background:var(--card); border:1px solid var(--line); border-radius:16px; padding:0 18px;
+  color:var(--muted); font-size:13px; font-weight:700; cursor:pointer; transition:all .15s;
+}
+.ghostbtn:hover{border-color:var(--ink); color:var(--ink)}
+.ghostbtn.me{color:var(--accent); border-color:var(--accent-line); background:var(--accent-bg)}
+
+/* ---------- modal đăng nhập ---------- */
+.modal{
+  position:fixed; inset:0; z-index:80; display:grid; place-items:center; padding:20px;
+  background:color-mix(in srgb, var(--bg) 68%, transparent); backdrop-filter:blur(10px);
+}
+.modal[hidden]{display:none}
+.mcard{
+  width:100%; max-width:390px; background:var(--card); border:1px solid var(--line);
+  border-radius:20px; padding:28px 26px; box-shadow:var(--pop); animation:fadeUp .2s ease both;
+}
+.mcard h2{font-family:"Instrument Serif",Georgia,serif; font-weight:400; font-size:30px; margin:0 0 8px; letter-spacing:-.01em}
+.msub{margin:0 0 20px; font-size:13.5px; line-height:1.6; color:var(--muted)}
+.mfield{display:block; margin-bottom:13px}
+.mfield span{display:block; font-size:10px; font-weight:800; letter-spacing:.14em; text-transform:uppercase; color:var(--faint); margin-bottom:6px}
+.mfield input{
+  width:100%; border:1px solid var(--line); background:var(--bg); border-radius:11px;
+  padding:11px 13px; font-size:14px; font-weight:600; color:var(--ink); outline:none; transition:border-color .15s;
+}
+.mfield input:focus{border-color:var(--accent)}
+.merr{
+  background:color-mix(in srgb, var(--red) 13%, transparent); color:var(--red);
+  border-radius:10px; padding:10px 12px; font-size:13px; font-weight:600; margin-bottom:13px; line-height:1.5;
+}
+.mrow{display:flex; gap:8px; flex-wrap:wrap; margin-top:18px}
+.mrow .act{flex:1 1 auto; text-align:center}
+#toast{
+  position:fixed; left:50%; bottom:26px; transform:translateX(-50%); z-index:90;
+  background:var(--ink); color:var(--bg); padding:9px 16px; border-radius:99px;
+  font-size:13px; font-weight:700; box-shadow:var(--pop); animation:fadeUp .2s ease both;
+}
+#toast[hidden]{display:none}
+
+/* ---------- toolbar ---------- */
+.toolbar{
+  position:sticky; top:0; z-index:30; background:var(--toolbar);
+  backdrop-filter:blur(14px); border-top:1px solid var(--line); border-bottom:1px solid var(--line);
+}
+.toolinner{max-width:1060px; margin:0 auto; padding:13px 28px; display:flex; flex-wrap:wrap; gap:9px; align-items:center}
+.search{position:relative; flex:1 1 240px; display:flex; align-items:center}
+.search svg{position:absolute; left:14px; pointer-events:none; color:var(--dim)}
+.search input{
+  width:100%; border:1px solid var(--line); background:var(--card); border-radius:12px;
+  padding:11px 14px 11px 38px; font-size:14px; color:var(--ink); outline:none; transition:border-color .15s;
+}
+.search input:focus{border-color:var(--ink)}
+.tabs{display:flex; gap:3px; background:var(--card); border:1px solid var(--line); border-radius:12px; padding:3px}
+.tabs button{
+  border:none; border-radius:9px; padding:8px 14px; font-size:13px; font-weight:800;
+  cursor:pointer; transition:all .15s; background:transparent; color:var(--faint);
+}
+.tabs button[aria-pressed="true"]{background:var(--ink); color:var(--bg)}
+.combo{position:relative; flex:none}
+.combo-btn{
+  display:flex; align-items:center; gap:9px; border:1px solid var(--line); background:var(--card);
+  border-radius:12px; padding:11px 13px; font-size:13.5px; font-weight:700; color:var(--ink);
+  outline:none; cursor:pointer; white-space:nowrap; transition:border-color .15s;
+}
+.combo-btn:hover{border-color:var(--ink)}
+.combo[data-open="true"] .combo-btn{border-color:var(--accent)}
+.combo-chev{flex:none; color:var(--dim); transition:transform .18s}
+.combo[data-open="true"] .combo-chev{transform:rotate(180deg)}
+.combo-pop{
+  position:absolute; top:calc(100% + 6px); left:0; z-index:40;
+  min-width:max(100%, 252px); max-width:min(340px, calc(100vw - 32px));
+  background:var(--card); border:1px solid var(--line); border-radius:14px;
+  box-shadow:var(--pop); padding:6px; animation:fadeUp .16s ease both;
+}
+.combo-pop.toright{left:auto; right:0}
+.combo-search{padding:2px 2px 8px; border-bottom:1px solid var(--line-soft); margin-bottom:6px}
+.combo-search input{
+  width:100%; border:1px solid var(--line); background:var(--bg); border-radius:9px;
+  padding:8px 10px; font-size:13px; font-weight:600; color:var(--ink); outline:none; transition:border-color .15s;
+}
+.combo-search input:focus{border-color:var(--accent)}
+.combo-list{max-height:290px; overflow-y:auto; display:flex; flex-direction:column; gap:2px}
+.combo-opt{
+  display:flex; align-items:center; gap:8px; width:100%; text-align:left; border:none;
+  background:transparent; border-radius:9px; padding:9px 10px; font-size:13.5px; font-weight:600;
+  color:var(--muted); cursor:pointer; transition:background .12s, color .12s;
+}
+.combo-opt.active{background:var(--chip); color:var(--ink)}
+.combo-opt[aria-selected="true"]{color:var(--accent); font-weight:800}
+.combo-opt .tick{flex:none; margin-left:auto; opacity:0}
+.combo-opt[aria-selected="true"] .tick{opacity:1}
+.combo-opt > span{flex:1; min-width:0}
+.combo-opt mark{background:var(--accent-bg); color:var(--accent); font-weight:800; border-radius:3px; padding:0 2px}
+.combo-none{padding:16px 10px; text-align:center; font-size:13px; color:var(--faint)}
+.aipill{
+  display:flex; align-items:center; gap:7px; padding:9px 13px; border-radius:12px;
+  border:1px solid var(--line); background:var(--card); font-size:12px; font-weight:800;
+  color:var(--faint); cursor:pointer; transition:all .15s;
+}
+.aipill.live{color:var(--accent); border-color:var(--accent-line)}
+.aipill.on{color:var(--accent); background:var(--accent-bg); border-color:var(--accent-line)}
+.aipill.dead{cursor:not-allowed; opacity:.7}
+.aipill .dot{width:6px; height:6px; border-radius:99px; background:currentColor}
+
+/* ---------- list ---------- */
+.crumb{
+  display:flex; align-items:center; justify-content:space-between; padding:24px 0 4px;
+  font-size:11px; font-weight:800; letter-spacing:.12em; text-transform:uppercase; color:var(--faint);
+}
+.list{display:flex; flex-direction:column; gap:16px; margin-top:16px}
+.ex{
+  background:var(--card); border:1px solid var(--line); border-radius:20px;
+  padding:26px 30px; box-shadow:var(--shadow);
+}
+.exhead{display:flex; align-items:center; gap:12px; margin-bottom:14px; flex-wrap:wrap}
+.num{font-family:"Instrument Serif",serif; font-size:21px; color:var(--pale); line-height:1; min-width:28px; font-variant-numeric:tabular-nums}
+.lv{
+  display:inline-flex; align-items:center; border-radius:7px; padding:3px 9px;
+  font-size:11px; font-weight:800; letter-spacing:.06em;
+}
+.lv.a2{color:var(--accent); background:var(--accent-bg)}
+.lv.b1{color:var(--amber); background:var(--amber-bg)}
+.lv.b2{color:var(--violet); background:var(--violet-bg)}
+.tpc{font-size:11px; font-weight:800; letter-spacing:.12em; text-transform:uppercase; color:var(--faint)}
+.spacer{flex:1}
+.badge{
+  display:inline-flex; align-items:center; border-radius:99px; padding:4px 12px;
+  font-size:12px; font-weight:800; background:var(--bg); border:1px solid var(--line-soft);
+  font-variant-numeric:tabular-nums;
+}
+.badge.hi{color:var(--accent)} .badge.mid{color:var(--amber)} .badge.lo{color:var(--red)}
+
+.prompt{font-size:21.5px; line-height:1.55; letter-spacing:-.01em; margin:0 0 26px; text-wrap:pretty}
+.ch{border-bottom:2px dotted var(--rule-2); cursor:help; padding-bottom:1px; transition:color .15s, border-color .15s}
+.ch:hover,.ch.on{color:var(--accent); border-bottom-color:var(--accent)}
+
+.hints{display:flex; flex-wrap:wrap; gap:8px; margin:-14px 0 22px}
+.hint{
+  display:inline-flex; align-items:center; gap:8px; background:var(--chip);
+  border:1px solid var(--line); border-radius:99px; padding:6px 12px; font-size:13px; color:var(--muted);
+}
+.hint s{color:var(--pale); text-decoration:none}
+.hint i{color:var(--accent); font-weight:700; font-style:normal}
+
+.linebox{position:relative; padding-bottom:2px; border-bottom:2px dotted var(--rule); margin-bottom:16px; transition:border-color .15s}
+.linebox:focus-within{border-bottom-color:var(--accent)}
+.ans{
+  width:100%; display:block; resize:none; overflow:hidden; border:none; background:transparent;
+  padding:0 2px 8px; font-family:Caveat,cursive; font-size:28px; line-height:1.5;
+  color:var(--pen); outline:none; min-height:44px; caret-color:var(--pen);
+}
+
+.tools{display:flex; flex-wrap:wrap; gap:8px}
+.act{
+  background:var(--card); color:var(--muted); border:1px solid var(--line); border-radius:11px;
+  padding:10px 16px; font-size:13.5px; font-weight:600; cursor:pointer; transition:all .15s;
+}
+.act:hover{border-color:var(--ink); color:var(--ink)}
+.act.primary{background:var(--ink); color:var(--bg); border-color:var(--ink); font-weight:700; padding:10px 18px}
+.act.primary:hover{opacity:.86; color:var(--bg)}
+.act.quiet{background:transparent; border-color:transparent; color:var(--dim); padding:10px 12px}
+.act.quiet:hover{color:var(--red); border-color:transparent}
+.act[disabled]{opacity:.5; cursor:default}
+
+/* ---------- panel ---------- */
+.panel{
+  margin-top:20px; border-radius:16px; background:var(--panel); border:1px solid var(--line-soft);
+  padding:22px 24px; animation:fadeUp .26s ease both;
+}
+.verdictrow{display:flex; align-items:flex-start; gap:18px; flex-wrap:wrap}
+.ring{
+  flex:none; width:78px; height:78px; border-radius:99px; border:2px solid currentColor;
+  display:flex; flex-direction:column; align-items:center; justify-content:center; gap:1px;
+  background:var(--card);
+}
+.ring.hi{color:var(--accent)} .ring.mid{color:var(--amber)} .ring.lo{color:var(--red)}
+.ring b{font-family:"Instrument Serif",serif; font-size:28px; line-height:1; font-weight:400; font-variant-numeric:tabular-nums}
+.ring i{font-size:9px; font-weight:800; letter-spacing:.08em; color:var(--dim); font-style:normal}
+.vtext{flex:1 1 240px; min-width:200px}
+.vtitle{font-size:16px; font-weight:800; margin-bottom:6px}
+.vnote{font-size:13.5px; line-height:1.6; color:var(--muted)}
+.sect{margin-top:22px; padding-top:20px; border-top:1px solid var(--line-soft)}
+.slabel{font-size:10px; font-weight:800; letter-spacing:.14em; text-transform:uppercase; color:var(--dim); margin-bottom:12px}
+.diff{font-family:Caveat,cursive; font-size:27px; line-height:1.8; color:var(--pen)}
+.diff .w{margin-right:6px; white-space:nowrap}
+.diff .w.morph,.diff .w.spell{color:var(--amber); border-bottom:2px dotted var(--amber-line)}
+.diff .w.wrong,.diff .w.extra{color:var(--red); text-decoration:line-through}
+.diff .w.missing{color:var(--red)}
+.diff sup{font-size:15px; color:var(--red); margin-left:2px; text-decoration:none; line-height:1}
+.answers{display:flex; flex-direction:column; gap:10px}
+.arow{display:flex; gap:12px; align-items:flex-start}
+.arow .dot{margin-top:8px; width:5px; height:5px; border-radius:99px; background:var(--accent); flex:none}
+.arow span.txt{font-size:16.5px; line-height:1.55; color:var(--ink)}
+.aibox{margin-top:16px; padding:12px 14px; border-radius:12px; background:var(--card); border:1px solid var(--line-soft); font-size:13.5px; color:var(--muted)}
+.aibox b{color:var(--ink)}
+.aibox .corr{font-family:Caveat,cursive; font-size:23px; color:var(--pen); line-height:1.4; margin-top:6px}
+.spin{display:inline-block; width:11px; height:11px; border:2px solid var(--line); border-top-color:var(--accent); border-radius:50%; animation:sp .7s linear infinite; vertical-align:-1px; margin-right:4px}
+@keyframes sp{to{transform:rotate(360deg)}}
+
+.empty{background:var(--card); border:1px dashed var(--dash); border-radius:20px; padding:64px 28px; text-align:center; margin-top:16px}
+.empty h2{font-family:"Instrument Serif",serif; font-size:26px; margin:0 0 8px; font-weight:400}
+.empty p{font-size:14px; color:var(--faint); margin:0}
+
+.pager{display:flex; gap:6px; align-items:center; justify-content:center; padding:28px 0 0; flex-wrap:wrap}
+.pager button{
+  background:var(--card); border:1px solid var(--line); border-radius:11px; padding:9px 14px;
+  font-size:13px; font-weight:700; color:var(--muted); cursor:pointer; transition:all .15s;
+  font-variant-numeric:tabular-nums;
+}
+.pager button:hover:not([disabled]){border-color:var(--ink); color:var(--ink)}
+.pager button[aria-current="true"]{background:var(--ink); color:var(--bg); border-color:var(--ink)}
+.pager button[disabled]{opacity:.4; cursor:default}
+.pager .gap{color:var(--pale); padding:0 2px}
+
+footer{max-width:1060px; margin:40px auto 0; padding:20px 28px 0; border-top:1px solid var(--line); color:var(--faint); font-size:12px}
+
+#tip{
+  position:fixed; z-index:60; max-width:250px; padding:7px 11px; border-radius:10px;
+  background:var(--ink); color:var(--bg); font-size:13px; line-height:1.4; font-weight:600;
+  pointer-events:none; opacity:0; transform:translateY(4px); transition:opacity .12s, transform .12s;
+  box-shadow:0 8px 24px -8px rgba(0,0,0,.45);
+}
+#tip.on{opacity:1; transform:translateY(0)}
+
+@media (max-width:720px){
+  .masthead{padding:36px 20px 20px; gap:22px}
+  h1{font-size:38px}
+  .toolinner{padding:11px 20px}
+  .wrap{padding:0 20px}
+  .ex{padding:22px 20px; border-radius:16px}
+  .prompt{font-size:19px}
+  .ans{font-size:25px}
+  .panel{padding:18px 16px}
+  .ring{width:64px; height:64px}
+  .ring b{font-size:24px}
+  footer{padding:20px 20px 0}
+}
+</style>
+
+<header class="masthead">
+  <div class="brandcol">
+    <div class="brandrow">
+      <span class="glyph">W</span>
+      <span class="eyebrow">Writing practice · VI → EN</span>
+    </div>
+    <h1>Vở luyện viết tiếng Anh</h1>
+    <p class="lede">Rê chuột vào cụm tiếng Việt gạch chấm để xem gợi ý tiếng Anh, viết vào dòng kẻ rồi bấm chấm điểm.</p>
+  </div>
+  <div class="statcol">
+    <div class="stat">
+      <div class="statlabel">Đã làm</div>
+      <div class="statval"><span class="big" id="s-done">0</span><span class="sub">/ <span id="s-total">0</span></span></div>
+      <div class="track"><i id="s-fill"></i></div>
+    </div>
+    <div class="stat">
+      <div class="statlabel">Điểm TB</div>
+      <div class="statval"><span class="big" id="s-avg">—</span><span class="sub">/ 100</span></div>
+      <div class="statnote" id="s-note">Chưa có bài nào</div>
+    </div>
+    <button class="ghostbtn" id="account">Đăng nhập</button>
+    <button class="ghostbtn" id="theme">Nền tối</button>
+    <button class="ghostbtn" id="reset">Làm lại</button>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="toolinner">
+    <label class="search">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
+      <input id="q" type="text" placeholder="Tìm theo nội dung, từ tiếng Anh, chủ đề…" autocomplete="off">
+    </label>
+    <div class="tabs" id="levels" role="group" aria-label="Lọc theo trình độ">
+      <button data-lv="all" aria-pressed="true">Tất cả</button>
+      <button data-lv="A2" aria-pressed="false">A2</button>
+      <button data-lv="B1" aria-pressed="false">B1</button>
+      <button data-lv="B2" aria-pressed="false">B2</button>
+    </div>
+    <div class="combo" id="topic"></div>
+    <div class="combo" id="sort"></div>
+    <div class="combo" id="status"></div>
+    <label class="aipill dead" id="aiwrap" title="Cần Chrome có Built-in AI (Prompt API)">
+      <input type="checkbox" id="ai" hidden disabled>
+      <span class="dot"></span><span id="ailabel">AI trình duyệt</span>
+    </label>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="crumb"><span id="resultLabel">—</span><span id="filterLabel"></span></div>
+  <div class="list" id="sheet"></div>
+  <div class="pager" id="pager"></div>
+</main>
+
+<footer>Tiến độ lưu ngay trên máy bạn. Nhấn <b>Enter</b> để chấm, <b>Shift+Enter</b> để xuống dòng.</footer>
+
+<div id="tip" role="tooltip"></div>
+
+<div class="modal" id="loginModal" hidden>
+  <div class="mcard" role="dialog" aria-modal="true" aria-labelledby="mtitle">
+    <h2 id="mtitle">Đăng nhập</h2>
+    <p class="msub">Đăng nhập để tiến độ được lưu trên máy chủ và đồng bộ giữa các thiết bị. Không đăng nhập vẫn luyện bình thường, chỉ là tiến độ nằm lại trên máy này.</p>
+    <form id="loginForm" novalidate>
+      <label class="mfield"><span>Tên đăng nhập</span>
+        <input id="lu" type="text" autocomplete="username" autocapitalize="none" spellcheck="false"></label>
+      <label class="mfield"><span>Mật khẩu</span>
+        <input id="lp" type="password" autocomplete="current-password"></label>
+      <div class="merr" id="lerr" hidden></div>
+      <div class="mrow">
+        <button type="submit" class="act primary" id="lbtn">Đăng nhập</button>
+        <button type="button" class="act" id="lskip">Để sau</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div id="toast" hidden></div>
+
+<script src="data/sentences.js"></script>
+<script>
+const TOPICS = {
+  daily:"Đời sống hằng ngày", family:"Gia đình", work:"Công việc", school:"Học hành",
+  food:"Ăn uống", travel:"Du lịch", transport:"Đi lại", shopping:"Mua sắm",
+  money:"Tiền bạc", health:"Sức khỏe", tech:"Công nghệ", social:"Bạn bè & giao tiếp",
+  entertainment:"Giải trí", weather:"Thời tiết", society:"Xã hội"
+};
+
+const SEED = [
+{id:1,level:"A2",topic:"daily",chunks:[
+ {t:"Hồi nhỏ",en:"when I was little / when I was a kid"},
+ {t:"tôi hay chơi",en:"I used to play"},
+ {t:"bóng đá",en:"football / soccer"},
+ {t:"với mấy đứa",en:"with the kids"},
+ {t:"trong xóm.",en:"in my neighborhood"}],
+ answers:["When I was little, I used to play football with the kids in my neighborhood.",
+          "When I was a kid, I used to play soccer with the kids in my neighborhood."]},
+
+{id:2,level:"A2",topic:"food",chunks:[
+ {t:"Sáng nay",en:"this morning"},
+ {t:"tôi không kịp",en:"I didn't have time to"},
+ {t:"ăn sáng",en:"have breakfast"},
+ {t:"nên giờ",en:"so now"},
+ {t:"đói muốn xỉu.",en:"I'm starving"}],
+ answers:["I didn't have time to have breakfast this morning, so now I'm starving.",
+          "I didn't have time for breakfast this morning, so I'm starving now."]},
+
+{id:3,level:"A2",topic:"work",chunks:[
+ {t:"Sếp tôi",en:"my boss"},
+ {t:"lúc nào cũng",en:"always"},
+ {t:"trả lời email",en:"replies to emails / answers emails"},
+ {t:"lúc nửa đêm.",en:"at midnight"}],
+ answers:["My boss always replies to emails at midnight.",
+          "My boss always answers emails at midnight."]},
+
+{id:4,level:"A2",topic:"transport",chunks:[
+ {t:"Tôi mất",en:"it takes me"},
+ {t:"gần một tiếng",en:"almost an hour / nearly an hour"},
+ {t:"để đi",en:"to get"},
+ {t:"từ nhà",en:"from home / from my house"},
+ {t:"đến chỗ làm.",en:"to work"}],
+ answers:["It takes me almost an hour to get from home to work.",
+          "It takes me nearly an hour to get from my house to work."]},
+
+{id:5,level:"A2",topic:"shopping",chunks:[
+ {t:"Cái áo này",en:"this shirt"},
+ {t:"nhìn đẹp đấy",en:"looks nice / looks good"},
+ {t:"nhưng hơi mắc",en:"but it's a bit expensive"},
+ {t:"so với tôi.",en:"for me"}],
+ answers:["This shirt looks nice, but it's a bit expensive for me.",
+          "This shirt looks good, but it's a little too expensive for me."]},
+
+{id:6,level:"A2",topic:"family",chunks:[
+ {t:"Chị tôi",en:"my sister / my older sister"},
+ {t:"vừa sinh em bé",en:"just had a baby"},
+ {t:"nên cả nhà",en:"so everyone in the family"},
+ {t:"ai cũng bận.",en:"is busy"}],
+ answers:["My sister just had a baby, so everyone in the family is busy.",
+          "My older sister just had a baby, so the whole family is busy."]},
+
+{id:7,level:"A2",topic:"weather",chunks:[
+ {t:"Trời nóng quá,",en:"it's so hot"},
+ {t:"tôi chẳng muốn",en:"I don't want to / I don't feel like"},
+ {t:"ra khỏi nhà.",en:"leaving the house / going out"}],
+ answers:["It's so hot that I don't want to leave the house.",
+          "It's so hot, I don't feel like going out."]},
+
+{id:8,level:"A2",topic:"daily",chunks:[
+ {t:"Tôi thường đi ngủ",en:"I usually go to bed"},
+ {t:"lúc mười một giờ,",en:"at eleven"},
+ {t:"nhưng tối qua",en:"but last night"},
+ {t:"tôi thức tới",en:"I stayed up until"},
+ {t:"hai giờ sáng.",en:"two in the morning"}],
+ answers:["I usually go to bed at eleven, but last night I stayed up until two in the morning.",
+          "I usually go to bed at 11, but last night I stayed up until 2 in the morning."]},
+
+{id:9,level:"B1",topic:"tech",chunks:[
+ {t:"Điện thoại tôi",en:"my phone"},
+ {t:"hết pin",en:"died / ran out of battery"},
+ {t:"giữa chừng",en:"halfway through"},
+ {t:"nên cuộc gọi",en:"so the call"},
+ {t:"bị ngắt.",en:"got cut off"}],
+ answers:["My phone died halfway through, so the call got cut off.",
+          "My phone ran out of battery halfway through, so the call was cut off."]},
+
+{id:10,level:"B1",topic:"social",chunks:[
+ {t:"Tôi định nhắn cho bạn",en:"I meant to text you / I've been meaning to text you"},
+ {t:"từ hôm qua",en:"since yesterday"},
+ {t:"nhưng bận quá",en:"but I was so busy"},
+ {t:"nên quên mất.",en:"that I forgot"}],
+ answers:["I've been meaning to text you since yesterday, but I was so busy that I forgot.",
+          "I meant to text you yesterday, but I was so busy that I forgot."]},
+
+{id:11,level:"B1",topic:"work",chunks:[
+ {t:"Cuộc họp",en:"the meeting"},
+ {t:"bị dời sang",en:"was pushed back to / was moved to"},
+ {t:"thứ Sáu",en:"Friday"},
+ {t:"vì sếp phải",en:"because the boss had to"},
+ {t:"đi công tác",en:"go on a business trip"},
+ {t:"đột xuất.",en:"unexpected / at short notice"}],
+ answers:["The meeting was pushed back to Friday because the boss had to go on an unexpected business trip.",
+          "The meeting was moved to Friday because the boss had to go on a business trip at short notice."]},
+
+{id:12,level:"B1",topic:"money",chunks:[
+ {t:"Tháng này",en:"this month"},
+ {t:"tôi tiêu hơi quá tay",en:"I overspent a bit"},
+ {t:"nên mấy tuần tới",en:"so for the next few weeks"},
+ {t:"phải tiết kiệm lại.",en:"I have to cut back"}],
+ answers:["I overspent a bit this month, so for the next few weeks I have to cut back.",
+          "I overspent a little this month, so I have to cut back for the next few weeks."]},
+
+{id:13,level:"B1",topic:"health",chunks:[
+ {t:"Bác sĩ dặn tôi",en:"the doctor told me to"},
+ {t:"bớt uống cà phê",en:"cut down on coffee / drink less coffee"},
+ {t:"và đi ngủ",en:"and go to bed"},
+ {t:"sớm hơn.",en:"earlier"}],
+ answers:["The doctor told me to cut down on coffee and go to bed earlier.",
+          "The doctor told me to drink less coffee and go to bed earlier."]},
+
+{id:14,level:"B1",topic:"travel",chunks:[
+ {t:"Nếu cuối tuần",en:"if this weekend"},
+ {t:"trời đẹp",en:"the weather is nice"},
+ {t:"thì tụi mình",en:"we'll"},
+ {t:"chạy xe lên",en:"ride up to / drive up to"},
+ {t:"Đà Lạt chơi.",en:"Da Lat"}],
+ answers:["If the weather is nice this weekend, we'll ride up to Da Lat.",
+          "If the weather is good this weekend, we'll drive up to Da Lat."]},
+
+{id:15,level:"B1",topic:"entertainment",chunks:[
+ {t:"Phim đó",en:"that movie"},
+ {t:"tôi xem ba lần rồi",en:"I've seen it three times"},
+ {t:"mà lần nào cũng khóc.",en:"and I cry every time"}],
+ answers:["I've seen that movie three times, and I cry every time.",
+          "I've watched that movie three times, but I cry every time."]},
+
+{id:16,level:"B2",topic:"work",chunks:[
+ {t:"Nếu biết",en:"if I had known"},
+ {t:"dự án kéo dài",en:"the project would drag on"},
+ {t:"như vậy",en:"like this"},
+ {t:"thì tôi đã không nhận rồi.",en:"I wouldn't have taken it"}],
+ answers:["If I had known the project would drag on like this, I wouldn't have taken it.",
+          "If I had known the project would last this long, I wouldn't have taken it."]},
+
+{id:17,level:"B2",topic:"work",chunks:[
+ {t:"Càng làm lâu",en:"the longer I work"},
+ {t:"trong nghề này,",en:"in this field / in this industry"},
+ {t:"tôi càng thấy",en:"the more I realize"},
+ {t:"kỹ năng giao tiếp",en:"communication skills"},
+ {t:"quan trọng hơn",en:"matter more than"},
+ {t:"kỹ thuật.",en:"technical ones"}],
+ answers:["The longer I work in this field, the more I realize that communication skills matter more than technical ones.",
+          "The longer I work in this industry, the more I see that communication skills are more important than technical skills."]},
+
+{id:18,level:"B2",topic:"society",chunks:[
+ {t:"Giá nhà",en:"house prices"},
+ {t:"ở thành phố",en:"in the city"},
+ {t:"tăng nhanh đến mức",en:"have risen so fast that"},
+ {t:"người trẻ",en:"young people"},
+ {t:"gần như không mua nổi.",en:"can hardly afford one"}],
+ answers:["House prices in the city have risen so fast that young people can hardly afford one.",
+          "Housing prices in the city have gone up so fast that young people can barely afford to buy one."]},
+
+{id:19,level:"B2",topic:"social",chunks:[
+ {t:"Đáng lẽ tôi nên từ chối",en:"I should have said no / I should have refused"},
+ {t:"ngay từ đầu",en:"from the start"},
+ {t:"thay vì",en:"instead of"},
+ {t:"để mọi chuyện",en:"letting things"},
+ {t:"đi xa như vậy.",en:"go this far"}],
+ answers:["I should have said no from the start instead of letting things go this far.",
+          "I should have refused from the beginning instead of letting things go this far."]},
+
+{id:20,level:"B2",topic:"tech",chunks:[
+ {t:"Công ty tôi",en:"my company"},
+ {t:"đang cân nhắc",en:"is considering / is thinking about"},
+ {t:"chuyển hẳn sang",en:"switching entirely to / moving fully to"},
+ {t:"làm việc từ xa,",en:"remote work"},
+ {t:"nhưng chưa ai",en:"but no one"},
+ {t:"dám quyết.",en:"has dared to make the call"}],
+ answers:["My company is considering switching entirely to remote work, but no one has dared to make the call yet.",
+          "My company is thinking about moving fully to remote work, but nobody has dared to decide yet."]}
+];
+
+const DATA = (window.SENTENCES_DATA && window.SENTENCES_DATA.length ? window.SENTENCES_DATA : SEED)
+  .map(s => ({...s, vi: s.chunks.map(c=>c.t).join(" ")}));
+
+const CONTRACTIONS = {"don't":"do not","doesn't":"does not","didn't":"did not","isn't":"is not",
+ "aren't":"are not","wasn't":"was not","weren't":"were not","hasn't":"has not","haven't":"have not",
+ "hadn't":"had not","won't":"will not","wouldn't":"would not","can't":"cannot","couldn't":"could not",
+ "shouldn't":"should not","i'm":"i am","i've":"i have","i'd":"i would","i'll":"i will","it's":"it is",
+ "he's":"he is","she's":"she is","that's":"that is","there's":"there is","we're":"we are","we've":"we have",
+ "we'll":"we will","they're":"they are","they've":"they have","you're":"you are","you've":"you have","let's":"let us"};
+
+const BRITISH = {behaviour:"behavior",colour:"color",colours:"colors",favour:"favor",favourite:"favorite",
+ neighbour:"neighbor",neighbours:"neighbors",neighbourhood:"neighborhood",neighbourhoods:"neighborhoods",
+ labour:"labor",honour:"honor",humour:"humor",flavour:"flavor",harbour:"harbor",rumour:"rumor",
+ centre:"center",centres:"centers",theatre:"theater",metre:"meter",metres:"meters",litre:"liter",fibre:"fiber",
+ realise:"realize",realised:"realized",organise:"organize",organised:"organized",organisation:"organization",
+ apologise:"apologize",apologised:"apologized",recognise:"recognize",recognised:"recognized",analyse:"analyze",
+ practise:"practice",practised:"practiced",licence:"license",defence:"defense",offence:"offense",
+ grey:"gray",cheque:"check",tyre:"tire",tyres:"tires",programme:"program",programmes:"programs",
+ whilst:"while",maths:"math",learnt:"learned",dreamt:"dreamed",spelt:"spelled",burnt:"burned",
+ storey:"story",jewellery:"jewelry",sceptical:"skeptical",travelled:"traveled",travelling:"traveling",
+ cancelled:"canceled",cancelling:"canceling",modelling:"modeling",aeroplane:"airplane",pyjamas:"pajamas",
+ moustache:"mustache",catalogue:"catalog",dialogue:"dialog",aluminium:"aluminum",kerb:"curb"};
+
+const FUNC = new Set("a an the to of in on at for with and or but so is are am was were be been do does did have has had will would can could should that this it its my his her their our your up out very just really then still about from by as than there here no not".split(" "));
+
+const IRREG = [
+ ["be","am","is","are","was","were","been","being"],["go","goes","went","gone"],["have","has","had"],
+ ["do","does","did","done"],["take","takes","took","taken"],["get","gets","got","gotten"],
+ ["make","makes","made"],["say","says","said"],["see","sees","saw","seen"],["come","comes","came"],
+ ["know","knows","knew","known"],["think","thinks","thought"],["buy","buys","bought"],
+ ["bring","brings","brought"],["tell","tells","told"],["find","finds","found"],["give","gives","gave","given"],
+ ["leave","leaves","left"],["feel","feels","felt"],["keep","keeps","kept"],["run","runs","ran"],
+ ["eat","eats","ate","eaten"],["drink","drinks","drank","drunk"],["write","writes","wrote","written"],
+ ["speak","speaks","spoke","spoken"],["break","breaks","broke","broken"],["sleep","sleeps","slept"],
+ ["spend","spends","spent"],["send","sends","sent"],["meet","meets","met"],["pay","pays","paid"],
+ ["sit","sits","sat"],["stand","stands","stood"],["understand","understands","understood"],
+ ["forget","forgets","forgot","forgotten"],["drive","drives","drove","driven"],["ride","rides","rode","ridden"],
+ ["rise","rises","rose","risen"],["wear","wears","wore","worn"],["win","wins","won"],["lose","loses","lost"],
+ ["teach","teaches","taught"],["catch","catches","caught"],["choose","chooses","chose","chosen"],
+ ["fall","falls","fell","fallen"],["hold","holds","held"],["hear","hears","heard"],["cost","costs"],
+ ["child","children"],["person","people"],["man","men"],["woman","women"],["foot","feet"],["tooth","teeth"]
+];
+const LEMMA = {};
+IRREG.forEach((g,i)=>g.forEach(w=>LEMMA[w]="g"+i));
+
+function expand(s){
+  return s.replace(/[’ʼ]/g,"'").toLowerCase()
+    .replace(/\b[a-z']+\b/g, w => CONTRACTIONS[w] || w);
+}
+function tok(s){
+  return expand(String(s||""))
+    .replace(/[“”"]/g," ")
+    .replace(/[.,;:!?()—–-]/g," ")
+    .split(/\s+/).filter(Boolean)
+    .map(w => BRITISH[w] || w);
+}
+function base(w){
+  let x = w;
+  if(/ies$/.test(x) && x.length>4) x = x.slice(0,-3)+"y";
+  else{
+    x = x.replace(/(sses|shes|ches|xes|zes)$/, m=>m.slice(0,-2));
+    x = x.replace(/(ing|ed|es|s|d)$/,"");
+    x = x.replace(/([bdfglmnprt])\1$/,"$1");
+  }
+  return x;
+}
+function sameLemma(a,b){
+  if(a===b) return true;
+  if(LEMMA[a] && LEMMA[a]===LEMMA[b]) return true;
+  const x=base(a), y=base(b);
+  if(x===y+"e" || x+"e"===y) return true;
+  return x===y && x.length>=2;
+}
+function lev(a,b){
+  const m=a.length,n=b.length; if(!m||!n) return Math.max(m,n);
+  let prev=Array.from({length:n+1},(_,j)=>j), cur=new Array(n+1);
+  for(let i=1;i<=m;i++){
+    cur[0]=i;
+    for(let j=1;j<=n;j++)
+      cur[j]=Math.min(prev[j]+1, cur[j-1]+1, prev[j-1]+(a[i-1]===b[j-1]?0:1));
+    [prev,cur]=[cur,prev];
+  }
+  return prev[n];
+}
+function align(a,b){
+  const n=a.length, m=b.length;
+  const d=Array.from({length:n+1},()=>new Array(m+1).fill(0));
+  for(let i=0;i<=n;i++) d[i][0]=i;
+  for(let j=0;j<=m;j++) d[0][j]=j;
+  for(let i=1;i<=n;i++) for(let j=1;j<=m;j++){
+    const c = a[i-1]===b[j-1] ? 0 : 1;
+    d[i][j]=Math.min(d[i-1][j]+1, d[i][j-1]+1, d[i-1][j-1]+c);
+  }
+  const ops=[]; let i=n, j=m;
+  while(i>0 || j>0){
+    if(i>0 && j>0 && d[i][j]===d[i-1][j-1]+(a[i-1]===b[j-1]?0:1)){
+      ops.push({op:a[i-1]===b[j-1]?"eq":"sub", u:a[i-1], r:b[j-1]}); i--; j--;
+    } else if(i>0 && d[i][j]===d[i-1][j]+1){ ops.push({op:"ins", u:a[i-1]}); i--; }
+    else { ops.push({op:"del", r:b[j-1]}); j--; }
+  }
+  return ops.reverse();
+}
+const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+
+function gradeOne(user, ref){
+  const u=tok(user), r=tok(ref);
+  const ops=align(u,r);
+  let pen=0, morph=0, spell=0, wrong=0, missing=0, extra=0;
+  for(const o of ops){
+    if(o.op==="eq") continue;
+    if(o.op==="sub"){
+      if(sameLemma(o.u,o.r)){ o.kind="morph"; pen+=6; morph++; }
+      else if(lev(o.u,o.r)<=2 && Math.max(o.u.length,o.r.length)>=4){ o.kind="spell"; pen+=7; spell++; }
+      else { o.kind="wrong"; pen += FUNC.has(o.r)?7:12; wrong++; }
+    } else if(o.op==="ins"){ o.kind="extra"; pen += FUNC.has(o.u)?6:11; extra++; }
+    else { o.kind="missing"; pen += FUNC.has(o.r)?6:11; missing++; }
+  }
+  const orderOnly = pen>0 && u.length===r.length &&
+    [...u].sort().join(" ")===[...r].sort().join(" ");
+  if(orderOnly) pen=Math.min(pen,16);
+
+  const scale = clamp(12/Math.max(r.length,4), .75, 1.5);
+  let score = pen===0 ? 100 : Math.round(100 - pen*scale);
+  const notes=[];
+  if(orderOnly) notes.push("đúng từ nhưng sai trật tự");
+  if(morph)   notes.push(morph+" lỗi chia từ (số nhiều / thì / -s)");
+  if(spell)   notes.push(spell+" lỗi chính tả");
+  if(wrong)   notes.push(wrong+" từ dùng sai");
+  if(missing) notes.push(missing+" từ còn thiếu");
+  if(extra)   notes.push(extra+" từ thừa");
+  const uR=String(user).trim(), rR=String(ref).trim();
+  if(uR && rR && uR[0]!==uR[0].toUpperCase() && rR[0]===rR[0].toUpperCase()){
+    score-=2; notes.push("nhớ viết hoa chữ đầu câu");
+  }
+  const ue=uR.slice(-1), re=rR.slice(-1);
+  if(/[.!?]/.test(re) && ue!==re){ score-=2; notes.push('thiếu dấu "'+re+'" ở cuối câu'); }
+  score = clamp(score,0,100);
+  return {score, ops, notes, ref, refTokens:r, counts:{morph,spell,wrong,missing,extra}};
+}
+function grade(user, refs){
+  if(!tok(user).length) return {score:0, ops:[], notes:["bạn chưa viết gì"], ref:refs[0], refTokens:tok(refs[0]), counts:{}};
+  return refs.map(r=>gradeOne(user,r)).sort((a,b)=>b.score-a.score)[0];
+}
+
+function verdictOf(s){
+  if(s>=95) return "Gần như hoàn hảo";
+  if(s>=85) return "Ổn rồi, còn vài lỗi nhỏ";
+  if(s>=70) return "Đúng ý, cần chỉnh ngữ pháp";
+  if(s>=50) return "Hiểu được nhưng còn lệch nhiều";
+  return "Nên viết lại theo đáp án";
+}
+const band = s => s>=85 ? "hi" : s>=70 ? "mid" : "lo";
+
+/* ============================ AI TRÌNH DUYỆT ============================= */
+const AI = { api:null, session:null, ready:false };
+async function detectAI(){
+  const wrap=document.getElementById("aiwrap"), box=document.getElementById("ai"),
+        label=document.getElementById("ailabel");
+  try{
+    const LM = self.LanguageModel || (self.ai && self.ai.languageModel);
+    if(!LM) throw new Error("no api");
+    let av;
+    if(LM.availability) av = await LM.availability();
+    else if(LM.capabilities) av = (await LM.capabilities()).available;
+    if(!av || av==="unavailable" || av==="no") throw new Error("unavailable");
+    AI.api=LM; AI.ready=true;
+    wrap.classList.remove("dead"); wrap.classList.add("live"); box.disabled=false;
+    label.textContent = (av==="available"||av==="readily") ? "Chấm bằng AI" : "Chấm bằng AI · tải model";
+    wrap.title="Model AI chạy ngay trong trình duyệt, câu của bạn không gửi đi đâu";
+  }catch(e){
+    label.textContent="AI trình duyệt: không khả dụng";
+    wrap.title="Trình duyệt chưa bật Built-in AI (Prompt API). Vẫn chấm được bằng bộ chấm nội bộ.";
+  }
+}
+async function aiSession(onProgress){
+  if(AI.session) return AI.session;
+  AI.session = await AI.api.create({
+    initialPrompts:[{role:"system", content:
+      "You are a patient English teacher grading translations written by Vietnamese learners. "+
+      "You always answer with a single JSON object and nothing else."}],
+    monitor(m){
+      m.addEventListener("downloadprogress", e=>{
+        const pct = e.total ? e.loaded/e.total : e.loaded;
+        if(onProgress) onProgress(Math.round(pct*100));
+      });
+    }
+  });
+  return AI.session;
+}
+async function aiGrade(item, user, onProgress){
+  const s = await aiSession(onProgress);
+  const p =
+`Vietnamese sentence: "${item.vi}"
+Reference translations:
+${item.answers.map(a=>"- "+a).join("\n")}
+Student's answer: "${user}"
+
+Grade the student's answer from 0 to 100.
+Rules: any natural English carrying the same meaning is fully correct even if worded differently from the references.
+Small slips (plural -s, third-person -s, articles, minor tense) cost only a few points.
+Wrong or missing meaning costs a lot.
+Return ONLY this JSON: {"score": <integer 0-100>, "corrected": "<the student's sentence fixed, keeping their wording>", "feedback_vi": "<one or two short sentences of feedback in Vietnamese>"}`;
+  const raw = await s.prompt(p);
+  const m = raw.match(/\{[\s\S]*\}/);
+  if(!m) throw new Error("bad json");
+  const o = JSON.parse(m[0]);
+  return {score:clamp(Math.round(Number(o.score)),0,100), corrected:o.corrected||"", feedback:o.feedback_vi||""};
+}
+
+/* ============================== TRẠNG THÁI =============================== */
+const KEY="vlv.progress.v1";
+let progress = {};
+try{ progress = JSON.parse(localStorage.getItem(KEY) || "{}"); }catch(e){ progress={}; }
+const save = () => { try{ localStorage.setItem(KEY, JSON.stringify(progress)); }catch(e){} };
+const P = id => (progress[id] = progress[id] || {text:"", score:null, ai:false, at:0});
+
+const state = {q:"", level:"all", topic:"all", sort:"easy", status:"all", page:1, size:20, seed:1};
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const LVORD = {A2:0,B1:1,B2:2};
+const byId = id => DATA.find(d=>d.id===id);
+
+function filtered(){
+  const q = state.q.trim().toLowerCase();
+  const list = DATA.filter(d=>{
+    if(state.level!=="all" && d.level!==state.level) return false;
+    if(state.topic!=="all" && d.topic!==state.topic) return false;
+    const p = progress[d.id];
+    if(state.status==="todo" && p && p.score!=null) return false;
+    if(state.status==="done" && !(p && p.score!=null)) return false;
+    if(state.status==="weak" && !(p && p.score!=null && p.score<80)) return false;
+    if(!q) return true;
+    return (d.vi+" "+d.answers.join(" ")+" "+(TOPICS[d.topic]||"")).toLowerCase().includes(q);
+  });
+  const sc = id => (progress[id] && progress[id].score!=null) ? progress[id].score : 101;
+  const by = {
+    easy:(a,b)=>a.id-b.id,
+    hard:(a,b)=>b.id-a.id,
+    topic:(a,b)=>(TOPICS[a.topic]||"").localeCompare(TOPICS[b.topic]||"","vi") || a.id-b.id,
+    alpha:(a,b)=>a.vi.localeCompare(b.vi,"vi"),
+    len:(a,b)=>a.vi.length-b.vi.length,
+    low:(a,b)=>sc(a.id)-sc(b.id) || a.id-b.id,
+    random:(a,b)=>(Math.sin(a.id*state.seed)*1e4%1)-(Math.sin(b.id*state.seed)*1e4%1)
+  };
+  return list.sort(by[state.sort] || by.easy);
+}
+
+function cardHTML(d, idx){
+  const p = progress[d.id] || {text:"", score:null, ai:false};
+  const prompt = d.chunks.map(c => c.en
+    ? `<span class="ch" data-en="${esc(c.en)}">${esc(c.t)}</span>`
+    : esc(c.t)).join(" ");
+  const badge = p.score==null ? "" :
+    `<span class="badge ${band(p.score)}">${p.ai ? "AI · "+p.score : p.score+" điểm"}</span>`;
+  return `<article class="ex" data-id="${d.id}">
+    <div class="exhead">
+      <span class="num">${idx}</span>
+      <span class="lv ${d.level.toLowerCase()}">${d.level}</span>
+      <span class="tpc">${esc(TOPICS[d.topic]||d.topic)}</span>
+      <span class="spacer"></span>${badge}
+    </div>
+    <p class="prompt">${prompt}</p>
+    <div class="linebox">
+      <textarea class="ans" rows="1" spellcheck="false" placeholder="Write your English sentence…">${esc(p.text)}</textarea>
+    </div>
+    <div class="tools">
+      <button class="act primary" data-a="check">Chấm điểm</button>
+      <button class="act" data-a="hints">Gợi ý từ vựng</button>
+      <button class="act" data-a="show">Xem đáp án</button>
+      <button class="act quiet" data-a="clear">Xóa</button>
+    </div>
+    <div class="slot"></div>
+  </article>`;
+}
+
+function grow(ta){ ta.style.height="auto"; ta.style.height = Math.max(44, ta.scrollHeight) + "px"; }
+
+function stats(){
+  const scores = Object.values(progress).map(p=>p.score).filter(s=>s!=null);
+  const avg = scores.length ? Math.round(scores.reduce((a,b)=>a+b,0)/scores.length) : null;
+  document.getElementById("s-done").textContent = scores.length;
+  document.getElementById("s-total").textContent = DATA.length;
+  document.getElementById("s-fill").style.width = DATA.length ? (scores.length/DATA.length*100)+"%" : "0";
+  document.getElementById("s-avg").textContent = avg==null ? "—" : avg;
+  document.getElementById("s-note").textContent = avg==null ? "Chưa có bài nào" : verdictOf(avg);
+}
+
+function render(){
+  const list = filtered();
+  const pages = Math.max(1, Math.ceil(list.length/state.size));
+  state.page = clamp(state.page,1,pages);
+  const start = (state.page-1)*state.size;
+  const page = list.slice(start, start+state.size);
+  const sheet = document.getElementById("sheet");
+
+  sheet.innerHTML = page.length
+    ? page.map((d,i)=>cardHTML(d, start+i+1)).join("")
+    : `<div class="empty"><h2>Không có câu nào khớp</h2><p>Thử bỏ bớt bộ lọc hoặc tìm từ khác.</p></div>`;
+  sheet.querySelectorAll(".ans").forEach(grow);
+
+  document.getElementById("resultLabel").textContent =
+    list.length ? `${list.length} câu · trang ${state.page}/${pages}` : "Không có kết quả";
+  const bits = [];
+  if(state.level!=="all") bits.push(state.level);
+  if(state.topic!=="all") bits.push(TOPICS[state.topic]||state.topic);
+  if(state.status!=="all") bits.push({todo:"chưa làm",done:"đã chấm",weak:"dưới 80"}[state.status]);
+  document.getElementById("filterLabel").textContent = bits.join(" · ");
+
+  const pager = document.getElementById("pager");
+  if(pages>1){
+    const nums=[];
+    for(let i=1;i<=pages;i++){
+      if(i===1||i===pages||Math.abs(i-state.page)<=2) nums.push(i);
+      else if(nums[nums.length-1]!=="…") nums.push("…");
+    }
+    pager.innerHTML = `<button data-p="${state.page-1}" ${state.page===1?"disabled":""}>← Trước</button>`+
+      nums.map(n=> n==="…" ? `<span class="gap">…</span>`
+        : `<button data-p="${n}" aria-current="${n===state.page}">${n}</button>`).join("")+
+      `<button data-p="${state.page+1}" ${state.page===pages?"disabled":""}>Sau →</button>`;
+  } else pager.innerHTML="";
+  stats();
+}
+
+/* ------------------------------- kết quả -------------------------------- */
+function diffHTML(ops){
+  return ops.map(o=>{
+    if(o.op==="eq")  return `<span class="w">${esc(o.u)}</span>`;
+    if(o.op==="sub") return `<span class="w ${o.kind}">${esc(o.u)}<sup>${esc(o.r)}</sup></span>`;
+    if(o.op==="ins") return `<span class="w extra">${esc(o.u)}</span>`;
+    return `<span class="w missing">^${esc(o.r)}</span>`;
+  }).join(" ");
+}
+function answersHTML(item){
+  return `<div class="answers">` + item.answers.map(a=>
+    `<div class="arow"><span class="dot"></span><span class="txt">${esc(a)}</span></div>`).join("") + `</div>`;
+}
+function showResult(card, item, res, aiRes, loading){
+  const score = aiRes ? aiRes.score : res.score;
+  const b = band(score);
+  let ai = "";
+  if(loading) ai = `<div class="aibox"><span class="spin"></span>AI trong trình duyệt đang xem lại bài của bạn…</div>`;
+  else if(aiRes) ai = `<div class="aibox"><b>Nhận xét của AI.</b> ${esc(aiRes.feedback)}`+
+      (aiRes.corrected?`<div class="corr">${esc(aiRes.corrected)}</div>`:"")+`</div>`;
+
+  card.querySelector(".slot").innerHTML = `<div class="panel">
+    <div class="verdictrow">
+      <div class="ring ${b}"><b>${score}</b><i>/100</i></div>
+      <div class="vtext">
+        <div class="vtitle">${esc(verdictOf(score))}</div>
+        <div class="vnote">${esc(res.notes.length ? res.notes.join(" · ") : "Khớp gần như hoàn hảo với đáp án tham khảo.")}</div>
+      </div>
+    </div>
+    ${res.ops.length?`<div class="sect"><div class="slabel">Bài của bạn — bút đỏ là chỗ cần sửa</div><div class="diff">${diffHTML(res.ops)}</div></div>`:""}
+    <div class="sect"><div class="slabel">Đáp án tham khảo</div>${answersHTML(item)}</div>
+    ${ai}
+  </div>`;
+}
+function setBadge(card, score, isAI){
+  let b = card.querySelector(".badge");
+  if(!b){ b=document.createElement("span"); b.className="badge"; card.querySelector(".exhead").appendChild(b); }
+  b.className = "badge " + band(score);
+  b.textContent = isAI ? "AI · "+score : score+" điểm";
+}
+
+async function doCheck(card, item){
+  const ta = card.querySelector(".ans");
+  const text = ta.value.trim();
+  const res = grade(text, item.answers);
+  const p = P(item.id); p.text=text; p.score=res.score; p.ai=false; p.at=Date.now(); save(); markDirty();
+  const useAI = document.getElementById("ai").checked && AI.ready && text;
+  showResult(card, item, res, null, useAI);
+  setBadge(card, res.score, false);
+  stats();
+  if(useAI){
+    const note = pct => {
+      const box = card.querySelector(".aibox");
+      if(box) box.innerHTML = `<span class="spin"></span>Đang tải model AI về máy (chỉ lần đầu): ${pct}%`;
+    };
+    try{
+      const aiRes = await aiGrade(item, text, note);
+      p.score = aiRes.score; p.ai = true; p.at = Date.now(); save(); markDirty();
+      showResult(card, item, res, aiRes, false);
+      setBadge(card, aiRes.score, true);
+      stats();
+    }catch(e){
+      const box = card.querySelector(".aibox");
+      if(box) box.textContent = "AI trong trình duyệt không chấm được lần này — điểm bên trên do bộ chấm nội bộ đưa ra.";
+    }
+  }
+}
+
+/* ------------------------------- sự kiện -------------------------------- */
+const sheet = document.getElementById("sheet");
+
+sheet.addEventListener("click", e=>{
+  const btn = e.target.closest("button.act");
+  if(btn){
+    const card = btn.closest(".ex");
+    const item = byId(Number(card.dataset.id));
+    const slot = card.querySelector(".slot");
+    const a = btn.dataset.a;
+    if(a==="check") doCheck(card, item);
+    if(a==="clear"){
+      const ta = card.querySelector(".ans");
+      ta.value=""; grow(ta); slot.innerHTML="";
+      const b=card.querySelector(".badge"); if(b) b.remove();
+      const h=card.querySelector(".hints"); if(h) h.remove();
+      progress[item.id] = {text:"", score:null, ai:false, at:Date.now()};
+      save(); markDirty(); stats();
+    }
+    if(a==="show"){
+      slot.innerHTML = `<div class="panel"><div class="slabel">Đáp án tham khảo</div>${answersHTML(item)}</div>`;
+    }
+    if(a==="hints"){
+      const open = card.querySelector(".hints");
+      if(open){ open.remove(); btn.textContent="Gợi ý từ vựng"; return; }
+      const h = document.createElement("div");
+      h.className="hints";
+      h.innerHTML = item.chunks.filter(c=>c.en)
+        .map(c=>`<span class="hint">${esc(c.t.replace(/[.,]$/,""))}<s>→</s><i>${esc(c.en)}</i></span>`).join("");
+      card.querySelector(".prompt").after(h);
+      btn.textContent="Ẩn gợi ý";
+    }
+    return;
+  }
+  const ch = e.target.closest(".ch");
+  if(ch && matchMedia("(hover: none)").matches) toggleTip(ch);
+});
+
+sheet.addEventListener("input", e=>{
+  if(!e.target.classList.contains("ans")) return;
+  grow(e.target);
+  const pe = P(Number(e.target.closest(".ex").dataset.id));
+  pe.text = e.target.value; pe.at = Date.now();
+  clearTimeout(window.__sv); window.__sv=setTimeout(()=>{ save(); markDirty(); }, 400);
+});
+sheet.addEventListener("keydown", e=>{
+  if(e.target.classList.contains("ans") && e.key==="Enter" && !e.shiftKey){
+    e.preventDefault();
+    const card=e.target.closest(".ex");
+    doCheck(card, byId(Number(card.dataset.id)));
+  }
+});
+
+/* tooltip gợi ý cụm từ */
+const tip = document.getElementById("tip");
+let tipEl=null;
+function placeTip(el){
+  const r = el.getBoundingClientRect();
+  tip.textContent = el.dataset.en;
+  tip.classList.add("on");
+  const w = tip.offsetWidth, h = tip.offsetHeight;
+  let x = clamp(r.left + r.width/2 - w/2, 8, innerWidth - w - 8);
+  let y = r.top - h - 8;
+  if(y < 8) y = r.bottom + 8;
+  tip.style.left = x+"px"; tip.style.top = y+"px";
+}
+function hideTip(){ tip.classList.remove("on"); if(tipEl) tipEl.classList.remove("on"); tipEl=null; }
+function toggleTip(el){
+  if(tipEl===el){ hideTip(); return; }
+  hideTip(); tipEl=el; el.classList.add("on"); placeTip(el);
+}
+sheet.addEventListener("mouseover", e=>{
+  const ch=e.target.closest(".ch"); if(!ch||matchMedia("(hover: none)").matches) return;
+  tipEl=ch; placeTip(ch);
+});
+sheet.addEventListener("mouseout", e=>{ if(e.target.closest(".ch")) hideTip(); });
+addEventListener("scroll", ()=>{ if(tipEl) hideTip(); }, {passive:true});
+document.addEventListener("click", e=>{ if(!e.target.closest(".ch")) hideTip(); });
+
+/* thanh công cụ */
+document.getElementById("q").addEventListener("input", e=>{ state.q=e.target.value; state.page=1; render(); });
+document.getElementById("levels").addEventListener("click", e=>{
+  const b=e.target.closest("button"); if(!b) return;
+  state.level=b.dataset.lv; state.page=1;
+  [...e.currentTarget.children].forEach(x=>x.setAttribute("aria-pressed", x===b));
+  render();
+});
+/* ---- combobox tự dựng: có lọc gõ tay, điều hướng bàn phím ---- */
+function makeCombo(host, opts, cur, onPick, phold){
+  const searchable = opts.length > 6;
+  let open=false, active=0, list=opts.slice();
+  host.innerHTML = `
+    <button class="combo-btn" type="button" aria-haspopup="listbox" aria-expanded="false">
+      <span class="combo-val"></span>
+      <svg class="combo-chev" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M6 9l6 6 6-6"/></svg>
+    </button>
+    <div class="combo-pop" hidden>
+      ${searchable?`<div class="combo-search"><input type="text" autocomplete="off" spellcheck="false" placeholder="${esc(phold||"Gõ để tìm…")}"></div>`:""}
+      <div class="combo-list" role="listbox"></div>
+      <div class="combo-none" hidden>Không tìm thấy</div>
+    </div>`;
+  const btn=host.querySelector(".combo-btn"), val=host.querySelector(".combo-val"),
+        pop=host.querySelector(".combo-pop"), box=host.querySelector(".combo-list"),
+        none=host.querySelector(".combo-none"), inp=host.querySelector(".combo-search input");
+
+  const hl = (t,q)=>{ if(!q) return esc(t);
+    const i=t.toLowerCase().indexOf(q); if(i<0) return esc(t);
+    return esc(t.slice(0,i))+"<mark>"+esc(t.slice(i,i+q.length))+"</mark>"+esc(t.slice(i+q.length)); };
+
+  function paint(){
+    const o = opts.find(x=>x.v===cur) || opts[0];
+    val.textContent = o ? o.t : "";
+    const q = inp ? inp.value.trim().toLowerCase() : "";
+    box.innerHTML = list.map((x,i)=>
+      `<button type="button" class="combo-opt${i===active?" active":""}" role="option" data-v="${esc(x.v)}" aria-selected="${x.v===cur}">`+
+      `<span>${hl(x.t,q)}</span>`+
+      `<svg class="tick" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M5 13l4 4L19 7"/></svg></button>`).join("");
+    none.hidden = list.length>0;
+  }
+  function scrollActive(){ const a=box.children[active]; if(a) a.scrollIntoView({block:"nearest"}); }
+  function setOpen(v){
+    open=v; host.dataset.open=v; btn.setAttribute("aria-expanded",v); pop.hidden=!v;
+    if(v){
+      list=opts.slice(); if(inp) inp.value="";
+      active=Math.max(0, list.findIndex(x=>x.v===cur));
+      paint();
+      pop.classList.remove("toright");
+      if(pop.getBoundingClientRect().right > innerWidth-8) pop.classList.add("toright");
+      if(inp) inp.focus();
+      scrollActive();
+    }
+  }
+  function pick(v){ cur=v; setOpen(false); paint(); btn.focus(); onPick(v); }
+
+  btn.addEventListener("click", ()=> setOpen(!open));
+  box.addEventListener("click", e=>{ const o=e.target.closest(".combo-opt"); if(o) pick(o.dataset.v); });
+  box.addEventListener("mousemove", e=>{
+    const o=e.target.closest(".combo-opt"); if(!o) return;
+    const i=[...box.children].indexOf(o); if(i===active) return;
+    active=i; [...box.children].forEach((c,k)=>c.classList.toggle("active", k===active));
+  });
+  if(inp) inp.addEventListener("input", ()=>{
+    const q=inp.value.trim().toLowerCase();
+    list = q ? opts.filter(x=>x.t.toLowerCase().includes(q)) : opts.slice();
+    active = 0; paint();
+  });
+  host.addEventListener("keydown", e=>{
+    if(!open){
+      if(e.key==="Enter"||e.key===" "||e.key==="ArrowDown"){ e.preventDefault(); setOpen(true); }
+      return;
+    }
+    if(e.key==="Escape"){ e.preventDefault(); setOpen(false); btn.focus(); }
+    else if(e.key==="ArrowDown"||e.key==="ArrowUp"){
+      e.preventDefault(); if(!list.length) return;
+      active=(active+(e.key==="ArrowDown"?1:-1)+list.length)%list.length; paint(); scrollActive();
+    }
+    else if(e.key==="Enter"){ e.preventDefault(); if(list[active]) pick(list[active].v); }
+    else if(e.key==="Home"){ e.preventDefault(); active=0; paint(); scrollActive(); }
+    else if(e.key==="End"){ e.preventDefault(); active=list.length-1; paint(); scrollActive(); }
+  });
+  document.addEventListener("click", e=>{ if(open && !host.contains(e.target)) setOpen(false); });
+  paint();
+}
+
+makeCombo(document.getElementById("topic"),
+  [{v:"all",t:"Mọi chủ đề"}].concat(
+    [...new Set(DATA.map(d=>d.topic))]
+      .sort((a,b)=>(TOPICS[a]||a).localeCompare(TOPICS[b]||b,"vi"))
+      .map(k=>({v:k, t:TOPICS[k]||k}))),
+  "all", v=>{ state.topic=v; state.page=1; render(); }, "Gõ tên chủ đề…");
+
+makeCombo(document.getElementById("sort"), [
+  {v:"easy",t:"Dễ → khó"}, {v:"hard",t:"Khó → dễ"}, {v:"topic",t:"Theo chủ đề"},
+  {v:"alpha",t:"Nội dung A → Z"}, {v:"len",t:"Câu ngắn trước"},
+  {v:"low",t:"Điểm thấp trước"}, {v:"random",t:"Ngẫu nhiên"}
+], "easy", v=>{ state.sort=v; state.seed=Math.random()*9+1; state.page=1; render(); }, "Gõ kiểu sắp xếp…");
+
+makeCombo(document.getElementById("status"), [
+  {v:"all",t:"Tất cả câu"}, {v:"todo",t:"Chưa làm"},
+  {v:"done",t:"Đã chấm"}, {v:"weak",t:"Dưới 80 điểm"}
+], "all", v=>{ state.status=v; state.page=1; render(); });
+
+document.getElementById("pager").addEventListener("click", e=>{
+  const b=e.target.closest("button[data-p]"); if(!b||b.disabled) return;
+  state.page=Number(b.dataset.p); render(); scrollTo({top:0, behavior:"smooth"});
+});
+document.getElementById("reset").addEventListener("click", ()=>{
+  if(!confirm("Xóa toàn bộ bài làm và điểm đã lưu?")) return;
+  progress={}; save(); render(); wipeRemote();
+});
+document.getElementById("ai").addEventListener("change", e=>{
+  document.getElementById("aiwrap").classList.toggle("on", e.target.checked);
+});
+
+/* nền sáng / tối */
+const themeBtn = document.getElementById("theme");
+const isDark = () => (document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark":"light")) === "dark";
+function syncThemeLabel(){ themeBtn.textContent = isDark() ? "Nền sáng" : "Nền tối"; }
+try{ const t=localStorage.getItem("vlv.theme"); if(t) document.documentElement.dataset.theme=t; }catch(e){}
+syncThemeLabel();
+themeBtn.addEventListener("click", ()=>{
+  const next = isDark() ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  try{ localStorage.setItem("vlv.theme", next); }catch(e){}
+  syncThemeLabel();
+});
+
+/* ====================== TÀI KHOẢN & ĐỒNG BỘ ======================
+   Không đăng nhập: app chạy đủ chức năng, tiến độ nằm trong localStorage.
+   Có đăng nhập: mỗi user một bộ tiến độ riêng trên máy chủ, hợp nhất theo
+   mốc thời gian của từng câu nên hai thiết bị không ghi đè lẫn nhau. */
+const AKEY = "vlv.auth";
+let auth = null;
+try{ auth = JSON.parse(localStorage.getItem(AKEY) || "null"); }catch(e){ auth = null; }
+
+const modal = document.getElementById("loginModal");
+const accountBtn = document.getElementById("account");
+const toastEl = document.getElementById("toast");
+let toastTimer = null;
+
+function toast(msg){
+  toastEl.textContent = msg; toastEl.hidden = false;
+  clearTimeout(toastTimer); toastTimer = setTimeout(()=>{ toastEl.hidden = true; }, 2600);
+}
+function paintAccount(){
+  if(auth){ accountBtn.textContent = auth.username; accountBtn.classList.add("me");
+            accountBtn.title = "Bấm để đăng xuất"; }
+  else { accountBtn.textContent = "Đăng nhập"; accountBtn.classList.remove("me");
+         accountBtn.title = "Đăng nhập để đồng bộ nhiều thiết bị"; }
+}
+function openModal(){
+  document.getElementById("lerr").hidden = true;
+  document.getElementById("lp").value = "";
+  modal.hidden = false;
+  setTimeout(()=>document.getElementById(auth?"lp":"lu").focus(), 50);
+}
+function closeModal(){ modal.hidden = true; }
+
+function mergeProgress(base, incoming){
+  const out = {...base};
+  for(const id in incoming){
+    const a = out[id], b = incoming[id];
+    if(!b || typeof b !== "object") continue;
+    if(!a || (b.at||0) > (a.at||0)) out[id] = b;
+  }
+  return out;
+}
+const apiFetch = (path, opts={}) => fetch(path, {
+  ...opts,
+  headers:{ "Content-Type":"application/json",
+            ...(auth ? {Authorization:"Bearer "+auth.token} : {}),
+            ...(opts.headers||{}) }
+});
+
+let dirty = false, syncTimer = null, syncing = false;
+function markDirty(){
+  if(!auth) return;
+  dirty = true; clearTimeout(syncTimer); syncTimer = setTimeout(pushSync, 2500);
+}
+async function pullSync(){
+  if(!auth) return;
+  try{
+    const r = await apiFetch("/api/progress");
+    if(r.status === 401) return logout(true);
+    if(!r.ok) return;
+    const j = await r.json();
+    progress = mergeProgress(progress, j.progress || {});
+    save(); render();
+  }catch(e){ /* offline: vẫn dùng bản trong máy */ }
+}
+async function pushSync(){
+  if(!auth || !dirty || syncing) return;
+  syncing = true; dirty = false;
+  try{
+    const r = await apiFetch("/api/progress", {method:"POST", body:JSON.stringify({progress})});
+    if(r.status === 401){ syncing=false; return logout(true); }
+    if(!r.ok) throw new Error("http "+r.status);
+    const j = await r.json();
+    progress = mergeProgress(progress, j.progress || {});
+    save(); stats();
+  }catch(e){ dirty = true; }
+  syncing = false;
+}
+async function wipeRemote(){
+  if(!auth) return;
+  try{ await apiFetch("/api/progress", {method:"POST", body:JSON.stringify({progress:{}, replace:true})}); }
+  catch(e){}
+}
+function logout(expired){
+  auth = null;
+  try{ localStorage.removeItem(AKEY); }catch(e){}
+  paintAccount();
+  toast(expired ? "Phiên đã hết hạn, cần đăng nhập lại" : "Đã đăng xuất — tiến độ vẫn còn trên máy này");
+}
+
+accountBtn.addEventListener("click", ()=>{
+  if(auth){
+    if(confirm(`Đăng xuất khỏi tài khoản "${auth.username}"?\nTiến độ vẫn được giữ trên máy này.`)) logout(false);
+  } else openModal();
+});
+document.getElementById("lskip").addEventListener("click", closeModal);
+modal.addEventListener("click", e=>{ if(e.target===modal) closeModal(); });
+document.addEventListener("keydown", e=>{ if(e.key==="Escape" && !modal.hidden) closeModal(); });
+
+document.getElementById("loginForm").addEventListener("submit", async e=>{
+  e.preventDefault();
+  const btn=document.getElementById("lbtn"), err=document.getElementById("lerr");
+  const username=document.getElementById("lu").value.trim();
+  const password=document.getElementById("lp").value;
+  if(!username || !password){
+    err.textContent = "Nhập đủ tên đăng nhập và mật khẩu."; err.hidden=false; return;
+  }
+  btn.disabled=true; btn.textContent="Đang kiểm tra…"; err.hidden=true;
+  try{
+    const r = await fetch("/api/auth", {method:"POST", headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({username, password})});
+    const j = await r.json().catch(()=>({}));
+    if(!r.ok) throw new Error(j.error || "Đăng nhập không thành công");
+    auth = {token:j.token, username:j.username};
+    try{ localStorage.setItem(AKEY, JSON.stringify(auth)); }catch(e){}
+    paintAccount(); closeModal();
+    toast("Xin chào " + j.username);
+    await pullSync();
+    dirty = true; await pushSync();          // đẩy phần đã làm offline lên
+  }catch(ex){
+    err.textContent = ex.message; err.hidden = false;
+  }
+  btn.disabled=false; btn.textContent="Đăng nhập";
+});
+
+addEventListener("visibilitychange", ()=>{ if(document.hidden) pushSync(); });
+addEventListener("pagehide", ()=>{ if(auth && dirty) pushSync(); });
+
+paintAccount();
+render();
+detectAI();
+if(auth) pullSync();
+</script>

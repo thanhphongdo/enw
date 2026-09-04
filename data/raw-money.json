@@ -1,0 +1,8124 @@
+[
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lương tháng này",
+        "en": "this month's salary"
+      },
+      {
+        "t": "bị trả trễ",
+        "en": "was paid late"
+      },
+      {
+        "t": "ba ngày.",
+        "en": "by three days"
+      }
+    ],
+    "answers": [
+      "This month's salary was paid three days late.",
+      "My pay for this month came in three days late."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi vừa nhận lương",
+        "en": "I just got paid"
+      },
+      {
+        "t": "nhưng đã tiêu hết",
+        "en": "but I've already spent"
+      },
+      {
+        "t": "một nửa rồi.",
+        "en": "half of it"
+      }
+    ],
+    "answers": [
+      "I just got paid, but I've already spent half of it.",
+      "I just received my salary, but half of it is already gone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sếp tôi hứa",
+        "en": "my boss promised"
+      },
+      {
+        "t": "tăng lương",
+        "en": "a pay rise"
+      },
+      {
+        "t": "nhưng vẫn chưa",
+        "en": "but still hasn't"
+      },
+      {
+        "t": "thấy gì.",
+        "en": "shown up"
+      }
+    ],
+    "answers": [
+      "My boss promised a pay rise, but it still hasn't shown up.",
+      "My boss promised me a raise, but nothing has happened yet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lương của tôi",
+        "en": "my salary"
+      },
+      {
+        "t": "chỉ đủ trả",
+        "en": "is only enough to cover"
+      },
+      {
+        "t": "tiền nhà",
+        "en": "the rent"
+      },
+      {
+        "t": "và ăn uống.",
+        "en": "and food"
+      }
+    ],
+    "answers": [
+      "My salary is only enough to cover the rent and food.",
+      "My pay barely covers rent and food."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Công ty mới",
+        "en": "the new company"
+      },
+      {
+        "t": "trả lương cao hơn",
+        "en": "pays a higher salary"
+      },
+      {
+        "t": "chỗ cũ nhiều.",
+        "en": "than my old job by a lot"
+      }
+    ],
+    "answers": [
+      "The new company pays a much higher salary than my old job.",
+      "My new job pays a lot more than my previous one."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi làm thêm giờ",
+        "en": "I work overtime"
+      },
+      {
+        "t": "nhưng lương",
+        "en": "but my salary"
+      },
+      {
+        "t": "vẫn không tăng.",
+        "en": "still doesn't increase"
+      }
+    ],
+    "answers": [
+      "I work overtime, but my salary still doesn't increase.",
+      "I do overtime, but my pay never goes up."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lương tháng mười hai",
+        "en": "December's salary"
+      },
+      {
+        "t": "có thêm",
+        "en": "comes with"
+      },
+      {
+        "t": "tiền thưởng.",
+        "en": "a bonus"
+      }
+    ],
+    "answers": [
+      "December's salary comes with a bonus.",
+      "This December's pay includes an extra bonus."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chị ấy đang chờ lương",
+        "en": "she's waiting for her salary"
+      },
+      {
+        "t": "để trả tiền học",
+        "en": "to pay the tuition"
+      },
+      {
+        "t": "cho con.",
+        "en": "for her kids"
+      }
+    ],
+    "answers": [
+      "She's waiting for her salary to pay the tuition for her kids.",
+      "She's waiting to get paid so she can pay her children's school fees."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đang cố",
+        "en": "I'm trying"
+      },
+      {
+        "t": "tiết kiệm tiền",
+        "en": "to save money"
+      },
+      {
+        "t": "để mua",
+        "en": "to buy"
+      },
+      {
+        "t": "xe máy mới.",
+        "en": "a new motorbike"
+      }
+    ],
+    "answers": [
+      "I'm trying to save money to buy a new motorbike.",
+      "I'm trying to save up for a new motorbike."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mỗi tháng",
+        "en": "every month"
+      },
+      {
+        "t": "tôi bỏ ra",
+        "en": "I set aside"
+      },
+      {
+        "t": "hai triệu",
+        "en": "two million dong"
+      },
+      {
+        "t": "để tiết kiệm.",
+        "en": "in savings"
+      }
+    ],
+    "answers": [
+      "Every month I set aside two million dong in savings.",
+      "I put aside two million dong for savings every month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cô ấy tiết kiệm được",
+        "en": "she has saved"
+      },
+      {
+        "t": "kha khá tiền",
+        "en": "quite a lot of money"
+      },
+      {
+        "t": "từ hồi còn trẻ.",
+        "en": "from a young age"
+      }
+    ],
+    "answers": [
+      "She has saved quite a lot of money from a young age.",
+      "She's put away a good amount of money since her younger years."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tài khoản tiết kiệm của tôi",
+        "en": "my savings account"
+      },
+      {
+        "t": "gần như",
+        "en": "is almost"
+      },
+      {
+        "t": "trống rỗng.",
+        "en": "empty"
+      }
+    ],
+    "answers": [
+      "My savings account is almost empty.",
+      "There's almost nothing left in my savings account."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi không có",
+        "en": "I don't have"
+      },
+      {
+        "t": "thói quen",
+        "en": "the habit of"
+      },
+      {
+        "t": "tiết kiệm tiền.",
+        "en": "saving money"
+      }
+    ],
+    "answers": [
+      "I don't have the habit of saving money.",
+      "I'm not really a saver."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Bố mẹ tôi",
+        "en": "my parents"
+      },
+      {
+        "t": "luôn dạy tôi",
+        "en": "always taught me"
+      },
+      {
+        "t": "cách tiết kiệm.",
+        "en": "how to save money"
+      }
+    ],
+    "answers": [
+      "My parents always taught me how to save money.",
+      "My parents have always shown me how to save."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi để dành",
+        "en": "I save"
+      },
+      {
+        "t": "tiền lẻ",
+        "en": "loose change"
+      },
+      {
+        "t": "trong một cái hộp nhỏ.",
+        "en": "in a small box"
+      }
+    ],
+    "answers": [
+      "I save loose change in a small box.",
+      "I keep my spare coins in a little box."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cuối năm nay",
+        "en": "by the end of this year"
+      },
+      {
+        "t": "tôi muốn có",
+        "en": "I want to have"
+      },
+      {
+        "t": "một khoản tiết kiệm",
+        "en": "a decent amount"
+      },
+      {
+        "t": "kha khá.",
+        "en": "saved up"
+      }
+    ],
+    "answers": [
+      "By the end of this year, I want to have a decent amount saved up.",
+      "I want to have a good amount of savings by the end of the year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi vẫn còn nợ",
+        "en": "I still owe"
+      },
+      {
+        "t": "ngân hàng",
+        "en": "the bank"
+      },
+      {
+        "t": "một khoản khá lớn.",
+        "en": "quite a large amount"
+      }
+    ],
+    "answers": [
+      "I still owe the bank quite a large amount.",
+      "I still have a fairly big debt with the bank."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nợ thẻ tín dụng của anh ấy",
+        "en": "his credit card debt"
+      },
+      {
+        "t": "ngày càng",
+        "en": "keeps getting"
+      },
+      {
+        "t": "nhiều.",
+        "en": "bigger"
+      }
+    ],
+    "answers": [
+      "His credit card debt keeps getting bigger.",
+      "His credit card debt is growing bigger and bigger."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đang trả nợ",
+        "en": "I'm paying off my debt"
+      },
+      {
+        "t": "dần",
+        "en": "little by little"
+      },
+      {
+        "t": "từng tháng một.",
+        "en": "one month at a time"
+      }
+    ],
+    "answers": [
+      "I'm paying off my debt little by little, one month at a time.",
+      "I'm gradually paying off my debt month by month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cô ấy vay nợ",
+        "en": "she borrowed money"
+      },
+      {
+        "t": "để mở",
+        "en": "to open"
+      },
+      {
+        "t": "một quán cà phê nhỏ.",
+        "en": "a small coffee shop"
+      }
+    ],
+    "answers": [
+      "She borrowed money to open a small coffee shop.",
+      "She took out a loan to start a small café."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nợ nần",
+        "en": "the debt"
+      },
+      {
+        "t": "khiến anh ấy",
+        "en": "has made him"
+      },
+      {
+        "t": "mất ngủ",
+        "en": "lose sleep"
+      },
+      {
+        "t": "suốt tuần qua.",
+        "en": "all week"
+      }
+    ],
+    "answers": [
+      "The debt has made him lose sleep all week.",
+      "His debts have kept him up all week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi không muốn",
+        "en": "I don't want to"
+      },
+      {
+        "t": "vay thêm",
+        "en": "borrow any more"
+      },
+      {
+        "t": "tiền nữa.",
+        "en": "money"
+      }
+    ],
+    "answers": [
+      "I don't want to borrow any more money.",
+      "I don't want to take on any more debt."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Gia đình đó",
+        "en": "that family"
+      },
+      {
+        "t": "đang nợ tiền",
+        "en": "owes money"
+      },
+      {
+        "t": "khắp nơi.",
+        "en": "all over the place"
+      }
+    ],
+    "answers": [
+      "That family owes money all over the place.",
+      "That family is in debt to a lot of people."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi mới",
+        "en": "I just"
+      },
+      {
+        "t": "trả hết nợ",
+        "en": "paid off all my debt"
+      },
+      {
+        "t": "hồi tháng trước.",
+        "en": "last month"
+      }
+    ],
+    "answers": [
+      "I just paid off all my debt last month.",
+      "I finally cleared all my debt last month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi ngại",
+        "en": "I feel awkward"
+      },
+      {
+        "t": "hỏi vay tiền",
+        "en": "asking to borrow money"
+      },
+      {
+        "t": "bạn bè lắm.",
+        "en": "from friends"
+      }
+    ],
+    "answers": [
+      "I feel really awkward asking to borrow money from friends.",
+      "I hate asking my friends for money."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cậu ấy mượn tôi",
+        "en": "he borrowed from me"
+      },
+      {
+        "t": "năm trăm nghìn",
+        "en": "five hundred thousand dong"
+      },
+      {
+        "t": "từ tuần trước.",
+        "en": "last week"
+      }
+    ],
+    "answers": [
+      "He borrowed five hundred thousand dong from me last week.",
+      "He took a loan of five hundred thousand dong from me last week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi cho bạn thân",
+        "en": "I lent my close friend"
+      },
+      {
+        "t": "vay tiền",
+        "en": "money"
+      },
+      {
+        "t": "mà không viết",
+        "en": "without writing"
+      },
+      {
+        "t": "giấy tờ gì.",
+        "en": "anything down"
+      }
+    ],
+    "answers": [
+      "I lent my close friend money without writing anything down.",
+      "I gave my best friend a loan without any paperwork."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh ấy hỏi mượn tiền",
+        "en": "he asked to borrow money"
+      },
+      {
+        "t": "tôi nhưng",
+        "en": "from me, but"
+      },
+      {
+        "t": "tôi từ chối.",
+        "en": "I said no"
+      }
+    ],
+    "answers": [
+      "He asked to borrow money from me, but I said no.",
+      "He asked me for a loan, but I turned him down."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Bạn tôi",
+        "en": "my friend"
+      },
+      {
+        "t": "đang cần vay gấp",
+        "en": "urgently needs to borrow"
+      },
+      {
+        "t": "một khoản nhỏ.",
+        "en": "a small amount"
+      }
+    ],
+    "answers": [
+      "My friend urgently needs to borrow a small amount.",
+      "My friend needs to borrow a bit of money urgently."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi vay",
+        "en": "I borrowed money"
+      },
+      {
+        "t": "bạn cùng phòng",
+        "en": "from my roommate"
+      },
+      {
+        "t": "để đóng tiền điện.",
+        "en": "to pay the electricity bill"
+      }
+    ],
+    "answers": [
+      "I borrowed money from my roommate to pay the electricity bill.",
+      "I asked my roommate for a loan to cover the power bill."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh họ tôi",
+        "en": "my cousin"
+      },
+      {
+        "t": "vay tiền",
+        "en": "borrowed money"
+      },
+      {
+        "t": "rồi biến mất luôn.",
+        "en": "and then just disappeared"
+      }
+    ],
+    "answers": [
+      "My cousin borrowed money and then just disappeared.",
+      "My cousin took a loan from me and vanished."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "không cho nhau vay tiền nữa",
+        "en": "don't lend each other money anymore"
+      },
+      {
+        "t": "sau chuyện đó.",
+        "en": "after that"
+      }
+    ],
+    "answers": [
+      "We don't lend each other money anymore after that.",
+      "After that, we stopped lending each other money."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đang đầu tư",
+        "en": "I'm investing"
+      },
+      {
+        "t": "một ít tiền",
+        "en": "a bit of money"
+      },
+      {
+        "t": "vào cổ phiếu.",
+        "en": "in stocks"
+      }
+    ],
+    "answers": [
+      "I'm investing a bit of money in stocks.",
+      "I'm putting some money into stocks."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Bố tôi mất tiền",
+        "en": "my dad lost money"
+      },
+      {
+        "t": "vì đầu tư",
+        "en": "from investing"
+      },
+      {
+        "t": "sai chỗ.",
+        "en": "in the wrong place"
+      }
+    ],
+    "answers": [
+      "My dad lost money from investing in the wrong place.",
+      "My father lost money on a bad investment."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cô ấy đầu tư",
+        "en": "she invests"
+      },
+      {
+        "t": "vào vàng",
+        "en": "in gold"
+      },
+      {
+        "t": "thay vì gửi ngân hàng.",
+        "en": "instead of a bank deposit"
+      }
+    ],
+    "answers": [
+      "She invests in gold instead of a bank deposit.",
+      "She puts her money into gold rather than a savings account."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "chưa từng đầu tư",
+        "en": "have never invested"
+      },
+      {
+        "t": "vào bất động sản.",
+        "en": "in real estate"
+      }
+    ],
+    "answers": [
+      "I've never invested in real estate.",
+      "I have never put money into property."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh ấy đang học",
+        "en": "he's learning"
+      },
+      {
+        "t": "cách đầu tư tiền",
+        "en": "how to invest money"
+      },
+      {
+        "t": "thông minh hơn.",
+        "en": "more wisely"
+      }
+    ],
+    "answers": [
+      "He's learning how to invest money more wisely.",
+      "He's trying to learn smarter ways to invest his money."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đầu tư vào",
+        "en": "investing in"
+      },
+      {
+        "t": "tiền điện tử",
+        "en": "cryptocurrency"
+      },
+      {
+        "t": "rủi ro lắm.",
+        "en": "is really risky"
+      }
+    ],
+    "answers": [
+      "Investing in cryptocurrency is really risky.",
+      "Crypto investing is pretty risky."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi chỉ đầu tư",
+        "en": "I only invest"
+      },
+      {
+        "t": "một khoản nhỏ",
+        "en": "a small amount"
+      },
+      {
+        "t": "và cố tránh",
+        "en": "and try to avoid"
+      },
+      {
+        "t": "rủi ro.",
+        "en": "risk"
+      }
+    ],
+    "answers": [
+      "I only invest a small amount, and I try to avoid risk.",
+      "I invest just a little money, and I stay away from risky stuff."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi lại",
+        "en": "I"
+      },
+      {
+        "t": "tiêu quá tay",
+        "en": "overspent"
+      },
+      {
+        "t": "trong đợt sale",
+        "en": "during the sale"
+      },
+      {
+        "t": "cuối tuần.",
+        "en": "this weekend"
+      }
+    ],
+    "answers": [
+      "I overspent during the sale this weekend.",
+      "I spent way too much money at the weekend sale again."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cô ấy tiêu hết lương",
+        "en": "she spends her whole salary"
+      },
+      {
+        "t": "chỉ trong",
+        "en": "in just"
+      },
+      {
+        "t": "một tuần.",
+        "en": "one week"
+      }
+    ],
+    "answers": [
+      "She spends her whole salary in just one week.",
+      "She blows through her entire paycheck in a single week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi hay mua sắm",
+        "en": "I often go shopping"
+      },
+      {
+        "t": "quá tay",
+        "en": "too much"
+      },
+      {
+        "t": "để giải tỏa",
+        "en": "to deal with"
+      },
+      {
+        "t": "cảm xúc.",
+        "en": "my feelings"
+      }
+    ],
+    "answers": [
+      "I often go shopping too much to deal with my feelings.",
+      "I tend to overspend on shopping to cope with my emotions."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tháng này",
+        "en": "this month"
+      },
+      {
+        "t": "chi tiêu của tôi",
+        "en": "my spending"
+      },
+      {
+        "t": "vượt ngân sách nhiều.",
+        "en": "is way over budget"
+      }
+    ],
+    "answers": [
+      "This month my spending is way over budget.",
+      "I've gone way over my budget this month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "tiêu tiền",
+        "en": "spends money"
+      },
+      {
+        "t": "không suy nghĩ gì cả.",
+        "en": "without thinking at all"
+      }
+    ],
+    "answers": [
+      "He spends money without thinking at all.",
+      "He spends money without a second thought."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đang tiêu",
+        "en": "I'm spending"
+      },
+      {
+        "t": "nhiều hơn",
+        "en": "more than"
+      },
+      {
+        "t": "số tiền",
+        "en": "the amount of money"
+      },
+      {
+        "t": "mình kiếm được.",
+        "en": "I earn"
+      }
+    ],
+    "answers": [
+      "I'm spending more than the amount of money I earn.",
+      "I'm spending more than I actually earn."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi tiêu quá tay",
+        "en": "we overspent"
+      },
+      {
+        "t": "cho chuyến du lịch",
+        "en": "on the trip"
+      },
+      {
+        "t": "vừa rồi.",
+        "en": "we just took"
+      }
+    ],
+    "answers": [
+      "We overspent on the trip we just took.",
+      "We spent way too much on our last trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Con gái tôi",
+        "en": "my daughter"
+      },
+      {
+        "t": "đang tiêu",
+        "en": "is spending"
+      },
+      {
+        "t": "tiền tiêu vặt",
+        "en": "her allowance"
+      },
+      {
+        "t": "hơi nhanh.",
+        "en": "a bit too quickly"
+      }
+    ],
+    "answers": [
+      "My daughter is spending her allowance a bit too quickly.",
+      "My daughter goes through her pocket money pretty fast."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi vẫn chưa",
+        "en": "I still haven't"
+      },
+      {
+        "t": "thanh toán",
+        "en": "paid"
+      },
+      {
+        "t": "hóa đơn tiền điện.",
+        "en": "the electricity bill"
+      }
+    ],
+    "answers": [
+      "I still haven't paid the electricity bill.",
+      "I haven't paid the power bill yet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Hóa đơn điện thoại",
+        "en": "the phone bill"
+      },
+      {
+        "t": "tháng này",
+        "en": "this month"
+      },
+      {
+        "t": "cao bất thường.",
+        "en": "is unusually high"
+      }
+    ],
+    "answers": [
+      "The phone bill this month is unusually high.",
+      "This month's phone bill is way higher than usual."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi để quên",
+        "en": "I forgot"
+      },
+      {
+        "t": "không trả",
+        "en": "to pay"
+      },
+      {
+        "t": "hóa đơn nước.",
+        "en": "the water bill"
+      }
+    ],
+    "answers": [
+      "I forgot to pay the water bill.",
+      "I completely forgot about the water bill."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cuối tháng nào",
+        "en": "at the end of every month"
+      },
+      {
+        "t": "cũng có",
+        "en": "there's"
+      },
+      {
+        "t": "cả đống hóa đơn",
+        "en": "a pile of bills"
+      },
+      {
+        "t": "phải trả.",
+        "en": "to pay"
+      }
+    ],
+    "answers": [
+      "At the end of every month, there's a pile of bills to pay.",
+      "There's always a stack of bills due at the end of the month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi chia đôi",
+        "en": "we split"
+      },
+      {
+        "t": "hóa đơn tiền nhà",
+        "en": "the rent bill"
+      },
+      {
+        "t": "mỗi tháng.",
+        "en": "every month"
+      }
+    ],
+    "answers": [
+      "We split the rent bill every month.",
+      "We share the rent equally every month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Hóa đơn nhà hàng",
+        "en": "the restaurant bill"
+      },
+      {
+        "t": "hôm qua",
+        "en": "yesterday"
+      },
+      {
+        "t": "đắt hơn",
+        "en": "was more expensive than"
+      },
+      {
+        "t": "tôi tưởng.",
+        "en": "I expected"
+      }
+    ],
+    "answers": [
+      "The restaurant bill yesterday was more expensive than I expected.",
+      "Yesterday's restaurant bill was pricier than I thought."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi hay quên",
+        "en": "I often forget"
+      },
+      {
+        "t": "ngày đến hạn",
+        "en": "the due date"
+      },
+      {
+        "t": "của hóa đơn.",
+        "en": "of my bills"
+      }
+    ],
+    "answers": [
+      "I often forget the due date of my bills.",
+      "I keep forgetting when my bills are due."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Có một hóa đơn lạ",
+        "en": "there's a strange bill"
+      },
+      {
+        "t": "trong email của tôi",
+        "en": "in my email"
+      },
+      {
+        "t": "sáng nay.",
+        "en": "this morning"
+      }
+    ],
+    "answers": [
+      "There's a strange bill in my email this morning.",
+      "I found an odd bill in my inbox this morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tiền thuê nhà",
+        "en": "the rent"
+      },
+      {
+        "t": "tháng này",
+        "en": "this month"
+      },
+      {
+        "t": "tăng thêm",
+        "en": "went up by"
+      },
+      {
+        "t": "năm trăm nghìn.",
+        "en": "five hundred thousand dong"
+      }
+    ],
+    "answers": [
+      "The rent this month went up by five hundred thousand dong.",
+      "This month's rent increased by five hundred thousand dong."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi trả",
+        "en": "I pay"
+      },
+      {
+        "t": "tiền thuê nhà",
+        "en": "the rent"
+      },
+      {
+        "t": "đúng ngày mùng một.",
+        "en": "right on the first of the month"
+      }
+    ],
+    "answers": [
+      "I pay the rent right on the first of the month.",
+      "I always pay my rent on the first."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chủ nhà",
+        "en": "the landlord"
+      },
+      {
+        "t": "đòi tăng",
+        "en": "wants to raise"
+      },
+      {
+        "t": "tiền thuê",
+        "en": "the rent"
+      },
+      {
+        "t": "từ tháng sau.",
+        "en": "starting next month"
+      }
+    ],
+    "answers": [
+      "The landlord wants to raise the rent starting next month.",
+      "The landlord is raising the rent from next month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đang tìm",
+        "en": "I'm looking for"
+      },
+      {
+        "t": "phòng trọ",
+        "en": "a room"
+      },
+      {
+        "t": "có giá thuê",
+        "en": "with a rent"
+      },
+      {
+        "t": "rẻ hơn.",
+        "en": "that's cheaper"
+      }
+    ],
+    "answers": [
+      "I'm looking for a room with cheaper rent.",
+      "I'm searching for a cheaper place to rent."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi trễ",
+        "en": "we're late on"
+      },
+      {
+        "t": "tiền thuê nhà",
+        "en": "the rent"
+      },
+      {
+        "t": "hai tuần rồi.",
+        "en": "by two weeks"
+      }
+    ],
+    "answers": [
+      "We're late on the rent by two weeks.",
+      "We're two weeks behind on rent."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tiền thuê nhà",
+        "en": "the rent"
+      },
+      {
+        "t": "ngốn gần nửa",
+        "en": "eats up almost half of"
+      },
+      {
+        "t": "lương của tôi.",
+        "en": "my salary"
+      }
+    ],
+    "answers": [
+      "The rent eats up almost half of my salary.",
+      "Rent takes up nearly half my paycheck."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi phải đặt cọc",
+        "en": "I have to put down a deposit of"
+      },
+      {
+        "t": "hai tháng tiền nhà",
+        "en": "two months' rent"
+      },
+      {
+        "t": "trước khi dọn vào.",
+        "en": "before moving in"
+      }
+    ],
+    "answers": [
+      "I have to put down a deposit of two months' rent before moving in.",
+      "I need to pay a two-month rent deposit before I move in."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Giá thuê nhà",
+        "en": "rent prices"
+      },
+      {
+        "t": "ở khu này",
+        "en": "in this area"
+      },
+      {
+        "t": "đắt kinh khủng.",
+        "en": "are terribly expensive"
+      }
+    ],
+    "answers": [
+      "Rent prices in this area are terribly expensive.",
+      "Renting around here is incredibly expensive."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi chia đều",
+        "en": "we split evenly"
+      },
+      {
+        "t": "tiền ăn",
+        "en": "the bill"
+      },
+      {
+        "t": "tối nay.",
+        "en": "tonight"
+      }
+    ],
+    "answers": [
+      "We split the bill evenly tonight.",
+      "We're splitting tonight's bill equally."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi trả trước",
+        "en": "I paid first"
+      },
+      {
+        "t": "rồi mọi người",
+        "en": "and then everyone"
+      },
+      {
+        "t": "chuyển khoản lại",
+        "en": "transferred back"
+      },
+      {
+        "t": "sau.",
+        "en": "later"
+      }
+    ],
+    "answers": [
+      "I paid first, and then everyone transferred their share back later.",
+      "I covered the bill first, and everyone paid me back later."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh ấy không bao giờ",
+        "en": "he never"
+      },
+      {
+        "t": "chịu chia",
+        "en": "agrees to split"
+      },
+      {
+        "t": "tiền ăn cả.",
+        "en": "the bill"
+      }
+    ],
+    "answers": [
+      "He never agrees to split the bill.",
+      "He never wants to split the bill."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mỗi người góp",
+        "en": "each person chips in"
+      },
+      {
+        "t": "một trăm nghìn",
+        "en": "a hundred thousand dong"
+      },
+      {
+        "t": "cho bữa tiệc.",
+        "en": "for the party"
+      }
+    ],
+    "answers": [
+      "Each person chips in a hundred thousand dong for the party.",
+      "Everyone contributes a hundred thousand dong toward the party."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi thấy hơi ngại",
+        "en": "I feel a bit awkward"
+      },
+      {
+        "t": "khi lúc nào cũng",
+        "en": "having to always"
+      },
+      {
+        "t": "phải nhắc",
+        "en": "remind people"
+      },
+      {
+        "t": "chia tiền.",
+        "en": "to split the bill"
+      }
+    ],
+    "answers": [
+      "I feel a bit awkward always having to remind people to split the bill.",
+      "It feels awkward always being the one to bring up splitting the bill."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nhóm bạn tôi",
+        "en": "my friend group"
+      },
+      {
+        "t": "dùng app",
+        "en": "uses an app"
+      },
+      {
+        "t": "để chia tiền ăn",
+        "en": "to split the bill"
+      },
+      {
+        "t": "nhanh hơn.",
+        "en": "faster"
+      }
+    ],
+    "answers": [
+      "My friend group uses an app to split the bill faster.",
+      "My friends and I use an app to divide the bill more quickly."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cô ấy chỉ ăn",
+        "en": "she only had"
+      },
+      {
+        "t": "một món nhỏ",
+        "en": "a small dish"
+      },
+      {
+        "t": "nhưng vẫn muốn",
+        "en": "but still wants"
+      },
+      {
+        "t": "chia đều.",
+        "en": "to split evenly"
+      }
+    ],
+    "answers": [
+      "She only had a small dish but still wants to split evenly.",
+      "She just ordered a small dish but still insists on splitting the bill equally."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi chưa có",
+        "en": "I don't have"
+      },
+      {
+        "t": "quỹ khẩn cấp",
+        "en": "an emergency fund"
+      },
+      {
+        "t": "phòng khi ốm đau.",
+        "en": "for sickness"
+      }
+    ],
+    "answers": [
+      "I don't have an emergency fund for sickness.",
+      "I have no money saved up for sickness."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi đang xây dựng",
+        "en": "we're building"
+      },
+      {
+        "t": "quỹ khẩn cấp",
+        "en": "an emergency fund"
+      },
+      {
+        "t": "cho gia đình.",
+        "en": "for our family"
+      }
+    ],
+    "answers": [
+      "We're building an emergency fund for our family.",
+      "We're putting together an emergency fund for the family."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Quỹ khẩn cấp của tôi",
+        "en": "my emergency fund"
+      },
+      {
+        "t": "chỉ đủ dùng",
+        "en": "only covers"
+      },
+      {
+        "t": "một tháng.",
+        "en": "one month"
+      }
+    ],
+    "answers": [
+      "My emergency fund only covers one month.",
+      "My emergency fund is only enough for one month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nhờ có",
+        "en": "thanks to"
+      },
+      {
+        "t": "quỹ khẩn cấp",
+        "en": "the emergency fund"
+      },
+      {
+        "t": "mà tôi qua được",
+        "en": "I got through"
+      },
+      {
+        "t": "lúc mất việc.",
+        "en": "losing my job"
+      }
+    ],
+    "answers": [
+      "Thanks to the emergency fund, I got through losing my job.",
+      "The emergency fund helped me get through being unemployed."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi vừa phải rút",
+        "en": "I just had to dip into"
+      },
+      {
+        "t": "quỹ khẩn cấp",
+        "en": "my emergency fund"
+      },
+      {
+        "t": "để sửa xe.",
+        "en": "to fix my car"
+      }
+    ],
+    "answers": [
+      "I just had to dip into my emergency fund to fix my car.",
+      "I had to use my emergency savings to get my car repaired."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mọi người",
+        "en": "everyone"
+      },
+      {
+        "t": "nên có",
+        "en": "should have"
+      },
+      {
+        "t": "quỹ khẩn cấp riêng.",
+        "en": "their own emergency fund"
+      }
+    ],
+    "answers": [
+      "Everyone should have their own emergency fund.",
+      "Everybody should keep their own emergency savings."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi bắt đầu",
+        "en": "I started"
+      },
+      {
+        "t": "để dành",
+        "en": "putting money into"
+      },
+      {
+        "t": "quỹ khẩn cấp",
+        "en": "an emergency fund"
+      },
+      {
+        "t": "từ năm ngoái.",
+        "en": "last year"
+      }
+    ],
+    "answers": [
+      "I started putting money into an emergency fund last year.",
+      "I began building an emergency fund last year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lãi suất ngân hàng",
+        "en": "bank interest rates"
+      },
+      {
+        "t": "đang giảm dần",
+        "en": "are gradually dropping"
+      },
+      {
+        "t": "từng tháng.",
+        "en": "month by month"
+      }
+    ],
+    "answers": [
+      "Bank interest rates are gradually dropping month by month.",
+      "Interest rates at the bank keep falling every month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi gửi tiết kiệm",
+        "en": "I made a deposit"
+      },
+      {
+        "t": "vì lãi suất",
+        "en": "and the interest rate"
+      },
+      {
+        "t": "khá cao.",
+        "en": "is quite high"
+      }
+    ],
+    "answers": [
+      "The interest rate is quite high, and I decided to make a deposit.",
+      "I made a deposit — the interest rate is pretty high right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lãi suất vay mua nhà",
+        "en": "the mortgage interest rate"
+      },
+      {
+        "t": "năm nay",
+        "en": "this year"
+      },
+      {
+        "t": "cao hơn",
+        "en": "is higher than"
+      },
+      {
+        "t": "năm ngoái.",
+        "en": "last year"
+      }
+    ],
+    "answers": [
+      "The mortgage interest rate this year is higher than last year.",
+      "Home loan interest rates are higher this year than last year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Ngân hàng",
+        "en": "the bank"
+      },
+      {
+        "t": "vừa thông báo",
+        "en": "just announced"
+      },
+      {
+        "t": "thay đổi lãi suất.",
+        "en": "a change in interest rates"
+      }
+    ],
+    "answers": [
+      "The bank just announced a change in interest rates.",
+      "The bank has just announced new interest rates."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi không hiểu rõ lắm",
+        "en": "I don't really understand"
+      },
+      {
+        "t": "về cách tính",
+        "en": "how"
+      },
+      {
+        "t": "lãi suất.",
+        "en": "interest rates are calculated"
+      }
+    ],
+    "answers": [
+      "I don't really understand how interest rates are calculated.",
+      "I'm not too clear on how interest is calculated."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lãi suất thẻ tín dụng",
+        "en": "credit card interest rates"
+      },
+      {
+        "t": "cao hơn",
+        "en": "are much higher than"
+      },
+      {
+        "t": "tôi nghĩ nhiều.",
+        "en": "I thought"
+      }
+    ],
+    "answers": [
+      "Credit card interest rates are much higher than I thought.",
+      "Credit card interest is way higher than I expected."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Với lãi suất này,",
+        "en": "with this interest rate,"
+      },
+      {
+        "t": "tiền tiết kiệm của tôi",
+        "en": "my savings"
+      },
+      {
+        "t": "tăng chậm lắm.",
+        "en": "grow really slowly"
+      }
+    ],
+    "answers": [
+      "With this interest rate, my savings grow really slowly.",
+      "My savings barely grow with this interest rate."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi hầu như",
+        "en": "I hardly"
+      },
+      {
+        "t": "không dùng tiền mặt nữa,",
+        "en": "use cash anymore,"
+      },
+      {
+        "t": "toàn ví điện tử.",
+        "en": "just e-wallets"
+      }
+    ],
+    "answers": [
+      "I hardly use cash anymore, just e-wallets.",
+      "I barely touch cash these days, only my e-wallet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Ví điện tử của tôi",
+        "en": "my e-wallet"
+      },
+      {
+        "t": "bị trừ nhầm tiền",
+        "en": "was charged by mistake"
+      },
+      {
+        "t": "hôm qua.",
+        "en": "yesterday"
+      }
+    ],
+    "answers": [
+      "My e-wallet was charged by mistake yesterday.",
+      "There was a wrong charge on my e-wallet yesterday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi nạp tiền",
+        "en": "I topped up"
+      },
+      {
+        "t": "vào ví điện tử",
+        "en": "my e-wallet"
+      },
+      {
+        "t": "để đặt đồ ăn.",
+        "en": "to order food"
+      }
+    ],
+    "answers": [
+      "I topped up my e-wallet to order food.",
+      "I added money to my e-wallet to buy some food."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Ứng dụng ví điện tử",
+        "en": "the e-wallet app"
+      },
+      {
+        "t": "bị lỗi",
+        "en": "has a glitch"
+      },
+      {
+        "t": "không rút tiền được.",
+        "en": "and I can't withdraw money"
+      }
+    ],
+    "answers": [
+      "The e-wallet app has a glitch, and I can't withdraw money.",
+      "The e-wallet app is broken, so withdrawals aren't working."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi thích dùng",
+        "en": "I like using"
+      },
+      {
+        "t": "ví điện tử",
+        "en": "e-wallets"
+      },
+      {
+        "t": "vì có nhiều",
+        "en": "and they offer lots of"
+      },
+      {
+        "t": "mã giảm giá.",
+        "en": "discount codes"
+      }
+    ],
+    "answers": [
+      "I like using e-wallets, and they offer lots of discount codes.",
+      "I prefer e-wallets — they come with plenty of discount vouchers."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Bà tôi",
+        "en": "my grandmother"
+      },
+      {
+        "t": "vẫn chưa quen",
+        "en": "still isn't used to"
+      },
+      {
+        "t": "dùng ví điện tử.",
+        "en": "using an e-wallet"
+      }
+    ],
+    "answers": [
+      "My grandmother still isn't used to using an e-wallet.",
+      "My grandma hasn't gotten the hang of e-wallets yet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Số dư",
+        "en": "the balance"
+      },
+      {
+        "t": "trong ví điện tử của tôi",
+        "en": "in my e-wallet"
+      },
+      {
+        "t": "gần hết rồi.",
+        "en": "is almost gone"
+      }
+    ],
+    "answers": [
+      "The balance in my e-wallet is almost gone.",
+      "My e-wallet balance is running really low."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Công ty tôi",
+        "en": "my company"
+      },
+      {
+        "t": "thưởng Tết",
+        "en": "gives a Tet bonus of"
+      },
+      {
+        "t": "hai tháng lương.",
+        "en": "two months' salary"
+      }
+    ],
+    "answers": [
+      "My company gives a Tet bonus of two months' salary.",
+      "My company pays a two-month salary bonus for Tet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi định dùng",
+        "en": "I plan to use"
+      },
+      {
+        "t": "tiền thưởng Tết",
+        "en": "my Tet bonus"
+      },
+      {
+        "t": "để về quê.",
+        "en": "to go back home"
+      }
+    ],
+    "answers": [
+      "I plan to use my Tet bonus to go back home.",
+      "I'm going to use my Tet bonus to travel home."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Năm nay",
+        "en": "this year"
+      },
+      {
+        "t": "tiền thưởng Tết",
+        "en": "the Tet bonus"
+      },
+      {
+        "t": "ít hơn",
+        "en": "is much smaller than"
+      },
+      {
+        "t": "năm ngoái nhiều.",
+        "en": "last year's"
+      }
+    ],
+    "answers": [
+      "This year the Tet bonus is much smaller than last year's.",
+      "The Tet bonus is a lot lower this year than last year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "vẫn chưa nhận được",
+        "en": "still haven't received"
+      },
+      {
+        "t": "tiền thưởng Tết.",
+        "en": "my Tet bonus"
+      }
+    ],
+    "answers": [
+      "I still haven't received my Tet bonus.",
+      "My Tet bonus hasn't come through yet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cả nhà tôi",
+        "en": "my whole family"
+      },
+      {
+        "t": "mong tiền thưởng Tết",
+        "en": "is looking forward to the Tet bonus"
+      },
+      {
+        "t": "từng ngày.",
+        "en": "every day"
+      }
+    ],
+    "answers": [
+      "My whole family is looking forward to the Tet bonus every day.",
+      "My whole family can't wait for the Tet bonus."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tiền thưởng Tết năm nay",
+        "en": "this year's Tet bonus"
+      },
+      {
+        "t": "giúp tôi",
+        "en": "helped me"
+      },
+      {
+        "t": "trả bớt nợ.",
+        "en": "pay off some debt"
+      }
+    ],
+    "answers": [
+      "This year's Tet bonus helped me pay off some debt.",
+      "The Tet bonus this year let me pay down some of my debt."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sếp thông báo",
+        "en": "my boss announced"
+      },
+      {
+        "t": "năm nay",
+        "en": "that this year"
+      },
+      {
+        "t": "không có",
+        "en": "there won't be"
+      },
+      {
+        "t": "tiền thưởng Tết.",
+        "en": "a Tet bonus"
+      }
+    ],
+    "answers": [
+      "My boss announced that there won't be a Tet bonus this year.",
+      "My boss said there's no Tet bonus this year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đang lập",
+        "en": "I'm putting together"
+      },
+      {
+        "t": "kế hoạch tài chính",
+        "en": "a financial plan"
+      },
+      {
+        "t": "cho năm sau.",
+        "en": "for next year"
+      }
+    ],
+    "answers": [
+      "I'm putting together a financial plan for next year.",
+      "I'm working on a financial plan for next year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi ngồi lại",
+        "en": "we sat down"
+      },
+      {
+        "t": "bàn kế hoạch",
+        "en": "to discuss a plan"
+      },
+      {
+        "t": "tài chính chung.",
+        "en": "for our shared finances"
+      }
+    ],
+    "answers": [
+      "We sat down to discuss a plan for our shared finances.",
+      "We sat down together to talk about our joint financial plan."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi không có",
+        "en": "I don't have"
+      },
+      {
+        "t": "kế hoạch tài chính",
+        "en": "a financial plan"
+      },
+      {
+        "t": "rõ ràng nào cả.",
+        "en": "that's clear at all"
+      }
+    ],
+    "answers": [
+      "I don't have a clear financial plan at all.",
+      "I have no real financial plan whatsoever."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh ấy theo dõi",
+        "en": "he tracks"
+      },
+      {
+        "t": "chi tiêu",
+        "en": "his spending"
+      },
+      {
+        "t": "bằng một bảng tính.",
+        "en": "with a spreadsheet"
+      }
+    ],
+    "answers": [
+      "He tracks his spending with a spreadsheet.",
+      "He keeps track of his expenses using a spreadsheet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đặt mục tiêu",
+        "en": "I set a goal"
+      },
+      {
+        "t": "tiết kiệm",
+        "en": "to save"
+      },
+      {
+        "t": "hai mươi phần trăm",
+        "en": "twenty percent of"
+      },
+      {
+        "t": "lương.",
+        "en": "my salary"
+      }
+    ],
+    "answers": [
+      "I set a goal to save twenty percent of my salary.",
+      "My goal is to save twenty percent of my income."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cô ấy có",
+        "en": "she has"
+      },
+      {
+        "t": "kế hoạch nghỉ hưu sớm",
+        "en": "an early retirement plan"
+      },
+      {
+        "t": "rất chi tiết.",
+        "en": "that's very detailed"
+      }
+    ],
+    "answers": [
+      "She has a very detailed early retirement plan.",
+      "Her plan to retire early is really detailed."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi muốn mua nhà",
+        "en": "we want to buy a house"
+      },
+      {
+        "t": "nên đang lên",
+        "en": "and we're making"
+      },
+      {
+        "t": "kế hoạch tiết kiệm.",
+        "en": "a savings plan"
+      }
+    ],
+    "answers": [
+      "We want to buy a house, and we're making a savings plan.",
+      "We're planning to save up — we want to buy a house."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi mua",
+        "en": "I bought"
+      },
+      {
+        "t": "chiếc laptop này",
+        "en": "this laptop"
+      },
+      {
+        "t": "bằng cách trả góp.",
+        "en": "in installments"
+      }
+    ],
+    "answers": [
+      "I bought this laptop in installments.",
+      "I got this laptop on an installment plan."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trả góp điện thoại",
+        "en": "paying for the phone in installments"
+      },
+      {
+        "t": "mỗi tháng",
+        "en": "every month"
+      },
+      {
+        "t": "khiến tôi hơi mệt.",
+        "en": "is getting a bit tiring"
+      }
+    ],
+    "answers": [
+      "Paying for the phone in installments every month is getting a bit tiring.",
+      "The monthly phone installments are starting to wear me out."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi mua",
+        "en": "we bought"
+      },
+      {
+        "t": "tủ lạnh",
+        "en": "the fridge"
+      },
+      {
+        "t": "trả góp",
+        "en": "on installments"
+      },
+      {
+        "t": "trong sáu tháng.",
+        "en": "over six months"
+      }
+    ],
+    "answers": [
+      "We bought the fridge on installments over six months.",
+      "We're paying for the fridge in installments across six months."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cửa hàng đó",
+        "en": "that store"
+      },
+      {
+        "t": "cho phép trả góp",
+        "en": "allows installment payments"
+      },
+      {
+        "t": "không lãi suất.",
+        "en": "with no interest"
+      }
+    ],
+    "answers": [
+      "That store allows installment payments with no interest.",
+      "That store offers interest-free installments."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đang cân nhắc",
+        "en": "I'm considering"
+      },
+      {
+        "t": "mua xe máy",
+        "en": "buying a motorbike"
+      },
+      {
+        "t": "trả góp.",
+        "en": "in installments"
+      }
+    ],
+    "answers": [
+      "I'm considering buying a motorbike in installments.",
+      "I'm thinking about getting a motorbike on installments."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi mong sớm",
+        "en": "I can't wait"
+      },
+      {
+        "t": "trả xong",
+        "en": "to finish paying"
+      },
+      {
+        "t": "tiền góp",
+        "en": "the installments"
+      },
+      {
+        "t": "cho chiếc máy giặt này.",
+        "en": "for this washing machine"
+      }
+    ],
+    "answers": [
+      "I can't wait to finish paying the installments for this washing machine.",
+      "I really want to finish paying off this washing machine soon."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "trả góp",
+        "en": "is paying installments on"
+      },
+      {
+        "t": "quá nhiều món",
+        "en": "too many things"
+      },
+      {
+        "t": "cùng lúc.",
+        "en": "at the same time"
+      }
+    ],
+    "answers": [
+      "He's paying installments on too many things at the same time.",
+      "He has too many installment payments going on at once."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi thất nghiệp",
+        "en": "I've been out of work"
+      },
+      {
+        "t": "hai tháng nay rồi,",
+        "en": "for two months now,"
+      },
+      {
+        "t": "không có thu nhập gì cả.",
+        "en": "with no income at all"
+      }
+    ],
+    "answers": [
+      "I've been out of work for two months now, with no income at all.",
+      "I've had no job and no income for two months now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Không có thu nhập",
+        "en": "having no income"
+      },
+      {
+        "t": "khiến tôi lo lắng",
+        "en": "makes me worry"
+      },
+      {
+        "t": "từng ngày.",
+        "en": "every single day"
+      }
+    ],
+    "answers": [
+      "Having no income makes me worry every single day.",
+      "No income means I worry every day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh ấy mất việc",
+        "en": "he lost his job"
+      },
+      {
+        "t": "và giờ đang sống",
+        "en": "and now he's living"
+      },
+      {
+        "t": "nhờ tiền tiết kiệm.",
+        "en": "off his savings"
+      }
+    ],
+    "answers": [
+      "He lost his job, and now he's living off his savings.",
+      "He lost his job and is now getting by on his savings."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đang nộp đơn",
+        "en": "I'm applying"
+      },
+      {
+        "t": "khắp nơi",
+        "en": "everywhere"
+      },
+      {
+        "t": "để có thu nhập",
+        "en": "to have an income"
+      },
+      {
+        "t": "trở lại.",
+        "en": "again"
+      }
+    ],
+    "answers": [
+      "I'm applying everywhere to have an income again.",
+      "I'm sending applications everywhere to start earning again."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Không có việc làm,",
+        "en": "with no job,"
+      },
+      {
+        "t": "tiền tiết kiệm của tôi",
+        "en": "my savings"
+      },
+      {
+        "t": "cạn dần.",
+        "en": "are running low"
+      }
+    ],
+    "answers": [
+      "With no job, my savings are running low.",
+      "My savings are dwindling since I don't have a job."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cô ấy thất nghiệp",
+        "en": "she's unemployed"
+      },
+      {
+        "t": "nhưng vẫn phải trả",
+        "en": "but she still has to pay"
+      },
+      {
+        "t": "tiền nhà.",
+        "en": "the rent"
+      }
+    ],
+    "answers": [
+      "She's unemployed, but she still has to pay the rent.",
+      "She's out of work, yet the rent still has to be paid."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi chưa có thu nhập",
+        "en": "I don't have any income yet"
+      },
+      {
+        "t": "nên đang tiêu",
+        "en": "and I'm spending"
+      },
+      {
+        "t": "rất dè dặt.",
+        "en": "very carefully"
+      }
+    ],
+    "answers": [
+      "I don't have any income yet, and I'm spending very carefully.",
+      "With no income yet, I'm being really careful with money."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi cho anh ấy",
+        "en": "I lent him"
+      },
+      {
+        "t": "vay tiền",
+        "en": "money"
+      },
+      {
+        "t": "nhưng chẳng bao giờ",
+        "en": "but I've never"
+      },
+      {
+        "t": "đòi lại được.",
+        "en": "been able to get it back"
+      }
+    ],
+    "answers": [
+      "I lent him money, but I've never been able to get it back.",
+      "I lent him some money, but I could never get it back."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Bạn tôi",
+        "en": "my friend"
+      },
+      {
+        "t": "vẫn còn nợ tôi",
+        "en": "still owes me money"
+      },
+      {
+        "t": "từ hai năm trước.",
+        "en": "from two years ago"
+      }
+    ],
+    "answers": [
+      "My friend still owes me money from two years ago.",
+      "My friend has owed me money since two years ago."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi ngại",
+        "en": "I feel awkward"
+      },
+      {
+        "t": "đòi lại tiền",
+        "en": "asking for the money back"
+      },
+      {
+        "t": "đã cho anh ấy vay.",
+        "en": "that I lent him"
+      }
+    ],
+    "answers": [
+      "I feel awkward asking for the money back that I lent him.",
+      "I hate having to ask him to return the money I lent."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cô ấy cho vay",
+        "en": "she has lent money"
+      },
+      {
+        "t": "quá nhiều người",
+        "en": "to too many people"
+      },
+      {
+        "t": "nên không đòi hết được.",
+        "en": "and she can't collect it all"
+      }
+    ],
+    "answers": [
+      "She has lent money to too many people, and she can't collect it all.",
+      "She's lent to so many people that she can't get it all back."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh ấy hứa trả",
+        "en": "he promised to pay me back"
+      },
+      {
+        "t": "nhưng đến giờ",
+        "en": "but so far"
+      },
+      {
+        "t": "vẫn chưa thấy đâu.",
+        "en": "there's no sign of it"
+      }
+    ],
+    "answers": [
+      "He promised to pay me back, but so far there's no sign of it.",
+      "He said he'd pay me back, but I still haven't seen a dong."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi mất luôn",
+        "en": "I completely lost"
+      },
+      {
+        "t": "số tiền",
+        "en": "the money"
+      },
+      {
+        "t": "cho người quen vay",
+        "en": "I lent an acquaintance"
+      },
+      {
+        "t": "hồi đó.",
+        "en": "back then"
+      }
+    ],
+    "answers": [
+      "I completely lost the money I lent an acquaintance back then.",
+      "I never got back the money I lent that acquaintance."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Bây giờ",
+        "en": "now"
+      },
+      {
+        "t": "tôi không dám",
+        "en": "I don't dare"
+      },
+      {
+        "t": "cho ai vay tiền nữa.",
+        "en": "lend anyone money anymore"
+      }
+    ],
+    "answers": [
+      "Now I don't dare lend anyone money anymore.",
+      "These days I'm too afraid to lend anyone money."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Bọn trẻ háo hức chờ",
+        "en": "the kids eagerly wait for"
+      },
+      {
+        "t": "tiền lì xì",
+        "en": "lucky money"
+      },
+      {
+        "t": "ngày Tết.",
+        "en": "on Tet"
+      }
+    ],
+    "answers": [
+      "The kids eagerly wait for lucky money on Tet.",
+      "The children can't wait for their lucky money at Tet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi lì xì",
+        "en": "I give lucky money"
+      },
+      {
+        "t": "cho các cháu",
+        "en": "to my nieces and nephews"
+      },
+      {
+        "t": "năm mươi nghìn",
+        "en": "fifty thousand dong"
+      },
+      {
+        "t": "mỗi đứa.",
+        "en": "each"
+      }
+    ],
+    "answers": [
+      "I give lucky money to my nieces and nephews, fifty thousand dong each.",
+      "I give each of my nieces and nephews fifty thousand dong for Tet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Con gái tôi",
+        "en": "my daughter"
+      },
+      {
+        "t": "cất hết",
+        "en": "puts all"
+      },
+      {
+        "t": "tiền lì xì",
+        "en": "her lucky money"
+      },
+      {
+        "t": "vào heo đất.",
+        "en": "into her piggy bank"
+      }
+    ],
+    "answers": [
+      "My daughter puts all her lucky money into her piggy bank.",
+      "My daughter saves all her lucky money in her piggy bank."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Năm nay",
+        "en": "this year"
+      },
+      {
+        "t": "tôi lì xì ít hơn",
+        "en": "I'm giving less lucky money"
+      },
+      {
+        "t": "vì đang thắt chặt",
+        "en": "since money is a bit tight"
+      },
+      {
+        "t": "chi tiêu.",
+        "en": "right now"
+      }
+    ],
+    "answers": [
+      "This year I'm giving less lucky money — money's a bit tight.",
+      "I'm handing out smaller lucky money envelopes this year — things are a bit tight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tiền lì xì của cháu",
+        "en": "my nephew's lucky money"
+      },
+      {
+        "t": "bị mẹ",
+        "en": "is kept by his mom"
+      },
+      {
+        "t": "giữ hộ hết.",
+        "en": "all of it"
+      }
+    ],
+    "answers": [
+      "My nephew's lucky money is all kept by his mom.",
+      "His mom holds onto all of his lucky money for him."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi nhận được",
+        "en": "I received"
+      },
+      {
+        "t": "khá nhiều",
+        "en": "quite a lot of"
+      },
+      {
+        "t": "tiền lì xì",
+        "en": "lucky money"
+      },
+      {
+        "t": "năm nay.",
+        "en": "this year"
+      }
+    ],
+    "answers": [
+      "I received quite a lot of lucky money this year.",
+      "I got a good amount of lucky money this year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Ông bà",
+        "en": "my grandparents"
+      },
+      {
+        "t": "luôn lì xì",
+        "en": "always give"
+      },
+      {
+        "t": "hậu hĩnh",
+        "en": "generous lucky money"
+      },
+      {
+        "t": "cho các cháu.",
+        "en": "to their grandchildren"
+      }
+    ],
+    "answers": [
+      "My grandparents always give generous lucky money to their grandchildren.",
+      "My grandparents always give their grandchildren a generous amount of lucky money."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã làm việc ở đây",
+        "en": "I've worked here"
+      },
+      {
+        "t": "được ba năm",
+        "en": "for three years"
+      },
+      {
+        "t": "nhưng lương",
+        "en": "but my salary"
+      },
+      {
+        "t": "chưa tăng lần nào.",
+        "en": "has never gone up"
+      }
+    ],
+    "answers": [
+      "I've worked here for three years, but my salary has never gone up.",
+      "I've been working here for three years, and my pay hasn't increased once."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu công ty",
+        "en": "if the company"
+      },
+      {
+        "t": "không tăng lương,",
+        "en": "doesn't raise my salary,"
+      },
+      {
+        "t": "tôi sẽ tìm",
+        "en": "I'll look for"
+      },
+      {
+        "t": "việc khác.",
+        "en": "another job"
+      }
+    ],
+    "answers": [
+      "If the company doesn't raise my salary, I'll look for another job.",
+      "If they don't give me a raise, I'll start looking for a new job."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi tôi nhận lương",
+        "en": "when I got paid"
+      },
+      {
+        "t": "tháng trước,",
+        "en": "last month,"
+      },
+      {
+        "t": "tôi đang đi công tác",
+        "en": "I was on a business trip"
+      },
+      {
+        "t": "ở Đà Nẵng.",
+        "en": "in Da Nang"
+      }
+    ],
+    "answers": [
+      "When I got paid last month, I was on a business trip in Da Nang.",
+      "I was traveling for work in Da Nang when my salary came in last month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng nhận lương",
+        "en": "I used to get paid"
+      },
+      {
+        "t": "theo tuần",
+        "en": "weekly"
+      },
+      {
+        "t": "chứ không phải theo tháng.",
+        "en": "instead of monthly"
+      }
+    ],
+    "answers": [
+      "In the past, I used to get paid weekly instead of monthly.",
+      "I used to be paid every week, not every month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lương đã tăng",
+        "en": "my salary has gone up"
+      },
+      {
+        "t": "một chút",
+        "en": "a little bit"
+      },
+      {
+        "t": "nên tôi cũng",
+        "en": "so I'm also"
+      },
+      {
+        "t": "đỡ lo hơn.",
+        "en": "less worried"
+      }
+    ],
+    "answers": [
+      "My salary has gone up a little bit, so I'm also less worried.",
+      "My pay has increased slightly, so I feel a bit more at ease."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi phải chờ",
+        "en": "I have to wait"
+      },
+      {
+        "t": "đến cuối tháng",
+        "en": "until the end of the month"
+      },
+      {
+        "t": "mới nhận được lương,",
+        "en": "to get paid,"
+      },
+      {
+        "t": "dù đã hết tiền",
+        "en": "although I've run out of money"
+      },
+      {
+        "t": "từ tuần trước.",
+        "en": "since last week"
+      }
+    ],
+    "answers": [
+      "I have to wait until the end of the month to get paid, although I've run out of money since last week.",
+      "Although I ran out of money last week, I still have to wait until the end of the month for my salary."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi nhận lương,",
+        "en": "after I get paid,"
+      },
+      {
+        "t": "tôi luôn",
+        "en": "I always"
+      },
+      {
+        "t": "trả hết",
+        "en": "pay off"
+      },
+      {
+        "t": "các hóa đơn trước.",
+        "en": "my bills first"
+      }
+    ],
+    "answers": [
+      "After I get paid, I always pay off my bills first.",
+      "Once my salary comes in, I always settle my bills first."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã tiết kiệm được",
+        "en": "I've saved"
+      },
+      {
+        "t": "gần hai mươi triệu",
+        "en": "almost twenty million dong"
+      },
+      {
+        "t": "kể từ đầu năm.",
+        "en": "since the start of the year"
+      }
+    ],
+    "answers": [
+      "I've saved almost twenty million dong since the start of the year.",
+      "I've put away nearly twenty million dong since the beginning of the year."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi tiết kiệm",
+        "en": "if I save"
+      },
+      {
+        "t": "đều đặn,",
+        "en": "regularly,"
+      },
+      {
+        "t": "tôi sẽ mua được",
+        "en": "I'll be able to buy"
+      },
+      {
+        "t": "nhà",
+        "en": "a house"
+      },
+      {
+        "t": "trong năm năm nữa.",
+        "en": "in five years"
+      }
+    ],
+    "answers": [
+      "If I save regularly, I'll be able to buy a house in five years.",
+      "If I keep saving steadily, I'll manage to buy a house within five years."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây tôi",
+        "en": "I"
+      },
+      {
+        "t": "chẳng bao giờ để dành tiền,",
+        "en": "never used to save any money,"
+      },
+      {
+        "t": "nhưng giờ thì khác rồi.",
+        "en": "but things are different now"
+      }
+    ],
+    "answers": [
+      "I never used to save any money, but things are different now.",
+      "I didn't use to save at all, but that's changed now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi còn là sinh viên,",
+        "en": "when I was a student,"
+      },
+      {
+        "t": "tôi để dành",
+        "en": "I saved up"
+      },
+      {
+        "t": "từng đồng",
+        "en": "every penny"
+      },
+      {
+        "t": "để sau này du học.",
+        "en": "to study abroad later"
+      }
+    ],
+    "answers": [
+      "When I was a student, I saved up every penny to study abroad later.",
+      "As a student, I put aside every penny so I could study abroad later."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi tiết kiệm được nhiều hơn",
+        "en": "I've saved a lot more"
+      },
+      {
+        "t": "kể từ khi",
+        "en": "since"
+      },
+      {
+        "t": "bỏ thói quen",
+        "en": "I gave up the habit of"
+      },
+      {
+        "t": "mua cà phê mỗi sáng.",
+        "en": "buying coffee every morning"
+      }
+    ],
+    "answers": [
+      "I've saved a lot more since I gave up the habit of buying coffee every morning.",
+      "I've been saving much more ever since I quit buying coffee every morning."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Dù lương không cao,",
+        "en": "although my salary isn't high,"
+      },
+      {
+        "t": "tôi vẫn cố gắng",
+        "en": "I still try"
+      },
+      {
+        "t": "để dành",
+        "en": "to save"
+      },
+      {
+        "t": "mỗi tháng.",
+        "en": "every month"
+      }
+    ],
+    "answers": [
+      "Although my salary isn't high, I still try to save every month.",
+      "Even though I don't earn much, I still try to put money aside every month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đặt ra",
+        "en": "I set"
+      },
+      {
+        "t": "một mục tiêu",
+        "en": "a goal"
+      },
+      {
+        "t": "và cắt giảm chi tiêu",
+        "en": "and cut down on spending"
+      },
+      {
+        "t": "để đạt được nó.",
+        "en": "to reach it"
+      }
+    ],
+    "answers": [
+      "I set a goal and cut down on spending to reach it.",
+      "I made a savings goal and cut back on spending to get there."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã trả gần hết nợ,",
+        "en": "I've paid off almost all my debt,"
+      },
+      {
+        "t": "chỉ còn",
+        "en": "there's only"
+      },
+      {
+        "t": "một khoản nhỏ nữa thôi.",
+        "en": "a small amount left"
+      }
+    ],
+    "answers": [
+      "I've paid off almost all my debt; there's only a small amount left.",
+      "I've cleared nearly all of my debt, with just a small amount remaining."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu anh ấy",
+        "en": "if he"
+      },
+      {
+        "t": "không trả nợ đúng hạn,",
+        "en": "doesn't pay off the debt on time,"
+      },
+      {
+        "t": "ngân hàng sẽ phạt thêm",
+        "en": "the bank will charge extra"
+      },
+      {
+        "t": "lãi.",
+        "en": "interest"
+      }
+    ],
+    "answers": [
+      "If he doesn't pay off the debt on time, the bank will charge extra interest.",
+      "If he misses the debt deadline, the bank will add more interest."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi tôi còn nợ nần,",
+        "en": "when I was in debt,"
+      },
+      {
+        "t": "tôi hầu như",
+        "en": "I almost"
+      },
+      {
+        "t": "không dám tiêu gì cả.",
+        "en": "didn't dare spend anything"
+      }
+    ],
+    "answers": [
+      "When I was in debt, I almost didn't dare spend anything.",
+      "While I was still in debt, I was afraid to spend even a little."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng nợ",
+        "en": "I used to owe"
+      },
+      {
+        "t": "thẻ tín dụng",
+        "en": "credit card debt"
+      },
+      {
+        "t": "rất nhiều.",
+        "en": "a lot"
+      }
+    ],
+    "answers": [
+      "In the past, I used to owe a lot of credit card debt.",
+      "I used to be deep in credit card debt."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Anh ấy vay nợ",
+        "en": "he borrowed money"
+      },
+      {
+        "t": "khắp nơi",
+        "en": "from everywhere"
+      },
+      {
+        "t": "vì đầu tư",
+        "en": "because his investment"
+      },
+      {
+        "t": "thua lỗ.",
+        "en": "lost money"
+      }
+    ],
+    "answers": [
+      "He borrowed money from everywhere because his investment lost money.",
+      "He borrowed from everyone because his investment went wrong."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đang cố gắng",
+        "en": "I'm trying"
+      },
+      {
+        "t": "trả bớt nợ",
+        "en": "to pay off some debt"
+      },
+      {
+        "t": "trước khi",
+        "en": "before"
+      },
+      {
+        "t": "lãi suất tăng thêm.",
+        "en": "the interest rate rises further"
+      }
+    ],
+    "answers": [
+      "I'm trying to pay off some debt before the interest rate rises further.",
+      "I'm trying to reduce my debt before interest rates go up any more."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù đã trả nợ",
+        "en": "although we've been paying off debt"
+      },
+      {
+        "t": "nhiều năm,",
+        "en": "for many years,"
+      },
+      {
+        "t": "gia đình tôi vẫn chưa",
+        "en": "my family still hasn't"
+      },
+      {
+        "t": "hết nợ hoàn toàn.",
+        "en": "cleared it completely"
+      }
+    ],
+    "answers": [
+      "Although we've been paying off debt for many years, my family still hasn't cleared it completely.",
+      "Even though we've paid off debt for years, my family still isn't completely debt-free."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã cho bạn thân",
+        "en": "I've lent my close friend"
+      },
+      {
+        "t": "vay tiền hai lần rồi",
+        "en": "money twice now"
+      },
+      {
+        "t": "và cả hai lần",
+        "en": "and both times"
+      },
+      {
+        "t": "đều không đòi được.",
+        "en": "I couldn't get it back"
+      }
+    ],
+    "answers": [
+      "I've lent my close friend money twice now, and both times I couldn't get it back.",
+      "I've loaned my best friend money on two occasions, and neither time did I get it back."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu bạn hỏi mượn tiền tôi,",
+        "en": "if you ask to borrow money from me,"
+      },
+      {
+        "t": "tôi sẽ suy nghĩ kỹ",
+        "en": "I'll think carefully"
+      },
+      {
+        "t": "trước khi cho vay.",
+        "en": "before lending it"
+      }
+    ],
+    "answers": [
+      "If you ask to borrow money from me, I'll think carefully before lending it.",
+      "If you ask me for a loan, I'll consider it carefully before agreeing."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang loay hoay",
+        "en": "while I was struggling"
+      },
+      {
+        "t": "tìm tiền đóng học phí,",
+        "en": "to find money for tuition,"
+      },
+      {
+        "t": "tôi đã mượn tạm",
+        "en": "I temporarily borrowed from"
+      },
+      {
+        "t": "bạn cùng lớp.",
+        "en": "a classmate"
+      }
+    ],
+    "answers": [
+      "While I was struggling to find money for tuition, I temporarily borrowed from a classmate.",
+      "I borrowed some money from a classmate while I was scrambling to pay tuition."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "chúng tôi hay",
+        "en": "we used to"
+      },
+      {
+        "t": "cho nhau vay tiền",
+        "en": "lend each other money"
+      },
+      {
+        "t": "mà không lo lắng gì.",
+        "en": "without worrying at all"
+      }
+    ],
+    "answers": [
+      "In the past, we used to lend each other money without worrying at all.",
+      "We used to loan each other money without a second thought."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Cô ấy đã vay tiền tôi",
+        "en": "she borrowed money from me"
+      },
+      {
+        "t": "từ lâu",
+        "en": "a long time ago"
+      },
+      {
+        "t": "nhưng vẫn chưa",
+        "en": "but still hasn't"
+      },
+      {
+        "t": "trả lại.",
+        "en": "paid it back"
+      }
+    ],
+    "answers": [
+      "She borrowed money from me a long time ago, but she still hasn't paid it back.",
+      "She took a loan from me ages ago and hasn't returned it yet."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Vì không muốn",
+        "en": "because I don't want"
+      },
+      {
+        "t": "nợ nần bạn bè,",
+        "en": "to owe my friends money,"
+      },
+      {
+        "t": "tôi luôn từ chối",
+        "en": "I always turn down"
+      },
+      {
+        "t": "vay tiền.",
+        "en": "borrowing money"
+      }
+    ],
+    "answers": [
+      "Because I don't want to owe my friends money, I always turn down borrowing money.",
+      "Since I don't want to be in debt to friends, I always say no to loans."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi mượn tiền bạn,",
+        "en": "after borrowing money from a friend,"
+      },
+      {
+        "t": "tôi luôn ghi lại",
+        "en": "I always write down"
+      },
+      {
+        "t": "số tiền",
+        "en": "the amount"
+      },
+      {
+        "t": "để khỏi quên.",
+        "en": "so I don't forget"
+      }
+    ],
+    "answers": [
+      "After borrowing money from a friend, I always write down the amount so I don't forget.",
+      "Whenever I borrow from a friend, I note down the amount afterward so it doesn't slip my mind."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã đầu tư",
+        "en": "I've been investing"
+      },
+      {
+        "t": "vào cổ phiếu",
+        "en": "in stocks"
+      },
+      {
+        "t": "được hai năm nay.",
+        "en": "for two years now"
+      }
+    ],
+    "answers": [
+      "I've been investing in stocks for two years now.",
+      "I've invested in stocks for two years."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu giá vàng",
+        "en": "if the price of gold"
+      },
+      {
+        "t": "tiếp tục tăng,",
+        "en": "keeps rising,"
+      },
+      {
+        "t": "tôi sẽ bán bớt",
+        "en": "I'll sell some off"
+      },
+      {
+        "t": "để chốt lời.",
+        "en": "to lock in profit"
+      }
+    ],
+    "answers": [
+      "If the price of gold keeps rising, I'll sell some off to lock in profit.",
+      "If gold prices keep going up, I'll cash out some to take the profit."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi thị trường",
+        "en": "when the market"
+      },
+      {
+        "t": "đang giảm mạnh,",
+        "en": "was dropping sharply,"
+      },
+      {
+        "t": "tôi vẫn quyết định",
+        "en": "I still decided"
+      },
+      {
+        "t": "mua thêm cổ phiếu.",
+        "en": "to buy more stocks"
+      }
+    ],
+    "answers": [
+      "When the market was dropping sharply, I still decided to buy more stocks.",
+      "While the market was crashing, I chose to buy even more stocks."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây bố tôi",
+        "en": "in the past, my dad"
+      },
+      {
+        "t": "từng đầu tư",
+        "en": "used to invest"
+      },
+      {
+        "t": "vào rất nhiều lĩnh vực khác nhau.",
+        "en": "in many different fields"
+      }
+    ],
+    "answers": [
+      "In the past, my dad used to invest in many different fields.",
+      "My dad used to put money into all kinds of different investments."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù rủi ro cao,",
+        "en": "although the risk is high,"
+      },
+      {
+        "t": "nhiều người vẫn",
+        "en": "many people still"
+      },
+      {
+        "t": "đổ tiền vào",
+        "en": "pour money into"
+      },
+      {
+        "t": "tiền điện tử.",
+        "en": "cryptocurrency"
+      }
+    ],
+    "answers": [
+      "Although the risk is high, many people still pour money into cryptocurrency.",
+      "Even though it's risky, plenty of people still put their money into crypto."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã mất",
+        "en": "I've lost"
+      },
+      {
+        "t": "kha khá tiền",
+        "en": "quite a bit of money"
+      },
+      {
+        "t": "vì nghe theo",
+        "en": "because I followed"
+      },
+      {
+        "t": "lời khuyên đầu tư sai.",
+        "en": "bad investment advice"
+      }
+    ],
+    "answers": [
+      "I've lost quite a bit of money because I followed bad investment advice.",
+      "I lost a fair amount of money by taking some bad investment advice."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã tiêu quá tay",
+        "en": "I've overspent"
+      },
+      {
+        "t": "suốt tháng này",
+        "en": "all this month"
+      },
+      {
+        "t": "nên giờ",
+        "en": "so now"
+      },
+      {
+        "t": "gần hết tiền.",
+        "en": "I'm almost out of money"
+      }
+    ],
+    "answers": [
+      "I've overspent all this month, so now I'm almost out of money.",
+      "I've been spending too much this whole month, and now I'm nearly broke."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không kiểm soát",
+        "en": "if I don't control"
+      },
+      {
+        "t": "chi tiêu,",
+        "en": "my spending,"
+      },
+      {
+        "t": "tôi sẽ hết sạch tiền",
+        "en": "I'll run out of money"
+      },
+      {
+        "t": "trước cuối tháng.",
+        "en": "before the end of the month"
+      }
+    ],
+    "answers": [
+      "If I don't control my spending, I'll run out of money before the end of the month.",
+      "If I don't rein in my spending, I'll be broke before the month ends."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang buồn,",
+        "en": "when I'm feeling down,"
+      },
+      {
+        "t": "tôi thường mua sắm",
+        "en": "I often go shopping"
+      },
+      {
+        "t": "để giải tỏa",
+        "en": "to feel better"
+      },
+      {
+        "t": "và tiêu quá đà.",
+        "en": "and overspend"
+      }
+    ],
+    "answers": [
+      "When I'm feeling down, I often go shopping to feel better and overspend.",
+      "Whenever I'm sad, I tend to shop to cheer up, and I end up overspending."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng tiêu tiền",
+        "en": "I used to spend money"
+      },
+      {
+        "t": "không tính toán gì cả.",
+        "en": "without any thought at all"
+      }
+    ],
+    "answers": [
+      "In the past, I used to spend money without any thought at all.",
+      "I used to spend money without thinking twice."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù đã đặt",
+        "en": "although I set"
+      },
+      {
+        "t": "ngân sách,",
+        "en": "a budget,"
+      },
+      {
+        "t": "tôi vẫn tiêu vượt mức",
+        "en": "I still go over it"
+      },
+      {
+        "t": "mỗi tháng.",
+        "en": "every month"
+      }
+    ],
+    "answers": [
+      "Although I set a budget, I still go over it every month.",
+      "Even though I have a budget, I overspend it every month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi nhận lương,",
+        "en": "after I get paid,"
+      },
+      {
+        "t": "tôi thường",
+        "en": "I usually"
+      },
+      {
+        "t": "tiêu hết veo",
+        "en": "blow through it all"
+      },
+      {
+        "t": "trong vài ngày.",
+        "en": "within a few days"
+      }
+    ],
+    "answers": [
+      "After I get paid, I usually blow through it all within a few days.",
+      "Once my salary comes in, I typically burn through it in just a few days."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi cần cắt giảm",
+        "en": "I need to cut back on"
+      },
+      {
+        "t": "chi tiêu",
+        "en": "my spending"
+      },
+      {
+        "t": "vì tháng này",
+        "en": "because this month"
+      },
+      {
+        "t": "tiêu quá tay rồi.",
+        "en": "I've already overspent"
+      }
+    ],
+    "answers": [
+      "I need to cut back on my spending because I've already overspent this month.",
+      "I have to cut down on spending since I've already gone overboard this month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã quên trả",
+        "en": "I've forgotten to pay"
+      },
+      {
+        "t": "hóa đơn điện",
+        "en": "the electricity bill"
+      },
+      {
+        "t": "suốt hai tháng liền.",
+        "en": "for two months in a row"
+      }
+    ],
+    "answers": [
+      "I've forgotten to pay the electricity bill for two months in a row.",
+      "I've missed the power bill two months in a row."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không trả",
+        "en": "if I don't pay"
+      },
+      {
+        "t": "hóa đơn đúng hạn,",
+        "en": "the bill on time,"
+      },
+      {
+        "t": "họ sẽ cắt điện.",
+        "en": "they'll cut off the power"
+      }
+    ],
+    "answers": [
+      "If I don't pay the bill on time, they'll cut off the power.",
+      "If the bill isn't paid on time, they'll shut off the electricity."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang xem",
+        "en": "while looking at"
+      },
+      {
+        "t": "hóa đơn tháng này,",
+        "en": "this month's bills,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I realized"
+      },
+      {
+        "t": "mình tiêu quá nhiều cho ăn uống.",
+        "en": "I'd spent way too much on food"
+      }
+    ],
+    "answers": [
+      "While looking at this month's bills, I realized I'd spent way too much on food.",
+      "Going through this month's bills, I noticed how much I'd overspent on food."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng trả hóa đơn",
+        "en": "I used to pay bills"
+      },
+      {
+        "t": "bằng tiền mặt",
+        "en": "in cash"
+      },
+      {
+        "t": "tại quầy.",
+        "en": "at the counter"
+      }
+    ],
+    "answers": [
+      "In the past, I used to pay bills in cash at the counter.",
+      "I used to pay my bills with cash over the counter."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù đã cài",
+        "en": "although I set up"
+      },
+      {
+        "t": "nhắc nhở,",
+        "en": "a reminder,"
+      },
+      {
+        "t": "tôi vẫn trễ hóa đơn",
+        "en": "I still missed the bill"
+      },
+      {
+        "t": "tháng này.",
+        "en": "this month"
+      }
+    ],
+    "answers": [
+      "Although I set up a reminder, I still missed the bill this month.",
+      "Even though I had a reminder set, I still paid the bill late this month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước khi hóa đơn đến hạn,",
+        "en": "before a bill is due,"
+      },
+      {
+        "t": "tôi luôn kiểm tra",
+        "en": "I always check"
+      },
+      {
+        "t": "số dư tài khoản.",
+        "en": "my account balance"
+      }
+    ],
+    "answers": [
+      "Before a bill is due, I always check my account balance.",
+      "I always check my account balance before any bill comes due."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Hóa đơn tháng này",
+        "en": "this month's bill"
+      },
+      {
+        "t": "tăng vọt",
+        "en": "spiked"
+      },
+      {
+        "t": "vì tôi bật điều hòa",
+        "en": "because I ran the air conditioner"
+      },
+      {
+        "t": "suốt tuần nóng vừa rồi.",
+        "en": "all through the recent heatwave"
+      }
+    ],
+    "answers": [
+      "This month's bill spiked because I ran the air conditioner all through the recent heatwave.",
+      "The bill shot up this month because I had the AC on the whole heatwave."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã thuê",
+        "en": "I've been renting"
+      },
+      {
+        "t": "căn hộ này",
+        "en": "this apartment"
+      },
+      {
+        "t": "được hơn một năm rồi.",
+        "en": "for over a year now"
+      }
+    ],
+    "answers": [
+      "I've been renting this apartment for over a year now.",
+      "I've rented this apartment for more than a year."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu chủ nhà",
+        "en": "if the landlord"
+      },
+      {
+        "t": "tăng giá thuê nữa,",
+        "en": "raises the rent again,"
+      },
+      {
+        "t": "tôi sẽ chuyển đi",
+        "en": "I'll move out"
+      },
+      {
+        "t": "chỗ khác.",
+        "en": "somewhere else"
+      }
+    ],
+    "answers": [
+      "If the landlord raises the rent again, I'll move out somewhere else.",
+      "If the rent goes up again, I'll find another place to live."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang tìm phòng trọ,",
+        "en": "while I was looking for a room,"
+      },
+      {
+        "t": "tôi nhận ra",
+        "en": "I realized"
+      },
+      {
+        "t": "giá thuê ở đây",
+        "en": "the rent here"
+      },
+      {
+        "t": "đắt hơn tôi nghĩ.",
+        "en": "was higher than I thought"
+      }
+    ],
+    "answers": [
+      "While I was looking for a room, I realized the rent here was higher than I thought.",
+      "As I was searching for a place, I found out the rent was pricier than expected."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng ở chung",
+        "en": "I used to share a place"
+      },
+      {
+        "t": "để đỡ",
+        "en": "to save on"
+      },
+      {
+        "t": "tiền thuê nhà.",
+        "en": "rent"
+      }
+    ],
+    "answers": [
+      "In the past, I used to share a place to save on rent.",
+      "I used to live with roommates to cut down on rent."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù tiền thuê khá cao,",
+        "en": "although the rent is quite high,"
+      },
+      {
+        "t": "khu này lại gần",
+        "en": "this area is close to"
+      },
+      {
+        "t": "chỗ làm",
+        "en": "work"
+      },
+      {
+        "t": "nên tôi vẫn ở.",
+        "en": "so I'm still staying here"
+      }
+    ],
+    "answers": [
+      "Although the rent is quite high, this area is close to work, so I'm still staying here.",
+      "Even though the rent's pretty high, it's near my job, so I've stayed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi ký hợp đồng thuê nhà,",
+        "en": "after signing the lease,"
+      },
+      {
+        "t": "tôi mới biết",
+        "en": "I found out"
+      },
+      {
+        "t": "còn phải trả thêm",
+        "en": "I also had to pay extra"
+      },
+      {
+        "t": "phí quản lý.",
+        "en": "management fees"
+      }
+    ],
+    "answers": [
+      "After signing the lease, I found out I also had to pay extra management fees.",
+      "Once I'd signed the lease, I discovered there were additional management fees."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi phải làm thêm giờ",
+        "en": "I have to work overtime"
+      },
+      {
+        "t": "vì tiền thuê nhà",
+        "en": "because the rent"
+      },
+      {
+        "t": "chiếm gần hết lương.",
+        "en": "eats up almost my whole salary"
+      }
+    ],
+    "answers": [
+      "I have to work overtime because the rent eats up almost my whole salary.",
+      "I work extra hours since rent takes up nearly all of my pay."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã chia tiền ăn",
+        "en": "we've split the bill"
+      },
+      {
+        "t": "công bằng",
+        "en": "fairly"
+      },
+      {
+        "t": "từ trước đến giờ.",
+        "en": "all along"
+      }
+    ],
+    "answers": [
+      "We've split the bill fairly all along.",
+      "We've been splitting the bill evenly the whole time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu ai đó",
+        "en": "if someone"
+      },
+      {
+        "t": "không góp tiền,",
+        "en": "doesn't chip in,"
+      },
+      {
+        "t": "cả nhóm sẽ",
+        "en": "the whole group will"
+      },
+      {
+        "t": "khó chịu ra mặt.",
+        "en": "clearly get annoyed"
+      }
+    ],
+    "answers": [
+      "If someone doesn't chip in, the whole group will clearly get annoyed.",
+      "If somebody skips paying their share, everyone in the group gets visibly upset."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang tính tiền,",
+        "en": "while we were paying,"
+      },
+      {
+        "t": "chúng tôi phát hiện",
+        "en": "we noticed"
+      },
+      {
+        "t": "quán tính nhầm",
+        "en": "the restaurant had miscalculated"
+      },
+      {
+        "t": "hóa đơn.",
+        "en": "the bill"
+      }
+    ],
+    "answers": [
+      "While we were paying, we noticed the restaurant had miscalculated the bill.",
+      "As we were settling up, we spotted a mistake on the bill."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây nhóm tôi",
+        "en": "in the past, my group"
+      },
+      {
+        "t": "hay quên chia tiền,",
+        "en": "used to forget to split the bill,"
+      },
+      {
+        "t": "giờ thì dùng app",
+        "en": "now we use an app"
+      },
+      {
+        "t": "cho tiện.",
+        "en": "to make it easier"
+      }
+    ],
+    "answers": [
+      "In the past, my group used to forget to split the bill; now we use an app to make it easier.",
+      "We used to forget to split the bill, but now we just use an app instead."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù không ăn nhiều,",
+        "en": "although I didn't eat much,"
+      },
+      {
+        "t": "tôi vẫn chia đều",
+        "en": "I still split evenly"
+      },
+      {
+        "t": "với mọi người.",
+        "en": "with everyone"
+      }
+    ],
+    "answers": [
+      "Although I didn't eat much, I still split evenly with everyone.",
+      "Even though I barely ate, I still went along with splitting the bill equally."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi cãi nhau",
+        "en": "after arguing"
+      },
+      {
+        "t": "vì tiền ăn,",
+        "en": "over the bill,"
+      },
+      {
+        "t": "chúng tôi quyết định luôn",
+        "en": "we decided to always"
+      },
+      {
+        "t": "dùng app chia bill.",
+        "en": "use a bill-splitting app"
+      }
+    ],
+    "answers": [
+      "After arguing over the bill, we decided to always use a bill-splitting app.",
+      "Following an argument about the bill, we decided to start using a bill-splitting app for good."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã xây dựng được",
+        "en": "I've built up"
+      },
+      {
+        "t": "quỹ khẩn cấp",
+        "en": "an emergency fund"
+      },
+      {
+        "t": "đủ dùng",
+        "en": "that's enough"
+      },
+      {
+        "t": "trong sáu tháng.",
+        "en": "for six months"
+      }
+    ],
+    "answers": [
+      "I've built up an emergency fund that's enough for six months.",
+      "I've saved up an emergency fund covering six months of expenses."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi đột nhiên",
+        "en": "if I suddenly lose"
+      },
+      {
+        "t": "mất việc,",
+        "en": "my job,"
+      },
+      {
+        "t": "quỹ khẩn cấp",
+        "en": "my emergency fund"
+      },
+      {
+        "t": "sẽ giúp tôi cầm cự.",
+        "en": "will help me get by"
+      }
+    ],
+    "answers": [
+      "If I suddenly lose my job, my emergency fund will help me get by.",
+      "If I lose my job out of nowhere, my emergency fund will keep me going."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang xây",
+        "en": "while I was building"
+      },
+      {
+        "t": "quỹ khẩn cấp,",
+        "en": "an emergency fund,"
+      },
+      {
+        "t": "tôi nhận ra",
+        "en": "I realized"
+      },
+      {
+        "t": "mình tiêu ít hơn hẳn.",
+        "en": "I was spending a lot less"
+      }
+    ],
+    "answers": [
+      "While I was building an emergency fund, I realized I was spending a lot less.",
+      "Building up an emergency fund, I noticed I'd cut my spending significantly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây tôi",
+        "en": "in the past, I"
+      },
+      {
+        "t": "chẳng bao giờ nghĩ đến",
+        "en": "never used to think about"
+      },
+      {
+        "t": "quỹ khẩn cấp",
+        "en": "an emergency fund"
+      },
+      {
+        "t": "cho đến khi mất việc.",
+        "en": "until I lost my job"
+      }
+    ],
+    "answers": [
+      "In the past, I never used to think about an emergency fund until I lost my job.",
+      "I didn't use to think about emergency savings until I became unemployed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù thu nhập không cao,",
+        "en": "although my income isn't high,"
+      },
+      {
+        "t": "tôi vẫn cố",
+        "en": "I still try"
+      },
+      {
+        "t": "dành ra",
+        "en": "to set aside"
+      },
+      {
+        "t": "một quỹ khẩn cấp.",
+        "en": "an emergency fund"
+      }
+    ],
+    "answers": [
+      "Although my income isn't high, I still try to set aside an emergency fund.",
+      "Even though I don't earn much, I still try to build up an emergency fund."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi trải qua đợt dịch,",
+        "en": "after going through the pandemic,"
+      },
+      {
+        "t": "tôi mới thấy",
+        "en": "I finally realized"
+      },
+      {
+        "t": "quỹ khẩn cấp",
+        "en": "how important"
+      },
+      {
+        "t": "quan trọng thế nào.",
+        "en": "an emergency fund is"
+      }
+    ],
+    "answers": [
+      "After going through the pandemic, I finally realized how important an emergency fund is.",
+      "The pandemic taught me just how important having an emergency fund really is."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lãi suất",
+        "en": "interest rates"
+      },
+      {
+        "t": "đã giảm liên tục",
+        "en": "have kept falling"
+      },
+      {
+        "t": "trong sáu tháng qua.",
+        "en": "over the past six months"
+      }
+    ],
+    "answers": [
+      "Interest rates have kept falling over the past six months.",
+      "Interest rates have been dropping steadily for the last six months."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu lãi suất tăng,",
+        "en": "if interest rates go up,"
+      },
+      {
+        "t": "khoản vay mua nhà của tôi",
+        "en": "my home loan"
+      },
+      {
+        "t": "sẽ đắt hơn nhiều.",
+        "en": "will become much more expensive"
+      }
+    ],
+    "answers": [
+      "If interest rates go up, my home loan will become much more expensive.",
+      "If rates rise, my mortgage will cost a lot more."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang so sánh",
+        "en": "while I was comparing"
+      },
+      {
+        "t": "lãi suất",
+        "en": "interest rates"
+      },
+      {
+        "t": "giữa các ngân hàng,",
+        "en": "across different banks,"
+      },
+      {
+        "t": "tôi thấy chỗ này tốt nhất.",
+        "en": "I found this one was the best"
+      }
+    ],
+    "answers": [
+      "While I was comparing interest rates across different banks, I found this one was the best.",
+      "Comparing rates between banks, I discovered this one offered the best deal."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "lãi suất tiết kiệm",
+        "en": "savings interest rates"
+      },
+      {
+        "t": "từng cao hơn",
+        "en": "used to be much higher"
+      },
+      {
+        "t": "bây giờ nhiều.",
+        "en": "than they are now"
+      }
+    ],
+    "answers": [
+      "In the past, savings interest rates used to be much higher than they are now.",
+      "Savings rates used to be way higher than they are today."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù lãi suất thấp,",
+        "en": "although the interest rate is low,"
+      },
+      {
+        "t": "tôi vẫn gửi tiết kiệm",
+        "en": "I still make a deposit"
+      },
+      {
+        "t": "vì an toàn.",
+        "en": "because it's safe"
+      }
+    ],
+    "answers": [
+      "Although the interest rate is low, I still make a deposit because it's safe.",
+      "Even with low interest, I still put money in savings since it's safer."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi lãi suất giảm,",
+        "en": "after the interest rate dropped,"
+      },
+      {
+        "t": "nhiều người rút tiền",
+        "en": "a lot of people withdrew their money"
+      },
+      {
+        "t": "để đầu tư chỗ khác.",
+        "en": "to invest it elsewhere"
+      }
+    ],
+    "answers": [
+      "After the interest rate dropped, a lot of people withdrew their money to invest it elsewhere.",
+      "Once interest rates fell, many people pulled their money out to invest elsewhere."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã dùng",
+        "en": "I've been using"
+      },
+      {
+        "t": "ví điện tử",
+        "en": "an e-wallet"
+      },
+      {
+        "t": "được gần hai năm rồi.",
+        "en": "for almost two years now"
+      }
+    ],
+    "answers": [
+      "I've been using an e-wallet for almost two years now.",
+      "I've used an e-wallet for nearly two years."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu ví điện tử bị lỗi,",
+        "en": "if the e-wallet breaks down,"
+      },
+      {
+        "t": "tôi sẽ không thể",
+        "en": "I won't be able to"
+      },
+      {
+        "t": "thanh toán được gì cả.",
+        "en": "pay for anything at all"
+      }
+    ],
+    "answers": [
+      "If the e-wallet breaks down, I won't be able to pay for anything at all.",
+      "If my e-wallet stops working, I can't pay for a single thing."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang chuyển tiền",
+        "en": "while I was transferring money"
+      },
+      {
+        "t": "qua ví điện tử,",
+        "en": "through the e-wallet,"
+      },
+      {
+        "t": "mạng bỗng bị treo.",
+        "en": "the connection suddenly froze"
+      }
+    ],
+    "answers": [
+      "While I was transferring money through the e-wallet, the connection suddenly froze.",
+      "The connection suddenly froze while I was sending money via the e-wallet."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng ngại dùng",
+        "en": "I used to be reluctant to use"
+      },
+      {
+        "t": "ví điện tử",
+        "en": "e-wallets"
+      },
+      {
+        "t": "vì sợ bị lừa.",
+        "en": "because I was afraid of being scammed"
+      }
+    ],
+    "answers": [
+      "In the past, I used to be reluctant to use e-wallets because I was afraid of being scammed.",
+      "I used to avoid e-wallets since I was worried about getting scammed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù tiện lợi,",
+        "en": "although it's convenient,"
+      },
+      {
+        "t": "ví điện tử vẫn khiến tôi",
+        "en": "the e-wallet still makes me"
+      },
+      {
+        "t": "tiêu tiền vô tội vạ hơn.",
+        "en": "spend money more carelessly"
+      }
+    ],
+    "answers": [
+      "Although it's convenient, the e-wallet still makes me spend money more carelessly.",
+      "Even though it's handy, my e-wallet still gets me to spend more recklessly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi cài ví điện tử,",
+        "en": "after installing the e-wallet,"
+      },
+      {
+        "t": "tôi hầu như bỏ hẳn",
+        "en": "I've pretty much given up"
+      },
+      {
+        "t": "tiền mặt.",
+        "en": "cash"
+      }
+    ],
+    "answers": [
+      "After installing the e-wallet, I've pretty much given up cash.",
+      "Since installing the e-wallet, I've almost completely stopped using cash."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã nhận",
+        "en": "I received"
+      },
+      {
+        "t": "tiền thưởng Tết",
+        "en": "my Tet bonus"
+      },
+      {
+        "t": "sáng nay",
+        "en": "this morning"
+      },
+      {
+        "t": "và thấy vui hẳn.",
+        "en": "and I feel really happy"
+      }
+    ],
+    "answers": [
+      "I received my Tet bonus this morning, and I feel really happy.",
+      "My Tet bonus came in this morning, and it's put me in a great mood."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tiền thưởng Tết",
+        "en": "if the Tet bonus"
+      },
+      {
+        "t": "đủ nhiều,",
+        "en": "is big enough,"
+      },
+      {
+        "t": "tôi sẽ đưa cả nhà",
+        "en": "I'll take the whole family"
+      },
+      {
+        "t": "đi du lịch.",
+        "en": "on a trip"
+      }
+    ],
+    "answers": [
+      "If the Tet bonus is big enough, I'll take the whole family on a trip.",
+      "If my Tet bonus is generous enough, I'll treat the family to a trip."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang đếm",
+        "en": "while I was counting"
+      },
+      {
+        "t": "tiền thưởng Tết,",
+        "en": "my Tet bonus,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I realized"
+      },
+      {
+        "t": "công ty đã trả nhầm.",
+        "en": "the company had made a mistake"
+      }
+    ],
+    "answers": [
+      "While I was counting my Tet bonus, I realized the company had made a mistake.",
+      "Counting my Tet bonus, I noticed the company had paid the wrong amount."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "công ty từng thưởng Tết",
+        "en": "the company used to give a Tet bonus"
+      },
+      {
+        "t": "rất hậu hĩnh.",
+        "en": "that was very generous"
+      }
+    ],
+    "answers": [
+      "In the past, the company used to give a Tet bonus that was very generous.",
+      "The company used to hand out really generous Tet bonuses."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù ít,",
+        "en": "although it's small,"
+      },
+      {
+        "t": "tiền thưởng Tết năm nay",
+        "en": "this year's Tet bonus"
+      },
+      {
+        "t": "vẫn giúp tôi mua vé xe",
+        "en": "still helped me buy a bus ticket"
+      },
+      {
+        "t": "về quê.",
+        "en": "home"
+      }
+    ],
+    "answers": [
+      "Although it's small, this year's Tet bonus still helped me buy a bus ticket home.",
+      "Even though it's modest, this year's Tet bonus was enough to cover my ticket home."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi tiêu hết",
+        "en": "after spending all"
+      },
+      {
+        "t": "tiền thưởng Tết,",
+        "en": "of my Tet bonus,"
+      },
+      {
+        "t": "tôi lại phải quay về",
+        "en": "I had to go back to"
+      },
+      {
+        "t": "sống tằn tiện.",
+        "en": "living frugally"
+      }
+    ],
+    "answers": [
+      "After spending all of my Tet bonus, I had to go back to living frugally.",
+      "Once I'd blown through my Tet bonus, I went right back to being frugal."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã lập",
+        "en": "I've put together"
+      },
+      {
+        "t": "kế hoạch tài chính rõ ràng",
+        "en": "a clear financial plan"
+      },
+      {
+        "t": "từ đầu năm nay.",
+        "en": "since the start of this year"
+      }
+    ],
+    "answers": [
+      "I've put together a clear financial plan since the start of this year.",
+      "I've had a clear financial plan in place since early this year."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi bám sát",
+        "en": "if I stick to"
+      },
+      {
+        "t": "kế hoạch tài chính,",
+        "en": "my financial plan,"
+      },
+      {
+        "t": "tôi sẽ mua được xe hơi",
+        "en": "I'll be able to buy a car"
+      },
+      {
+        "t": "vào năm sau.",
+        "en": "next year"
+      }
+    ],
+    "answers": [
+      "If I stick to my financial plan, I'll be able to buy a car next year.",
+      "If I follow my financial plan closely, I'll manage to buy a car by next year."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang lên",
+        "en": "while we were making"
+      },
+      {
+        "t": "kế hoạch tài chính,",
+        "en": "a financial plan,"
+      },
+      {
+        "t": "chúng tôi cãi nhau",
+        "en": "we argued"
+      },
+      {
+        "t": "về việc nên tiết kiệm bao nhiêu.",
+        "en": "about how much to save"
+      }
+    ],
+    "answers": [
+      "While we were making a financial plan, we argued about how much to save.",
+      "We got into an argument about how much to save while working out our financial plan."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi chưa từng lập",
+        "en": "I never used to make"
+      },
+      {
+        "t": "kế hoạch tài chính nghiêm túc.",
+        "en": "a serious financial plan"
+      }
+    ],
+    "answers": [
+      "In the past, I never used to make a serious financial plan.",
+      "I didn't use to bother with a proper financial plan."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù đã có kế hoạch,",
+        "en": "although I have a plan,"
+      },
+      {
+        "t": "tôi vẫn thường xuyên",
+        "en": "I still often"
+      },
+      {
+        "t": "chi tiêu lệch hướng.",
+        "en": "spend off track"
+      }
+    ],
+    "answers": [
+      "Although I have a plan, I still often spend off track.",
+      "Even with a plan in place, I regularly stray from it when spending."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi bàn bạc kỹ,",
+        "en": "after discussing it carefully,"
+      },
+      {
+        "t": "chúng tôi đã thống nhất",
+        "en": "we agreed on"
+      },
+      {
+        "t": "kế hoạch tài chính chung.",
+        "en": "a shared financial plan"
+      }
+    ],
+    "answers": [
+      "After discussing it carefully, we agreed on a shared financial plan.",
+      "Once we'd talked it through, we settled on a joint financial plan."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Vì muốn nghỉ hưu sớm,",
+        "en": "because I want to retire early,"
+      },
+      {
+        "t": "tôi đã lập",
+        "en": "I've put together"
+      },
+      {
+        "t": "một kế hoạch tài chính dài hạn.",
+        "en": "a long-term financial plan"
+      }
+    ],
+    "answers": [
+      "Because I want to retire early, I've put together a long-term financial plan.",
+      "Since I want to retire early, I've drawn up a long-term financial plan."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã trả góp",
+        "en": "I've been paying installments on"
+      },
+      {
+        "t": "chiếc xe máy này",
+        "en": "this motorbike"
+      },
+      {
+        "t": "được tám tháng rồi.",
+        "en": "for eight months now"
+      }
+    ],
+    "answers": [
+      "I've been paying installments on this motorbike for eight months now.",
+      "I've made installment payments on this motorbike for eight months."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi mua trả góp,",
+        "en": "if I buy it in installments,"
+      },
+      {
+        "t": "tôi sẽ phải trả thêm",
+        "en": "I'll have to pay extra"
+      },
+      {
+        "t": "phí lãi suất.",
+        "en": "in interest fees"
+      }
+    ],
+    "answers": [
+      "If I buy it in installments, I'll have to pay extra in interest fees.",
+      "If I go with an installment plan, I'll end up paying extra interest."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang trả góp",
+        "en": "while I was still paying installments"
+      },
+      {
+        "t": "cho máy giặt,",
+        "en": "for the washing machine,"
+      },
+      {
+        "t": "tôi lại phải mua thêm",
+        "en": "I had to buy"
+      },
+      {
+        "t": "tủ lạnh trả góp.",
+        "en": "a fridge on installments too"
+      }
+    ],
+    "answers": [
+      "While I was still paying installments for the washing machine, I had to buy a fridge on installments too.",
+      "I ended up buying a fridge on installments while I was still paying off the washing machine."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng tránh",
+        "en": "I used to avoid"
+      },
+      {
+        "t": "mua trả góp",
+        "en": "buying on installments"
+      },
+      {
+        "t": "vì sợ nợ nần.",
+        "en": "because I was afraid of debt"
+      }
+    ],
+    "answers": [
+      "In the past, I used to avoid buying on installments because I was afraid of debt.",
+      "I used to steer clear of installment plans since I feared getting into debt."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù không thích trả góp,",
+        "en": "although I don't like installments,"
+      },
+      {
+        "t": "tôi vẫn chọn cách đó",
+        "en": "I still went with it"
+      },
+      {
+        "t": "vì không đủ tiền mặt.",
+        "en": "because I didn't have enough cash"
+      }
+    ],
+    "answers": [
+      "Although I don't like installments, I still went with it because I didn't have enough cash.",
+      "Even though I dislike installment plans, I chose one since I was short on cash."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi trả góp xong",
+        "en": "after finishing the installments"
+      },
+      {
+        "t": "chiếc điện thoại,",
+        "en": "for the phone,"
+      },
+      {
+        "t": "tôi thề sẽ không",
+        "en": "I swore I would never"
+      },
+      {
+        "t": "mua trả góp nữa.",
+        "en": "buy on installments again"
+      }
+    ],
+    "answers": [
+      "After finishing the installments for the phone, I swore I would never buy on installments again.",
+      "Once I'd paid off the phone in installments, I vowed never to do it again."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã thất nghiệp",
+        "en": "I've been out of work"
+      },
+      {
+        "t": "được ba tháng",
+        "en": "for three months"
+      },
+      {
+        "t": "và vẫn chưa tìm được",
+        "en": "and I still haven't found"
+      },
+      {
+        "t": "việc mới.",
+        "en": "a new job"
+      }
+    ],
+    "answers": [
+      "I've been out of work for three months, and I still haven't found a new job.",
+      "I've had no job for three months, and I'm yet to land a new one."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không tìm được việc",
+        "en": "if I don't find a job"
+      },
+      {
+        "t": "trong tháng tới,",
+        "en": "by next month,"
+      },
+      {
+        "t": "tôi sẽ phải vay tiền",
+        "en": "I'll have to borrow money"
+      },
+      {
+        "t": "gia đình.",
+        "en": "from my family"
+      }
+    ],
+    "answers": [
+      "If I don't find a job by next month, I'll have to borrow money from my family.",
+      "If I'm still jobless next month, I'll need to ask my family for money."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang thất nghiệp,",
+        "en": "while I was unemployed,"
+      },
+      {
+        "t": "tôi nhận ra",
+        "en": "I realized"
+      },
+      {
+        "t": "mình chi tiêu cẩn thận hơn hẳn.",
+        "en": "I was spending much more carefully"
+      }
+    ],
+    "answers": [
+      "While I was unemployed, I realized I was spending much more carefully.",
+      "Being out of work, I noticed I'd become far more careful with money."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng nghĩ",
+        "en": "I used to think"
+      },
+      {
+        "t": "mất việc sẽ không bao giờ",
+        "en": "losing my job would never"
+      },
+      {
+        "t": "xảy ra với mình.",
+        "en": "happen to me"
+      }
+    ],
+    "answers": [
+      "In the past, I used to think losing my job would never happen to me.",
+      "I used to believe I'd never end up unemployed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù thất nghiệp,",
+        "en": "although she's unemployed,"
+      },
+      {
+        "t": "cô ấy vẫn không muốn",
+        "en": "she still doesn't want to"
+      },
+      {
+        "t": "tiêu vào tiền tiết kiệm.",
+        "en": "dip into her savings"
+      }
+    ],
+    "answers": [
+      "Although she's unemployed, she still doesn't want to dip into her savings.",
+      "Even though she's out of work, she refuses to touch her savings."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi mất việc,",
+        "en": "after losing my job,"
+      },
+      {
+        "t": "tôi phải cắt giảm",
+        "en": "I had to cut back on"
+      },
+      {
+        "t": "gần như mọi khoản chi tiêu.",
+        "en": "almost every single expense"
+      }
+    ],
+    "answers": [
+      "After losing my job, I had to cut back on almost every single expense.",
+      "Once I lost my job, I had to cut down on nearly all my expenses."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Vì không có thu nhập,",
+        "en": "because I have no income,"
+      },
+      {
+        "t": "tôi buộc phải chuyển về",
+        "en": "I've had to move back"
+      },
+      {
+        "t": "sống với bố mẹ.",
+        "en": "to live with my parents"
+      }
+    ],
+    "answers": [
+      "Because I have no income, I've had to move back to live with my parents.",
+      "Since I'm not earning anything, I had to move back in with my parents."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã cho vay",
+        "en": "I lent"
+      },
+      {
+        "t": "số tiền đó",
+        "en": "that money"
+      },
+      {
+        "t": "ba năm rồi",
+        "en": "three years ago"
+      },
+      {
+        "t": "mà vẫn chưa lấy lại được.",
+        "en": "and I still haven't gotten it back"
+      }
+    ],
+    "answers": [
+      "I lent that money three years ago, and I still haven't gotten it back.",
+      "I loaned that money out three years back and have yet to see it again."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu anh ấy",
+        "en": "if he"
+      },
+      {
+        "t": "không trả tiền,",
+        "en": "doesn't pay me back,"
+      },
+      {
+        "t": "tôi sẽ không bao giờ",
+        "en": "I'll never"
+      },
+      {
+        "t": "cho vay nữa.",
+        "en": "lend money again"
+      }
+    ],
+    "answers": [
+      "If he doesn't pay me back, I'll never lend money again.",
+      "If he fails to repay me, I won't ever lend anyone money again."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang đòi nợ",
+        "en": "while trying to collect a debt from"
+      },
+      {
+        "t": "bạn cũ,",
+        "en": "an old friend,"
+      },
+      {
+        "t": "tôi cảm thấy",
+        "en": "I felt"
+      },
+      {
+        "t": "vô cùng khó xử.",
+        "en": "incredibly awkward"
+      }
+    ],
+    "answers": [
+      "While trying to collect a debt from an old friend, I felt incredibly awkward.",
+      "Asking an old friend to repay me left me feeling really awkward."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây",
+        "en": "in the past"
+      },
+      {
+        "t": "tôi từng cho",
+        "en": "I used to lend"
+      },
+      {
+        "t": "rất nhiều người vay tiền",
+        "en": "money to a lot of people"
+      },
+      {
+        "t": "mà không hề nghi ngờ.",
+        "en": "without ever doubting them"
+      }
+    ],
+    "answers": [
+      "In the past, I used to lend money to a lot of people without ever doubting them.",
+      "I used to loan money to lots of people without a second thought."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù biết khó đòi lại,",
+        "en": "although I know it'll be hard to get back,"
+      },
+      {
+        "t": "tôi vẫn cho",
+        "en": "I still lend"
+      },
+      {
+        "t": "người thân vay.",
+        "en": "money to relatives"
+      }
+    ],
+    "answers": [
+      "Although I know it'll be hard to get back, I still lend money to relatives.",
+      "Even knowing I probably won't see it again, I still lend to family."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi bị quỵt tiền",
+        "en": "after being cheated out of money"
+      },
+      {
+        "t": "hai lần,",
+        "en": "twice,"
+      },
+      {
+        "t": "tôi quyết định",
+        "en": "I decided"
+      },
+      {
+        "t": "không cho ai vay nữa.",
+        "en": "never to lend anyone again"
+      }
+    ],
+    "answers": [
+      "After being cheated out of money twice, I decided never to lend anyone again.",
+      "Getting swindled twice made me decide to stop lending money altogether."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tôi đã chuẩn bị",
+        "en": "I've prepared"
+      },
+      {
+        "t": "phong bao lì xì",
+        "en": "the lucky money envelopes"
+      },
+      {
+        "t": "từ tuần trước Tết.",
+        "en": "since the week before Tet"
+      }
+    ],
+    "answers": [
+      "I've prepared the lucky money envelopes since the week before Tet.",
+      "I got the lucky money envelopes ready starting the week before Tet."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi lì xì",
+        "en": "if I give"
+      },
+      {
+        "t": "quá ít,",
+        "en": "too little lucky money,"
+      },
+      {
+        "t": "các cháu sẽ",
+        "en": "the kids will"
+      },
+      {
+        "t": "hơi thất vọng.",
+        "en": "be a bit disappointed"
+      }
+    ],
+    "answers": [
+      "If I give too little lucky money, the kids will be a bit disappointed.",
+      "If the lucky money is too small, the children will feel a little let down."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khi đang phát lì xì,",
+        "en": "while handing out lucky money,"
+      },
+      {
+        "t": "tôi bỗng nhận ra",
+        "en": "I suddenly realized"
+      },
+      {
+        "t": "mình quên một đứa cháu.",
+        "en": "I'd forgotten one of my nephews"
+      }
+    ],
+    "answers": [
+      "While handing out lucky money, I suddenly realized I'd forgotten one of my nephews.",
+      "Handing out the lucky money, I noticed I'd left out one of my nieces."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Trước đây tôi",
+        "en": "in the past, I"
+      },
+      {
+        "t": "từng nhận lì xì",
+        "en": "used to get lucky money"
+      },
+      {
+        "t": "nhiều hơn bây giờ rất nhiều.",
+        "en": "way more than I do now"
+      }
+    ],
+    "answers": [
+      "In the past, I used to get lucky money way more than I do now.",
+      "I used to receive a lot more lucky money than I do these days."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mặc dù không dư dả,",
+        "en": "although they're not well-off,"
+      },
+      {
+        "t": "bố mẹ tôi vẫn lì xì",
+        "en": "my parents still give lucky money"
+      },
+      {
+        "t": "rất hào phóng.",
+        "en": "very generously"
+      }
+    ],
+    "answers": [
+      "Although they're not well-off, my parents still give lucky money very generously.",
+      "Even though money's tight, my parents are still generous with lucky money."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Sau khi nhận lì xì,",
+        "en": "after receiving their lucky money,"
+      },
+      {
+        "t": "bọn trẻ liền chạy đi",
+        "en": "the kids ran off"
+      },
+      {
+        "t": "khoe với nhau.",
+        "en": "to show off to each other"
+      }
+    ],
+    "answers": [
+      "After receiving their lucky money, the kids ran off to show off to each other.",
+      "Once they got their lucky money, the children rushed off to compare with one another."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu công ty",
+        "en": "if the company"
+      },
+      {
+        "t": "trả lương đúng hạn,",
+        "en": "had paid my salary on time,"
+      },
+      {
+        "t": "có lẽ tôi đã không phải",
+        "en": "I probably wouldn't have had to"
+      },
+      {
+        "t": "vay nóng",
+        "en": "take out a high-interest loan"
+      },
+      {
+        "t": "để đóng học phí cho con.",
+        "en": "to pay my child's tuition"
+      }
+    ],
+    "answers": [
+      "If the company had paid my salary on time, I probably wouldn't have had to take out a high-interest loan to pay my child's tuition.",
+      "Had my salary come on time, I likely wouldn't have needed a high-interest loan for my kid's tuition."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lương của tôi",
+        "en": "my salary"
+      },
+      {
+        "t": "bị trừ oan",
+        "en": "was wrongly docked"
+      },
+      {
+        "t": "mất một khoản",
+        "en": "by a certain amount"
+      },
+      {
+        "t": "mà đến giờ",
+        "en": "that, to this day,"
+      },
+      {
+        "t": "vẫn chưa ai giải thích được lý do.",
+        "en": "no one has been able to explain"
+      }
+    ],
+    "answers": [
+      "My salary was wrongly docked by a certain amount that, to this day, no one has been able to explain.",
+      "A chunk of my salary was mistakenly deducted, and no one has managed to explain why even now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi kiếm được",
+        "en": "if I earned"
+      },
+      {
+        "t": "nhiều tiền hơn,",
+        "en": "more money,"
+      },
+      {
+        "t": "tôi sẽ không phải",
+        "en": "I wouldn't have to"
+      },
+      {
+        "t": "sống chật vật như bây giờ.",
+        "en": "struggle to get by like I do now"
+      }
+    ],
+    "answers": [
+      "If I earned more money, I wouldn't have to struggle to get by like I do now.",
+      "If I made more money, I wouldn't have to scrape by the way I currently do."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lương càng cao,",
+        "en": "the higher the salary,"
+      },
+      {
+        "t": "áp lực công việc",
+        "en": "the work pressure"
+      },
+      {
+        "t": "dường như càng lớn theo.",
+        "en": "seems to get, too"
+      }
+    ],
+    "answers": [
+      "The higher the salary, the greater the work pressure seems to get, too.",
+      "The more I earn, the more pressure my job seems to put on me."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Giá như tôi",
+        "en": "if only I had"
+      },
+      {
+        "t": "thương lượng lương kỹ hơn",
+        "en": "negotiated my salary more carefully"
+      },
+      {
+        "t": "ngay từ đầu,",
+        "en": "from the start,"
+      },
+      {
+        "t": "có lẽ tôi đã không",
+        "en": "I probably wouldn't have"
+      },
+      {
+        "t": "thiệt thòi thế này.",
+        "en": "lost out like this"
+      }
+    ],
+    "answers": [
+      "If only I had negotiated my salary more carefully from the start, I probably wouldn't have lost out like this.",
+      "I wish I'd negotiated my salary harder in the beginning — I probably wouldn't be at such a disadvantage now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi bắt đầu",
+        "en": "if I had started"
+      },
+      {
+        "t": "tiết kiệm",
+        "en": "saving"
+      },
+      {
+        "t": "từ hồi mới đi làm,",
+        "en": "from when I first started working,"
+      },
+      {
+        "t": "giờ chắc tôi đã có",
+        "en": "I would probably have"
+      },
+      {
+        "t": "một khoản kha khá.",
+        "en": "a decent amount by now"
+      }
+    ],
+    "answers": [
+      "If I had started saving from when I first started working, I would probably have a decent amount by now.",
+      "Had I begun saving when I first got a job, I'd likely have a good sum by this point."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Số tiền tôi tiết kiệm được",
+        "en": "the money I've saved"
+      },
+      {
+        "t": "cuối cùng cũng đủ",
+        "en": "was finally enough"
+      },
+      {
+        "t": "để trang trải chuyến du lịch",
+        "en": "to cover the trip"
+      },
+      {
+        "t": "mà tôi đã mơ ước bấy lâu.",
+        "en": "I'd been dreaming of for so long"
+      }
+    ],
+    "answers": [
+      "The money I've saved was finally enough to cover the trip I'd been dreaming of for so long.",
+      "My savings finally added up to enough for the trip I'd been longing to take."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không có",
+        "en": "if I had no"
+      },
+      {
+        "t": "khoản tiết kiệm nào,",
+        "en": "savings at all,"
+      },
+      {
+        "t": "tôi sẽ không biết",
+        "en": "I wouldn't know"
+      },
+      {
+        "t": "xoay xở ra sao",
+        "en": "how I'd cope"
+      },
+      {
+        "t": "nếu có chuyện bất trắc.",
+        "en": "if something unexpected came up"
+      }
+    ],
+    "answers": [
+      "If I had no savings at all, I wouldn't know how I'd cope if something unexpected came up.",
+      "Without any savings, I wouldn't have a clue how to manage if an emergency struck."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tiền tiết kiệm càng nhiều,",
+        "en": "the more savings I have,"
+      },
+      {
+        "t": "tôi càng cảm thấy",
+        "en": "the more I feel"
+      },
+      {
+        "t": "yên tâm hơn về tương lai.",
+        "en": "at ease about the future"
+      }
+    ],
+    "answers": [
+      "The more savings I have, the more at ease I feel about the future.",
+      "The bigger my savings grow, the more secure I feel about what's ahead."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Giá như",
+        "en": "if only"
+      },
+      {
+        "t": "tôi đừng tiêu hoang lúc trẻ,",
+        "en": "I hadn't spent so wildly when I was young,"
+      },
+      {
+        "t": "có lẽ giờ tôi đã không phải",
+        "en": "I probably wouldn't have to"
+      },
+      {
+        "t": "bắt đầu tiết kiệm lại từ số không.",
+        "en": "start saving from zero again now"
+      }
+    ],
+    "answers": [
+      "If only I hadn't spent so wildly when I was young, I probably wouldn't have to start saving from zero again now.",
+      "I wish I hadn't been so wasteful in my youth — I probably wouldn't have to rebuild my savings from scratch."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khoản tiết kiệm",
+        "en": "the savings"
+      },
+      {
+        "t": "mà tôi để dành",
+        "en": "that I'd put aside"
+      },
+      {
+        "t": "suốt năm năm qua",
+        "en": "over the past five years"
+      },
+      {
+        "t": "đã bị tiêu hết",
+        "en": "were wiped out"
+      },
+      {
+        "t": "chỉ trong một đợt ốm.",
+        "en": "by a single illness"
+      }
+    ],
+    "answers": [
+      "The savings that I'd put aside over the past five years were wiped out by a single illness.",
+      "Five years of savings got wiped out because of just one illness."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu anh ấy",
+        "en": "if he"
+      },
+      {
+        "t": "không vay nợ quá nhiều,",
+        "en": "hadn't taken on so much debt,"
+      },
+      {
+        "t": "có lẽ gia đình anh ấy",
+        "en": "his family probably"
+      },
+      {
+        "t": "đã không tan vỡ vì tiền bạc.",
+        "en": "wouldn't have fallen apart over money"
+      }
+    ],
+    "answers": [
+      "If he hadn't taken on so much debt, his family probably wouldn't have fallen apart over money.",
+      "Had he not borrowed so much, his family likely wouldn't have broken up because of money."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khoản nợ",
+        "en": "the debt"
+      },
+      {
+        "t": "mà bố mẹ tôi để lại",
+        "en": "that my parents left behind"
+      },
+      {
+        "t": "vẫn còn ám ảnh cả gia đình",
+        "en": "still haunts the whole family"
+      },
+      {
+        "t": "cho đến bây giờ.",
+        "en": "even now"
+      }
+    ],
+    "answers": [
+      "The debt that my parents left behind still haunts the whole family even now.",
+      "The debt my parents left behind is still weighing on the whole family to this day."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không nợ nần",
+        "en": "if I weren't so deep in debt"
+      },
+      {
+        "t": "chồng chất như vậy,",
+        "en": "the way I am,"
+      },
+      {
+        "t": "tôi đã có thể sống",
+        "en": "I could be living"
+      },
+      {
+        "t": "thoải mái hơn nhiều.",
+        "en": "much more comfortably"
+      }
+    ],
+    "answers": [
+      "If I weren't so deep in debt the way I am, I could be living much more comfortably.",
+      "Were it not for all this debt, I'd be living a far more comfortable life."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nợ nần càng chồng chất,",
+        "en": "the more the debt piled up,"
+      },
+      {
+        "t": "tinh thần của cô ấy",
+        "en": "her mental state"
+      },
+      {
+        "t": "dường như càng suy sụp.",
+        "en": "seemed to fall apart even more"
+      }
+    ],
+    "answers": [
+      "The more the debt piled up, the more her mental state seemed to fall apart.",
+      "As her debt kept growing, her spirits seemed to sink even further."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "trả nợ ngay khi có tiền,",
+        "en": "paid off the debt as soon as I had the money,"
+      },
+      {
+        "t": "thay vì để lãi cộng dồn",
+        "en": "instead of letting the interest pile up"
+      },
+      {
+        "t": "như bây giờ.",
+        "en": "the way it has now"
+      }
+    ],
+    "answers": [
+      "I should have paid off the debt as soon as I had the money, instead of letting the interest pile up the way it has now.",
+      "I ought to have cleared the debt the moment I had cash, rather than letting the interest stack up like this."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết trước",
+        "en": "if I had known"
+      },
+      {
+        "t": "cậu ấy sẽ không trả,",
+        "en": "he wasn't going to pay it back,"
+      },
+      {
+        "t": "tôi đã không bao giờ",
+        "en": "I would never have"
+      },
+      {
+        "t": "đồng ý cho vay.",
+        "en": "agreed to lend it"
+      }
+    ],
+    "answers": [
+      "If I had known he wasn't going to pay it back, I would never have agreed to lend it.",
+      "Had I known beforehand that he wouldn't repay me, I'd never have agreed to the loan."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Số tiền",
+        "en": "the money"
+      },
+      {
+        "t": "mà tôi cho bạn vay hồi đó",
+        "en": "that I lent my friend back then"
+      },
+      {
+        "t": "lẽ ra đã có thể giúp tôi",
+        "en": "could have helped me"
+      },
+      {
+        "t": "mua được một chiếc xe máy mới.",
+        "en": "buy a new motorbike"
+      }
+    ],
+    "answers": [
+      "The money that I lent my friend back then could have helped me buy a new motorbike.",
+      "What I lent my friend back then could have gone toward a brand-new motorbike for me."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu bạn bè",
+        "en": "if friends"
+      },
+      {
+        "t": "đối xử công bằng hơn",
+        "en": "were fairer"
+      },
+      {
+        "t": "về chuyện tiền bạc,",
+        "en": "when it comes to money,"
+      },
+      {
+        "t": "có lẽ nhiều tình bạn",
+        "en": "many friendships probably"
+      },
+      {
+        "t": "đã không bị rạn nứt.",
+        "en": "wouldn't fall apart"
+      }
+    ],
+    "answers": [
+      "If friends were fairer when it comes to money, many friendships probably wouldn't fall apart.",
+      "Were people fairer about money among friends, plenty of friendships wouldn't end up broken."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi không nên",
+        "en": "I shouldn't have"
+      },
+      {
+        "t": "cho vay quá nhiều lần liên tiếp",
+        "en": "lent money so many times in a row"
+      },
+      {
+        "t": "mà chẳng bao giờ",
+        "en": "when I never"
+      },
+      {
+        "t": "nhận lại được gì.",
+        "en": "got anything back"
+      }
+    ],
+    "answers": [
+      "I shouldn't have lent money so many times in a row when I never got anything back.",
+      "I really shouldn't have kept lending money over and over, given I never got any of it returned."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Bị bạn thân",
+        "en": "being refused repayment"
+      },
+      {
+        "t": "từ chối trả nợ",
+        "en": "by a close friend"
+      },
+      {
+        "t": "là điều khiến tôi",
+        "en": "is what has made me"
+      },
+      {
+        "t": "thất vọng nhất trong năm nay.",
+        "en": "most disappointed this year"
+      }
+    ],
+    "answers": [
+      "Being refused repayment by a close friend is what has made me most disappointed this year.",
+      "Having a close friend refuse to pay me back is the most disappointing thing that's happened to me this year."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi đầu tư",
+        "en": "if I had invested"
+      },
+      {
+        "t": "vào cổ phiếu đó",
+        "en": "in that stock"
+      },
+      {
+        "t": "sớm hơn,",
+        "en": "earlier,"
+      },
+      {
+        "t": "giờ có lẽ tôi đã kiếm được",
+        "en": "I'd probably have made"
+      },
+      {
+        "t": "một khoản lời không nhỏ.",
+        "en": "a fairly decent profit by now"
+      }
+    ],
+    "answers": [
+      "If I had invested in that stock earlier, I'd probably have made a fairly decent profit by now.",
+      "Had I put money into that stock sooner, I would likely be sitting on a solid profit now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khoản đầu tư",
+        "en": "the investment"
+      },
+      {
+        "t": "mà tôi từng cho là",
+        "en": "that I once thought was"
+      },
+      {
+        "t": "mạo hiểm nhất",
+        "en": "the riskiest"
+      },
+      {
+        "t": "hóa ra lại mang về",
+        "en": "turned out to bring in"
+      },
+      {
+        "t": "lợi nhuận cao nhất.",
+        "en": "the highest return"
+      }
+    ],
+    "answers": [
+      "The investment that I once thought was the riskiest turned out to bring in the highest return.",
+      "The investment I used to consider the riskiest ended up being the most profitable one."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu thị trường",
+        "en": "if the market"
+      },
+      {
+        "t": "không sụp đổ đột ngột,",
+        "en": "hadn't suddenly crashed,"
+      },
+      {
+        "t": "danh mục đầu tư của tôi",
+        "en": "my investment portfolio"
+      },
+      {
+        "t": "hẳn đã tăng gấp đôi.",
+        "en": "would have doubled"
+      }
+    ],
+    "answers": [
+      "If the market hadn't suddenly crashed, my investment portfolio would have doubled.",
+      "Had the market not crashed out of nowhere, my portfolio would likely have doubled by now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Rủi ro càng cao,",
+        "en": "the higher the risk,"
+      },
+      {
+        "t": "phần thưởng tiềm năng",
+        "en": "the potential reward"
+      },
+      {
+        "t": "của khoản đầu tư",
+        "en": "of an investment"
+      },
+      {
+        "t": "dường như càng lớn.",
+        "en": "seems to be"
+      }
+    ],
+    "answers": [
+      "The higher the risk, the greater the potential reward of an investment seems to be.",
+      "The riskier an investment, the bigger its potential payoff tends to look."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "đọc kỹ hợp đồng",
+        "en": "read the contract carefully"
+      },
+      {
+        "t": "trước khi bỏ tiền",
+        "en": "before putting money"
+      },
+      {
+        "t": "vào quỹ đầu tư đó.",
+        "en": "into that investment fund"
+      }
+    ],
+    "answers": [
+      "I should have read the contract carefully before putting money into that investment fund.",
+      "I really ought to have gone through the contract properly before investing in that fund."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không",
+        "en": "if I didn't"
+      },
+      {
+        "t": "tiêu quá tay",
+        "en": "overspend"
+      },
+      {
+        "t": "vào những thứ không cần thiết,",
+        "en": "on things I don't need,"
+      },
+      {
+        "t": "có lẽ tôi đã tiết kiệm được",
+        "en": "I would probably have saved"
+      },
+      {
+        "t": "nhiều hơn hẳn.",
+        "en": "a lot more"
+      }
+    ],
+    "answers": [
+      "If I didn't overspend on things I don't need, I would probably have saved a lot more.",
+      "If I weren't so bad at overspending on unnecessary things, I'd likely have saved far more by now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Số tiền",
+        "en": "the money"
+      },
+      {
+        "t": "mà tôi tiêu hoang",
+        "en": "that I've wasted"
+      },
+      {
+        "t": "trong năm nay",
+        "en": "this year"
+      },
+      {
+        "t": "lẽ ra đã đủ",
+        "en": "would have been enough"
+      },
+      {
+        "t": "để trả trước một chiếc xe máy.",
+        "en": "for a down payment on a motorbike"
+      }
+    ],
+    "answers": [
+      "The money that I've wasted this year would have been enough for a down payment on a motorbike.",
+      "What I've squandered this year could have covered a motorbike down payment."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu không bị cám dỗ",
+        "en": "if I weren't tempted"
+      },
+      {
+        "t": "bởi quảng cáo trên mạng,",
+        "en": "by online ads,"
+      },
+      {
+        "t": "tôi hẳn đã không",
+        "en": "I wouldn't"
+      },
+      {
+        "t": "tiêu quá tay như vậy mỗi tháng.",
+        "en": "overspend like this every month"
+      }
+    ],
+    "answers": [
+      "If I weren't tempted by online ads, I wouldn't overspend like this every month.",
+      "Were it not for online ads tempting me, I wouldn't blow through my budget like this monthly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Càng cố kiềm chế,",
+        "en": "the more I try to hold back,"
+      },
+      {
+        "t": "tôi dường như càng dễ",
+        "en": "the more likely I seem"
+      },
+      {
+        "t": "tiêu quá tay",
+        "en": "to overspend"
+      },
+      {
+        "t": "mỗi khi có đợt sale lớn.",
+        "en": "whenever there's a big sale"
+      }
+    ],
+    "answers": [
+      "The more I try to hold back, the more likely I seem to overspend whenever there's a big sale.",
+      "The harder I try to restrain myself, the more I end up overspending during big sales."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Giá như tôi",
+        "en": "if only I had"
+      },
+      {
+        "t": "kiểm soát chi tiêu tốt hơn",
+        "en": "controlled my spending better"
+      },
+      {
+        "t": "hồi trẻ,",
+        "en": "when I was younger,"
+      },
+      {
+        "t": "có lẽ tôi đã không",
+        "en": "I probably wouldn't have"
+      },
+      {
+        "t": "rơi vào cảnh nợ nần như bây giờ.",
+        "en": "ended up in debt like this"
+      }
+    ],
+    "answers": [
+      "If only I had controlled my spending better when I was younger, I probably wouldn't have ended up in debt like this.",
+      "I wish I'd been better with money in my younger years — I probably wouldn't be in debt like this now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi kiểm tra",
+        "en": "if I had checked"
+      },
+      {
+        "t": "hóa đơn kỹ hơn,",
+        "en": "the bill more carefully,"
+      },
+      {
+        "t": "có lẽ tôi đã phát hiện ra",
+        "en": "I probably would have spotted"
+      },
+      {
+        "t": "khoản phí ẩn từ sớm.",
+        "en": "the hidden fee much sooner"
+      }
+    ],
+    "answers": [
+      "If I had checked the bill more carefully, I probably would have spotted the hidden fee much sooner.",
+      "Had I gone over the bill more closely, I'd likely have caught that hidden fee earlier."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Hóa đơn",
+        "en": "the bill"
+      },
+      {
+        "t": "mà tôi nhận được sáng nay",
+        "en": "that I got this morning"
+      },
+      {
+        "t": "hóa ra là",
+        "en": "turned out to be"
+      },
+      {
+        "t": "một trò lừa đảo tinh vi.",
+        "en": "a sophisticated scam"
+      }
+    ],
+    "answers": [
+      "The bill that I got this morning turned out to be a sophisticated scam.",
+      "The bill I received this morning turned out to be an elaborate scam."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu các hóa đơn",
+        "en": "if the bills"
+      },
+      {
+        "t": "không dồn hết vào cùng một tuần,",
+        "en": "weren't all crammed into the same week,"
+      },
+      {
+        "t": "tôi đã không phải",
+        "en": "I wouldn't have to"
+      },
+      {
+        "t": "xoay tiền vất vả như vậy.",
+        "en": "scramble for money like this"
+      }
+    ],
+    "answers": [
+      "If the bills weren't all crammed into the same week, I wouldn't have to scramble for money like this.",
+      "Were the bills not all bunched into one week, I wouldn't be struggling to pull the money together like this."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ công ty điện lực",
+        "en": "the power company"
+      },
+      {
+        "t": "nên thông báo trước",
+        "en": "should give notice"
+      },
+      {
+        "t": "khi tính giá điện cao hơn",
+        "en": "before charging higher rates"
+      },
+      {
+        "t": "vào mùa hè.",
+        "en": "in the summer"
+      }
+    ],
+    "answers": [
+      "The power company should give notice before charging higher rates in the summer.",
+      "The electric company really ought to warn people before raising rates in the summer."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi thương lượng",
+        "en": "if I had negotiated"
+      },
+      {
+        "t": "giá thuê ngay từ đầu,",
+        "en": "the rent right from the start,"
+      },
+      {
+        "t": "có lẽ tôi đã không phải",
+        "en": "I probably wouldn't have to"
+      },
+      {
+        "t": "trả nhiều như bây giờ.",
+        "en": "pay as much as I do now"
+      }
+    ],
+    "answers": [
+      "If I had negotiated the rent right from the start, I probably wouldn't have to pay as much as I do now.",
+      "Had I haggled over the rent from the beginning, I likely wouldn't be paying this much now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Căn phòng",
+        "en": "the room"
+      },
+      {
+        "t": "mà tôi từng chê là quá nhỏ",
+        "en": "that I used to complain was too small"
+      },
+      {
+        "t": "giờ lại là nơi",
+        "en": "is now the place"
+      },
+      {
+        "t": "tôi thấy thoải mái nhất.",
+        "en": "where I feel most comfortable"
+      }
+    ],
+    "answers": [
+      "The room that I used to complain was too small is now the place where I feel most comfortable.",
+      "The room I once thought was too small has become the place I feel most at home in."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tiền thuê nhà",
+        "en": "if rent"
+      },
+      {
+        "t": "không chiếm quá nhiều thu nhập,",
+        "en": "didn't take up so much of our income,"
+      },
+      {
+        "t": "cuộc sống của chúng tôi",
+        "en": "our life"
+      },
+      {
+        "t": "hẳn đã dễ thở hơn nhiều.",
+        "en": "would be a lot more manageable"
+      }
+    ],
+    "answers": [
+      "If rent didn't take up so much of our income, our life would be a lot more manageable.",
+      "Were rent not eating up so much of our income, life would be considerably easier for us."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Giá thuê nhà càng tăng,",
+        "en": "the more rent prices rise,"
+      },
+      {
+        "t": "khoảng cách giữa người giàu và người nghèo",
+        "en": "the gap between rich and poor"
+      },
+      {
+        "t": "trong thành phố",
+        "en": "in the city"
+      },
+      {
+        "t": "dường như càng rõ rệt.",
+        "en": "seems to become"
+      }
+    ],
+    "answers": [
+      "The more rent prices rise, the more the gap between rich and poor in the city seems to become.",
+      "As rents keep climbing, the divide between the rich and the poor in the city seems to grow ever clearer."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ chủ nhà",
+        "en": "the landlord"
+      },
+      {
+        "t": "nên sửa",
+        "en": "should fix"
+      },
+      {
+        "t": "cái vòi nước bị hỏng",
+        "en": "the broken faucet"
+      },
+      {
+        "t": "thay vì cứ hứa suông mãi.",
+        "en": "instead of endlessly making empty promises"
+      }
+    ],
+    "answers": [
+      "The landlord should fix the broken faucet instead of endlessly making empty promises.",
+      "The landlord really ought to repair the broken faucet rather than just making empty promises."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu mọi người",
+        "en": "if everyone"
+      },
+      {
+        "t": "đều sòng phẳng về chuyện chia tiền,",
+        "en": "were upfront about splitting the bill,"
+      },
+      {
+        "t": "các buổi tụ họp",
+        "en": "get-togethers"
+      },
+      {
+        "t": "hẳn đã vui vẻ hơn nhiều.",
+        "en": "would be a lot more enjoyable"
+      }
+    ],
+    "answers": [
+      "If everyone were upfront about splitting the bill, get-togethers would be a lot more enjoyable.",
+      "Were everyone straightforward about splitting costs, our gatherings would be far more pleasant."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Người bạn",
+        "en": "the friend"
+      },
+      {
+        "t": "mà tôi từng tin tưởng nhất",
+        "en": "that I used to trust the most"
+      },
+      {
+        "t": "lại là người",
+        "en": "turned out to be the one"
+      },
+      {
+        "t": "hay quên góp tiền ăn nhất.",
+        "en": "who most often forgets to chip in"
+      }
+    ],
+    "answers": [
+      "The friend that I used to trust the most turned out to be the one who most often forgets to chip in.",
+      "The friend I trusted most is, ironically, the one who most often forgets to pay their share."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không ngại",
+        "en": "if I weren't so hesitant"
+      },
+      {
+        "t": "nhắc chuyện tiền bạc,",
+        "en": "to bring up money,"
+      },
+      {
+        "t": "có lẽ tôi đã không",
+        "en": "I probably wouldn't have"
+      },
+      {
+        "t": "bị thiệt hàng chục lần rồi.",
+        "en": "lost out dozens of times by now"
+      }
+    ],
+    "answers": [
+      "If I weren't so hesitant to bring up money, I probably wouldn't have lost out dozens of times by now.",
+      "Were I not so reluctant to mention money, I likely wouldn't have been shortchanged this many times."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ chúng tôi nên",
+        "en": "we should have"
+      },
+      {
+        "t": "thống nhất cách chia tiền",
+        "en": "agreed on how to split the bill"
+      },
+      {
+        "t": "trước khi đi ăn,",
+        "en": "before going out to eat,"
+      },
+      {
+        "t": "thay vì cãi nhau lúc thanh toán.",
+        "en": "instead of arguing when it was time to pay"
+      }
+    ],
+    "answers": [
+      "We should have agreed on how to split the bill before going out to eat, instead of arguing when it was time to pay.",
+      "We really ought to have settled how to split the bill beforehand, rather than bickering when the check came."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không có",
+        "en": "if I hadn't had"
+      },
+      {
+        "t": "quỹ khẩn cấp,",
+        "en": "an emergency fund,"
+      },
+      {
+        "t": "tôi hẳn đã phải",
+        "en": "I would have had to"
+      },
+      {
+        "t": "bán chiếc xe máy để trả viện phí.",
+        "en": "sell my motorbike to cover the hospital bill"
+      }
+    ],
+    "answers": [
+      "If I hadn't had an emergency fund, I would have had to sell my motorbike to cover the hospital bill.",
+      "Had I not had an emergency fund, I'd have been forced to sell my motorbike to pay the hospital bill."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Khoản tiền",
+        "en": "the money"
+      },
+      {
+        "t": "mà tôi cất riêng",
+        "en": "that I'd set aside"
+      },
+      {
+        "t": "làm quỹ khẩn cấp",
+        "en": "as an emergency fund"
+      },
+      {
+        "t": "cuối cùng cũng được dùng đến",
+        "en": "was finally put to use"
+      },
+      {
+        "t": "sau ba năm.",
+        "en": "after three years"
+      }
+    ],
+    "answers": [
+      "The money that I'd set aside as an emergency fund was finally put to use after three years.",
+      "After three years, the emergency fund I'd been keeping was finally used."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Quỹ khẩn cấp càng lớn,",
+        "en": "the bigger my emergency fund,"
+      },
+      {
+        "t": "tôi càng cảm thấy tự tin hơn",
+        "en": "the more confident I feel"
+      },
+      {
+        "t": "khi đối mặt với những rủi ro bất ngờ.",
+        "en": "when facing unexpected risks"
+      }
+    ],
+    "answers": [
+      "The bigger my emergency fund, the more confident I feel when facing unexpected risks.",
+      "The larger my emergency fund grows, the more secure I feel about handling unexpected setbacks."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "lập quỹ khẩn cấp sớm hơn",
+        "en": "started an emergency fund earlier"
+      },
+      {
+        "t": "thay vì đợi đến khi mất việc",
+        "en": "instead of waiting until I lost my job"
+      },
+      {
+        "t": "mới lo.",
+        "en": "to start worrying about it"
+      }
+    ],
+    "answers": [
+      "I should have started an emergency fund earlier instead of waiting until I lost my job to start worrying about it.",
+      "I really ought to have built an emergency fund sooner, rather than only worrying once I was unemployed."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu lãi suất",
+        "en": "if interest rates"
+      },
+      {
+        "t": "không tăng đột ngột như vậy,",
+        "en": "hadn't jumped so suddenly,"
+      },
+      {
+        "t": "khoản vay của chúng tôi",
+        "en": "our loan"
+      },
+      {
+        "t": "hẳn đã dễ trả hơn nhiều.",
+        "en": "would be much easier to pay off"
+      }
+    ],
+    "answers": [
+      "If interest rates hadn't jumped so suddenly, our loan would be much easier to pay off.",
+      "Had interest rates not spiked so abruptly, paying off our loan would be far more manageable."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Mức lãi suất",
+        "en": "the interest rate"
+      },
+      {
+        "t": "mà ngân hàng đưa ra",
+        "en": "that the bank offered"
+      },
+      {
+        "t": "hóa ra thấp hơn hẳn",
+        "en": "turned out to be much lower"
+      },
+      {
+        "t": "so với những gì tôi lo ngại.",
+        "en": "than what I'd feared"
+      }
+    ],
+    "answers": [
+      "The interest rate that the bank offered turned out to be much lower than what I'd feared.",
+      "The rate the bank quoted ended up being far lower than I'd been worried about."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Lãi suất càng thấp,",
+        "en": "the lower interest rates are,"
+      },
+      {
+        "t": "người dân dường như",
+        "en": "people seem"
+      },
+      {
+        "t": "càng có xu hướng vay tiền",
+        "en": "increasingly inclined to borrow money"
+      },
+      {
+        "t": "để đầu tư.",
+        "en": "to invest"
+      }
+    ],
+    "answers": [
+      "The lower interest rates are, the more people seem inclined to borrow money to invest.",
+      "As interest rates drop, people seem more and more likely to take out loans to invest."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "đọc kỹ điều khoản lãi suất",
+        "en": "read the interest terms carefully"
+      },
+      {
+        "t": "trước khi ký hợp đồng vay.",
+        "en": "before signing the loan agreement"
+      }
+    ],
+    "answers": [
+      "I should have read the interest terms carefully before signing the loan agreement.",
+      "I really ought to have gone over the interest terms closely before signing the loan contract."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu ví điện tử",
+        "en": "if the e-wallet"
+      },
+      {
+        "t": "không bị hack,",
+        "en": "hadn't been hacked,"
+      },
+      {
+        "t": "tôi đã không mất hết",
+        "en": "I wouldn't have lost all"
+      },
+      {
+        "t": "số tiền tiết kiệm được trong đó.",
+        "en": "the money I'd saved in it"
+      }
+    ],
+    "answers": [
+      "If the e-wallet hadn't been hacked, I wouldn't have lost all the money I'd saved in it.",
+      "Had the e-wallet not been hacked, I wouldn't have lost every bit of the money I had stored there."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Ứng dụng",
+        "en": "the app"
+      },
+      {
+        "t": "mà tôi tin tưởng nhất",
+        "en": "that I trusted the most"
+      },
+      {
+        "t": "lại là nơi",
+        "en": "turned out to be where"
+      },
+      {
+        "t": "tiền của tôi biến mất một cách khó hiểu.",
+        "en": "my money mysteriously disappeared"
+      }
+    ],
+    "answers": [
+      "The app that I trusted the most turned out to be where my money mysteriously disappeared.",
+      "The app I trusted most is, oddly enough, where my money vanished without explanation."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu không có",
+        "en": "if it weren't for"
+      },
+      {
+        "t": "xác thực hai lớp,",
+        "en": "two-factor authentication,"
+      },
+      {
+        "t": "tài khoản ví điện tử của tôi",
+        "en": "my e-wallet account"
+      },
+      {
+        "t": "hẳn đã bị đánh cắp từ lâu.",
+        "en": "would have been stolen a long time ago"
+      }
+    ],
+    "answers": [
+      "If it weren't for two-factor authentication, my e-wallet account would have been stolen a long time ago.",
+      "Without two-factor authentication, my e-wallet account would likely have been hacked ages ago."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "cẩn thận hơn với mật khẩu",
+        "en": "been more careful with my passwords"
+      },
+      {
+        "t": "thay vì dùng chung",
+        "en": "instead of reusing the same one"
+      },
+      {
+        "t": "cho mọi tài khoản.",
+        "en": "for every account"
+      }
+    ],
+    "answers": [
+      "I should have been more careful with my passwords instead of reusing the same one for every account.",
+      "I really ought to have taken password security more seriously rather than using the same one everywhere."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu công ty",
+        "en": "if the company"
+      },
+      {
+        "t": "không cắt giảm tiền thưởng Tết,",
+        "en": "hadn't cut the Tet bonus,"
+      },
+      {
+        "t": "nhiều nhân viên",
+        "en": "many employees"
+      },
+      {
+        "t": "hẳn đã không nộp đơn nghỉ việc.",
+        "en": "probably wouldn't have quit"
+      }
+    ],
+    "answers": [
+      "If the company hadn't cut the Tet bonus, many employees probably wouldn't have quit.",
+      "Had the company not slashed the Tet bonus, a lot of staff likely wouldn't have resigned."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Số tiền thưởng Tết",
+        "en": "the Tet bonus"
+      },
+      {
+        "t": "mà tôi mong đợi cả năm",
+        "en": "that I'd been looking forward to all year"
+      },
+      {
+        "t": "hóa ra chẳng đáng là bao.",
+        "en": "turned out to be barely anything"
+      }
+    ],
+    "answers": [
+      "The Tet bonus that I'd been looking forward to all year turned out to be barely anything.",
+      "The Tet bonus I'd been waiting on all year turned out to be next to nothing."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Tiền thưởng Tết càng cao,",
+        "en": "the higher the Tet bonus,"
+      },
+      {
+        "t": "không khí trong công ty",
+        "en": "the mood in the office"
+      },
+      {
+        "t": "dường như càng vui vẻ hơn hẳn.",
+        "en": "seems noticeably happier"
+      }
+    ],
+    "answers": [
+      "The higher the Tet bonus, the happier the mood in the office seems to be.",
+      "The bigger the Tet bonus, the more upbeat the office atmosphere seems to get."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "dùng tiền thưởng Tết để trả nợ",
+        "en": "used my Tet bonus to pay off debt"
+      },
+      {
+        "t": "thay vì mua sắm thả ga như vậy.",
+        "en": "instead of splurging on shopping like that"
+      }
+    ],
+    "answers": [
+      "I should have used my Tet bonus to pay off debt instead of splurging on shopping like that.",
+      "I really ought to have put my Tet bonus toward debt rather than going on that shopping spree."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu chúng tôi lập",
+        "en": "if we had made"
+      },
+      {
+        "t": "kế hoạch tài chính kỹ hơn",
+        "en": "a more careful financial plan"
+      },
+      {
+        "t": "từ đầu,",
+        "en": "from the start,"
+      },
+      {
+        "t": "có lẽ đã tránh được",
+        "en": "we probably would have avoided"
+      },
+      {
+        "t": "rất nhiều rắc rối.",
+        "en": "a lot of trouble"
+      }
+    ],
+    "answers": [
+      "If we had made a more careful financial plan from the start, we probably would have avoided a lot of trouble.",
+      "Had we mapped out our finances more carefully to begin with, we likely would have dodged a lot of headaches."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Kế hoạch tài chính",
+        "en": "the financial plan"
+      },
+      {
+        "t": "mà chúng tôi từng xem là quá tham vọng",
+        "en": "that we once considered too ambitious"
+      },
+      {
+        "t": "cuối cùng lại trở nên khả thi.",
+        "en": "ended up being achievable after all"
+      }
+    ],
+    "answers": [
+      "The financial plan that we once considered too ambitious ended up being achievable after all.",
+      "The financial plan we used to think was overly ambitious turned out to be doable in the end."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu không có",
+        "en": "if it weren't for"
+      },
+      {
+        "t": "kế hoạch tài chính rõ ràng,",
+        "en": "having a clear financial plan,"
+      },
+      {
+        "t": "chúng tôi hẳn đã tiêu sạch tiền",
+        "en": "we would have blown through our money"
+      },
+      {
+        "t": "từ lâu rồi.",
+        "en": "a long time ago"
+      }
+    ],
+    "answers": [
+      "If it weren't for having a clear financial plan, we would have blown through our money a long time ago.",
+      "Without a clear financial plan, we'd have spent every last dong ages ago."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Kế hoạch càng chi tiết,",
+        "en": "the more detailed the plan,"
+      },
+      {
+        "t": "chúng tôi càng dễ theo dõi được",
+        "en": "the easier it is for us to track"
+      },
+      {
+        "t": "mình đang tiêu tiền vào đâu.",
+        "en": "where our money is going"
+      }
+    ],
+    "answers": [
+      "The more detailed the plan, the easier it is for us to track where our money is going.",
+      "The more detail our plan has, the easier it becomes to see exactly where our money goes."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ chúng tôi nên",
+        "en": "we should have"
+      },
+      {
+        "t": "xem lại kế hoạch tài chính mỗi quý",
+        "en": "reviewed our financial plan every quarter"
+      },
+      {
+        "t": "thay vì bỏ mặc cả năm.",
+        "en": "instead of neglecting it all year"
+      }
+    ],
+    "answers": [
+      "We should have reviewed our financial plan every quarter instead of neglecting it all year.",
+      "We really ought to have checked in on our financial plan quarterly rather than ignoring it for a whole year."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không mua",
+        "en": "if I hadn't bought"
+      },
+      {
+        "t": "trả góp quá nhiều thứ cùng lúc,",
+        "en": "so many things on installments at once,"
+      },
+      {
+        "t": "có lẽ tôi đã không",
+        "en": "I probably wouldn't be"
+      },
+      {
+        "t": "kiệt quệ tài chính như bây giờ.",
+        "en": "financially drained the way I am now"
+      }
+    ],
+    "answers": [
+      "If I hadn't bought so many things on installments at once, I probably wouldn't be financially drained the way I am now.",
+      "Had I not taken on so many installment plans simultaneously, I likely wouldn't be this financially strained."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Món đồ",
+        "en": "the item"
+      },
+      {
+        "t": "mà tôi trả góp trong hai năm",
+        "en": "that I paid off in installments over two years"
+      },
+      {
+        "t": "cuối cùng lại là thứ",
+        "en": "turned out to be the thing"
+      },
+      {
+        "t": "tôi ít dùng nhất.",
+        "en": "I use the least"
+      }
+    ],
+    "answers": [
+      "The item that I paid off in installments over two years turned out to be the thing I use the least.",
+      "The thing I spent two years paying off in installments ended up being what I use the least."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu cửa hàng",
+        "en": "if the store"
+      },
+      {
+        "t": "không cho trả góp không lãi suất,",
+        "en": "hadn't offered interest-free installments,"
+      },
+      {
+        "t": "tôi hẳn đã không dám",
+        "en": "I never would have dared"
+      },
+      {
+        "t": "mua chiếc laptop đó.",
+        "en": "buy that laptop"
+      }
+    ],
+    "answers": [
+      "If the store hadn't offered interest-free installments, I never would have dared buy that laptop.",
+      "Had the store not offered interest-free installments, I wouldn't have risked buying that laptop."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "trả hết một lần",
+        "en": "paid it off all at once"
+      },
+      {
+        "t": "thay vì trả góp",
+        "en": "instead of paying in installments"
+      },
+      {
+        "t": "và mất thêm tiền lãi vô ích.",
+        "en": "and wasting extra money on interest"
+      }
+    ],
+    "answers": [
+      "I should have paid it off all at once instead of paying in installments and wasting extra money on interest.",
+      "I really ought to have paid in full up front rather than dragging it out in installments and losing money on interest."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi không bị",
+        "en": "if I hadn't"
+      },
+      {
+        "t": "mất việc đột ngột,",
+        "en": "suddenly lost my job,"
+      },
+      {
+        "t": "có lẽ tôi đã không phải",
+        "en": "I probably wouldn't have had to"
+      },
+      {
+        "t": "bán chiếc xe máy để trang trải.",
+        "en": "sell my motorbike to get by"
+      }
+    ],
+    "answers": [
+      "If I hadn't suddenly lost my job, I probably wouldn't have had to sell my motorbike to get by.",
+      "Had I not been suddenly laid off, I likely wouldn't have needed to sell my motorbike to make ends meet."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Công việc",
+        "en": "the job"
+      },
+      {
+        "t": "mà tôi từng nghĩ là ổn định nhất",
+        "en": "that I once thought was the most stable"
+      },
+      {
+        "t": "lại là công việc",
+        "en": "turned out to be the one"
+      },
+      {
+        "t": "bị cắt giảm đầu tiên.",
+        "en": "that got cut first"
+      }
+    ],
+    "answers": [
+      "The job that I once thought was the most stable turned out to be the one that got cut first.",
+      "The job I used to consider the most secure ended up being the first one eliminated."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu không có",
+        "en": "if it weren't for"
+      },
+      {
+        "t": "sự giúp đỡ từ gia đình,",
+        "en": "help from my family,"
+      },
+      {
+        "t": "tôi hẳn đã không trụ nổi",
+        "en": "I wouldn't have been able to survive"
+      },
+      {
+        "t": "qua giai đoạn thất nghiệp đó.",
+        "en": "that period of unemployment"
+      }
+    ],
+    "answers": [
+      "If it weren't for help from my family, I wouldn't have been able to survive that period of unemployment.",
+      "Without support from my family, I wouldn't have made it through that stretch of unemployment."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Thời gian thất nghiệp càng kéo dài,",
+        "en": "the longer the period of unemployment dragged on,"
+      },
+      {
+        "t": "sự tự tin của tôi",
+        "en": "my confidence"
+      },
+      {
+        "t": "dường như càng suy giảm.",
+        "en": "seemed to fade more and more"
+      }
+    ],
+    "answers": [
+      "The longer the period of unemployment dragged on, the more my confidence seemed to fade.",
+      "The longer I stayed out of work, the more my confidence seemed to drain away."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "xây dựng thêm kỹ năng dự phòng",
+        "en": "built up some backup skills"
+      },
+      {
+        "t": "thay vì chỉ trông cậy",
+        "en": "instead of relying solely"
+      },
+      {
+        "t": "vào một công việc duy nhất.",
+        "en": "on a single job"
+      }
+    ],
+    "answers": [
+      "I should have built up some backup skills instead of relying solely on a single job.",
+      "I really ought to have developed some backup skills rather than depending on just one job."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu tôi lập",
+        "en": "if I had drawn up"
+      },
+      {
+        "t": "giấy vay nợ rõ ràng,",
+        "en": "a clear loan agreement,"
+      },
+      {
+        "t": "có lẽ tôi đã không",
+        "en": "I probably wouldn't have"
+      },
+      {
+        "t": "mất trắng số tiền đó.",
+        "en": "lost that money completely"
+      }
+    ],
+    "answers": [
+      "If I had drawn up a clear loan agreement, I probably wouldn't have lost that money completely.",
+      "Had I put the loan in writing, I likely wouldn't have lost that money altogether."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Người",
+        "en": "the person"
+      },
+      {
+        "t": "mà tôi tin tưởng cho vay nhiều tiền nhất",
+        "en": "that I trusted with the biggest loan"
+      },
+      {
+        "t": "hóa ra lại là người",
+        "en": "turned out to be the one"
+      },
+      {
+        "t": "biến mất không dấu vết.",
+        "en": "who vanished without a trace"
+      }
+    ],
+    "answers": [
+      "The person that I trusted with the biggest loan turned out to be the one who vanished without a trace.",
+      "The person I trusted with my largest loan ended up disappearing without a trace."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu không quá cả nể,",
+        "en": "if I weren't so reluctant to say no,"
+      },
+      {
+        "t": "tôi đã không cho",
+        "en": "I wouldn't have lent money"
+      },
+      {
+        "t": "những người quen sơ",
+        "en": "to mere acquaintances"
+      },
+      {
+        "t": "vay tiền dễ dàng như vậy.",
+        "en": "so easily"
+      }
+    ],
+    "answers": [
+      "If I weren't so reluctant to say no, I wouldn't have lent money to mere acquaintances so easily.",
+      "Were I not so bad at refusing people, I wouldn't have handed out loans to casual acquaintances so readily."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "yêu cầu trả góp dần",
+        "en": "asked for it to be repaid in installments"
+      },
+      {
+        "t": "thay vì cho vay trọn gói một lần.",
+        "en": "instead of lending it all in one lump sum"
+      }
+    ],
+    "answers": [
+      "I should have asked for it to be repaid in installments instead of lending it all in one lump sum.",
+      "I really ought to have set up an installment repayment rather than handing over the whole amount at once."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu năm nay",
+        "en": "if this year"
+      },
+      {
+        "t": "không khó khăn về tài chính,",
+        "en": "weren't financially tough,"
+      },
+      {
+        "t": "tôi hẳn đã lì xì",
+        "en": "I would give lucky money"
+      },
+      {
+        "t": "hào phóng hơn nhiều.",
+        "en": "much more generously"
+      }
+    ],
+    "answers": [
+      "If this year weren't financially tough, I would give lucky money much more generously.",
+      "Were money not so tight this year, I'd be handing out lucky money far more generously."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Phong bao lì xì",
+        "en": "the lucky money envelope"
+      },
+      {
+        "t": "mà đứa cháu nhỏ nhất nhận được",
+        "en": "that the youngest kid received"
+      },
+      {
+        "t": "hóa ra lại dày nhất",
+        "en": "turned out to be the fattest"
+      },
+      {
+        "t": "trong cả nhà.",
+        "en": "in the whole family"
+      }
+    ],
+    "answers": [
+      "The lucky money envelope that the youngest kid received turned out to be the fattest in the whole family.",
+      "The envelope the youngest child got ended up being the thickest of anyone in the family."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Nếu không có",
+        "en": "if it weren't for"
+      },
+      {
+        "t": "tục lệ lì xì,",
+        "en": "the lucky money tradition,"
+      },
+      {
+        "t": "có lẽ Tết đã không còn",
+        "en": "Tet probably wouldn't bring"
+      },
+      {
+        "t": "mang lại niềm vui trọn vẹn cho trẻ nhỏ.",
+        "en": "the same full joy to children"
+      }
+    ],
+    "answers": [
+      "If it weren't for the lucky money tradition, Tet probably wouldn't bring the same full joy to children.",
+      "Without the lucky money tradition, Tet likely wouldn't feel as complete a joy for kids."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Số tiền lì xì càng lớn,",
+        "en": "the bigger the lucky money,"
+      },
+      {
+        "t": "nụ cười của bọn trẻ",
+        "en": "the children's smiles"
+      },
+      {
+        "t": "dường như càng rạng rỡ hơn.",
+        "en": "seem to light up even more"
+      }
+    ],
+    "answers": [
+      "The bigger the lucky money, the more the children's smiles seem to light up.",
+      "The larger the lucky money envelope, the brighter the kids' smiles seem to get."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "money",
+    "chunks": [
+      {
+        "t": "Đáng lẽ tôi nên",
+        "en": "I should have"
+      },
+      {
+        "t": "dạy con cách tiết kiệm",
+        "en": "taught my child how to save"
+      },
+      {
+        "t": "tiền lì xì",
+        "en": "the lucky money"
+      },
+      {
+        "t": "thay vì để nó tiêu hết",
+        "en": "instead of letting it all get spent"
+      },
+      {
+        "t": "trong vài ngày.",
+        "en": "within a few days"
+      }
+    ],
+    "answers": [
+      "I should have taught my child how to save the lucky money instead of letting it all get spent within a few days.",
+      "I really ought to have shown my kid how to save lucky money rather than let it disappear in a few days."
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "vo-luyen-viet-tieng-anh",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "adduser": "node tools/adduser.mjs",
+    "build:data": "node data/build.js"
+  }
+}

@@ -1,0 +1,7496 @@
+[
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "tôi phải làm",
+        "en": "I have to do"
+      },
+      {
+        "t": "bài tập toán",
+        "en": "my math homework"
+      },
+      {
+        "t": "trước khi đi ngủ.",
+        "en": "before I go to bed"
+      }
+    ],
+    "answers": [
+      "Tonight I have to do my math homework before I go to bed.",
+      "I have to finish my math homework tonight before going to bed."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Con tôi",
+        "en": "my kid"
+      },
+      {
+        "t": "vẫn chưa làm xong",
+        "en": "still hasn't finished"
+      },
+      {
+        "t": "bài tập về nhà",
+        "en": "his homework"
+      },
+      {
+        "t": "tối nay.",
+        "en": "tonight"
+      }
+    ],
+    "answers": [
+      "My kid still hasn't finished his homework tonight.",
+      "My child hasn't finished his homework yet tonight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô giáo",
+        "en": "the teacher"
+      },
+      {
+        "t": "giao rất nhiều",
+        "en": "gave us a lot of"
+      },
+      {
+        "t": "bài tập về nhà",
+        "en": "homework"
+      },
+      {
+        "t": "hôm nay.",
+        "en": "today"
+      }
+    ],
+    "answers": [
+      "The teacher gave us a lot of homework today.",
+      "We got a huge amount of homework from the teacher today."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "đã làm",
+        "en": "have done"
+      },
+      {
+        "t": "bài tập tiếng Anh",
+        "en": "the English homework"
+      },
+      {
+        "t": "chưa?",
+        "en": "yet"
+      }
+    ],
+    "answers": [
+      "Have you done the English homework yet?",
+      "Did you finish your English homework already?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "quên mang",
+        "en": "forgot to bring"
+      },
+      {
+        "t": "bài tập về nhà",
+        "en": "my homework"
+      },
+      {
+        "t": "đến trường.",
+        "en": "to school"
+      }
+    ],
+    "answers": [
+      "I forgot to bring my homework to school.",
+      "I left my homework at home and forgot to bring it."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Em trai tôi",
+        "en": "my little brother"
+      },
+      {
+        "t": "đang làm",
+        "en": "is doing"
+      },
+      {
+        "t": "bài tập",
+        "en": "his homework"
+      },
+      {
+        "t": "trong phòng.",
+        "en": "in his room"
+      }
+    ],
+    "answers": [
+      "My little brother is doing his homework in his room.",
+      "My little brother is in his room doing homework."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bài tập về nhà",
+        "en": "the homework"
+      },
+      {
+        "t": "hôm nay",
+        "en": "today"
+      },
+      {
+        "t": "khó",
+        "en": "hard"
+      },
+      {
+        "t": "quá!",
+        "en": "so"
+      }
+    ],
+    "answers": [
+      "Today's homework is so hard!",
+      "This homework is really difficult today!"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Ngày mai",
+        "en": "tomorrow"
+      },
+      {
+        "t": "tôi có",
+        "en": "I have"
+      },
+      {
+        "t": "một bài kiểm tra toán.",
+        "en": "a math test"
+      }
+    ],
+    "answers": [
+      "Tomorrow I have a math test.",
+      "I have a math test tomorrow."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang ôn bài",
+        "en": "is studying"
+      },
+      {
+        "t": "cho kỳ thi cuối kỳ.",
+        "en": "for the final exam"
+      }
+    ],
+    "answers": [
+      "She is studying for the final exam.",
+      "She's preparing for her final exam right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Kỳ thi học kỳ",
+        "en": "the semester exam"
+      },
+      {
+        "t": "bắt đầu",
+        "en": "starts"
+      },
+      {
+        "t": "vào tuần sau.",
+        "en": "next week"
+      }
+    ],
+    "answers": [
+      "The semester exam starts next week.",
+      "Our semester exams begin next week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "thi",
+        "en": "do on the test"
+      },
+      {
+        "t": "tốt không?",
+        "en": "well"
+      }
+    ],
+    "answers": [
+      "Did you do well on the test?",
+      "How did your test go?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "rất lo lắng",
+        "en": "am so nervous"
+      },
+      {
+        "t": "về bài kiểm tra",
+        "en": "about the test"
+      },
+      {
+        "t": "ngày mai.",
+        "en": "tomorrow"
+      }
+    ],
+    "answers": [
+      "I'm so nervous about tomorrow's test.",
+      "I feel really nervous about the test tomorrow."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Học sinh",
+        "en": "the students"
+      },
+      {
+        "t": "đang làm bài thi",
+        "en": "are taking the exam"
+      },
+      {
+        "t": "trong phòng thi.",
+        "en": "in the exam room"
+      }
+    ],
+    "answers": [
+      "The students are taking the exam in the exam room.",
+      "The students are sitting the exam right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Đề thi",
+        "en": "the exam paper"
+      },
+      {
+        "t": "năm nay",
+        "en": "this year"
+      },
+      {
+        "t": "dễ hơn",
+        "en": "is easier than"
+      },
+      {
+        "t": "năm ngoái.",
+        "en": "last year"
+      }
+    ],
+    "answers": [
+      "This year's exam paper is easier than last year's.",
+      "The exam is easier this year than it was last year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "học thêm toán",
+        "en": "take extra math classes"
+      },
+      {
+        "t": "vào mỗi tối thứ Ba.",
+        "en": "every Tuesday evening"
+      }
+    ],
+    "answers": [
+      "I take extra math classes every Tuesday evening.",
+      "Every Tuesday evening I have a math tutoring class."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Con gái tôi",
+        "en": "my daughter"
+      },
+      {
+        "t": "đi học thêm tiếng Anh",
+        "en": "goes to English classes"
+      },
+      {
+        "t": "sau giờ học.",
+        "en": "after school"
+      }
+    ],
+    "answers": [
+      "My daughter goes to English classes after school.",
+      "After school, my daughter attends extra English lessons."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Lớp học thêm của tôi",
+        "en": "my tutoring class"
+      },
+      {
+        "t": "bắt đầu",
+        "en": "starts"
+      },
+      {
+        "t": "lúc bảy giờ tối.",
+        "en": "at seven in the evening"
+      }
+    ],
+    "answers": [
+      "My tutoring class starts at seven in the evening.",
+      "My extra class begins at seven p.m."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bố mẹ tôi",
+        "en": "my parents"
+      },
+      {
+        "t": "cho tôi",
+        "en": "let me"
+      },
+      {
+        "t": "đi học thêm",
+        "en": "take extra classes"
+      },
+      {
+        "t": "ở trung tâm.",
+        "en": "at a learning center"
+      }
+    ],
+    "answers": [
+      "My parents let me take extra classes at a learning center.",
+      "My parents send me to a learning center for extra lessons."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thầy dạy thêm",
+        "en": "my tutor"
+      },
+      {
+        "t": "của tôi",
+        "en": "my tutor"
+      },
+      {
+        "t": "rất nhiệt tình.",
+        "en": "is really enthusiastic"
+      }
+    ],
+    "answers": [
+      "My tutor is really enthusiastic.",
+      "My extra-class teacher is very dedicated."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "không thích",
+        "en": "don't like"
+      },
+      {
+        "t": "học thêm",
+        "en": "taking extra classes"
+      },
+      {
+        "t": "vào cuối tuần.",
+        "en": "on weekends"
+      }
+    ],
+    "answers": [
+      "I don't like taking extra classes on weekends.",
+      "I hate having tutoring classes on the weekend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Trung tâm học thêm",
+        "en": "the tutoring center"
+      },
+      {
+        "t": "gần nhà tôi",
+        "en": "near my house"
+      },
+      {
+        "t": "mới mở.",
+        "en": "just opened"
+      }
+    ],
+    "answers": [
+      "The tutoring center near my house just opened.",
+      "A new learning center opened near my house."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô giáo",
+        "en": "my teacher"
+      },
+      {
+        "t": "của tôi",
+        "en": "my"
+      },
+      {
+        "t": "rất tốt bụng.",
+        "en": "is really kind"
+      }
+    ],
+    "answers": [
+      "My teacher is really kind.",
+      "My teacher is a very kind person."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thầy Nam",
+        "en": "Mr. Nam"
+      },
+      {
+        "t": "dạy môn vật lý",
+        "en": "teaches physics"
+      },
+      {
+        "t": "ở trường tôi.",
+        "en": "at my school"
+      }
+    ],
+    "answers": [
+      "Mr. Nam teaches physics at my school.",
+      "Mr. Nam is the physics teacher at my school."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giáo viên chủ nhiệm",
+        "en": "the homeroom teacher"
+      },
+      {
+        "t": "gọi điện",
+        "en": "called"
+      },
+      {
+        "t": "cho bố mẹ tôi.",
+        "en": "my parents"
+      }
+    ],
+    "answers": [
+      "The homeroom teacher called my parents.",
+      "My homeroom teacher phoned my parents."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "là giáo viên mới",
+        "en": "is the new teacher"
+      },
+      {
+        "t": "của lớp tôi.",
+        "en": "of my class"
+      }
+    ],
+    "answers": [
+      "She is the new teacher of my class.",
+      "She's our class's new teacher."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thầy giáo",
+        "en": "the teacher"
+      },
+      {
+        "t": "đang giảng bài",
+        "en": "is teaching a lesson"
+      },
+      {
+        "t": "trên bảng.",
+        "en": "on the board"
+      }
+    ],
+    "answers": [
+      "The teacher is teaching a lesson on the board.",
+      "The teacher is explaining something on the whiteboard."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "thích",
+        "en": "like"
+      },
+      {
+        "t": "cô giáo dạy văn",
+        "en": "my literature teacher"
+      },
+      {
+        "t": "của tôi.",
+        "en": "my"
+      }
+    ],
+    "answers": [
+      "I like my literature teacher.",
+      "I really like my literature teacher."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giáo viên thể dục",
+        "en": "the PE teacher"
+      },
+      {
+        "t": "hôm nay",
+        "en": "today"
+      },
+      {
+        "t": "nghỉ ốm.",
+        "en": "is out sick"
+      }
+    ],
+    "answers": [
+      "The PE teacher is out sick today.",
+      "Our PE teacher called in sick today."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn cùng bàn",
+        "en": "my deskmate"
+      },
+      {
+        "t": "của tôi",
+        "en": "my"
+      },
+      {
+        "t": "rất vui tính.",
+        "en": "is really funny"
+      }
+    ],
+    "answers": [
+      "My deskmate is really funny.",
+      "My deskmate is such a funny person."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi và Lan",
+        "en": "Lan and I"
+      },
+      {
+        "t": "học chung lớp",
+        "en": "have been in the same class"
+      },
+      {
+        "t": "từ năm ngoái.",
+        "en": "since last year"
+      }
+    ],
+    "answers": [
+      "Lan and I have been in the same class since last year.",
+      "Lan and I have studied in the same class since last year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Các bạn trong lớp",
+        "en": "my classmates"
+      },
+      {
+        "t": "đang chơi bóng đá",
+        "en": "are playing soccer"
+      },
+      {
+        "t": "ngoài sân.",
+        "en": "outside"
+      }
+    ],
+    "answers": [
+      "My classmates are playing soccer outside.",
+      "My classmates are outside playing football."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn thân của tôi",
+        "en": "my best friend"
+      },
+      {
+        "t": "chuyển trường",
+        "en": "transferred schools"
+      },
+      {
+        "t": "tháng trước.",
+        "en": "last month"
+      }
+    ],
+    "answers": [
+      "My best friend transferred schools last month.",
+      "My best friend changed schools last month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Lớp tôi",
+        "en": "my class"
+      },
+      {
+        "t": "có",
+        "en": "has"
+      },
+      {
+        "t": "ba mươi lăm học sinh.",
+        "en": "thirty-five students"
+      }
+    ],
+    "answers": [
+      "My class has thirty-five students.",
+      "There are thirty-five students in my class."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "mượn vở",
+        "en": "borrowed the notes"
+      },
+      {
+        "t": "của bạn cùng lớp.",
+        "en": "from my classmate"
+      }
+    ],
+    "answers": [
+      "I borrowed the notes from my classmate.",
+      "I borrowed my classmate's notebook."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn ấy",
+        "en": "she"
+      },
+      {
+        "t": "ngồi cạnh tôi",
+        "en": "sits next to me"
+      },
+      {
+        "t": "ở lớp học.",
+        "en": "in class"
+      }
+    ],
+    "answers": [
+      "She sits next to me in class.",
+      "She's my classmate who sits right beside me."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đang ôn thi",
+        "en": "are reviewing"
+      },
+      {
+        "t": "cho kỳ thi cuối năm.",
+        "en": "for the final exam of the year"
+      }
+    ],
+    "answers": [
+      "We are reviewing for the final exam of the year.",
+      "We're studying hard for our end-of-year exam."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "ôn bài",
+        "en": "studied"
+      },
+      {
+        "t": "đến rất khuya",
+        "en": "until very late"
+      },
+      {
+        "t": "tối qua.",
+        "en": "last night"
+      }
+    ],
+    "answers": [
+      "I studied until very late last night.",
+      "Last night I stayed up studying really late."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nhóm bạn tôi",
+        "en": "my group of friends"
+      },
+      {
+        "t": "ôn thi cùng nhau",
+        "en": "study together for exams"
+      },
+      {
+        "t": "ở thư viện.",
+        "en": "at the library"
+      }
+    ],
+    "answers": [
+      "My group of friends study together for exams at the library.",
+      "My friends and I review for exams together at the library."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "ôn thi",
+        "en": "have been reviewing"
+      },
+      {
+        "t": "được bao lâu rồi?",
+        "en": "for how long"
+      }
+    ],
+    "answers": [
+      "How long have you been reviewing for the exam?",
+      "How long have you been studying for the test?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "cần",
+        "en": "need to"
+      },
+      {
+        "t": "ôn lại",
+        "en": "review"
+      },
+      {
+        "t": "toàn bộ chương này.",
+        "en": "this whole chapter"
+      }
+    ],
+    "answers": [
+      "I need to review this whole chapter.",
+      "I have to go over this entire chapter again."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô giáo",
+        "en": "the teacher"
+      },
+      {
+        "t": "cho chúng tôi",
+        "en": "gave us"
+      },
+      {
+        "t": "đề cương ôn thi.",
+        "en": "a study outline"
+      }
+    ],
+    "answers": [
+      "The teacher gave us a study outline.",
+      "Our teacher handed out a review sheet for the exam."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang ôn",
+        "en": "am reviewing"
+      },
+      {
+        "t": "từ vựng tiếng Anh",
+        "en": "English vocabulary"
+      },
+      {
+        "t": "mỗi ngày.",
+        "en": "every day"
+      }
+    ],
+    "answers": [
+      "I am reviewing English vocabulary every day.",
+      "Every day I go over English vocabulary."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "được điểm mười",
+        "en": "got a perfect score"
+      },
+      {
+        "t": "môn toán!",
+        "en": "in math"
+      }
+    ],
+    "answers": [
+      "I got a perfect score in math!",
+      "I got a ten out of ten in math!"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Điểm kiểm tra",
+        "en": "my test score"
+      },
+      {
+        "t": "của tôi",
+        "en": "my"
+      },
+      {
+        "t": "không tốt lắm.",
+        "en": "wasn't very good"
+      }
+    ],
+    "answers": [
+      "My test score wasn't very good.",
+      "My score on the test wasn't great."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bố mẹ tôi",
+        "en": "my parents"
+      },
+      {
+        "t": "rất vui",
+        "en": "are so happy"
+      },
+      {
+        "t": "vì điểm của tôi.",
+        "en": "about my grades"
+      }
+    ],
+    "answers": [
+      "My parents are so happy about my grades.",
+      "My parents are really pleased with my grades."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "được bao nhiêu điểm",
+        "en": "what score did you get"
+      },
+      {
+        "t": "bài kiểm tra?",
+        "en": "on the test"
+      }
+    ],
+    "answers": [
+      "What score did you get on the test?",
+      "How many points did you get on the test?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Điểm trung bình",
+        "en": "my GPA"
+      },
+      {
+        "t": "của tôi",
+        "en": "my"
+      },
+      {
+        "t": "tăng lên rồi.",
+        "en": "has gone up"
+      }
+    ],
+    "answers": [
+      "My GPA has gone up.",
+      "My average score has gone up now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "bị điểm kém",
+        "en": "got a bad grade"
+      },
+      {
+        "t": "môn hóa học.",
+        "en": "in chemistry"
+      }
+    ],
+    "answers": [
+      "I got a bad grade in chemistry.",
+      "I did poorly in chemistry this time."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô giáo",
+        "en": "the teacher"
+      },
+      {
+        "t": "công bố điểm thi",
+        "en": "announced the exam scores"
+      },
+      {
+        "t": "vào sáng nay.",
+        "en": "this morning"
+      }
+    ],
+    "answers": [
+      "The teacher announced the exam scores this morning.",
+      "This morning the teacher posted our exam results."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "vẫn chưa biết",
+        "en": "still don't know"
+      },
+      {
+        "t": "chọn trường đại học nào.",
+        "en": "which university to choose"
+      }
+    ],
+    "answers": [
+      "I still don't know which university to choose.",
+      "I haven't decided which university to pick yet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Em gái tôi",
+        "en": "my little sister"
+      },
+      {
+        "t": "muốn học",
+        "en": "wants to study"
+      },
+      {
+        "t": "ngành y.",
+        "en": "medicine"
+      }
+    ],
+    "answers": [
+      "My little sister wants to study medicine.",
+      "My younger sister wants to major in medicine."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bố tôi",
+        "en": "my dad"
+      },
+      {
+        "t": "khuyên tôi",
+        "en": "advised me to"
+      },
+      {
+        "t": "chọn ngành kinh tế.",
+        "en": "choose economics"
+      }
+    ],
+    "answers": [
+      "My dad advised me to choose economics.",
+      "My dad told me to major in economics."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Trường đại học đó",
+        "en": "that university"
+      },
+      {
+        "t": "có",
+        "en": "has"
+      },
+      {
+        "t": "ngành công nghệ thông tin tốt.",
+        "en": "a good IT program"
+      }
+    ],
+    "answers": [
+      "That university has a good IT program.",
+      "That college offers a strong computer science major."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "định chọn",
+        "en": "are planning to choose"
+      },
+      {
+        "t": "ngành gì?",
+        "en": "what major"
+      }
+    ],
+    "answers": [
+      "What major are you planning to choose?",
+      "Which major are you going to pick?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang tìm hiểu",
+        "en": "am looking into"
+      },
+      {
+        "t": "các trường đại học.",
+        "en": "different universities"
+      }
+    ],
+    "answers": [
+      "I am looking into different universities.",
+      "I'm researching various universities right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Anh trai tôi",
+        "en": "my older brother"
+      },
+      {
+        "t": "chọn học",
+        "en": "chose to study"
+      },
+      {
+        "t": "ngành kỹ thuật.",
+        "en": "engineering"
+      }
+    ],
+    "answers": [
+      "My older brother chose to study engineering.",
+      "My brother decided to major in engineering."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "muốn",
+        "en": "want to"
+      },
+      {
+        "t": "đi du học",
+        "en": "study abroad"
+      },
+      {
+        "t": "ở Úc.",
+        "en": "in Australia"
+      }
+    ],
+    "answers": [
+      "I want to study abroad in Australia.",
+      "I want to go study in Australia."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Chị tôi",
+        "en": "my sister"
+      },
+      {
+        "t": "đang du học",
+        "en": "is studying abroad"
+      },
+      {
+        "t": "ở Nhật Bản.",
+        "en": "in Japan"
+      }
+    ],
+    "answers": [
+      "My sister is studying abroad in Japan.",
+      "My sister is currently studying in Japan."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Chi phí",
+        "en": "the cost"
+      },
+      {
+        "t": "du học",
+        "en": "of studying abroad"
+      },
+      {
+        "t": "rất đắt.",
+        "en": "is really expensive"
+      }
+    ],
+    "answers": [
+      "The cost of studying abroad is really expensive.",
+      "Studying abroad costs a lot of money."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "có muốn",
+        "en": "do you want to"
+      },
+      {
+        "t": "đi du học không?",
+        "en": "study abroad"
+      }
+    ],
+    "answers": [
+      "Do you want to study abroad?",
+      "Would you like to go study overseas?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đang chuẩn bị",
+        "en": "is preparing"
+      },
+      {
+        "t": "hồ sơ du học.",
+        "en": "his study-abroad application"
+      }
+    ],
+    "answers": [
+      "He is preparing his study-abroad application.",
+      "He's getting his documents ready to study overseas."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Gia đình tôi",
+        "en": "my family"
+      },
+      {
+        "t": "đang tiết kiệm tiền",
+        "en": "is saving money"
+      },
+      {
+        "t": "cho tôi đi du học.",
+        "en": "for me to study abroad"
+      }
+    ],
+    "answers": [
+      "My family is saving money for me to study abroad.",
+      "My family is saving up so I can study overseas."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "vừa nhận được",
+        "en": "just got"
+      },
+      {
+        "t": "visa du học.",
+        "en": "her student visa"
+      }
+    ],
+    "answers": [
+      "She just got her student visa.",
+      "She has just received her study-abroad visa."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đang học online",
+        "en": "are studying online"
+      },
+      {
+        "t": "vì dịch bệnh.",
+        "en": "because of the pandemic"
+      }
+    ],
+    "answers": [
+      "We are studying online because of the pandemic.",
+      "We're doing online classes because of the pandemic."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Lớp học online của tôi",
+        "en": "my online class"
+      },
+      {
+        "t": "bắt đầu",
+        "en": "starts"
+      },
+      {
+        "t": "lúc tám giờ sáng.",
+        "en": "at eight in the morning"
+      }
+    ],
+    "answers": [
+      "My online class starts at eight in the morning.",
+      "My online class begins at eight a.m."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mạng của tôi",
+        "en": "my internet"
+      },
+      {
+        "t": "bị chậm",
+        "en": "was slow"
+      },
+      {
+        "t": "trong giờ học online.",
+        "en": "during online class"
+      }
+    ],
+    "answers": [
+      "My internet was slow during online class.",
+      "My connection was slow during the online lesson."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "thích",
+        "en": "prefer"
+      },
+      {
+        "t": "học trực tiếp",
+        "en": "in-person classes"
+      },
+      {
+        "t": "hơn học online.",
+        "en": "over online ones"
+      }
+    ],
+    "answers": [
+      "I prefer in-person classes over online ones.",
+      "I like studying face-to-face more than online."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô giáo",
+        "en": "the teacher"
+      },
+      {
+        "t": "đang dạy học online",
+        "en": "is teaching online"
+      },
+      {
+        "t": "qua Zoom.",
+        "en": "on Zoom"
+      }
+    ],
+    "answers": [
+      "The teacher is teaching online on Zoom.",
+      "The teacher is holding an online class through Zoom."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Học online",
+        "en": "studying online"
+      },
+      {
+        "t": "đôi khi",
+        "en": "sometimes"
+      },
+      {
+        "t": "khiến tôi buồn ngủ.",
+        "en": "makes me sleepy"
+      }
+    ],
+    "answers": [
+      "Studying online sometimes makes me sleepy.",
+      "Online classes sometimes make me feel drowsy."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "có quen với",
+        "en": "are you used to"
+      },
+      {
+        "t": "việc học online không?",
+        "en": "studying online"
+      }
+    ],
+    "answers": [
+      "Are you used to studying online?",
+      "Have you gotten used to online learning?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Deadline",
+        "en": "the deadline"
+      },
+      {
+        "t": "nộp bài luận",
+        "en": "for the essay"
+      },
+      {
+        "t": "là ngày mai.",
+        "en": "is tomorrow"
+      }
+    ],
+    "answers": [
+      "The essay deadline is tomorrow.",
+      "My essay is due tomorrow."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "vẫn chưa nộp",
+        "en": "still haven't submitted"
+      },
+      {
+        "t": "bài tập đúng hạn.",
+        "en": "the assignment on time"
+      }
+    ],
+    "answers": [
+      "I still haven't submitted the assignment on time.",
+      "I haven't turned in the assignment on time yet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Deadline",
+        "en": "the deadline"
+      },
+      {
+        "t": "dự án nhóm",
+        "en": "for the group project"
+      },
+      {
+        "t": "rất gấp.",
+        "en": "is really tight"
+      }
+    ],
+    "answers": [
+      "The deadline for the group project is really tight.",
+      "Our group project deadline is really close."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang chạy deadline",
+        "en": "am rushing to meet the deadline"
+      },
+      {
+        "t": "cho bài báo cáo.",
+        "en": "for my report"
+      }
+    ],
+    "answers": [
+      "I am rushing to meet the deadline for my report.",
+      "I'm racing to finish my report before the deadline."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "nộp bài",
+        "en": "submit your assignment"
+      },
+      {
+        "t": "trước deadline chưa?",
+        "en": "before the deadline yet"
+      }
+    ],
+    "answers": [
+      "Did you submit your assignment before the deadline yet?",
+      "Have you turned in your work before the deadline?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô giáo",
+        "en": "the teacher"
+      },
+      {
+        "t": "gia hạn deadline",
+        "en": "extended the deadline"
+      },
+      {
+        "t": "thêm hai ngày.",
+        "en": "by two more days"
+      }
+    ],
+    "answers": [
+      "The teacher extended the deadline by two more days.",
+      "The teacher gave us two extra days for the deadline."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "luôn nộp bài",
+        "en": "always submit my work"
+      },
+      {
+        "t": "sát deadline.",
+        "en": "right before the deadline"
+      }
+    ],
+    "answers": [
+      "I always submit my work right before the deadline.",
+      "I always turn things in at the last minute."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nhóm học tập của tôi",
+        "en": "my study group"
+      },
+      {
+        "t": "gặp nhau",
+        "en": "meets"
+      },
+      {
+        "t": "mỗi tuần.",
+        "en": "every week"
+      }
+    ],
+    "answers": [
+      "My study group meets every week.",
+      "My study group gets together every week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "học nhóm",
+        "en": "are studying together"
+      },
+      {
+        "t": "ở nhà Lan",
+        "en": "at Lan's house"
+      },
+      {
+        "t": "tối nay.",
+        "en": "tonight"
+      }
+    ],
+    "answers": [
+      "We are studying together at Lan's house tonight.",
+      "We're having a group study session at Lan's tonight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "có muốn",
+        "en": "do you want to"
+      },
+      {
+        "t": "tham gia nhóm học tập không?",
+        "en": "join our study group"
+      }
+    ],
+    "answers": [
+      "Do you want to join our study group?",
+      "Would you like to join the study group?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nhóm học tập",
+        "en": "the study group"
+      },
+      {
+        "t": "giúp tôi",
+        "en": "helps me"
+      },
+      {
+        "t": "hiểu bài hơn.",
+        "en": "understand the lessons better"
+      }
+    ],
+    "answers": [
+      "The study group helps me understand the lessons better.",
+      "Studying in a group helps me understand better."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đang thảo luận",
+        "en": "are discussing"
+      },
+      {
+        "t": "bài tập nhóm.",
+        "en": "the group assignment"
+      }
+    ],
+    "answers": [
+      "We are discussing the group assignment.",
+      "We're talking through the group homework."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Học nhóm",
+        "en": "studying in a group"
+      },
+      {
+        "t": "ồn ào quá,",
+        "en": "is too noisy"
+      },
+      {
+        "t": "tôi không tập trung được.",
+        "en": "I can't concentrate"
+      }
+    ],
+    "answers": [
+      "Studying in a group is too noisy, I can't concentrate.",
+      "It's too noisy to study in a group, I can't focus."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn cùng nhóm học",
+        "en": "my study partner"
+      },
+      {
+        "t": "của tôi",
+        "en": "my"
+      },
+      {
+        "t": "rất giỏi toán.",
+        "en": "is really good at math"
+      }
+    ],
+    "answers": [
+      "My study partner is really good at math.",
+      "My study partner is very good at math."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "thường học bài",
+        "en": "usually study"
+      },
+      {
+        "t": "ở thư viện trường.",
+        "en": "at the school library"
+      }
+    ],
+    "answers": [
+      "I usually study at the school library.",
+      "I often study in the school library."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thư viện",
+        "en": "the library"
+      },
+      {
+        "t": "đóng cửa",
+        "en": "closes"
+      },
+      {
+        "t": "lúc chín giờ tối.",
+        "en": "at nine in the evening"
+      }
+    ],
+    "answers": [
+      "The library closes at nine in the evening.",
+      "The library shuts at nine p.m."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "có thẻ thư viện",
+        "en": "a library card"
+      },
+      {
+        "t": "chưa?",
+        "en": "yet"
+      }
+    ],
+    "answers": [
+      "Do you have a library card yet?",
+      "Have you got a library card yet?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang mượn sách",
+        "en": "am borrowing some books"
+      },
+      {
+        "t": "ở thư viện.",
+        "en": "from the library"
+      }
+    ],
+    "answers": [
+      "I am borrowing some books from the library.",
+      "I'm checking out some books at the library."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thư viện trường tôi",
+        "en": "my school library"
+      },
+      {
+        "t": "có",
+        "en": "has"
+      },
+      {
+        "t": "rất nhiều sách hay.",
+        "en": "lots of great books"
+      }
+    ],
+    "answers": [
+      "My school library has lots of great books.",
+      "My school library has so many good books."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "ngồi học",
+        "en": "sat studying"
+      },
+      {
+        "t": "ở thư viện",
+        "en": "at the library"
+      },
+      {
+        "t": "cả buổi chiều.",
+        "en": "all afternoon"
+      }
+    ],
+    "answers": [
+      "We sat studying at the library all afternoon.",
+      "We spent the whole afternoon studying at the library."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thư viện",
+        "en": "the library"
+      },
+      {
+        "t": "hôm nay",
+        "en": "today"
+      },
+      {
+        "t": "đông sinh viên quá.",
+        "en": "is so crowded with students"
+      }
+    ],
+    "answers": [
+      "The library is so crowded with students today.",
+      "There are so many students at the library today."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang học tiếng Nhật",
+        "en": "am learning Japanese"
+      },
+      {
+        "t": "vào buổi tối.",
+        "en": "in the evenings"
+      }
+    ],
+    "answers": [
+      "I am learning Japanese in the evenings.",
+      "I'm studying Japanese every evening."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Học",
+        "en": "learning"
+      },
+      {
+        "t": "một ngoại ngữ mới",
+        "en": "a new language"
+      },
+      {
+        "t": "rất thú vị.",
+        "en": "is really fun"
+      }
+    ],
+    "answers": [
+      "Learning a new language is really fun.",
+      "Learning a new language is a lot of fun."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "học được",
+        "en": "can speak"
+      },
+      {
+        "t": "bao nhiêu ngôn ngữ rồi?",
+        "en": "how many languages"
+      }
+    ],
+    "answers": [
+      "How many languages can you speak now?",
+      "How many languages have you learned so far?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "luyện nói tiếng Anh",
+        "en": "practice speaking English"
+      },
+      {
+        "t": "mỗi ngày.",
+        "en": "every day"
+      }
+    ],
+    "answers": [
+      "I practice speaking English every day.",
+      "I practice my English speaking every day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô giáo tiếng Pháp",
+        "en": "my French teacher"
+      },
+      {
+        "t": "của tôi",
+        "en": "my"
+      },
+      {
+        "t": "rất nghiêm khắc.",
+        "en": "is really strict"
+      }
+    ],
+    "answers": [
+      "My French teacher is really strict.",
+      "My French teacher is very strict."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang học",
+        "en": "am learning"
+      },
+      {
+        "t": "từ vựng tiếng Hàn.",
+        "en": "Korean vocabulary"
+      }
+    ],
+    "answers": [
+      "I am learning Korean vocabulary.",
+      "I'm studying some Korean vocabulary."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Phát âm tiếng Anh",
+        "en": "my English pronunciation"
+      },
+      {
+        "t": "của tôi",
+        "en": "my"
+      },
+      {
+        "t": "vẫn chưa tốt.",
+        "en": "still isn't very good"
+      }
+    ],
+    "answers": [
+      "My English pronunciation still isn't very good.",
+      "My English pronunciation isn't good yet."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Áp lực học tập",
+        "en": "academic pressure"
+      },
+      {
+        "t": "khiến tôi",
+        "en": "makes me"
+      },
+      {
+        "t": "mệt mỏi.",
+        "en": "exhausted"
+      }
+    ],
+    "answers": [
+      "Academic pressure makes me exhausted.",
+      "School pressure makes me feel really tired."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "cảm thấy căng thẳng",
+        "en": "feel stressed"
+      },
+      {
+        "t": "vì bài vở quá nhiều.",
+        "en": "because of too much schoolwork"
+      }
+    ],
+    "answers": [
+      "I feel stressed because of too much schoolwork.",
+      "I feel so stressed because there's too much schoolwork."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "có bị áp lực",
+        "en": "do you feel pressured"
+      },
+      {
+        "t": "về điểm số không?",
+        "en": "about your grades"
+      }
+    ],
+    "answers": [
+      "Do you feel pressured about your grades?",
+      "Do you feel stressed about your grades?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "ngủ rất ít",
+        "en": "sleep very little"
+      },
+      {
+        "t": "vì phải học bài.",
+        "en": "because I have to study"
+      }
+    ],
+    "answers": [
+      "I sleep very little because I have to study.",
+      "I hardly sleep because of all the studying."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Học sinh bây giờ",
+        "en": "students these days"
+      },
+      {
+        "t": "chịu",
+        "en": "face"
+      },
+      {
+        "t": "nhiều áp lực quá.",
+        "en": "too much pressure"
+      }
+    ],
+    "answers": [
+      "Students these days face too much pressure.",
+      "Students nowadays deal with so much pressure."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "lo lắng",
+        "en": "am worried"
+      },
+      {
+        "t": "về kỳ thi sắp tới.",
+        "en": "about the upcoming exam"
+      }
+    ],
+    "answers": [
+      "I am worried about the upcoming exam.",
+      "I'm anxious about the exam that's coming up."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Áp lực từ bố mẹ",
+        "en": "pressure from my parents"
+      },
+      {
+        "t": "khiến tôi",
+        "en": "makes me"
+      },
+      {
+        "t": "buồn.",
+        "en": "sad"
+      }
+    ],
+    "answers": [
+      "Pressure from my parents makes me sad.",
+      "The pressure from my parents makes me feel down."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "bị trượt",
+        "en": "failed"
+      },
+      {
+        "t": "môn hóa học",
+        "en": "chemistry"
+      },
+      {
+        "t": "kỳ này.",
+        "en": "this term"
+      }
+    ],
+    "answers": [
+      "I failed chemistry this term.",
+      "I failed my chemistry class this term."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn ấy",
+        "en": "she"
+      },
+      {
+        "t": "thi trượt đại học",
+        "en": "failed the university entrance exam"
+      },
+      {
+        "t": "năm ngoái.",
+        "en": "last year"
+      }
+    ],
+    "answers": [
+      "She failed the university entrance exam last year.",
+      "She failed her college entrance exam last year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "rất buồn",
+        "en": "am really sad"
+      },
+      {
+        "t": "vì thi trượt.",
+        "en": "because I failed the exam"
+      }
+    ],
+    "answers": [
+      "I'm really sad because I failed the exam.",
+      "I feel so sad about failing the exam."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Anh trai tôi",
+        "en": "my brother"
+      },
+      {
+        "t": "trượt",
+        "en": "failed"
+      },
+      {
+        "t": "kỳ thi lái xe.",
+        "en": "his driving test"
+      }
+    ],
+    "answers": [
+      "My brother failed his driving test.",
+      "My brother failed the driving exam."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "có sợ",
+        "en": "are you afraid of"
+      },
+      {
+        "t": "thi trượt không?",
+        "en": "failing the exam"
+      }
+    ],
+    "answers": [
+      "Are you afraid of failing the exam?",
+      "Are you scared of failing the test?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cả lớp",
+        "en": "the whole class"
+      },
+      {
+        "t": "có ba bạn",
+        "en": "has three students"
+      },
+      {
+        "t": "thi trượt môn văn.",
+        "en": "who failed literature"
+      }
+    ],
+    "answers": [
+      "The whole class has three students who failed literature.",
+      "Three students in the class failed the literature exam."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "phải thi lại",
+        "en": "have to retake the exam"
+      },
+      {
+        "t": "vì trượt lần trước.",
+        "en": "because I failed last time"
+      }
+    ],
+    "answers": [
+      "I have to retake the exam because I failed last time.",
+      "I have to take the exam again since I failed before."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "vừa nhận được",
+        "en": "just received"
+      },
+      {
+        "t": "học bổng của trường.",
+        "en": "a scholarship from my school"
+      }
+    ],
+    "answers": [
+      "I just received a scholarship from my school.",
+      "I just got a scholarship from my school."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang cố gắng",
+        "en": "is working hard"
+      },
+      {
+        "t": "để có học bổng.",
+        "en": "to get a scholarship"
+      }
+    ],
+    "answers": [
+      "She is working hard to get a scholarship.",
+      "She's trying hard to earn a scholarship."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Học bổng này",
+        "en": "this scholarship"
+      },
+      {
+        "t": "giúp tôi",
+        "en": "helps me"
+      },
+      {
+        "t": "đỡ lo tiền học phí.",
+        "en": "worry less about tuition"
+      }
+    ],
+    "answers": [
+      "This scholarship helps me worry less about tuition.",
+      "This scholarship takes some of the tuition worry off my mind."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Trường tôi",
+        "en": "my school"
+      },
+      {
+        "t": "có",
+        "en": "has"
+      },
+      {
+        "t": "nhiều học bổng",
+        "en": "many scholarships"
+      },
+      {
+        "t": "cho sinh viên giỏi.",
+        "en": "for top students"
+      }
+    ],
+    "answers": [
+      "My school has many scholarships for top students.",
+      "My school offers many scholarships for excellent students."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang nộp hồ sơ",
+        "en": "am submitting my application"
+      },
+      {
+        "t": "xin học bổng.",
+        "en": "for a scholarship"
+      }
+    ],
+    "answers": [
+      "I am submitting my application for a scholarship.",
+      "I'm applying for a scholarship right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "có đủ điều kiện",
+        "en": "are eligible"
+      },
+      {
+        "t": "xin học bổng không?",
+        "en": "to apply for a scholarship"
+      }
+    ],
+    "answers": [
+      "Are you eligible to apply for a scholarship?",
+      "Do you qualify for a scholarship?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "giành được",
+        "en": "won"
+      },
+      {
+        "t": "học bổng du học.",
+        "en": "a study-abroad scholarship"
+      }
+    ],
+    "answers": [
+      "She won a study-abroad scholarship.",
+      "She earned a scholarship to study overseas."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang làm",
+        "en": "am working on"
+      },
+      {
+        "t": "đồ án tốt nghiệp.",
+        "en": "my graduation project"
+      }
+    ],
+    "answers": [
+      "I am working on my graduation project.",
+      "I'm currently working on my graduation thesis."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Đồ án tốt nghiệp",
+        "en": "my graduation project"
+      },
+      {
+        "t": "của tôi",
+        "en": "my"
+      },
+      {
+        "t": "về công nghệ thông tin.",
+        "en": "is about information technology"
+      }
+    ],
+    "answers": [
+      "My graduation project is about information technology.",
+      "My graduation project is on the topic of IT."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "làm đồ án tốt nghiệp",
+        "en": "gotten with your graduation project"
+      },
+      {
+        "t": "đến đâu rồi?",
+        "en": "how far"
+      }
+    ],
+    "answers": [
+      "How far have you gotten with your graduation project?",
+      "How's your graduation project coming along?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "thức khuya",
+        "en": "stay up late"
+      },
+      {
+        "t": "làm đồ án tốt nghiệp",
+        "en": "working on my graduation project"
+      },
+      {
+        "t": "mỗi tối.",
+        "en": "every night"
+      }
+    ],
+    "answers": [
+      "I stay up late working on my graduation project every night.",
+      "Every night I stay up late doing my graduation project."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giáo viên hướng dẫn",
+        "en": "my supervisor"
+      },
+      {
+        "t": "đồ án của tôi",
+        "en": "for my project"
+      },
+      {
+        "t": "rất khó tính.",
+        "en": "is really strict"
+      }
+    ],
+    "answers": [
+      "My supervisor for my project is really strict.",
+      "My thesis supervisor is very strict."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nhóm tôi",
+        "en": "my group"
+      },
+      {
+        "t": "đang làm",
+        "en": "is working on"
+      },
+      {
+        "t": "đồ án tốt nghiệp",
+        "en": "the graduation project"
+      },
+      {
+        "t": "cùng nhau.",
+        "en": "together"
+      }
+    ],
+    "answers": [
+      "My group is working on the graduation project together.",
+      "My group and I are doing our graduation project together."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Đồ án tốt nghiệp",
+        "en": "the graduation project"
+      },
+      {
+        "t": "chiếm",
+        "en": "takes up"
+      },
+      {
+        "t": "rất nhiều thời gian của tôi.",
+        "en": "a lot of my time"
+      }
+    ],
+    "answers": [
+      "The graduation project takes up a lot of my time.",
+      "My graduation project takes up so much of my time."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "phải thuyết trình",
+        "en": "have to give a presentation"
+      },
+      {
+        "t": "trước lớp",
+        "en": "in front of the class"
+      },
+      {
+        "t": "vào thứ Hai.",
+        "en": "on Monday"
+      }
+    ],
+    "answers": [
+      "I have to give a presentation in front of the class on Monday.",
+      "On Monday I have to present in front of the class."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn ấy",
+        "en": "she"
+      },
+      {
+        "t": "thuyết trình",
+        "en": "gives presentations"
+      },
+      {
+        "t": "rất tự tin.",
+        "en": "very confidently"
+      }
+    ],
+    "answers": [
+      "She gives presentations very confidently.",
+      "She's really confident when she presents."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "lo lắng",
+        "en": "am nervous"
+      },
+      {
+        "t": "về bài thuyết trình sắp tới.",
+        "en": "about the upcoming presentation"
+      }
+    ],
+    "answers": [
+      "I am nervous about the upcoming presentation.",
+      "I'm anxious about my presentation coming up."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nhóm tôi",
+        "en": "my group"
+      },
+      {
+        "t": "đang chuẩn bị",
+        "en": "is preparing"
+      },
+      {
+        "t": "slide thuyết trình.",
+        "en": "the presentation slides"
+      }
+    ],
+    "answers": [
+      "My group is preparing the presentation slides.",
+      "My group is getting the presentation slides ready."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "you"
+      },
+      {
+        "t": "thuyết trình",
+        "en": "present"
+      },
+      {
+        "t": "về đề tài gì?",
+        "en": "on what topic"
+      }
+    ],
+    "answers": [
+      "What topic are you presenting on?",
+      "What's your presentation topic about?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "run",
+        "en": "get nervous"
+      },
+      {
+        "t": "khi thuyết trình",
+        "en": "when presenting"
+      },
+      {
+        "t": "trước đám đông.",
+        "en": "in front of a crowd"
+      }
+    ],
+    "answers": [
+      "I get nervous when presenting in front of a crowd.",
+      "I always get shaky presenting in front of a crowd."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thầy giáo",
+        "en": "the teacher"
+      },
+      {
+        "t": "khen",
+        "en": "praised"
+      },
+      {
+        "t": "bài thuyết trình của tôi.",
+        "en": "my presentation"
+      }
+    ],
+    "answers": [
+      "The teacher praised my presentation.",
+      "My teacher complimented my presentation."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã thức đến hai giờ sáng",
+        "en": "I stayed up until 2 a.m."
+      },
+      {
+        "t": "để làm xong",
+        "en": "to finish"
+      },
+      {
+        "t": "bài tập vì tôi",
+        "en": "the homework because I"
+      },
+      {
+        "t": "đã trì hoãn cả tuần.",
+        "en": "had put it off all week"
+      }
+    ],
+    "answers": [
+      "I stayed up until 2 a.m. to finish the homework because I had put it off all week.",
+      "I stayed up until two in the morning finishing my homework because I'd been putting it off all week."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù đã cố gắng hết sức,",
+        "en": "Although I tried my best,"
+      },
+      {
+        "t": "tôi vẫn không thể",
+        "en": "I still couldn't"
+      },
+      {
+        "t": "hoàn thành bài tập",
+        "en": "finish the homework"
+      },
+      {
+        "t": "trước khi đi ngủ.",
+        "en": "before going to bed"
+      }
+    ],
+    "answers": [
+      "Although I tried my best, I still couldn't finish the homework before going to bed.",
+      "Even though I did my best, I couldn't get the homework done before bedtime."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi cô giáo giao thêm bài tập,",
+        "en": "When the teacher gave us extra homework,"
+      },
+      {
+        "t": "cả lớp",
+        "en": "the whole class"
+      },
+      {
+        "t": "đã than trời.",
+        "en": "groaned"
+      }
+    ],
+    "answers": [
+      "When the teacher gave us extra homework, the whole class groaned.",
+      "The whole class groaned when the teacher assigned more homework."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi thường bỏ qua bài tập khó",
+        "en": "I usually skip the hard homework"
+      },
+      {
+        "t": "rồi quay lại làm nó",
+        "en": "and come back to it"
+      },
+      {
+        "t": "sau khi đã làm xong phần dễ.",
+        "en": "after finishing the easy parts"
+      }
+    ],
+    "answers": [
+      "I usually skip the hard homework and come back to it after finishing the easy parts.",
+      "I usually put off the difficult homework and go back to it once I've done the easy stuff."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Con tôi đã quen",
+        "en": "my kid has gotten used to"
+      },
+      {
+        "t": "làm bài tập một mình",
+        "en": "doing homework alone"
+      },
+      {
+        "t": "từ khi lên cấp hai.",
+        "en": "since starting middle school"
+      }
+    ],
+    "answers": [
+      "My kid has gotten used to doing homework alone since starting middle school.",
+      "Since middle school, my kid has gotten used to doing homework by himself."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu bạn nộp bài tập trễ,",
+        "en": "If you turn in your homework late,"
+      },
+      {
+        "t": "cô giáo",
+        "en": "the teacher"
+      },
+      {
+        "t": "sẽ trừ điểm.",
+        "en": "will take off points"
+      }
+    ],
+    "answers": [
+      "If you turn in your homework late, the teacher will take off points.",
+      "The teacher will deduct points if you hand in your homework late."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi vừa làm bài tập",
+        "en": "I did my homework"
+      },
+      {
+        "t": "vừa nghe nhạc,",
+        "en": "while listening to music,"
+      },
+      {
+        "t": "nên mất gấp đôi thời gian.",
+        "en": "so it took twice as long"
+      }
+    ],
+    "answers": [
+      "I did my homework while listening to music, so it took twice as long.",
+      "I was listening to music while doing homework, so it took me twice as long."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì đề thi khó hơn dự đoán,",
+        "en": "Because the test was harder than expected,"
+      },
+      {
+        "t": "nhiều học sinh",
+        "en": "many students"
+      },
+      {
+        "t": "đã không làm kịp giờ.",
+        "en": "couldn't finish in time"
+      }
+    ],
+    "answers": [
+      "Because the test was harder than expected, many students couldn't finish in time.",
+      "Many students couldn't finish in time because the test was harder than expected."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã ôn tập rất kỹ",
+        "en": "I had studied really hard"
+      },
+      {
+        "t": "trước khi vào phòng thi,",
+        "en": "before going into the exam room,"
+      },
+      {
+        "t": "nhưng vẫn quên hết.",
+        "en": "but still forgot everything"
+      }
+    ],
+    "answers": [
+      "I had studied really hard before going into the exam room, but still forgot everything.",
+      "I studied really hard before the exam, but I still forgot everything."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi thi trượt lần này,",
+        "en": "If I fail this time,"
+      },
+      {
+        "t": "tôi sẽ phải",
+        "en": "I'll have to"
+      },
+      {
+        "t": "thi lại vào tháng sau.",
+        "en": "retake it next month"
+      }
+    ],
+    "answers": [
+      "If I fail this time, I'll have to retake it next month.",
+      "I'll have to retake the exam next month if I fail this time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Trong khi các bạn khác ôn bài,",
+        "en": "While the other students were reviewing,"
+      },
+      {
+        "t": "tôi lại",
+        "en": "I was"
+      },
+      {
+        "t": "ngủ gật ở góc lớp.",
+        "en": "dozing off in the corner"
+      }
+    ],
+    "answers": [
+      "While the other students were reviewing, I was dozing off in the corner.",
+      "I was dozing off in the corner while everyone else was reviewing."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi làm xong bài thi,",
+        "en": "After finishing the exam,"
+      },
+      {
+        "t": "tôi đã kiểm tra lại",
+        "en": "I went back and checked"
+      },
+      {
+        "t": "từng câu một lần nữa.",
+        "en": "every question once more"
+      }
+    ],
+    "answers": [
+      "After finishing the exam, I went back and checked every question once more.",
+      "After I finished the exam, I checked over every question again."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã quyết định",
+        "en": "I've decided"
+      },
+      {
+        "t": "học thêm toán",
+        "en": "to take extra math classes"
+      },
+      {
+        "t": "vì điểm của tôi",
+        "en": "because my grades"
+      },
+      {
+        "t": "cứ tụt dần.",
+        "en": "kept dropping"
+      }
+    ],
+    "answers": [
+      "I've decided to take extra math classes because my grades kept dropping.",
+      "Because my grades kept dropping, I've decided to take extra math classes."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Hồi cấp ba,",
+        "en": "Back in high school,"
+      },
+      {
+        "t": "tôi từng học thêm",
+        "en": "I used to take extra lessons"
+      },
+      {
+        "t": "ba buổi một tuần.",
+        "en": "three times a week"
+      }
+    ],
+    "answers": [
+      "Back in high school, I used to take extra lessons three times a week.",
+      "I used to have extra classes three times a week when I was in high school."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu học phí học thêm",
+        "en": "if the tuition for the extra class"
+      },
+      {
+        "t": "tăng thêm nữa,",
+        "en": "goes up any more,"
+      },
+      {
+        "t": "tôi sẽ phải nghỉ học.",
+        "en": "I'll have to quit"
+      }
+    ],
+    "answers": [
+      "If the tuition for the extra class goes up any more, I'll have to quit.",
+      "I'll have to quit if the extra class's tuition rises any further."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã đăng ký học thêm tiếng Anh",
+        "en": "I signed up for extra English classes"
+      },
+      {
+        "t": "mặc dù lịch của tôi",
+        "en": "even though my schedule"
+      },
+      {
+        "t": "đã kín rồi.",
+        "en": "was already packed"
+      }
+    ],
+    "answers": [
+      "I signed up for extra English classes even though my schedule was already packed.",
+      "Even though my schedule was already full, I signed up for extra English classes."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Con tôi",
+        "en": "my kid"
+      },
+      {
+        "t": "đã bỏ học thêm",
+        "en": "quit the extra class"
+      },
+      {
+        "t": "vì thấy nó không hiệu quả.",
+        "en": "because he felt it wasn't helping"
+      }
+    ],
+    "answers": [
+      "My kid quit the extra class because he felt it wasn't helping.",
+      "My kid dropped out of the extra class because it didn't seem to be helping."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Trước khi tìm được thầy dạy thêm tốt,",
+        "en": "Before I found a good tutor,"
+      },
+      {
+        "t": "tôi đã thử",
+        "en": "I tried"
+      },
+      {
+        "t": "mấy trung tâm khác nhau.",
+        "en": "a few different centers"
+      }
+    ],
+    "answers": [
+      "Before I found a good tutor, I tried a few different centers.",
+      "I tried a few different centers before I found a good tutor."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô giáo đã ở lại",
+        "en": "the teacher stayed behind"
+      },
+      {
+        "t": "sau giờ học",
+        "en": "after class"
+      },
+      {
+        "t": "để giúp tôi",
+        "en": "to help me"
+      },
+      {
+        "t": "hiểu bài.",
+        "en": "understand the lesson"
+      }
+    ],
+    "answers": [
+      "The teacher stayed behind after class to help me understand the lesson.",
+      "The teacher stayed after class so she could help me understand the lesson."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thầy giáo chủ nhiệm",
+        "en": "the homeroom teacher"
+      },
+      {
+        "t": "đã gọi tôi lên",
+        "en": "called me up"
+      },
+      {
+        "t": "vì tôi",
+        "en": "because I"
+      },
+      {
+        "t": "nghỉ học nhiều quá.",
+        "en": "had missed too many classes"
+      }
+    ],
+    "answers": [
+      "The homeroom teacher called me up because I had missed too many classes.",
+      "Because I'd missed so many classes, the homeroom teacher called me up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô ấy đã dạy tôi",
+        "en": "she taught me"
+      },
+      {
+        "t": "từ hồi lớp sáu,",
+        "en": "since sixth grade,"
+      },
+      {
+        "t": "nên chúng tôi rất thân nhau.",
+        "en": "so we're really close"
+      }
+    ],
+    "answers": [
+      "She taught me since sixth grade, so we're really close.",
+      "She's been teaching me since sixth grade, so we're really close."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù thầy giáo trông nghiêm khắc,",
+        "en": "Although the teacher looks strict,"
+      },
+      {
+        "t": "thầy lại rất",
+        "en": "he's actually really"
+      },
+      {
+        "t": "quan tâm học sinh.",
+        "en": "caring toward his students"
+      }
+    ],
+    "answers": [
+      "Although the teacher looks strict, he's actually really caring toward his students.",
+      "The teacher looks strict, but he actually cares a lot about his students."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi giáo viên mới đến nhận lớp,",
+        "en": "When the new teacher took over the class,"
+      },
+      {
+        "t": "cả lớp",
+        "en": "the whole class"
+      },
+      {
+        "t": "hơi bỡ ngỡ.",
+        "en": "felt a bit unsettled"
+      }
+    ],
+    "answers": [
+      "When the new teacher took over the class, the whole class felt a bit unsettled.",
+      "The whole class felt a bit unsettled when the new teacher took over."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn cùng bàn của tôi",
+        "en": "my deskmate"
+      },
+      {
+        "t": "và tôi",
+        "en": "and I"
+      },
+      {
+        "t": "đã chơi thân",
+        "en": "have been close"
+      },
+      {
+        "t": "từ hồi tiểu học.",
+        "en": "since elementary school"
+      }
+    ],
+    "answers": [
+      "My deskmate and I have been close since elementary school.",
+      "My deskmate and I have been friends since elementary school."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì bạn thân chuyển trường,",
+        "en": "Because my best friend transferred schools,"
+      },
+      {
+        "t": "tôi cảm thấy",
+        "en": "I've felt"
+      },
+      {
+        "t": "khá cô đơn ở lớp.",
+        "en": "pretty lonely in class"
+      }
+    ],
+    "answers": [
+      "Because my best friend transferred schools, I've felt pretty lonely in class.",
+      "I've felt pretty lonely in class since my best friend transferred schools."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu bạn cùng lớp",
+        "en": "if my classmates"
+      },
+      {
+        "t": "không giúp tôi,",
+        "en": "hadn't helped me,"
+      },
+      {
+        "t": "tôi đã không theo kịp bài.",
+        "en": "I wouldn't have kept up with the lessons"
+      }
+    ],
+    "answers": [
+      "If my classmates hadn't helped me, I wouldn't have kept up with the lessons.",
+      "I wouldn't have kept up with the lessons if my classmates hadn't helped me."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi cãi nhau với bạn cùng lớp,",
+        "en": "After I argued with a classmate,"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã không nói chuyện suốt một tuần.",
+        "en": "didn't talk for a whole week"
+      }
+    ],
+    "answers": [
+      "After I argued with a classmate, we didn't talk for a whole week.",
+      "We didn't talk for a whole week after arguing with each other."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn học của tôi",
+        "en": "my classmate"
+      },
+      {
+        "t": "đã giúp tôi ôn bài",
+        "en": "helped me review"
+      },
+      {
+        "t": "dù bạn ấy",
+        "en": "even though she"
+      },
+      {
+        "t": "cũng bận thi.",
+        "en": "was busy with exams too"
+      }
+    ],
+    "answers": [
+      "My classmate helped me review even though she was busy with exams too.",
+      "Even though she was busy with exams too, my classmate helped me review."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã ôn thi",
+        "en": "we studied for the exam"
+      },
+      {
+        "t": "suốt cả tuần",
+        "en": "all week"
+      },
+      {
+        "t": "nhưng vẫn thấy chưa đủ.",
+        "en": "but still felt it wasn't enough"
+      }
+    ],
+    "answers": [
+      "We studied for the exam all week but still felt it wasn't enough.",
+      "We studied all week for the exam, but it still didn't feel like enough."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi bắt đầu ôn thi sớm hơn,",
+        "en": "if I had started reviewing earlier,"
+      },
+      {
+        "t": "tôi sẽ không phải",
+        "en": "I wouldn't have to"
+      },
+      {
+        "t": "thức khuya thế này.",
+        "en": "stay up this late"
+      }
+    ],
+    "answers": [
+      "If I had started reviewing earlier, I wouldn't have to stay up this late.",
+      "I wouldn't have to stay up this late if I'd started reviewing earlier."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Trong khi bạn tôi ôn bài ở nhà,",
+        "en": "While my friend was reviewing at home,"
+      },
+      {
+        "t": "tôi lại",
+        "en": "I was"
+      },
+      {
+        "t": "đi chơi cả buổi tối.",
+        "en": "out having fun all evening"
+      }
+    ],
+    "answers": [
+      "While my friend was reviewing at home, I was out having fun all evening.",
+      "I was out having fun all evening while my friend was reviewing at home."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi ôn xong chương cuối,",
+        "en": "After finishing reviewing the last chapter,"
+      },
+      {
+        "t": "tôi cảm thấy",
+        "en": "I felt"
+      },
+      {
+        "t": "tự tin hơn hẳn.",
+        "en": "a lot more confident"
+      }
+    ],
+    "answers": [
+      "After finishing reviewing the last chapter, I felt a lot more confident.",
+      "I felt a lot more confident after I finished reviewing the last chapter."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì cả nhóm đã ôn thi cùng nhau,",
+        "en": "Because the whole group reviewed together,"
+      },
+      {
+        "t": "ai cũng",
+        "en": "everyone"
+      },
+      {
+        "t": "đạt điểm khá.",
+        "en": "got a fairly good score"
+      }
+    ],
+    "answers": [
+      "Because the whole group reviewed together, everyone got a fairly good score.",
+      "Everyone got a fairly good score because the whole group reviewed together."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Điểm của tôi",
+        "en": "my grades"
+      },
+      {
+        "t": "đã cải thiện nhiều",
+        "en": "have improved a lot"
+      },
+      {
+        "t": "kể từ khi tôi",
+        "en": "since I"
+      },
+      {
+        "t": "bắt đầu học nhóm.",
+        "en": "started studying in a group"
+      }
+    ],
+    "answers": [
+      "My grades have improved a lot since I started studying in a group.",
+      "My grades have gotten a lot better since I began studying in a group."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu điểm kiểm tra của tôi",
+        "en": "if my test score"
+      },
+      {
+        "t": "thấp hơn bảy,",
+        "en": "is lower than seven,"
+      },
+      {
+        "t": "bố mẹ tôi",
+        "en": "my parents"
+      },
+      {
+        "t": "sẽ không vui đâu.",
+        "en": "won't be happy at all"
+      }
+    ],
+    "answers": [
+      "If my test score is lower than seven, my parents won't be happy at all.",
+      "My parents won't be happy at all if my test score is below seven."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù tôi học rất chăm,",
+        "en": "Although I studied really hard,"
+      },
+      {
+        "t": "điểm số",
+        "en": "my scores"
+      },
+      {
+        "t": "vẫn không cải thiện.",
+        "en": "still haven't improved"
+      }
+    ],
+    "answers": [
+      "Although I studied really hard, my scores still haven't improved.",
+      "Even though I studied really hard, my scores still haven't gotten better."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi thấy điểm mười trên bảng,",
+        "en": "When I saw the perfect score on the board,"
+      },
+      {
+        "t": "tôi đã reo lên",
+        "en": "I let out a shout"
+      },
+      {
+        "t": "vì quá vui.",
+        "en": "because I was so happy"
+      }
+    ],
+    "answers": [
+      "When I saw the perfect score on the board, I let out a shout because I was so happy.",
+      "I shouted out loud when I saw the perfect score posted, I was so happy."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã cố gắng học",
+        "en": "I've been trying to study"
+      },
+      {
+        "t": "chăm chỉ hơn",
+        "en": "harder"
+      },
+      {
+        "t": "vì điểm trung bình",
+        "en": "because my average"
+      },
+      {
+        "t": "đã giảm học kỳ trước.",
+        "en": "dropped last semester"
+      }
+    ],
+    "answers": [
+      "I've been trying to study harder because my average dropped last semester.",
+      "Because my average dropped last semester, I've been trying to study harder."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì phòng thi quá ồn,",
+        "en": "Because the exam room was too noisy,"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "không thể tập trung làm bài.",
+        "en": "couldn't focus on the test"
+      }
+    ],
+    "answers": [
+      "Because the exam room was too noisy, I couldn't focus on the test.",
+      "I couldn't focus on the test because the exam room was too noisy."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi nộp bài thi,",
+        "en": "After handing in the exam,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I only realized"
+      },
+      {
+        "t": "mình đã bỏ sót một câu.",
+        "en": "I'd skipped a question"
+      }
+    ],
+    "answers": [
+      "After handing in the exam, I only realized I'd skipped a question.",
+      "Only after I handed in the exam did I realize I'd missed a question."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Cô giáo chủ nhiệm của tôi",
+        "en": "my homeroom teacher"
+      },
+      {
+        "t": "đã dạy ở trường này",
+        "en": "has been teaching at this school"
+      },
+      {
+        "t": "hơn hai mươi năm rồi.",
+        "en": "for over twenty years"
+      }
+    ],
+    "answers": [
+      "My homeroom teacher has been teaching at this school for over twenty years.",
+      "My homeroom teacher has taught at this school for more than twenty years."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bạn cùng lớp",
+        "en": "a classmate"
+      },
+      {
+        "t": "đã cho tôi mượn vở",
+        "en": "lent me his notes"
+      },
+      {
+        "t": "vì tôi",
+        "en": "because I"
+      },
+      {
+        "t": "đã nghỉ học hôm đó.",
+        "en": "had missed class that day"
+      }
+    ],
+    "answers": [
+      "A classmate lent me his notes because I had missed class that day.",
+      "Because I'd missed class that day, a classmate lent me his notes."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi không ôn thi",
+        "en": "if I hadn't reviewed"
+      },
+      {
+        "t": "cùng nhóm bạn,",
+        "en": "with my group of friends,"
+      },
+      {
+        "t": "tôi đã bỏ cuộc từ lâu.",
+        "en": "I would have given up long ago"
+      }
+    ],
+    "answers": [
+      "If I hadn't reviewed with my group of friends, I would have given up long ago.",
+      "I would have given up long ago if I hadn't studied with my friends."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Điểm số của tôi",
+        "en": "my grades"
+      },
+      {
+        "t": "đã tụt hẳn",
+        "en": "have dropped noticeably"
+      },
+      {
+        "t": "kể từ khi tôi",
+        "en": "since I"
+      },
+      {
+        "t": "bắt đầu đi làm thêm.",
+        "en": "started working part-time"
+      }
+    ],
+    "answers": [
+      "My grades have dropped noticeably since I started working part-time.",
+      "Since I started working part-time, my grades have dropped noticeably."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì tôi vẫn chưa biết",
+        "en": "Because I still don't know"
+      },
+      {
+        "t": "mình thích ngành gì,",
+        "en": "what major I like,"
+      },
+      {
+        "t": "tôi chưa nộp hồ sơ đại học.",
+        "en": "I haven't submitted my university application"
+      }
+    ],
+    "answers": [
+      "Because I still don't know what major I like, I haven't submitted my university application.",
+      "I haven't submitted my university application because I still don't know what major I like."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi chọn sai ngành,",
+        "en": "If I choose the wrong major,"
+      },
+      {
+        "t": "tôi sẽ phải",
+        "en": "I'll have to"
+      },
+      {
+        "t": "học lại từ đầu.",
+        "en": "start all over again"
+      }
+    ],
+    "answers": [
+      "If I choose the wrong major, I'll have to start all over again.",
+      "I'll have to start all over again if I pick the wrong major."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù bố mẹ muốn tôi học y,",
+        "en": "Although my parents want me to study medicine,"
+      },
+      {
+        "t": "tôi lại",
+        "en": "I actually"
+      },
+      {
+        "t": "thích ngành thiết kế hơn.",
+        "en": "prefer design"
+      }
+    ],
+    "answers": [
+      "Although my parents want me to study medicine, I actually prefer design.",
+      "My parents want me to study medicine, but I actually prefer design."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Trước khi quyết định chọn trường,",
+        "en": "Before deciding on a school,"
+      },
+      {
+        "t": "tôi đã tham khảo",
+        "en": "I looked into"
+      },
+      {
+        "t": "ý kiến của mấy anh chị đi trước.",
+        "en": "the opinions of some seniors"
+      }
+    ],
+    "answers": [
+      "Before deciding on a school, I looked into the opinions of some seniors.",
+      "I looked into what some seniors thought before I decided on a school."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi tôi đổi ý về ngành học,",
+        "en": "When I changed my mind about my major,"
+      },
+      {
+        "t": "cả gia đình",
+        "en": "my whole family"
+      },
+      {
+        "t": "đã rất bất ngờ.",
+        "en": "was really surprised"
+      }
+    ],
+    "answers": [
+      "When I changed my mind about my major, my whole family was really surprised.",
+      "My whole family was really surprised when I changed my mind about my major."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã đắn đo",
+        "en": "I've been going back and forth"
+      },
+      {
+        "t": "giữa hai trường",
+        "en": "between two schools"
+      },
+      {
+        "t": "suốt mấy tuần nay.",
+        "en": "for weeks now"
+      }
+    ],
+    "answers": [
+      "I've been going back and forth between two schools for weeks now.",
+      "I've spent weeks torn between two schools."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi đủ điểm IELTS,",
+        "en": "If I get a high enough IELTS score,"
+      },
+      {
+        "t": "tôi sẽ nộp hồ sơ",
+        "en": "I'll apply"
+      },
+      {
+        "t": "du học vào năm sau.",
+        "en": "to study abroad next year"
+      }
+    ],
+    "answers": [
+      "If I get a high enough IELTS score, I'll apply to study abroad next year.",
+      "I'll apply to study abroad next year if my IELTS score is high enough."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Từ khi chị tôi đi du học,",
+        "en": "Since my sister went to study abroad,"
+      },
+      {
+        "t": "nhà tôi",
+        "en": "our house"
+      },
+      {
+        "t": "trở nên vắng hẳn.",
+        "en": "has felt really quiet"
+      }
+    ],
+    "answers": [
+      "Since my sister went to study abroad, our house has felt really quiet.",
+      "Our house has felt really quiet since my sister left to study abroad."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù rất nhớ nhà,",
+        "en": "Although he really misses home,"
+      },
+      {
+        "t": "anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "vẫn cố gắng thích nghi",
+        "en": "still tries to adapt"
+      },
+      {
+        "t": "với cuộc sống du học.",
+        "en": "to life abroad"
+      }
+    ],
+    "answers": [
+      "Although he really misses home, he still tries to adapt to life abroad.",
+      "He really misses home, but he still tries to adjust to studying abroad."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi trượt phỏng vấn visa lần đầu,",
+        "en": "After failing the visa interview the first time,"
+      },
+      {
+        "t": "cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đã chuẩn bị kỹ hơn",
+        "en": "prepared more carefully"
+      },
+      {
+        "t": "cho lần sau.",
+        "en": "for the next attempt"
+      }
+    ],
+    "answers": [
+      "After failing the visa interview the first time, she prepared more carefully for the next attempt.",
+      "She prepared more carefully for the next attempt after failing the visa interview the first time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì chi phí du học quá cao,",
+        "en": "Because studying abroad costs so much,"
+      },
+      {
+        "t": "gia đình tôi",
+        "en": "my family"
+      },
+      {
+        "t": "phải tiết kiệm từ bây giờ.",
+        "en": "has to start saving now"
+      }
+    ],
+    "answers": [
+      "Because studying abroad costs so much, my family has to start saving now.",
+      "My family has to start saving now because studying abroad costs so much."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu không có học bổng,",
+        "en": "If there hadn't been a scholarship,"
+      },
+      {
+        "t": "tôi đã không thể",
+        "en": "I wouldn't have been able to"
+      },
+      {
+        "t": "đi du học được.",
+        "en": "go study abroad"
+      }
+    ],
+    "answers": [
+      "If there hadn't been a scholarship, I wouldn't have been able to go study abroad.",
+      "I wouldn't have been able to study abroad if there hadn't been a scholarship."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì mạng nhà tôi hay bị mất kết nối,",
+        "en": "Because my home internet keeps dropping,"
+      },
+      {
+        "t": "tôi thường",
+        "en": "I often"
+      },
+      {
+        "t": "bị gián đoạn giữa giờ học online.",
+        "en": "get cut off in the middle of online class"
+      }
+    ],
+    "answers": [
+      "Because my home internet keeps dropping, I often get cut off in the middle of online class.",
+      "My home internet keeps dropping, so I often get cut off during online class."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù học online tiện hơn,",
+        "en": "Although online learning is more convenient,"
+      },
+      {
+        "t": "tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "thích lên lớp trực tiếp hơn.",
+        "en": "prefer going to class in person"
+      }
+    ],
+    "answers": [
+      "Although online learning is more convenient, I still prefer going to class in person.",
+      "Online learning is more convenient, but I still prefer in-person classes."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Từ khi trường chuyển sang học online,",
+        "en": "Since the school switched to online classes,"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "đã quen dần với việc tự học.",
+        "en": "have gradually gotten used to studying by myself"
+      }
+    ],
+    "answers": [
+      "Since the school switched to online classes, I have gradually gotten used to studying by myself.",
+      "I've gradually gotten used to self-studying since the school switched to online classes."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi camera của tôi bị hỏng giữa buổi học,",
+        "en": "When my camera broke in the middle of class,"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "phải xin lỗi cô giáo.",
+        "en": "had to apologize to the teacher"
+      }
+    ],
+    "answers": [
+      "When my camera broke in the middle of class, I had to apologize to the teacher.",
+      "I had to apologize to the teacher when my camera broke in the middle of class."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu học online kéo dài thêm,",
+        "en": "If online learning continues any longer,"
+      },
+      {
+        "t": "nhiều học sinh",
+        "en": "many students"
+      },
+      {
+        "t": "sẽ mất động lực học tập.",
+        "en": "will lose their motivation to study"
+      }
+    ],
+    "answers": [
+      "If online learning continues any longer, many students will lose their motivation to study.",
+      "Many students will lose their motivation if online learning goes on any longer."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì phải học online cả ngày,",
+        "en": "Because I have to study online all day,"
+      },
+      {
+        "t": "mắt tôi",
+        "en": "my eyes"
+      },
+      {
+        "t": "lúc nào cũng mỏi.",
+        "en": "are always tired"
+      }
+    ],
+    "answers": [
+      "Because I have to study online all day, my eyes are always tired.",
+      "My eyes are always tired because I have to study online all day."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã bỏ lỡ deadline nộp bài",
+        "en": "I missed the assignment deadline"
+      },
+      {
+        "t": "vì máy tính của tôi",
+        "en": "because my computer"
+      },
+      {
+        "t": "bị hỏng đúng lúc đó.",
+        "en": "broke down right at that time"
+      }
+    ],
+    "answers": [
+      "I missed the assignment deadline because my computer broke down right at that time.",
+      "My computer broke down right then, so I missed the assignment deadline."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu bạn không nộp bài đúng deadline,",
+        "en": "If you don't submit on the deadline,"
+      },
+      {
+        "t": "bài của bạn",
+        "en": "your work"
+      },
+      {
+        "t": "sẽ không được chấm.",
+        "en": "won't be graded"
+      }
+    ],
+    "answers": [
+      "If you don't submit on the deadline, your work won't be graded.",
+      "Your work won't be graded if you don't submit by the deadline."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù đã cố hoàn thành sớm,",
+        "en": "Although I tried to finish early,"
+      },
+      {
+        "t": "tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "nộp bài sát deadline như mọi khi.",
+        "en": "turned it in right at the deadline as usual"
+      }
+    ],
+    "answers": [
+      "Although I tried to finish early, I still turned it in right at the deadline as usual.",
+      "I tried to finish early, but I still ended up submitting right at the deadline again."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi xin gia hạn deadline,",
+        "en": "After asking for a deadline extension,"
+      },
+      {
+        "t": "tôi cảm thấy",
+        "en": "I felt"
+      },
+      {
+        "t": "bớt áp lực hẳn.",
+        "en": "a lot less pressured"
+      }
+    ],
+    "answers": [
+      "After asking for a deadline extension, I felt a lot less pressured.",
+      "I felt a lot less pressured after asking for a deadline extension."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì cả nhóm chờ đến sát deadline mới làm,",
+        "en": "Because the whole group waited until right before the deadline to start,"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã phải thức trắng đêm.",
+        "en": "had to stay up all night"
+      }
+    ],
+    "answers": [
+      "Because the whole group waited until right before the deadline to start, we had to stay up all night.",
+      "We had to stay up all night because the whole group left everything until right before the deadline."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi deadline đến gần,",
+        "en": "When the deadline gets close,"
+      },
+      {
+        "t": "tôi luôn",
+        "en": "I always"
+      },
+      {
+        "t": "cảm thấy hồi hộp và mất ngủ.",
+        "en": "feel anxious and can't sleep"
+      }
+    ],
+    "answers": [
+      "When the deadline gets close, I always feel anxious and can't sleep.",
+      "I always feel anxious and lose sleep when the deadline gets close."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nhóm học tập của chúng tôi",
+        "en": "our study group"
+      },
+      {
+        "t": "đã gặp nhau đều đặn",
+        "en": "has been meeting regularly"
+      },
+      {
+        "t": "kể từ đầu học kỳ.",
+        "en": "since the start of the semester"
+      }
+    ],
+    "answers": [
+      "Our study group has been meeting regularly since the start of the semester.",
+      "Since the start of the semester, our study group has met regularly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù nhóm học tập rất vui,",
+        "en": "Although the study group is a lot of fun,"
+      },
+      {
+        "t": "đôi khi",
+        "en": "sometimes"
+      },
+      {
+        "t": "chúng tôi lại chẳng học được gì.",
+        "en": "we don't actually get any studying done"
+      }
+    ],
+    "answers": [
+      "Although the study group is a lot of fun, sometimes we don't actually get any studying done.",
+      "The study group is a lot of fun, but sometimes we barely study at all."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu nhóm học tập tan rã,",
+        "en": "If the study group breaks up,"
+      },
+      {
+        "t": "tôi sẽ",
+        "en": "I'll"
+      },
+      {
+        "t": "phải tự ôn thi một mình.",
+        "en": "have to review for exams on my own"
+      }
+    ],
+    "answers": [
+      "If the study group breaks up, I'll have to review for exams on my own.",
+      "I'll have to study on my own for exams if the study group breaks up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi tham gia nhóm học tập,",
+        "en": "After joining the study group,"
+      },
+      {
+        "t": "tôi hiểu bài",
+        "en": "I understand the lessons"
+      },
+      {
+        "t": "nhanh hơn hẳn.",
+        "en": "much more quickly"
+      }
+    ],
+    "answers": [
+      "After joining the study group, I understand the lessons much more quickly.",
+      "I understand the lessons much more quickly since I joined the study group."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì các thành viên hay đi trễ,",
+        "en": "Because the members are often late,"
+      },
+      {
+        "t": "buổi học nhóm",
+        "en": "our group study sessions"
+      },
+      {
+        "t": "toàn bắt đầu muộn.",
+        "en": "always end up starting late"
+      }
+    ],
+    "answers": [
+      "Because the members are often late, our group study sessions always end up starting late.",
+      "Our group study sessions always start late because the members are often late."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi nhóm bất đồng về cách phân công,",
+        "en": "When the group disagreed on how to divide the work,"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã tranh luận khá lâu.",
+        "en": "argued for quite a while"
+      }
+    ],
+    "answers": [
+      "When the group disagreed on how to divide the work, we argued for quite a while.",
+      "We argued for quite a while when the group disagreed about dividing the work."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã trở thành khách quen",
+        "en": "I've become a regular"
+      },
+      {
+        "t": "của thư viện trường",
+        "en": "at the school library"
+      },
+      {
+        "t": "từ khi bắt đầu ôn thi.",
+        "en": "since I started studying for exams"
+      }
+    ],
+    "answers": [
+      "I've become a regular at the school library since I started studying for exams.",
+      "Since I started studying for exams, I've become a regular at the school library."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù thư viện khá xa nhà,",
+        "en": "Although the library is quite far from home,"
+      },
+      {
+        "t": "tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "đến đó học mỗi cuối tuần.",
+        "en": "go there to study every weekend"
+      }
+    ],
+    "answers": [
+      "Although the library is quite far from home, I still go there to study every weekend.",
+      "The library is quite far from home, but I still go there every weekend to study."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu thư viện đóng cửa sớm,",
+        "en": "If the library closes early,"
+      },
+      {
+        "t": "tôi sẽ",
+        "en": "I'll"
+      },
+      {
+        "t": "phải về nhà học tiếp.",
+        "en": "have to go home and keep studying"
+      }
+    ],
+    "answers": [
+      "If the library closes early, I'll have to go home and keep studying.",
+      "I'll have to finish studying at home if the library closes early."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi tôi tìm mãi không thấy cuốn sách cần mượn,",
+        "en": "When I couldn't find the book I needed,"
+      },
+      {
+        "t": "thủ thư",
+        "en": "the librarian"
+      },
+      {
+        "t": "đã giúp tôi tìm.",
+        "en": "helped me look for it"
+      }
+    ],
+    "answers": [
+      "When I couldn't find the book I needed, the librarian helped me look for it.",
+      "The librarian helped me find it when I couldn't locate the book I needed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi ngồi học ở thư viện cả ngày,",
+        "en": "After sitting studying at the library all day,"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "cảm thấy đầu óc mụ mị.",
+        "en": "felt completely fried"
+      }
+    ],
+    "answers": [
+      "After sitting studying at the library all day, I felt completely fried.",
+      "I felt completely fried after studying at the library all day."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì thư viện quá đông vào mùa thi,",
+        "en": "Because the library is so crowded during exam season,"
+      },
+      {
+        "t": "tôi thường",
+        "en": "I often"
+      },
+      {
+        "t": "phải đến sớm để giữ chỗ.",
+        "en": "have to arrive early to save a seat"
+      }
+    ],
+    "answers": [
+      "Because the library is so crowded during exam season, I often have to arrive early to save a seat.",
+      "The library gets so crowded during exam season that I often have to get there early to save a seat."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã học tiếng Nhật",
+        "en": "I have been learning Japanese"
+      },
+      {
+        "t": "được gần một năm",
+        "en": "for almost a year"
+      },
+      {
+        "t": "nhưng vẫn nói chưa trôi chảy.",
+        "en": "but I still can't speak it fluently"
+      }
+    ],
+    "answers": [
+      "I have been learning Japanese for almost a year but I still can't speak it fluently.",
+      "I've studied Japanese for almost a year now, but I'm still not fluent."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi luyện nói mỗi ngày,",
+        "en": "If I practice speaking every day,"
+      },
+      {
+        "t": "vốn tiếng Anh của tôi",
+        "en": "my English"
+      },
+      {
+        "t": "sẽ tiến bộ nhanh hơn.",
+        "en": "will improve faster"
+      }
+    ],
+    "answers": [
+      "If I practice speaking every day, my English will improve faster.",
+      "My English will improve faster if I practice speaking every day."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù ngữ pháp của tôi khá ổn,",
+        "en": "Although my grammar is pretty solid,"
+      },
+      {
+        "t": "tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "gặp khó khăn khi nghe.",
+        "en": "struggle with listening"
+      }
+    ],
+    "answers": [
+      "Although my grammar is pretty solid, I still struggle with listening.",
+      "My grammar is pretty solid, but I still have trouble with listening."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Từ khi xem phim không phụ đề,",
+        "en": "Since I started watching movies without subtitles,"
+      },
+      {
+        "t": "khả năng nghe của tôi",
+        "en": "my listening skills"
+      },
+      {
+        "t": "đã tiến bộ rõ rệt.",
+        "en": "have improved noticeably"
+      }
+    ],
+    "answers": [
+      "Since I started watching movies without subtitles, my listening skills have improved noticeably.",
+      "My listening skills have improved noticeably since I started watching movies without subtitles."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi giáo viên bản ngữ sửa lỗi phát âm cho tôi,",
+        "en": "When the native teacher corrected my pronunciation,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I only then realized"
+      },
+      {
+        "t": "mình sai bao lâu nay.",
+        "en": "I'd been wrong all along"
+      }
+    ],
+    "answers": [
+      "When the native teacher corrected my pronunciation, I only then realized I'd been wrong all along.",
+      "I only realized I'd been saying it wrong all along when the native teacher corrected my pronunciation."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã bỏ cuộc học tiếng Hàn",
+        "en": "I gave up learning Korean"
+      },
+      {
+        "t": "vì lịch học quá dày",
+        "en": "because my schedule was too packed"
+      },
+      {
+        "t": "để theo thêm một ngôn ngữ nữa.",
+        "en": "to keep up with another language"
+      }
+    ],
+    "answers": [
+      "I gave up learning Korean because my schedule was too packed to keep up with another language.",
+      "My schedule was too packed to keep up with another language, so I gave up learning Korean."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì áp lực học tập quá lớn,",
+        "en": "Because the academic pressure is so huge,"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "thường xuyên bị mất ngủ.",
+        "en": "often have trouble sleeping"
+      }
+    ],
+    "answers": [
+      "Because the academic pressure is so huge, I often have trouble sleeping.",
+      "I often have trouble sleeping because the academic pressure is so huge."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù bố mẹ không ép,",
+        "en": "Although my parents don't push me,"
+      },
+      {
+        "t": "tôi vẫn tự tạo",
+        "en": "I still put"
+      },
+      {
+        "t": "áp lực cho chính mình.",
+        "en": "pressure on myself"
+      }
+    ],
+    "answers": [
+      "Although my parents don't push me, I still put pressure on myself.",
+      "My parents don't push me, but I still pressure myself."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi không học cách",
+        "en": "if I don't learn how"
+      },
+      {
+        "t": "cân bằng cuộc sống,",
+        "en": "to balance my life,"
+      },
+      {
+        "t": "tôi sẽ kiệt sức mất.",
+        "en": "I'll burn myself out"
+      }
+    ],
+    "answers": [
+      "If I don't learn how to balance my life, I'll burn myself out.",
+      "I'll burn myself out if I don't learn to balance my life."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi áp lực dồn nén quá lâu,",
+        "en": "When pressure builds up for too long,"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "dễ nổi cáu vô cớ.",
+        "en": "tend to snap for no reason"
+      }
+    ],
+    "answers": [
+      "When pressure builds up for too long, I tend to snap for no reason.",
+      "I tend to snap for no reason when pressure builds up for too long."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Từ khi tôi bắt đầu tập thể dục,",
+        "en": "Since I started exercising,"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "đã đối phó với áp lực học tập tốt hơn.",
+        "en": "have coped with academic pressure much better"
+      }
+    ],
+    "answers": [
+      "Since I started exercising, I have coped with academic pressure much better.",
+      "I've coped with academic pressure much better since I started exercising."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi tâm sự với cô giáo,",
+        "en": "After talking to my teacher about it,"
+      },
+      {
+        "t": "tôi cảm thấy",
+        "en": "I felt"
+      },
+      {
+        "t": "nhẹ nhõm hơn rất nhiều.",
+        "en": "a lot lighter"
+      }
+    ],
+    "answers": [
+      "After talking to my teacher about it, I felt a lot lighter.",
+      "I felt a lot lighter after opening up to my teacher about it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì phải cạnh tranh điểm số với bạn bè,",
+        "en": "Because I have to compete with my friends over grades,"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "cảm thấy áp lực mọi lúc.",
+        "en": "feel pressured all the time"
+      }
+    ],
+    "answers": [
+      "Because I have to compete with my friends over grades, I feel pressured all the time.",
+      "I feel pressured all the time because I have to compete with my friends over grades."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi ôn tập kỹ hơn,",
+        "en": "if I had reviewed more thoroughly,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "trượt môn hóa học.",
+        "en": "failed chemistry"
+      }
+    ],
+    "answers": [
+      "If I had reviewed more thoroughly, I wouldn't have failed chemistry.",
+      "I wouldn't have failed chemistry if I'd studied more thoroughly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù thi trượt lần đầu,",
+        "en": "Although he failed the exam the first time,"
+      },
+      {
+        "t": "anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "vẫn không bỏ cuộc.",
+        "en": "still didn't give up"
+      }
+    ],
+    "answers": [
+      "Although he failed the exam the first time, he still didn't give up.",
+      "He failed the exam the first time, but he still didn't give up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi biết tin thi trượt,",
+        "en": "After hearing that she'd failed,"
+      },
+      {
+        "t": "cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đã khóc suốt cả buổi tối.",
+        "en": "cried all evening"
+      }
+    ],
+    "answers": [
+      "After hearing that she'd failed, she cried all evening.",
+      "She cried all evening after finding out she'd failed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì đã trượt kỳ thi đại học,",
+        "en": "Because he failed the university entrance exam,"
+      },
+      {
+        "t": "anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "quyết định ôn thi lại năm sau.",
+        "en": "decided to try again next year"
+      }
+    ],
+    "answers": [
+      "Because he failed the university entrance exam, he decided to try again next year.",
+      "He decided to try again next year because he failed the university entrance exam."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi cả lớp biết tin có ba bạn thi trượt,",
+        "en": "When the whole class heard that three students had failed,"
+      },
+      {
+        "t": "ai cũng",
+        "en": "everyone"
+      },
+      {
+        "t": "cảm thấy lo lắng.",
+        "en": "felt anxious"
+      }
+    ],
+    "answers": [
+      "When the whole class heard that three students had failed, everyone felt anxious.",
+      "Everyone felt anxious when the class heard that three students had failed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu bạn thi trượt lần này,",
+        "en": "If you fail this time,"
+      },
+      {
+        "t": "đừng nản lòng",
+        "en": "don't get discouraged"
+      },
+      {
+        "t": "vì vẫn còn cơ hội khác.",
+        "en": "because there are still other chances"
+      }
+    ],
+    "answers": [
+      "If you fail this time, don't get discouraged because there are still other chances.",
+      "Don't get discouraged if you fail this time — there are still other chances."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã nộp hồ sơ xin học bổng",
+        "en": "I submitted my scholarship application"
+      },
+      {
+        "t": "dù biết cơ hội",
+        "en": "even though I knew my chances"
+      },
+      {
+        "t": "khá thấp.",
+        "en": "were pretty slim"
+      }
+    ],
+    "answers": [
+      "I submitted my scholarship application even though I knew my chances were pretty slim.",
+      "Even though I knew the odds were slim, I still applied for the scholarship."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi giành được học bổng này,",
+        "en": "If I win this scholarship,"
+      },
+      {
+        "t": "bố mẹ tôi",
+        "en": "my parents"
+      },
+      {
+        "t": "sẽ đỡ vất vả hơn nhiều.",
+        "en": "will have a lot less to worry about"
+      }
+    ],
+    "answers": [
+      "If I win this scholarship, my parents will have a lot less to worry about.",
+      "My parents will have a lot less to worry about if I win this scholarship."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi biết tin đậu học bổng,",
+        "en": "After hearing that she'd won the scholarship,"
+      },
+      {
+        "t": "cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đã gọi điện báo tin ngay cho gia đình.",
+        "en": "immediately called her family with the news"
+      }
+    ],
+    "answers": [
+      "After hearing that she'd won the scholarship, she immediately called her family with the news.",
+      "She immediately called her family with the news after finding out she'd won the scholarship."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì học bổng chỉ dành cho sinh viên xuất sắc,",
+        "en": "Because the scholarship is only for top students,"
+      },
+      {
+        "t": "tôi phải",
+        "en": "I have to"
+      },
+      {
+        "t": "cố gắng gấp đôi bình thường.",
+        "en": "try twice as hard as usual"
+      }
+    ],
+    "answers": [
+      "Because the scholarship is only for top students, I have to try twice as hard as usual.",
+      "I have to work twice as hard as usual because the scholarship is only for top students."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù đã nộp hồ sơ đúng hạn,",
+        "en": "Although I submitted my application on time,"
+      },
+      {
+        "t": "tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "chưa nhận được kết quả học bổng.",
+        "en": "haven't gotten the scholarship results"
+      }
+    ],
+    "answers": [
+      "Although I submitted my application on time, I still haven't gotten the scholarship results.",
+      "I submitted my application on time, but I still haven't heard back about the scholarship."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi tên tôi được xướng lên",
+        "en": "When my name was called out"
+      },
+      {
+        "t": "trong danh sách nhận học bổng,",
+        "en": "on the scholarship list,"
+      },
+      {
+        "t": "tôi đã không tin nổi.",
+        "en": "I couldn't believe it"
+      }
+    ],
+    "answers": [
+      "When my name was called out on the scholarship list, I couldn't believe it.",
+      "I couldn't believe it when my name was called out on the scholarship list."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã trì hoãn làm đồ án tốt nghiệp",
+        "en": "I've been putting off my graduation project"
+      },
+      {
+        "t": "vì chưa nghĩ ra",
+        "en": "because I haven't come up with"
+      },
+      {
+        "t": "đề tài phù hợp.",
+        "en": "a suitable topic yet"
+      }
+    ],
+    "answers": [
+      "I've been putting off my graduation project because I haven't come up with a suitable topic yet.",
+      "I keep putting off my graduation project because I still haven't found a good topic."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu đồ án tốt nghiệp không được duyệt,",
+        "en": "If the graduation project isn't approved,"
+      },
+      {
+        "t": "tôi sẽ phải",
+        "en": "I'll have to"
+      },
+      {
+        "t": "làm lại từ đầu.",
+        "en": "redo it from scratch"
+      }
+    ],
+    "answers": [
+      "If the graduation project isn't approved, I'll have to redo it from scratch.",
+      "I'll have to start my graduation project over if it isn't approved."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù giáo viên hướng dẫn rất khó tính,",
+        "en": "Although my supervisor is really strict,"
+      },
+      {
+        "t": "tôi vẫn học được",
+        "en": "I've still learned"
+      },
+      {
+        "t": "rất nhiều từ thầy.",
+        "en": "a lot from him"
+      }
+    ],
+    "answers": [
+      "Although my supervisor is really strict, I've still learned a lot from him.",
+      "My supervisor is really strict, but I've learned a lot from him."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi bảo vệ xong đồ án,",
+        "en": "After defending my graduation project,"
+      },
+      {
+        "t": "tôi cảm thấy",
+        "en": "I felt"
+      },
+      {
+        "t": "như trút được gánh nặng.",
+        "en": "like a huge weight had been lifted"
+      }
+    ],
+    "answers": [
+      "After defending my graduation project, I felt like a huge weight had been lifted.",
+      "I felt like a huge weight had lifted off me after defending my graduation project."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì nhóm tôi chia việc không đều,",
+        "en": "Because my group didn't split the work evenly,"
+      },
+      {
+        "t": "tôi phải",
+        "en": "I ended up having to"
+      },
+      {
+        "t": "làm phần lớn đồ án một mình.",
+        "en": "do most of the graduation project by myself"
+      }
+    ],
+    "answers": [
+      "Because my group didn't split the work evenly, I ended up having to do most of the graduation project by myself.",
+      "I ended up doing most of the graduation project alone because the workload wasn't split evenly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi thời hạn nộp đồ án đến gần,",
+        "en": "When the graduation project deadline got close,"
+      },
+      {
+        "t": "cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "làm việc suốt đêm.",
+        "en": "worked through the night"
+      }
+    ],
+    "answers": [
+      "When the graduation project deadline got close, the whole group worked through the night.",
+      "The whole group worked through the night as the graduation project deadline got close."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Tôi đã luyện tập thuyết trình",
+        "en": "I practiced my presentation"
+      },
+      {
+        "t": "trước gương",
+        "en": "in front of the mirror"
+      },
+      {
+        "t": "vài lần trước khi lên lớp.",
+        "en": "a few times before class"
+      }
+    ],
+    "answers": [
+      "I practiced my presentation in front of the mirror a few times before class.",
+      "Before going to class, I practiced my presentation a few times in front of the mirror."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu bạn chuẩn bị kỹ hơn,",
+        "en": "if you prepare more carefully,"
+      },
+      {
+        "t": "bài thuyết trình",
+        "en": "your presentation"
+      },
+      {
+        "t": "sẽ trôi chảy hơn nhiều.",
+        "en": "will go a lot more smoothly"
+      }
+    ],
+    "answers": [
+      "If you prepare more carefully, your presentation will go a lot more smoothly.",
+      "Your presentation will go a lot more smoothly if you prepare more carefully."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Mặc dù đã chuẩn bị kỹ,",
+        "en": "Although I had prepared carefully,"
+      },
+      {
+        "t": "tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "quên mất một nửa nội dung.",
+        "en": "forgot half of the content"
+      }
+    ],
+    "answers": [
+      "Although I had prepared carefully, I still forgot half of the content.",
+      "I had prepared carefully, but I still forgot half of what I meant to say."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Khi đến lượt tôi thuyết trình,",
+        "en": "When it was my turn to present,"
+      },
+      {
+        "t": "tim tôi",
+        "en": "my heart"
+      },
+      {
+        "t": "đập nhanh không kiểm soát được.",
+        "en": "was pounding out of control"
+      }
+    ],
+    "answers": [
+      "When it was my turn to present, my heart was pounding out of control.",
+      "My heart was pounding out of control when it was my turn to present."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Sau khi thuyết trình xong,",
+        "en": "After finishing the presentation,"
+      },
+      {
+        "t": "tôi mới nhận ra",
+        "en": "I only then realized"
+      },
+      {
+        "t": "mình đã nói quá nhanh.",
+        "en": "I'd spoken way too fast"
+      }
+    ],
+    "answers": [
+      "After finishing the presentation, I only then realized I'd spoken way too fast.",
+      "Only after I finished presenting did I realize I'd talked way too fast."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Vì nhóm chia nhau phần thuyết trình,",
+        "en": "Because the group split up the presentation parts,"
+      },
+      {
+        "t": "mỗi người",
+        "en": "each person"
+      },
+      {
+        "t": "chỉ phải nói một đoạn ngắn.",
+        "en": "only had to speak for a short section"
+      }
+    ],
+    "answers": [
+      "Because the group split up the presentation parts, each person only had to speak for a short section.",
+      "Each person only had to present a short section since the group split up the parts."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi không lãng phí cả buổi tối lướt điện thoại,",
+        "en": "If I hadn't wasted the whole evening scrolling my phone,"
+      },
+      {
+        "t": "tôi đã có thể",
+        "en": "I could have"
+      },
+      {
+        "t": "làm xong bài tập từ sớm,",
+        "en": "finished my homework early,"
+      },
+      {
+        "t": "chứ không phải thức đến nửa đêm thế này.",
+        "en": "instead of staying up until midnight like this"
+      }
+    ],
+    "answers": [
+      "If I hadn't wasted the whole evening scrolling my phone, I could have finished my homework early, instead of staying up until midnight like this.",
+      "Had I not wasted the evening on my phone, I would have finished my homework early instead of staying up this late."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bài tập mà cô giáo giao hôm qua",
+        "en": "the homework the teacher assigned yesterday"
+      },
+      {
+        "t": "khó đến mức",
+        "en": "was so difficult that"
+      },
+      {
+        "t": "cả nhóm bạn tôi",
+        "en": "my whole group of friends"
+      },
+      {
+        "t": "phải nhờ anh trai tôi giải giúp.",
+        "en": "had to ask my brother to help solve it"
+      }
+    ],
+    "answers": [
+      "The homework the teacher assigned yesterday was so difficult that my whole group of friends had to ask my brother to help solve it.",
+      "Yesterday's homework was so hard that all my friends ended up asking my brother for help."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng làm nhiều bài tập,",
+        "en": "The more homework I do,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "mình vẫn chưa hiểu bài thật sự.",
+        "en": "I still don't truly understand the lesson"
+      }
+    ],
+    "answers": [
+      "The more homework I do, the more I realize I still don't truly understand the lesson.",
+      "The more homework I get through, the clearer it becomes that I haven't really grasped the lesson."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá mà tôi bắt đầu làm bài tập sớm hơn,",
+        "en": "If only I had started my homework earlier,"
+      },
+      {
+        "t": "tôi đã không phải",
+        "en": "I wouldn't have had to"
+      },
+      {
+        "t": "cuống cuồng sao chép của bạn vào sáng nay.",
+        "en": "scramble to copy my friend's this morning"
+      }
+    ],
+    "answers": [
+      "If only I had started my homework earlier, I wouldn't have had to scramble to copy my friend's this morning.",
+      "I wish I'd started my homework earlier, because I ended up scrambling to copy my friend's work this morning."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Những bài tập bị chấm điểm thấp",
+        "en": "the assignments that got low marks"
+      },
+      {
+        "t": "đều là những bài",
+        "en": "were all ones"
+      },
+      {
+        "t": "tôi làm vội trong lúc đang xem phim.",
+        "en": "I'd rushed through while watching a movie"
+      }
+    ],
+    "answers": [
+      "The assignments that got low marks were all ones I'd rushed through while watching a movie.",
+      "Every assignment that got a low mark was one I'd hastily done while watching a movie."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu đề thi không bị đổi vào phút chót,",
+        "en": "If the exam questions hadn't been changed at the last minute,"
+      },
+      {
+        "t": "chắc tôi",
+        "en": "I probably"
+      },
+      {
+        "t": "đã làm bài tốt hơn nhiều.",
+        "en": "would have done a lot better"
+      }
+    ],
+    "answers": [
+      "If the exam questions hadn't been changed at the last minute, I probably would have done a lot better.",
+      "Had the questions not been switched at the last minute, I would have performed much better on the exam."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Kết quả thi",
+        "en": "the exam results"
+      },
+      {
+        "t": "sẽ được công bố",
+        "en": "will be announced"
+      },
+      {
+        "t": "vào tuần sau, khiến ai cũng thấp thỏm chờ đợi.",
+        "en": "next week, which has everyone anxiously waiting"
+      }
+    ],
+    "answers": [
+      "The exam results will be announced next week, which has everyone anxiously waiting.",
+      "The exam results, which come out next week, have everyone on edge."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng gần đến ngày thi,",
+        "en": "The closer the exam date gets,"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "khó tập trung vào bất cứ việc gì khác.",
+        "en": "I find it hard to focus on anything else"
+      }
+    ],
+    "answers": [
+      "The closer the exam date gets, the more I find it hard to focus on anything else.",
+      "As the exam draws nearer, it gets harder and harder for me to focus on anything else."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi được thi lại,",
+        "en": "If I could retake the exam,"
+      },
+      {
+        "t": "tôi sẽ chuẩn bị theo cách khác hẳn",
+        "en": "I would prepare completely differently"
+      },
+      {
+        "t": "so với lần trước.",
+        "en": "compared to last time"
+      }
+    ],
+    "answers": [
+      "If I could retake the exam, I would prepare completely differently compared to last time.",
+      "If I had another chance at the exam, I'd study in a totally different way than before."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như tôi đừng chủ quan,",
+        "en": "If only I hadn't been so overconfident,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "để tuột mất điểm chín trong tầm tay.",
+        "en": "let a nine slip right through my fingers"
+      }
+    ],
+    "answers": [
+      "If only I hadn't been so overconfident, I wouldn't have let a nine slip right through my fingers.",
+      "I wish I hadn't been so overconfident, because I let an easy nine slip right out of my hands."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Học thêm quá nhiều môn cùng lúc",
+        "en": "taking too many extra classes at once"
+      },
+      {
+        "t": "khiến tôi không còn thời gian",
+        "en": "leaves me no time"
+      },
+      {
+        "t": "để nghỉ ngơi đúng nghĩa.",
+        "en": "to really rest"
+      }
+    ],
+    "answers": [
+      "Taking too many extra classes at once leaves me no time to really rest.",
+      "With so many tutoring classes at once, I barely have any real time to rest."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu trung tâm học thêm đó",
+        "en": "If that tutoring center"
+      },
+      {
+        "t": "không đắt đến vậy,",
+        "en": "weren't so expensive,"
+      },
+      {
+        "t": "chắc nhiều gia đình",
+        "en": "a lot more families"
+      },
+      {
+        "t": "đã đăng ký cho con học.",
+        "en": "would have enrolled their kids"
+      }
+    ],
+    "answers": [
+      "If that tutoring center weren't so expensive, a lot more families would have enrolled their kids.",
+      "If the tutoring center wasn't so pricey, many more families would sign their kids up."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thầy dạy thêm mà tôi theo học",
+        "en": "the tutor I study with"
+      },
+      {
+        "t": "từng là",
+        "en": "used to be"
+      },
+      {
+        "t": "một giáo viên nổi tiếng ở trường chuyên.",
+        "en": "a well-known teacher at a specialized school"
+      }
+    ],
+    "answers": [
+      "The tutor I study with used to be a well-known teacher at a specialized school.",
+      "The tutor I take classes with used to teach at a famous specialized school."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng học thêm nhiều,",
+        "en": "The more extra classes I take,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "mình cần tự học nhiều hơn là chạy theo lớp học thêm.",
+        "en": "I need to self-study more than chase after tutoring"
+      }
+    ],
+    "answers": [
+      "The more extra classes I take, the more I realize I need to self-study more than chase after tutoring.",
+      "The more tutoring I do, the clearer it gets that self-study matters more than piling on classes."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giáo viên đứng lớp",
+        "en": "the teacher standing in front of the class"
+      },
+      {
+        "t": "là người đã truyền cảm hứng",
+        "en": "is the person who inspired"
+      },
+      {
+        "t": "cho tôi theo đuổi ngành sư phạm.",
+        "en": "me to pursue a career in teaching"
+      }
+    ],
+    "answers": [
+      "The teacher standing in front of the class is the person who inspired me to pursue a career in teaching.",
+      "That's the teacher who inspired me to become a teacher myself."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu không có cô giáo đó động viên,",
+        "en": "If that teacher hadn't encouraged me,"
+      },
+      {
+        "t": "tôi đã bỏ học",
+        "en": "I would have dropped out"
+      },
+      {
+        "t": "từ năm lớp mười rồi.",
+        "en": "back in tenth grade"
+      }
+    ],
+    "answers": [
+      "If that teacher hadn't encouraged me, I would have dropped out back in tenth grade.",
+      "Had that teacher not encouraged me, I'd have quit school back in tenth grade."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Hiếm khi nào",
+        "en": "rarely"
+      },
+      {
+        "t": "tôi gặp được",
+        "en": "do I come across"
+      },
+      {
+        "t": "một giáo viên tận tâm như thầy ấy.",
+        "en": "a teacher as dedicated as him"
+      }
+    ],
+    "answers": [
+      "Rarely do I come across a teacher as dedicated as him.",
+      "I rarely meet a teacher who's as dedicated as he is."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá mà giáo viên chủ nhiệm",
+        "en": "if only the homeroom teacher"
+      },
+      {
+        "t": "hiểu học sinh hơn một chút,",
+        "en": "understood students a bit better,"
+      },
+      {
+        "t": "chắc lớp tôi đã bớt căng thẳng.",
+        "en": "my class would probably be less stressed"
+      }
+    ],
+    "answers": [
+      "If only the homeroom teacher understood students a bit better, my class would probably be less stressed.",
+      "I wish our homeroom teacher understood students a little better, my class would feel a lot less tense."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Người bạn cùng bàn với tôi,",
+        "en": "the deskmate sitting next to me,"
+      },
+      {
+        "t": "người luôn giúp tôi mỗi khi tôi hỏng bài,",
+        "en": "who always helps me whenever I mess up,"
+      },
+      {
+        "t": "vừa chuyển sang lớp khác.",
+        "en": "has just moved to a different class"
+      }
+    ],
+    "answers": [
+      "The deskmate sitting next to me, who always helps me whenever I mess up, has just moved to a different class.",
+      "My deskmate, who always used to help me when I got stuck, just got moved to another class."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi không cãi nhau với bạn thân hôm đó,",
+        "en": "If I hadn't argued with my best friend that day,"
+      },
+      {
+        "t": "có lẽ",
+        "en": "maybe"
+      },
+      {
+        "t": "chúng tôi vẫn còn chơi với nhau đến giờ.",
+        "en": "we would still be friends now"
+      }
+    ],
+    "answers": [
+      "If I hadn't argued with my best friend that day, maybe we would still be friends now.",
+      "Had I not fought with my best friend that day, we might still be close now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng lớn,",
+        "en": "The older I get,"
+      },
+      {
+        "t": "tôi càng trân trọng",
+        "en": "the more I appreciate"
+      },
+      {
+        "t": "những người bạn học cùng từ thời cấp một.",
+        "en": "the friends I've known since elementary school"
+      }
+    ],
+    "answers": [
+      "The older I get, the more I appreciate the friends I've known since elementary school.",
+      "As I grow older, I value my elementary-school friends more and more."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bài kiểm tra",
+        "en": "the test"
+      },
+      {
+        "t": "đã được cả nhóm bạn tôi ôn kỹ suốt cả tuần",
+        "en": "had been carefully reviewed by my whole group of friends for a week"
+      },
+      {
+        "t": "trước khi diễn ra.",
+        "en": "before it took place"
+      }
+    ],
+    "answers": [
+      "The test had been carefully reviewed by my whole group of friends for a week before it took place.",
+      "My friends and I had spent a whole week reviewing before the test even happened."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi ôn thi có kế hoạch hơn,",
+        "en": "If I studied for exams more strategically,"
+      },
+      {
+        "t": "tôi đã không phải",
+        "en": "I wouldn't have to"
+      },
+      {
+        "t": "nhồi nhét mọi thứ vào đêm cuối.",
+        "en": "cram everything the night before"
+      }
+    ],
+    "answers": [
+      "If I studied for exams more strategically, I wouldn't have to cram everything the night before.",
+      "If I had a better study plan for exams, I wouldn't end up cramming everything the last night."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như tôi ôn thi nghiêm túc hơn ngay từ đầu,",
+        "en": "If only I had taken exam prep seriously from the start,"
+      },
+      {
+        "t": "tôi đã không phải",
+        "en": "I wouldn't have had to"
+      },
+      {
+        "t": "lo lắng đến mất ăn mất ngủ như bây giờ.",
+        "en": "worry myself sick the way I am now"
+      }
+    ],
+    "answers": [
+      "If only I had taken exam prep seriously from the start, I wouldn't have had to worry myself sick the way I am now.",
+      "I wish I'd taken studying seriously from day one, so I wouldn't be losing sleep worrying like this now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng ôn nhiều đề cũ,",
+        "en": "The more old exam papers I review,"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "thấy tự tin hơn khi bước vào phòng thi.",
+        "en": "I feel confident walking into the exam room"
+      }
+    ],
+    "answers": [
+      "The more old exam papers I review, the more I feel confident walking into the exam room.",
+      "The more past papers I go through, the more confident I feel about the exam."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Đề cương ôn thi",
+        "en": "the review outline"
+      },
+      {
+        "t": "được cô giáo phát",
+        "en": "handed out by the teacher"
+      },
+      {
+        "t": "hóa ra không sát với đề thi thật chút nào.",
+        "en": "turned out to have nothing to do with the actual test"
+      }
+    ],
+    "answers": [
+      "The review outline handed out by the teacher turned out to have nothing to do with the actual test.",
+      "The outline the teacher gave us turned out to be totally unrelated to the real exam."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Điểm số",
+        "en": "grades"
+      },
+      {
+        "t": "không phải lúc nào cũng phản ánh đúng",
+        "en": "don't always reflect accurately"
+      },
+      {
+        "t": "năng lực thật sự của một học sinh.",
+        "en": "a student's true ability"
+      }
+    ],
+    "answers": [
+      "Grades don't always reflect accurately a student's true ability.",
+      "Grades don't always show a student's real ability."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu điểm số không bị coi trọng thái quá,",
+        "en": "If grades weren't overemphasized so much,"
+      },
+      {
+        "t": "học sinh",
+        "en": "students"
+      },
+      {
+        "t": "sẽ có nhiều thời gian khám phá đam mê hơn.",
+        "en": "would have more time to explore their passions"
+      }
+    ],
+    "answers": [
+      "If grades weren't overemphasized so much, students would have more time to explore their passions.",
+      "If we didn't obsess over grades so much, students would have more room to explore what they love."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá mà điểm kiểm tra học kỳ này",
+        "en": "if only this semester's test scores"
+      },
+      {
+        "t": "tốt hơn một chút,",
+        "en": "had been a bit better,"
+      },
+      {
+        "t": "tôi đã không bị bố mẹ cấm dùng điện thoại.",
+        "en": "my parents wouldn't have banned my phone"
+      }
+    ],
+    "answers": [
+      "If only this semester's test scores had been a bit better, my parents wouldn't have banned my phone.",
+      "I wish my scores this semester had been a little higher, my parents wouldn't have taken my phone away."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng gần đến ngày công bố điểm,",
+        "en": "The closer it gets to the day scores are announced,"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "cảm thấy hồi hộp không yên.",
+        "en": "feel restless and anxious"
+      }
+    ],
+    "answers": [
+      "The closer it gets to the day scores are announced, the more I feel restless and anxious.",
+      "As the score announcement date approaches, I get more and more anxious."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bảng điểm",
+        "en": "the report card"
+      },
+      {
+        "t": "mà tôi vừa nhận",
+        "en": "that I just got"
+      },
+      {
+        "t": "khiến cả nhà bất ngờ theo hướng tích cực.",
+        "en": "pleasantly surprised my whole family"
+      }
+    ],
+    "answers": [
+      "The report card that I just got pleasantly surprised my whole family.",
+      "My whole family was pleasantly surprised by the report card I just got."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Hiếm khi nào",
+        "en": "rarely"
+      },
+      {
+        "t": "điểm số của tôi",
+        "en": "do my grades"
+      },
+      {
+        "t": "ổn định qua từng học kỳ như năm nay.",
+        "en": "stay this consistent from semester to semester"
+      }
+    ],
+    "answers": [
+      "Rarely do my grades stay this consistent from semester to semester.",
+      "My grades rarely stay this steady across semesters — this year has been different."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu ngày đó tôi chọn ngành kinh tế thay vì mỹ thuật,",
+        "en": "If I had chosen economics instead of fine arts back then,"
+      },
+      {
+        "t": "không biết",
+        "en": "who knows"
+      },
+      {
+        "t": "cuộc sống của tôi bây giờ sẽ khác đi thế nào.",
+        "en": "how different my life would be now"
+      }
+    ],
+    "answers": [
+      "If I had chosen economics instead of fine arts back then, who knows how different my life would be now.",
+      "Had I picked economics over fine arts back then, my life now would probably look completely different."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Ngôi trường mà tôi cuối cùng chọn",
+        "en": "the school I ended up choosing"
+      },
+      {
+        "t": "không phải nguyện vọng đầu tiên,",
+        "en": "wasn't my first choice,"
+      },
+      {
+        "t": "nhưng hóa ra lại phù hợp với tôi hơn hẳn.",
+        "en": "but it turned out to suit me a lot better"
+      }
+    ],
+    "answers": [
+      "The school I ended up choosing wasn't my first choice, but it turned out to suit me a lot better.",
+      "My final school choice wasn't my top pick, but it ended up fitting me far better."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng tìm hiểu kỹ về các ngành học,",
+        "en": "The more thoroughly I research different majors,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "mình chưa thật sự hiểu bản thân muốn gì.",
+        "en": "I don't really understand what I want yet"
+      }
+    ],
+    "answers": [
+      "The more thoroughly I research different majors, the more I realize I don't really understand what I want yet.",
+      "The deeper I dig into different majors, the more I see I still don't know what I truly want."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như tôi được tư vấn kỹ hơn trước khi chọn trường,",
+        "en": "If only I had gotten better advice before choosing a school,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "phải chuyển ngành giữa chừng như bây giờ.",
+        "en": "had to switch majors halfway through like I'm doing now"
+      }
+    ],
+    "answers": [
+      "If only I had gotten better advice before choosing a school, I wouldn't have had to switch majors halfway through like I'm doing now.",
+      "I wish I'd been better advised before picking my school, I wouldn't be switching majors midway like this."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu học phí du học không tăng đột ngột,",
+        "en": "If tuition for studying abroad hadn't suddenly gone up,"
+      },
+      {
+        "t": "kế hoạch của tôi",
+        "en": "my plan"
+      },
+      {
+        "t": "đã không bị đảo lộn hoàn toàn.",
+        "en": "wouldn't have been completely thrown off"
+      }
+    ],
+    "answers": [
+      "If tuition for studying abroad hadn't suddenly gone up, my plan wouldn't have been completely thrown off.",
+      "Had tuition abroad not spiked so suddenly, my whole plan wouldn't have been turned upside down."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Hồ sơ du học",
+        "en": "the study-abroad application"
+      },
+      {
+        "t": "đã được tôi chuẩn bị suốt nửa năm trời",
+        "en": "had been prepared by me for half a year"
+      },
+      {
+        "t": "trước khi được trường bên đó chấp nhận.",
+        "en": "before being accepted by the school there"
+      }
+    ],
+    "answers": [
+      "The study-abroad application had been prepared by me for half a year before being accepted by the school there.",
+      "I spent half a year putting together my study-abroad application before that school finally accepted it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng gần đến ngày lên đường du học,",
+        "en": "The closer the departure date for studying abroad gets,"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "vừa háo hức vừa lo sợ.",
+        "en": "feel both excited and scared"
+      }
+    ],
+    "answers": [
+      "The closer the departure date for studying abroad gets, the more I feel both excited and scared.",
+      "As the day I leave to study abroad approaches, I feel more and more torn between excitement and fear."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá mà tôi biết trước cuộc sống du học vất vả thế nào,",
+        "en": "If only I had known beforehand how hard studying abroad would be,"
+      },
+      {
+        "t": "tôi đã chuẩn bị tâm lý tốt hơn",
+        "en": "I would have prepared myself mentally better"
+      },
+      {
+        "t": "ngay từ đầu.",
+        "en": "right from the start"
+      }
+    ],
+    "answers": [
+      "If only I had known beforehand how hard studying abroad would be, I would have prepared myself mentally better right from the start.",
+      "I wish I'd known how tough studying abroad would be, I'd have braced myself better from the start."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu mạng không bị gián đoạn giữa buổi học online,",
+        "en": "If the internet hadn't cut out in the middle of the online class,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "bỏ lỡ phần quan trọng nhất của bài giảng.",
+        "en": "missed the most important part of the lecture"
+      }
+    ],
+    "answers": [
+      "If the internet hadn't cut out in the middle of the online class, I wouldn't have missed the most important part of the lecture.",
+      "Had my connection not dropped mid-class, I wouldn't have missed the most crucial part of the lecture."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Việc học online kéo dài suốt hai năm",
+        "en": "the two years of online learning"
+      },
+      {
+        "t": "đã khiến không ít học sinh",
+        "en": "left quite a few students"
+      },
+      {
+        "t": "mất dần khả năng tập trung khi học trực tiếp.",
+        "en": "gradually losing their ability to focus in person"
+      }
+    ],
+    "answers": [
+      "The two years of online learning left quite a few students gradually losing their ability to focus in person.",
+      "Two years of online classes left many students with a fading ability to concentrate in a real classroom."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng học online lâu,",
+        "en": "The longer I study online,"
+      },
+      {
+        "t": "tôi càng thấy",
+        "en": "the more I feel"
+      },
+      {
+        "t": "nhớ không khí lớp học thật sự.",
+        "en": "like I miss the atmosphere of a real classroom"
+      }
+    ],
+    "answers": [
+      "The longer I study online, the more I feel like I miss the atmosphere of a real classroom.",
+      "The more online classes I take, the more I miss the feel of an actual classroom."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Hiếm khi nào",
+        "en": "rarely"
+      },
+      {
+        "t": "một buổi học online",
+        "en": "does an online class"
+      },
+      {
+        "t": "diễn ra suôn sẻ mà không gặp trục trặc kỹ thuật nào.",
+        "en": "go smoothly without any technical glitches"
+      }
+    ],
+    "answers": [
+      "Rarely does an online class go smoothly without any technical glitches.",
+      "An online class rarely runs smoothly without some kind of technical hiccup."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi không để mọi thứ đến sát deadline mới làm,",
+        "en": "If I didn't leave everything until right before the deadline,"
+      },
+      {
+        "t": "tôi đã không phải",
+        "en": "I wouldn't have to"
+      },
+      {
+        "t": "sống trong tình trạng căng thẳng thường xuyên như thế này.",
+        "en": "live in a constant state of stress like this"
+      }
+    ],
+    "answers": [
+      "If I didn't leave everything until right before the deadline, I wouldn't have to live in a constant state of stress like this.",
+      "If I stopped leaving everything to the last minute, I wouldn't be this constantly stressed."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bài báo cáo",
+        "en": "the report"
+      },
+      {
+        "t": "đáng lẽ phải được nộp từ tuần trước",
+        "en": "was supposed to have been submitted last week"
+      },
+      {
+        "t": "vẫn còn đang dang dở đến tận bây giờ.",
+        "en": "is still unfinished even now"
+      }
+    ],
+    "answers": [
+      "The report, supposed to have been submitted last week, is still unfinished even now.",
+      "The report that should've been turned in last week is still not done."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như tôi biết cách quản lý thời gian tốt hơn,",
+        "en": "If only I knew how to manage my time better,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "phải xin gia hạn deadline hết lần này đến lần khác.",
+        "en": "had to ask for deadline extensions over and over"
+      }
+    ],
+    "answers": [
+      "If only I knew how to manage my time better, I wouldn't have had to ask for deadline extensions over and over.",
+      "I wish I managed my time better, I wouldn't keep having to beg for deadline extensions."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng nhiều deadline dồn vào cùng một tuần,",
+        "en": "The more deadlines that pile up in the same week,"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "dễ làm việc thiếu tập trung và mắc lỗi.",
+        "en": "tend to work carelessly and make mistakes"
+      }
+    ],
+    "answers": [
+      "The more deadlines that pile up in the same week, the more I tend to work carelessly and make mistakes.",
+      "The more deadlines pile up in one week, the sloppier and more error-prone my work gets."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu nhóm học tập của tôi",
+        "en": "if my study group"
+      },
+      {
+        "t": "nghiêm túc hơn một chút,",
+        "en": "were a little more serious,"
+      },
+      {
+        "t": "chúng tôi đã đạt được kết quả tốt hơn nhiều.",
+        "en": "we would have gotten much better results"
+      }
+    ],
+    "answers": [
+      "If my study group were a little more serious, we would have gotten much better results.",
+      "If my study group took things a bit more seriously, our results would have been a lot better."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nhóm học tập mà tôi tham gia,",
+        "en": "the study group I'm part of,"
+      },
+      {
+        "t": "nơi mọi người thay phiên nhau giảng lại bài,",
+        "en": "where everyone takes turns re-explaining the lessons,"
+      },
+      {
+        "t": "đã giúp tôi vượt qua kỳ thi khó nhất năm.",
+        "en": "helped me get through the hardest exam of the year"
+      }
+    ],
+    "answers": [
+      "The study group I'm part of, where everyone takes turns re-explaining the lessons, helped me get through the hardest exam of the year.",
+      "My study group, where we take turns explaining the material to each other, got me through the toughest exam of the year."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như tôi tham gia nhóm học tập sớm hơn,",
+        "en": "If only I had joined a study group earlier,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "phải vật lộn một mình suốt học kỳ đầu.",
+        "en": "had to struggle alone throughout the first semester"
+      }
+    ],
+    "answers": [
+      "If only I had joined a study group earlier, I wouldn't have had to struggle alone throughout the first semester.",
+      "I wish I'd joined a study group sooner, I wouldn't have struggled by myself all first semester."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng tham gia nhiều buổi học nhóm,",
+        "en": "The more group study sessions I attend,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "mình học hiệu quả hơn khi có người cùng thảo luận.",
+        "en": "I learn more effectively when I have someone to discuss with"
+      }
+    ],
+    "answers": [
+      "The more group study sessions I attend, the more I realize I learn more effectively when I have someone to discuss with.",
+      "The more I study in a group, the clearer it is that I learn better with someone to talk things through with."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Thư viện trường,",
+        "en": "the school library,"
+      },
+      {
+        "t": "nơi tôi từng trốn học để đọc truyện,",
+        "en": "where I used to skip class to read novels,"
+      },
+      {
+        "t": "giờ lại là nơi tôi ôn thi nghiêm túc nhất.",
+        "en": "is now where I study most seriously"
+      }
+    ],
+    "answers": [
+      "The school library, where I used to skip class to read novels, is now where I study most seriously.",
+      "The library, once where I hid to read novels instead of going to class, is now my most serious study spot."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu thư viện trường mở cửa muộn hơn vào mùa thi,",
+        "en": "If the school library stayed open later during exam season,"
+      },
+      {
+        "t": "nhiều sinh viên",
+        "en": "a lot of students"
+      },
+      {
+        "t": "sẽ có thêm thời gian để ôn tập.",
+        "en": "would have more time to review"
+      }
+    ],
+    "answers": [
+      "If the school library stayed open later during exam season, a lot of students would have more time to review.",
+      "If the library kept longer hours during exam season, many students would get extra study time."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Hiếm khi nào",
+        "en": "rarely"
+      },
+      {
+        "t": "tôi tìm được",
+        "en": "do I find"
+      },
+      {
+        "t": "một góc yên tĩnh trong thư viện vào mùa thi.",
+        "en": "a quiet corner in the library during exam season"
+      }
+    ],
+    "answers": [
+      "Rarely do I find a quiet corner in the library during exam season.",
+      "I rarely manage to find a quiet corner in the library at exam time."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như thư viện có thêm phòng học nhóm riêng,",
+        "en": "If only the library had more private group-study rooms,"
+      },
+      {
+        "t": "chúng tôi đã không phải",
+        "en": "we wouldn't have had to"
+      },
+      {
+        "t": "chen chúc học chung một bàn như thế này.",
+        "en": "squeeze around one table like this"
+      }
+    ],
+    "answers": [
+      "If only the library had more private group-study rooms, we wouldn't have had to squeeze around one table like this.",
+      "I wish the library had more group-study rooms, we wouldn't be crammed around one table like this."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng học nhiều ngoại ngữ cùng lúc,",
+        "en": "The more foreign languages I study at once,"
+      },
+      {
+        "t": "tôi càng dễ",
+        "en": "the more easily I"
+      },
+      {
+        "t": "nhầm lẫn ngữ pháp giữa các ngôn ngữ.",
+        "en": "mix up the grammar between them"
+      }
+    ],
+    "answers": [
+      "The more foreign languages I study at once, the more easily I mix up the grammar between them.",
+      "The more languages I learn simultaneously, the more I confuse the grammar between them."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi không bỏ dở việc học tiếng Pháp,",
+        "en": "If I hadn't given up learning French,"
+      },
+      {
+        "t": "có lẽ giờ tôi",
+        "en": "I could probably"
+      },
+      {
+        "t": "đã đủ tự tin để đi du học ở đó.",
+        "en": "be confident enough to study there now"
+      }
+    ],
+    "answers": [
+      "If I hadn't given up learning French, I could probably be confident enough to study there now.",
+      "Had I not quit learning French, I'd likely be confident enough to study there by now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giáo viên bản ngữ mà tôi học cùng,",
+        "en": "the native-speaking teacher I study with,"
+      },
+      {
+        "t": "người luôn sửa từng lỗi phát âm nhỏ nhất của tôi,",
+        "en": "who always corrects even my smallest pronunciation mistakes,"
+      },
+      {
+        "t": "đã giúp tôi tiến bộ vượt bậc.",
+        "en": "has helped me make huge progress"
+      }
+    ],
+    "answers": [
+      "The native-speaking teacher I study with, who always corrects even my smallest pronunciation mistakes, has helped me make huge progress.",
+      "My native-speaking teacher, who corrects even my tiniest pronunciation slips, has helped me improve enormously."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như tôi luyện nghe nhiều hơn thay vì chỉ học ngữ pháp,",
+        "en": "If only I had practiced listening more instead of just studying grammar,"
+      },
+      {
+        "t": "kỹ năng tiếng Anh của tôi",
+        "en": "my English skills"
+      },
+      {
+        "t": "đã cân bằng hơn nhiều so với bây giờ.",
+        "en": "would be far more well-rounded than they are now"
+      }
+    ],
+    "answers": [
+      "If only I had practiced listening more instead of just studying grammar, my English skills would be far more well-rounded than they are now.",
+      "I wish I'd focused more on listening instead of just grammar, my English would be far more balanced now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu áp lực học tập không đè nặng lên vai học sinh như bây giờ,",
+        "en": "If academic pressure didn't weigh so heavily on students the way it does now,"
+      },
+      {
+        "t": "có lẽ",
+        "en": "there would probably"
+      },
+      {
+        "t": "đã ít bạn trẻ rơi vào trầm cảm hơn.",
+        "en": "be fewer young people falling into depression"
+      }
+    ],
+    "answers": [
+      "If academic pressure didn't weigh so heavily on students the way it does now, there would probably be fewer young people falling into depression.",
+      "If students weren't crushed by academic pressure the way they are now, fewer young people would probably end up depressed."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng bị so sánh với bạn bè,",
+        "en": "The more I get compared to my friends,"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "mất tự tin vào chính khả năng của mình.",
+        "en": "lose confidence in my own abilities"
+      }
+    ],
+    "answers": [
+      "The more I get compared to my friends, the more I lose confidence in my own abilities.",
+      "The more I'm compared to my friends, the more my confidence in myself fades."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như tôi học cách nói không với những kỳ vọng quá cao,",
+        "en": "If only I learned to say no to overly high expectations,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "tự đẩy mình đến bờ vực kiệt sức như vậy.",
+        "en": "pushed myself to the edge of burnout like that"
+      }
+    ],
+    "answers": [
+      "If only I learned to say no to overly high expectations, I wouldn't have pushed myself to the edge of burnout like that.",
+      "I wish I knew how to push back on unrealistic expectations, I wouldn't have burned myself out like this."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Áp lực",
+        "en": "the pressure"
+      },
+      {
+        "t": "mà nhiều học sinh phải chịu ngày nay",
+        "en": "that many students today have to bear"
+      },
+      {
+        "t": "đến từ cả nhà trường lẫn gia đình.",
+        "en": "comes from both school and family"
+      }
+    ],
+    "answers": [
+      "The pressure that many students today have to bear comes from both school and family.",
+      "The pressure so many students face today comes from both school and family."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Hiếm khi nào",
+        "en": "rarely"
+      },
+      {
+        "t": "tôi dám thừa nhận",
+        "en": "do I dare admit"
+      },
+      {
+        "t": "mình đang kiệt sức vì áp lực học hành.",
+        "en": "that I'm burned out from academic pressure"
+      }
+    ],
+    "answers": [
+      "Rarely do I dare admit that I'm burned out from academic pressure.",
+      "I rarely admit that academic pressure has completely worn me out."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi chuẩn bị kỹ hơn cho kỳ thi đó,",
+        "en": "If I had prepared more carefully for that exam,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "phải trải qua cảm giác thi trượt đau đớn đến vậy.",
+        "en": "had to go through such a painful failure"
+      }
+    ],
+    "answers": [
+      "If I had prepared more carefully for that exam, I wouldn't have had to go through such a painful failure.",
+      "Had I studied harder for that exam, I wouldn't have gone through such a painful failure."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Việc thi trượt năm đó,",
+        "en": "failing that year,"
+      },
+      {
+        "t": "dù đau đớn vào lúc ấy,",
+        "en": "as painful as it was at the time,"
+      },
+      {
+        "t": "lại là bước ngoặt khiến tôi trưởng thành hơn.",
+        "en": "turned out to be the turning point that made me grow up"
+      }
+    ],
+    "answers": [
+      "Failing that year, as painful as it was at the time, turned out to be the turning point that made me grow up.",
+      "As painful as failing that year was, it became the turning point that helped me grow up."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng nhiều bạn xung quanh thi trượt,",
+        "en": "The more people around me fail their exams,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "kỳ thi không phải là thước đo duy nhất của cuộc đời.",
+        "en": "an exam isn't the only measure of a person's worth"
+      }
+    ],
+    "answers": [
+      "The more people around me fail their exams, the more I realize an exam isn't the only measure of a person's worth.",
+      "The more classmates I see fail, the clearer it becomes that one exam doesn't define a person's whole life."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như bố mẹ tôi không thất vọng ra mặt khi tôi thi trượt,",
+        "en": "If only my parents hadn't shown their disappointment so openly when I failed,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "sợ hãi việc thử lại đến vậy.",
+        "en": "been so afraid to try again"
+      }
+    ],
+    "answers": [
+      "If only my parents hadn't shown their disappointment so openly when I failed, I wouldn't have been so afraid to try again.",
+      "I wish my parents hadn't been so openly disappointed when I failed, I wouldn't be this scared to try again."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Kỳ thi mà tôi từng trượt",
+        "en": "the exam I once failed"
+      },
+      {
+        "t": "cuối cùng đã được vượt qua",
+        "en": "was eventually passed"
+      },
+      {
+        "t": "sau ba lần thử lại liên tiếp.",
+        "en": "after three attempts in a row"
+      }
+    ],
+    "answers": [
+      "The exam I once failed was eventually passed after three attempts in a row.",
+      "I eventually passed the exam I'd once failed, after trying three times in a row."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi không được thầy cô viết thư giới thiệu,",
+        "en": "If my teachers hadn't written me a letter of recommendation,"
+      },
+      {
+        "t": "tôi đã không thể",
+        "en": "I wouldn't have been able to"
+      },
+      {
+        "t": "nộp hồ sơ xin học bổng đó.",
+        "en": "apply for that scholarship"
+      }
+    ],
+    "answers": [
+      "If my teachers hadn't written me a letter of recommendation, I wouldn't have been able to apply for that scholarship.",
+      "Had my teachers not written me a recommendation letter, I wouldn't have been able to apply for that scholarship."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Học bổng",
+        "en": "the scholarship"
+      },
+      {
+        "t": "mà tôi giành được năm ngoái",
+        "en": "that I won last year"
+      },
+      {
+        "t": "đã thay đổi hoàn toàn con đường học vấn của tôi.",
+        "en": "completely changed the course of my education"
+      }
+    ],
+    "answers": [
+      "The scholarship that I won last year completely changed the course of my education.",
+      "Winning that scholarship last year completely changed the direction of my studies."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng nhiều học sinh nghèo được cấp học bổng,",
+        "en": "The more disadvantaged students who receive scholarships,"
+      },
+      {
+        "t": "cơ hội tiếp cận giáo dục",
+        "en": "access to education"
+      },
+      {
+        "t": "càng trở nên công bằng hơn.",
+        "en": "becomes fairer"
+      }
+    ],
+    "answers": [
+      "The more disadvantaged students who receive scholarships, the fairer access to education becomes.",
+      "The more scholarships go to students in need, the more equitable access to education gets."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như tôi biết về học bổng này sớm hơn,",
+        "en": "If only I had known about this scholarship sooner,"
+      },
+      {
+        "t": "tôi đã có đủ thời gian",
+        "en": "I would have had enough time"
+      },
+      {
+        "t": "để chuẩn bị hồ sơ chỉn chu hơn.",
+        "en": "to prepare a much more polished application"
+      }
+    ],
+    "answers": [
+      "If only I had known about this scholarship sooner, I would have had enough time to prepare a much more polished application.",
+      "I wish I'd known about this scholarship earlier, I'd have had time to put together a much better application."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu đề tài đồ án tốt nghiệp không bị đổi vào phút cuối,",
+        "en": "If the graduation project topic hadn't been changed at the last minute,"
+      },
+      {
+        "t": "tôi đã không phải",
+        "en": "I wouldn't have had to"
+      },
+      {
+        "t": "làm lại toàn bộ nghiên cứu từ đầu.",
+        "en": "redo the entire research from scratch"
+      }
+    ],
+    "answers": [
+      "If the graduation project topic hadn't been changed at the last minute, I wouldn't have had to redo the entire research from scratch.",
+      "Had the thesis topic not been switched at the last moment, I wouldn't have had to start my research over."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Đồ án tốt nghiệp",
+        "en": "the graduation project"
+      },
+      {
+        "t": "mà cả nhóm dồn hết tâm huyết vào",
+        "en": "that the whole group poured all their effort into"
+      },
+      {
+        "t": "cuối cùng đã được hội đồng đánh giá rất cao.",
+        "en": "was ultimately rated very highly by the panel"
+      }
+    ],
+    "answers": [
+      "The graduation project that the whole group poured all their effort into was ultimately rated very highly by the panel.",
+      "The graduation project we all poured our hearts into ended up getting top marks from the panel."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng gần đến ngày bảo vệ đồ án,",
+        "en": "The closer the thesis defense date gets,"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "cảm thấy mình chưa chuẩn bị đủ.",
+        "en": "feel like I haven't prepared enough"
+      }
+    ],
+    "answers": [
+      "The closer the thesis defense date gets, the more I feel like I haven't prepared enough.",
+      "As the defense date nears, I feel more and more like I'm not ready."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như giáo viên hướng dẫn góp ý sớm hơn,",
+        "en": "If only my supervisor had given feedback sooner,"
+      },
+      {
+        "t": "tôi đã không phải",
+        "en": "I wouldn't have had to"
+      },
+      {
+        "t": "sửa lại toàn bộ chương ba trong đêm cuối cùng.",
+        "en": "revise the entire third chapter on the very last night"
+      }
+    ],
+    "answers": [
+      "If only my supervisor had given feedback sooner, I wouldn't have had to revise the entire third chapter on the very last night.",
+      "I wish my supervisor had given feedback earlier, I wouldn't have had to rewrite the whole third chapter on the final night."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Hiếm khi nào",
+        "en": "rarely"
+      },
+      {
+        "t": "một đồ án tốt nghiệp",
+        "en": "does a graduation project"
+      },
+      {
+        "t": "hoàn thành đúng như kế hoạch ban đầu.",
+        "en": "come together exactly as originally planned"
+      }
+    ],
+    "answers": [
+      "Rarely does a graduation project come together exactly as originally planned.",
+      "A graduation project rarely turns out exactly as it was first planned."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Nếu tôi không luyện tập trước gương hàng chục lần,",
+        "en": "If I hadn't practiced dozens of times in front of the mirror,"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "đủ bình tĩnh để thuyết trình trôi chảy như vậy.",
+        "en": "been calm enough to present as smoothly as I did"
+      }
+    ],
+    "answers": [
+      "If I hadn't practiced dozens of times in front of the mirror, I wouldn't have been calm enough to present as smoothly as I did.",
+      "Had I not rehearsed dozens of times in front of the mirror, I wouldn't have stayed calm enough to present so smoothly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Bài thuyết trình",
+        "en": "the presentation"
+      },
+      {
+        "t": "được cả nhóm chuẩn bị suốt hai tuần",
+        "en": "that the whole group prepared for two weeks straight"
+      },
+      {
+        "t": "cuối cùng lại bị cắt ngắn vì hết giờ.",
+        "en": "ended up getting cut short because time ran out"
+      }
+    ],
+    "answers": [
+      "The presentation that the whole group prepared for two weeks straight ended up getting cut short because time ran out.",
+      "After two weeks of preparation, our presentation ended up getting cut short simply because we ran out of time."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Càng thuyết trình nhiều trước lớp,",
+        "en": "The more presentations I give in front of the class,"
+      },
+      {
+        "t": "tôi càng bớt run",
+        "en": "the less nervous I get"
+      },
+      {
+        "t": "và tự tin hơn hẳn.",
+        "en": "and the more confident I become"
+      }
+    ],
+    "answers": [
+      "The more presentations I give in front of the class, the less nervous I get and the more confident I become.",
+      "The more I present in front of the class, the calmer and more confident I feel."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "school",
+    "chunks": [
+      {
+        "t": "Giá như tôi kiểm soát tốc độ nói tốt hơn,",
+        "en": "If only I controlled my speaking pace better,"
+      },
+      {
+        "t": "bài thuyết trình của tôi",
+        "en": "my presentation"
+      },
+      {
+        "t": "đã không bị giám khảo nhận xét là quá vội vàng.",
+        "en": "wouldn't have been criticized by the judges as too rushed"
+      }
+    ],
+    "answers": [
+      "If only I controlled my speaking pace better, my presentation wouldn't have been criticized by the judges as too rushed.",
+      "I wish I'd paced my speech better, the judges wouldn't have said my presentation felt too rushed."
+    ]
+  }
+]

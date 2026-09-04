@@ -1,0 +1,7532 @@
+[
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Điện thoại của tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "bị rơi xuống",
+        "en": "fell onto"
+      },
+      {
+        "t": "sàn",
+        "en": "the floor"
+      },
+      {
+        "t": "sáng nay.",
+        "en": "this morning"
+      }
+    ],
+    "answers": [
+      "My phone fell onto the floor this morning.",
+      "My phone dropped on the floor this morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sao",
+        "en": "why"
+      },
+      {
+        "t": "màn hình điện thoại",
+        "en": "does the phone screen"
+      },
+      {
+        "t": "cứ đơ",
+        "en": "keep freezing"
+      },
+      {
+        "t": "vậy nhỉ?",
+        "en": "like that"
+      }
+    ],
+    "answers": [
+      "Why does the phone screen keep freezing like that?",
+      "Why does my phone screen keep freezing?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Điện thoại của em",
+        "en": "my phone"
+      },
+      {
+        "t": "không bật lên được",
+        "en": "won't turn on"
+      },
+      {
+        "t": "nữa.",
+        "en": "anymore"
+      }
+    ],
+    "answers": [
+      "My phone won't turn on anymore.",
+      "My phone can't turn on anymore."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Loa điện thoại",
+        "en": "the phone speaker"
+      },
+      {
+        "t": "của anh ấy",
+        "en": "of his"
+      },
+      {
+        "t": "bị rè",
+        "en": "is crackling"
+      },
+      {
+        "t": "suốt mấy hôm nay.",
+        "en": "for the past few days"
+      }
+    ],
+    "answers": [
+      "His phone speaker has been crackling for the past few days.",
+      "The speaker on his phone has sounded crackly for days."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Chiếc điện thoại này",
+        "en": "this phone"
+      },
+      {
+        "t": "tự nhiên",
+        "en": "suddenly"
+      },
+      {
+        "t": "tắt nguồn",
+        "en": "shut down"
+      },
+      {
+        "t": "ngay giữa cuộc gọi.",
+        "en": "right in the middle of a call"
+      }
+    ],
+    "answers": [
+      "This phone suddenly shut down right in the middle of a call.",
+      "This phone unexpectedly turned off during a phone call."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Camera sau",
+        "en": "the back camera"
+      },
+      {
+        "t": "của điện thoại tôi",
+        "en": "of my phone"
+      },
+      {
+        "t": "bị mờ.",
+        "en": "is blurry"
+      }
+    ],
+    "answers": [
+      "The back camera on my phone is blurry.",
+      "My phone's rear camera looks blurry."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang mang điện thoại",
+        "en": "is taking her phone"
+      },
+      {
+        "t": "đi sửa.",
+        "en": "to get repaired"
+      }
+    ],
+    "answers": [
+      "She is taking her phone to get repaired.",
+      "She's bringing her phone in for repair."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi lại",
+        "en": "I again"
+      },
+      {
+        "t": "quên",
+        "en": "forgot"
+      },
+      {
+        "t": "mật khẩu email",
+        "en": "my email password"
+      },
+      {
+        "t": "rồi.",
+        "en": "already"
+      }
+    ],
+    "answers": [
+      "I forgot my email password again.",
+      "I've forgotten my email password once more."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "do you"
+      },
+      {
+        "t": "có nhớ",
+        "en": "remember"
+      },
+      {
+        "t": "mật khẩu wifi",
+        "en": "the wifi password"
+      },
+      {
+        "t": "không?",
+        "en": "or not"
+      }
+    ],
+    "answers": [
+      "Do you remember the wifi password?",
+      "Do you know the wifi password?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "phải đặt lại",
+        "en": "had to reset"
+      },
+      {
+        "t": "mật khẩu",
+        "en": "his password"
+      },
+      {
+        "t": "ba lần.",
+        "en": "three times"
+      }
+    ],
+    "answers": [
+      "He had to reset his password three times.",
+      "He had to reset his password three separate times."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "không nhớ nổi",
+        "en": "can't remember"
+      },
+      {
+        "t": "mật khẩu",
+        "en": "the password"
+      },
+      {
+        "t": "tài khoản ngân hàng.",
+        "en": "for my bank account"
+      }
+    ],
+    "answers": [
+      "I can't remember the password for my bank account.",
+      "I just can't recall my bank account password."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cô giáo",
+        "en": "the teacher"
+      },
+      {
+        "t": "nhắc cả lớp",
+        "en": "reminded the class"
+      },
+      {
+        "t": "đổi mật khẩu",
+        "en": "to change passwords"
+      },
+      {
+        "t": "định kỳ.",
+        "en": "regularly"
+      }
+    ],
+    "answers": [
+      "The teacher reminded the class to change passwords regularly.",
+      "The teacher told the whole class to update passwords often."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sao",
+        "en": "why"
+      },
+      {
+        "t": "tài khoản của tôi",
+        "en": "is my account"
+      },
+      {
+        "t": "lại bị khóa",
+        "en": "locked"
+      },
+      {
+        "t": "vậy?",
+        "en": "like this"
+      }
+    ],
+    "answers": [
+      "Why is my account locked like this?",
+      "Why did my account get locked?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Em",
+        "en": "I"
+      },
+      {
+        "t": "viết mật khẩu ra giấy",
+        "en": "write my password on paper"
+      },
+      {
+        "t": "cho khỏi quên.",
+        "en": "so I don't forget"
+      }
+    ],
+    "answers": [
+      "I write my password on paper so I don't forget.",
+      "I jot my password down so I won't forget it."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mạng nhà tôi",
+        "en": "my home internet"
+      },
+      {
+        "t": "chậm kinh khủng",
+        "en": "is terribly slow"
+      },
+      {
+        "t": "tối nay.",
+        "en": "tonight"
+      }
+    ],
+    "answers": [
+      "My home internet is terribly slow tonight.",
+      "My internet at home is super slow tonight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Wifi",
+        "en": "the wifi"
+      },
+      {
+        "t": "lại rớt",
+        "en": "dropped again"
+      },
+      {
+        "t": "giữa lúc",
+        "en": "while"
+      },
+      {
+        "t": "tôi đang xem phim.",
+        "en": "I was watching a movie"
+      }
+    ],
+    "answers": [
+      "The wifi dropped again while I was watching a movie.",
+      "The wifi cut out again while I was watching a film."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Video",
+        "en": "the video"
+      },
+      {
+        "t": "cứ bị giật",
+        "en": "keeps buffering"
+      },
+      {
+        "t": "liên tục vậy.",
+        "en": "constantly like that"
+      }
+    ],
+    "answers": [
+      "The video keeps buffering constantly like that.",
+      "The video just keeps freezing over and over."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tín hiệu điện thoại",
+        "en": "the phone signal"
+      },
+      {
+        "t": "ở đây",
+        "en": "here"
+      },
+      {
+        "t": "rất yếu.",
+        "en": "is very weak"
+      }
+    ],
+    "answers": [
+      "The phone signal here is very weak.",
+      "Phone signal is really weak around here."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trang web này",
+        "en": "this website"
+      },
+      {
+        "t": "tải mãi",
+        "en": "keeps loading"
+      },
+      {
+        "t": "không xong.",
+        "en": "and never finishes"
+      }
+    ],
+    "answers": [
+      "This website keeps loading and never finishes.",
+      "This webpage just won't finish loading."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cả xóm tôi",
+        "en": "my whole neighborhood"
+      },
+      {
+        "t": "mất mạng",
+        "en": "has had no internet"
+      },
+      {
+        "t": "từ sáng.",
+        "en": "since morning"
+      }
+    ],
+    "answers": [
+      "My whole neighborhood has had no internet since morning.",
+      "The whole neighborhood lost internet this morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sao",
+        "en": "why"
+      },
+      {
+        "t": "cuộc gọi video",
+        "en": "does the video call"
+      },
+      {
+        "t": "cứ bị đứng hình",
+        "en": "keep freezing"
+      },
+      {
+        "t": "vậy?",
+        "en": "like this"
+      }
+    ],
+    "answers": [
+      "Why does the video call keep freezing like this?",
+      "Why does the video call keep freezing?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Điện thoại tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "đang tự động cập nhật",
+        "en": "is automatically updating"
+      },
+      {
+        "t": "phần mềm.",
+        "en": "its software"
+      }
+    ],
+    "answers": [
+      "My phone is automatically updating its software.",
+      "My phone is updating its software on its own."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bản cập nhật mới",
+        "en": "the new update"
+      },
+      {
+        "t": "làm máy tôi",
+        "en": "made my device"
+      },
+      {
+        "t": "chạy chậm hẳn.",
+        "en": "run much slower"
+      }
+    ],
+    "answers": [
+      "The new update made my device run much slower.",
+      "The latest update made my phone a lot slower."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "have you"
+      },
+      {
+        "t": "đã cập nhật",
+        "en": "updated"
+      },
+      {
+        "t": "ứng dụng ngân hàng",
+        "en": "the banking app"
+      },
+      {
+        "t": "chưa?",
+        "en": "yet"
+      }
+    ],
+    "answers": [
+      "Have you updated the banking app yet?",
+      "Did you already update the banking app?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Máy tính của tôi",
+        "en": "my computer"
+      },
+      {
+        "t": "cứ đòi khởi động lại",
+        "en": "keeps asking to restart"
+      },
+      {
+        "t": "để cập nhật.",
+        "en": "to update"
+      }
+    ],
+    "answers": [
+      "My computer keeps asking to restart to update.",
+      "My computer keeps prompting a restart for updates."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Anh",
+        "en": "remember to"
+      },
+      {
+        "t": "nhớ cập nhật",
+        "en": "update"
+      },
+      {
+        "t": "hệ điều hành",
+        "en": "the operating system"
+      },
+      {
+        "t": "trước khi đi công tác.",
+        "en": "before your business trip"
+      }
+    ],
+    "answers": [
+      "Remember to update the operating system before your business trip.",
+      "Don't forget to update the OS before your trip."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Ứng dụng này",
+        "en": "this app"
+      },
+      {
+        "t": "vừa ra",
+        "en": "just released"
+      },
+      {
+        "t": "bản cập nhật mới.",
+        "en": "a new update"
+      }
+    ],
+    "answers": [
+      "This app just released a new update.",
+      "This app has a brand new update out."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi không thích",
+        "en": "I don't like"
+      },
+      {
+        "t": "cập nhật",
+        "en": "updating"
+      },
+      {
+        "t": "vì sợ",
+        "en": "because I'm afraid"
+      },
+      {
+        "t": "mất dữ liệu.",
+        "en": "of losing data"
+      }
+    ],
+    "answers": [
+      "I don't like updating because I'm afraid of losing data.",
+      "I dislike updates since I worry about losing my data."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đang định",
+        "en": "I am planning"
+      },
+      {
+        "t": "mua",
+        "en": "to buy"
+      },
+      {
+        "t": "một chiếc laptop mới.",
+        "en": "a new laptop"
+      }
+    ],
+    "answers": [
+      "I am planning to buy a new laptop.",
+      "I'm thinking about getting a new laptop."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Laptop cũ",
+        "en": "the old laptop"
+      },
+      {
+        "t": "của anh ấy",
+        "en": "of his"
+      },
+      {
+        "t": "nặng và chậm quá.",
+        "en": "is heavy and too slow"
+      }
+    ],
+    "answers": [
+      "His old laptop is heavy and too slow.",
+      "His old laptop is really heavy and slow."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cửa hàng này",
+        "en": "this store"
+      },
+      {
+        "t": "đang giảm giá",
+        "en": "is discounting"
+      },
+      {
+        "t": "laptop",
+        "en": "laptops"
+      },
+      {
+        "t": "cho sinh viên.",
+        "en": "for students"
+      }
+    ],
+    "answers": [
+      "This store is discounting laptops for students.",
+      "This shop has a laptop discount for students."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Em",
+        "en": "which laptop should I"
+      },
+      {
+        "t": "nên chọn",
+        "en": "choose"
+      },
+      {
+        "t": "laptop nào",
+        "en": "which laptop"
+      },
+      {
+        "t": "cho công việc thiết kế?",
+        "en": "for design work"
+      }
+    ],
+    "answers": [
+      "Which laptop should I choose for design work?",
+      "What laptop should I get for design work?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Chiếc laptop mới",
+        "en": "the new laptop"
+      },
+      {
+        "t": "có pin",
+        "en": "has a battery"
+      },
+      {
+        "t": "dùng cả ngày.",
+        "en": "that lasts all day"
+      }
+    ],
+    "answers": [
+      "The new laptop has a battery that lasts all day.",
+      "The new laptop's battery lasts the whole day."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "vừa đặt mua",
+        "en": "just ordered"
+      },
+      {
+        "t": "laptop",
+        "en": "a laptop"
+      },
+      {
+        "t": "trên mạng.",
+        "en": "online"
+      }
+    ],
+    "answers": [
+      "He just ordered a laptop online.",
+      "He just bought a laptop online."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi tiết kiệm",
+        "en": "I saved"
+      },
+      {
+        "t": "mấy tháng",
+        "en": "for months"
+      },
+      {
+        "t": "mới mua nổi",
+        "en": "before I could afford"
+      },
+      {
+        "t": "laptop này.",
+        "en": "this laptop"
+      }
+    ],
+    "answers": [
+      "I saved for months before I could afford this laptop.",
+      "It took me months of saving to buy this laptop."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi học tiếng Anh",
+        "en": "I study English"
+      },
+      {
+        "t": "mỗi tối",
+        "en": "every night"
+      },
+      {
+        "t": "bằng ứng dụng này.",
+        "en": "with this app"
+      }
+    ],
+    "answers": [
+      "I study English every night with this app.",
+      "I use this app to study English every evening."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Ứng dụng này",
+        "en": "this app"
+      },
+      {
+        "t": "có bài tập phát âm",
+        "en": "has pronunciation exercises"
+      },
+      {
+        "t": "rất hay.",
+        "en": "that are really good"
+      }
+    ],
+    "answers": [
+      "This app has pronunciation exercises that are really good.",
+      "This app's pronunciation exercises are really good."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Con gái tôi",
+        "en": "my daughter"
+      },
+      {
+        "t": "thích học từ vựng",
+        "en": "likes learning vocabulary"
+      },
+      {
+        "t": "qua trò chơi",
+        "en": "through games"
+      },
+      {
+        "t": "trên app.",
+        "en": "on the app"
+      }
+    ],
+    "answers": [
+      "My daughter likes learning vocabulary through games on the app.",
+      "My daughter enjoys learning words with the app's games."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "which app do you"
+      },
+      {
+        "t": "dùng ứng dụng nào",
+        "en": "use"
+      },
+      {
+        "t": "để luyện nghe tiếng Anh?",
+        "en": "to practice English listening"
+      }
+    ],
+    "answers": [
+      "Which app do you use to practice English listening?",
+      "What app do you use for English listening practice?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi vừa",
+        "en": "I just"
+      },
+      {
+        "t": "nâng cấp lên",
+        "en": "upgraded to"
+      },
+      {
+        "t": "gói trả phí",
+        "en": "the paid plan"
+      },
+      {
+        "t": "của ứng dụng.",
+        "en": "of the app"
+      }
+    ],
+    "answers": [
+      "I just upgraded to the app's paid plan.",
+      "I just switched to the paid version of the app."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Ứng dụng này",
+        "en": "this app"
+      },
+      {
+        "t": "nhắc tôi",
+        "en": "reminds me"
+      },
+      {
+        "t": "luyện tập",
+        "en": "to practice"
+      },
+      {
+        "t": "mỗi ngày.",
+        "en": "every day"
+      }
+    ],
+    "answers": [
+      "This app reminds me to practice every day.",
+      "This app sends me a reminder to practice daily."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đang giữ",
+        "en": "I am keeping"
+      },
+      {
+        "t": "chuỗi học liên tục",
+        "en": "a study streak"
+      },
+      {
+        "t": "ba mươi ngày.",
+        "en": "of thirty days"
+      }
+    ],
+    "answers": [
+      "I am keeping a study streak of thirty days.",
+      "I've kept a thirty-day learning streak going."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "vừa đăng ảnh mới",
+        "en": "just posted a new photo"
+      },
+      {
+        "t": "lên Instagram.",
+        "en": "on Instagram"
+      }
+    ],
+    "answers": [
+      "She just posted a new photo on Instagram.",
+      "She just uploaded a new picture to Instagram."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi không thích",
+        "en": "I don't like"
+      },
+      {
+        "t": "lướt mạng xã hội",
+        "en": "scrolling social media"
+      },
+      {
+        "t": "quá nhiều.",
+        "en": "too much"
+      }
+    ],
+    "answers": [
+      "I don't like scrolling social media too much.",
+      "I don't like spending too much time on social media."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bài đăng của anh ấy",
+        "en": "his post"
+      },
+      {
+        "t": "nhận được",
+        "en": "got"
+      },
+      {
+        "t": "rất nhiều lượt thích.",
+        "en": "a lot of likes"
+      }
+    ],
+    "answers": [
+      "His post got a lot of likes.",
+      "His post received tons of likes."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sao",
+        "en": "why"
+      },
+      {
+        "t": "dạo này",
+        "en": "these days"
+      },
+      {
+        "t": "bạn ít đăng bài",
+        "en": "do you post so little"
+      },
+      {
+        "t": "vậy?",
+        "en": "like that"
+      }
+    ],
+    "answers": [
+      "Why do you post so little these days?",
+      "Why haven't you been posting much lately?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi bỏ theo dõi",
+        "en": "I unfollowed"
+      },
+      {
+        "t": "vài tài khoản",
+        "en": "a few accounts"
+      },
+      {
+        "t": "gây phiền.",
+        "en": "that were annoying"
+      }
+    ],
+    "answers": [
+      "I unfollowed a few accounts that were annoying.",
+      "I unfollowed some annoying accounts."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Em gái tôi",
+        "en": "my little sister"
+      },
+      {
+        "t": "đang xem video ngắn",
+        "en": "is watching short videos"
+      },
+      {
+        "t": "suốt cả tối.",
+        "en": "all evening"
+      }
+    ],
+    "answers": [
+      "My little sister is watching short videos all evening.",
+      "My sister has been watching short clips all evening."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tài khoản của tôi",
+        "en": "my account"
+      },
+      {
+        "t": "bị báo cáo",
+        "en": "got reported"
+      },
+      {
+        "t": "vì lý do gì đó.",
+        "en": "for some reason"
+      }
+    ],
+    "answers": [
+      "My account got reported for some reason.",
+      "My account was reported for some reason."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi thường hỏi chatbot",
+        "en": "I usually ask a chatbot"
+      },
+      {
+        "t": "khi cần",
+        "en": "when I need"
+      },
+      {
+        "t": "viết email nhanh.",
+        "en": "to write an email quickly"
+      }
+    ],
+    "answers": [
+      "I usually ask a chatbot when I need to write an email quickly.",
+      "I often turn to a chatbot to write emails fast."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Chatbot này",
+        "en": "this chatbot"
+      },
+      {
+        "t": "trả lời câu hỏi",
+        "en": "answers questions"
+      },
+      {
+        "t": "khá nhanh.",
+        "en": "pretty fast"
+      }
+    ],
+    "answers": [
+      "This chatbot answers questions pretty fast.",
+      "This chatbot answers pretty quickly."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Con trai tôi",
+        "en": "my son"
+      },
+      {
+        "t": "dùng AI",
+        "en": "uses AI"
+      },
+      {
+        "t": "để làm bài tập về nhà.",
+        "en": "to do his homework"
+      }
+    ],
+    "answers": [
+      "My son uses AI to do his homework.",
+      "My son uses AI to help with homework."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "do you"
+      },
+      {
+        "t": "có thực sự tin tưởng",
+        "en": "really trust"
+      },
+      {
+        "t": "những câu trả lời",
+        "en": "the answers"
+      },
+      {
+        "t": "mà AI đưa ra không?",
+        "en": "that AI gives you"
+      }
+    ],
+    "answers": [
+      "Do you really trust the answers that AI gives you?",
+      "Do you honestly trust what AI tells you?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trợ lý ảo này",
+        "en": "this virtual assistant"
+      },
+      {
+        "t": "hiểu giọng nói của tôi",
+        "en": "understands my voice"
+      },
+      {
+        "t": "khá tốt.",
+        "en": "pretty well"
+      }
+    ],
+    "answers": [
+      "This virtual assistant understands my voice pretty well.",
+      "This voice assistant understands me pretty well."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Công ty tôi",
+        "en": "my company"
+      },
+      {
+        "t": "vừa lắp",
+        "en": "just set up"
+      },
+      {
+        "t": "chatbot chăm sóc khách hàng.",
+        "en": "a customer service chatbot"
+      }
+    ],
+    "answers": [
+      "My company just set up a customer service chatbot.",
+      "My company just installed a customer support chatbot."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Đôi khi",
+        "en": "sometimes"
+      },
+      {
+        "t": "AI trả lời sai",
+        "en": "AI gives wrong answers"
+      },
+      {
+        "t": "mà nghe",
+        "en": "but sounds"
+      },
+      {
+        "t": "vẫn rất chắc chắn.",
+        "en": "still very confident"
+      }
+    ],
+    "answers": [
+      "Sometimes AI gives wrong answers but still sounds very confident.",
+      "AI sometimes answers wrong yet still sounds so sure."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Pin điện thoại tôi",
+        "en": "my phone battery"
+      },
+      {
+        "t": "hết",
+        "en": "drains"
+      },
+      {
+        "t": "rất nhanh.",
+        "en": "very fast"
+      }
+    ],
+    "answers": [
+      "My phone battery drains very fast.",
+      "My phone's battery runs out really fast."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi quên",
+        "en": "I forgot"
+      },
+      {
+        "t": "sạc điện thoại",
+        "en": "to charge my phone"
+      },
+      {
+        "t": "tối qua.",
+        "en": "last night"
+      }
+    ],
+    "answers": [
+      "I forgot to charge my phone last night.",
+      "I forgot to charge my phone yesterday evening."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cục sạc này",
+        "en": "this charger"
+      },
+      {
+        "t": "tự nhiên không hoạt động nữa",
+        "en": "suddenly stopped working"
+      },
+      {
+        "t": "dù tôi mới mua.",
+        "en": "even though I just bought it"
+      }
+    ],
+    "answers": [
+      "This charger suddenly stopped working, even though I just bought it.",
+      "This charger has stopped working even though it's brand new."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Anh",
+        "en": "remember to"
+      },
+      {
+        "t": "nhớ mang theo",
+        "en": "bring along"
+      },
+      {
+        "t": "sạc dự phòng",
+        "en": "a power bank"
+      },
+      {
+        "t": "nhé.",
+        "en": "okay"
+      }
+    ],
+    "answers": [
+      "Remember to bring along a power bank.",
+      "Don't forget to bring a power bank."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Điện thoại tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "đang sạc",
+        "en": "is charging"
+      },
+      {
+        "t": "nhưng không lên",
+        "en": "but isn't going up"
+      },
+      {
+        "t": "phần trăm.",
+        "en": "in percentage"
+      }
+    ],
+    "answers": [
+      "My phone is charging but the percentage isn't going up.",
+      "My phone is plugged in but the battery percentage won't rise."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sao",
+        "en": "why"
+      },
+      {
+        "t": "pin điện thoại",
+        "en": "does the phone battery"
+      },
+      {
+        "t": "nóng lên",
+        "en": "get hot"
+      },
+      {
+        "t": "khi sạc vậy?",
+        "en": "when charging"
+      }
+    ],
+    "answers": [
+      "Why does the phone battery get hot when charging?",
+      "Why does my phone get so hot while it charges?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "luôn sạc pin",
+        "en": "always charges her phone"
+      },
+      {
+        "t": "qua đêm.",
+        "en": "overnight"
+      }
+    ],
+    "answers": [
+      "She always charges her phone overnight.",
+      "She always leaves her phone charging overnight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Máy tính của tôi",
+        "en": "my computer"
+      },
+      {
+        "t": "bị dính virus",
+        "en": "got a virus"
+      },
+      {
+        "t": "tuần trước.",
+        "en": "last week"
+      }
+    ],
+    "answers": [
+      "My computer got a virus last week.",
+      "My computer caught a virus last week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bạn nên",
+        "en": "you should"
+      },
+      {
+        "t": "quét virus",
+        "en": "scan for viruses"
+      },
+      {
+        "t": "cho máy tính",
+        "en": "on your computer"
+      },
+      {
+        "t": "thường xuyên.",
+        "en": "regularly"
+      }
+    ],
+    "answers": [
+      "You should scan for viruses on your computer regularly.",
+      "You should regularly run a virus scan on your computer."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Máy tính của anh ấy",
+        "en": "his computer"
+      },
+      {
+        "t": "chạy chậm hẳn",
+        "en": "runs much slower"
+      },
+      {
+        "t": "vì nhiễm virus.",
+        "en": "because of a virus"
+      }
+    ],
+    "answers": [
+      "His computer runs much slower because of a virus.",
+      "His computer got a lot slower after catching a virus."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Đừng mở",
+        "en": "don't open"
+      },
+      {
+        "t": "file lạ đó,",
+        "en": "that strange file,"
+      },
+      {
+        "t": "có thể là virus.",
+        "en": "it could be a virus"
+      }
+    ],
+    "answers": [
+      "Don't open that strange file, it could be a virus.",
+      "Don't open that odd file — it might be a virus."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Phần mềm diệt virus",
+        "en": "the antivirus software"
+      },
+      {
+        "t": "vừa phát hiện",
+        "en": "just detected"
+      },
+      {
+        "t": "một mối đe dọa.",
+        "en": "a threat"
+      }
+    ],
+    "answers": [
+      "The antivirus software just detected a threat.",
+      "The antivirus just found a threat."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Máy tính công ty",
+        "en": "the office computer"
+      },
+      {
+        "t": "bị virus lây lan",
+        "en": "got infected with a virus"
+      },
+      {
+        "t": "hôm qua.",
+        "en": "yesterday"
+      }
+    ],
+    "answers": [
+      "The office computer got infected with a virus yesterday.",
+      "A virus spread onto the office computer yesterday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sao",
+        "en": "why"
+      },
+      {
+        "t": "máy tính",
+        "en": "does the computer"
+      },
+      {
+        "t": "cứ tự mở quảng cáo",
+        "en": "keep opening ads by itself"
+      },
+      {
+        "t": "vậy?",
+        "en": "like that"
+      }
+    ],
+    "answers": [
+      "Why does the computer keep opening ads by itself?",
+      "Why does my computer keep popping up ads on its own?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Ảnh của tôi",
+        "en": "my photos"
+      },
+      {
+        "t": "không đồng bộ",
+        "en": "won't sync"
+      },
+      {
+        "t": "lên đám mây được.",
+        "en": "to the cloud"
+      }
+    ],
+    "answers": [
+      "My photos won't sync to the cloud.",
+      "My photos aren't syncing to the cloud."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Danh bạ của tôi",
+        "en": "my contacts"
+      },
+      {
+        "t": "tự động đồng bộ",
+        "en": "automatically sync"
+      },
+      {
+        "t": "giữa các thiết bị.",
+        "en": "across devices"
+      }
+    ],
+    "answers": [
+      "My contacts automatically sync across devices.",
+      "My contacts sync automatically between my devices."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đang đồng bộ",
+        "en": "I am syncing"
+      },
+      {
+        "t": "file làm việc",
+        "en": "my work files"
+      },
+      {
+        "t": "với máy tính.",
+        "en": "with my computer"
+      }
+    ],
+    "answers": [
+      "I am syncing my work files with my computer.",
+      "I'm syncing my work files to my computer."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tất cả ghi chú của tôi",
+        "en": "all my notes"
+      },
+      {
+        "t": "tự nhiên biến mất hết",
+        "en": "suddenly all disappeared"
+      },
+      {
+        "t": "sau khi đồng bộ tối qua.",
+        "en": "after I synced them last night"
+      }
+    ],
+    "answers": [
+      "All my notes suddenly disappeared after I synced them last night.",
+      "All my notes vanished right after I synced them last night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bạn nhớ",
+        "en": "remember to"
+      },
+      {
+        "t": "đồng bộ lịch làm việc",
+        "en": "sync your work calendar"
+      },
+      {
+        "t": "trước cuộc họp.",
+        "en": "before the meeting"
+      }
+    ],
+    "answers": [
+      "Remember to sync your work calendar before the meeting.",
+      "Don't forget to sync your calendar before the meeting."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Ứng dụng ghi chú này",
+        "en": "this note app"
+      },
+      {
+        "t": "đồng bộ",
+        "en": "syncs"
+      },
+      {
+        "t": "chậm quá.",
+        "en": "way too slowly"
+      }
+    ],
+    "answers": [
+      "This note app syncs way too slowly.",
+      "This notes app takes forever to sync."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi tắt",
+        "en": "I turned off"
+      },
+      {
+        "t": "đồng bộ tự động",
+        "en": "automatic sync"
+      },
+      {
+        "t": "để tiết kiệm pin.",
+        "en": "to save battery"
+      }
+    ],
+    "answers": [
+      "I turned off automatic sync to save battery.",
+      "I disabled auto-sync to save my battery."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nhà tôi",
+        "en": "my house"
+      },
+      {
+        "t": "vừa lắp",
+        "en": "just installed"
+      },
+      {
+        "t": "camera an ninh",
+        "en": "a security camera"
+      },
+      {
+        "t": "trước cửa.",
+        "en": "by the front door"
+      }
+    ],
+    "answers": [
+      "My house just installed a security camera by the front door.",
+      "We just put a security camera by our front door."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Camera an ninh",
+        "en": "the security camera"
+      },
+      {
+        "t": "ghi lại được",
+        "en": "caught"
+      },
+      {
+        "t": "người lạ",
+        "en": "a stranger"
+      },
+      {
+        "t": "trước nhà.",
+        "en": "in front of the house"
+      }
+    ],
+    "answers": [
+      "The security camera caught a stranger in front of the house.",
+      "The security camera recorded a stranger outside our house."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi kiểm tra camera",
+        "en": "I check the camera"
+      },
+      {
+        "t": "qua điện thoại",
+        "en": "through my phone"
+      },
+      {
+        "t": "mỗi sáng.",
+        "en": "every morning"
+      }
+    ],
+    "answers": [
+      "I check the camera through my phone every morning.",
+      "I check the camera on my phone every morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Camera trong bếp",
+        "en": "the camera in the kitchen"
+      },
+      {
+        "t": "mờ",
+        "en": "is blurry"
+      },
+      {
+        "t": "vào ban đêm.",
+        "en": "at night"
+      }
+    ],
+    "answers": [
+      "The camera in the kitchen is blurry at night.",
+      "The kitchen camera goes blurry at night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Anh",
+        "en": "did you"
+      },
+      {
+        "t": "có nhận được",
+        "en": "get"
+      },
+      {
+        "t": "thông báo từ camera",
+        "en": "a notification from the camera"
+      },
+      {
+        "t": "không?",
+        "en": "or not"
+      }
+    ],
+    "answers": [
+      "Did you get a notification from the camera?",
+      "Did the camera send you a notification?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "xem lại",
+        "en": "reviewed"
+      },
+      {
+        "t": "đoạn video camera",
+        "en": "the camera footage"
+      },
+      {
+        "t": "từ tối qua.",
+        "en": "from last night"
+      }
+    ],
+    "answers": [
+      "We reviewed the camera footage from last night.",
+      "We looked back at last night's camera footage."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Camera an ninh đó",
+        "en": "that security camera"
+      },
+      {
+        "t": "chạy bằng",
+        "en": "runs on"
+      },
+      {
+        "t": "pin mặt trời.",
+        "en": "solar power"
+      }
+    ],
+    "answers": [
+      "That security camera runs on solar power.",
+      "That security camera is solar-powered."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "bật đèn nhà",
+        "en": "turn on the house lights"
+      },
+      {
+        "t": "bằng giọng nói.",
+        "en": "with my voice"
+      }
+    ],
+    "answers": [
+      "I turn on the house lights with my voice.",
+      "I turn the lights on with a voice command."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Loa thông minh này",
+        "en": "this smart speaker"
+      },
+      {
+        "t": "hiểu lệnh của tôi",
+        "en": "understands my commands"
+      },
+      {
+        "t": "khá tốt.",
+        "en": "pretty well"
+      }
+    ],
+    "answers": [
+      "This smart speaker understands my commands pretty well.",
+      "This smart speaker gets my commands pretty well."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khóa cửa thông minh",
+        "en": "the smart lock"
+      },
+      {
+        "t": "của nhà tôi",
+        "en": "at my house"
+      },
+      {
+        "t": "vừa hết pin.",
+        "en": "just ran out of battery"
+      }
+    ],
+    "answers": [
+      "The smart lock at my house just ran out of battery.",
+      "My smart door lock just died on battery."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bố tôi",
+        "en": "my dad"
+      },
+      {
+        "t": "vẫn chưa quen",
+        "en": "still isn't used to"
+      },
+      {
+        "t": "dùng nhà thông minh.",
+        "en": "using a smart home"
+      }
+    ],
+    "answers": [
+      "My dad still isn't used to using a smart home.",
+      "My dad still hasn't gotten used to the smart home."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Máy hút bụi tự động",
+        "en": "the robot vacuum"
+      },
+      {
+        "t": "đang chạy",
+        "en": "is running"
+      },
+      {
+        "t": "trong phòng khách.",
+        "en": "in the living room"
+      }
+    ],
+    "answers": [
+      "The robot vacuum is running in the living room.",
+      "The robot vacuum is cleaning the living room right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Điều hòa thông minh",
+        "en": "the smart air conditioner"
+      },
+      {
+        "t": "tự tắt",
+        "en": "turns off by itself"
+      },
+      {
+        "t": "khi tôi ra khỏi phòng.",
+        "en": "when I leave the room"
+      }
+    ],
+    "answers": [
+      "The smart air conditioner turns off by itself when I leave the room.",
+      "The smart AC shuts off on its own when I leave."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Rèm cửa nhà tôi",
+        "en": "my curtains"
+      },
+      {
+        "t": "mở tự động",
+        "en": "open automatically"
+      },
+      {
+        "t": "lúc bảy giờ sáng.",
+        "en": "at seven a.m."
+      }
+    ],
+    "answers": [
+      "My curtains open automatically at seven a.m.",
+      "My curtains automatically open at seven in the morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Hộp thư của tôi",
+        "en": "my inbox"
+      },
+      {
+        "t": "đầy",
+        "en": "is full of"
+      },
+      {
+        "t": "email rác.",
+        "en": "spam emails"
+      }
+    ],
+    "answers": [
+      "My inbox is full of spam emails.",
+      "My inbox is packed with spam."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi nhận được",
+        "en": "I received"
+      },
+      {
+        "t": "một email lừa đảo",
+        "en": "a scam email"
+      },
+      {
+        "t": "sáng nay.",
+        "en": "this morning"
+      }
+    ],
+    "answers": [
+      "I received a scam email this morning.",
+      "I got a scam email this morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Đừng nhấp vào",
+        "en": "don't click on"
+      },
+      {
+        "t": "liên kết",
+        "en": "the link"
+      },
+      {
+        "t": "trong email lạ đó.",
+        "en": "in that strange email"
+      }
+    ],
+    "answers": [
+      "Don't click on the link in that strange email.",
+      "Don't click that link in the weird email."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi chặn",
+        "en": "I blocked"
+      },
+      {
+        "t": "địa chỉ email đó",
+        "en": "that email address"
+      },
+      {
+        "t": "rồi.",
+        "en": "already"
+      }
+    ],
+    "answers": [
+      "I already blocked that email address.",
+      "I've already blocked that email address."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sao",
+        "en": "why"
+      },
+      {
+        "t": "dạo này",
+        "en": "lately"
+      },
+      {
+        "t": "tôi nhận toàn",
+        "en": "do I get only"
+      },
+      {
+        "t": "email quảng cáo",
+        "en": "advertising emails"
+      },
+      {
+        "t": "vậy?",
+        "en": "like this"
+      }
+    ],
+    "answers": [
+      "Why do I get only advertising emails lately?",
+      "Why is my inbox full of ads lately?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "báo cáo email đó",
+        "en": "reported that email"
+      },
+      {
+        "t": "là thư rác.",
+        "en": "as spam"
+      }
+    ],
+    "answers": [
+      "She reported that email as spam.",
+      "She marked that email as spam."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bộ lọc thư rác này",
+        "en": "this spam filter"
+      },
+      {
+        "t": "hoạt động",
+        "en": "works"
+      },
+      {
+        "t": "khá tốt.",
+        "en": "pretty well"
+      }
+    ],
+    "answers": [
+      "This spam filter works pretty well.",
+      "This spam filter is doing a pretty good job."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi vừa",
+        "en": "I just"
+      },
+      {
+        "t": "đổi sang",
+        "en": "switched to"
+      },
+      {
+        "t": "SIM mới",
+        "en": "a new SIM"
+      },
+      {
+        "t": "sáng nay.",
+        "en": "this morning"
+      }
+    ],
+    "answers": [
+      "I just switched to a new SIM this morning.",
+      "I got a new SIM card this morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "SIM cũ của tôi",
+        "en": "my old SIM"
+      },
+      {
+        "t": "bị hỏng",
+        "en": "got damaged"
+      },
+      {
+        "t": "nên tôi phải đổi.",
+        "en": "so I had to change it"
+      }
+    ],
+    "answers": [
+      "My old SIM got damaged, so I had to change it.",
+      "My old SIM broke, so I had to replace it."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bạn cần mang",
+        "en": "you need to bring"
+      },
+      {
+        "t": "chứng minh thư",
+        "en": "your ID card"
+      },
+      {
+        "t": "khi đổi SIM.",
+        "en": "when changing your SIM"
+      }
+    ],
+    "answers": [
+      "You need to bring your ID card when changing your SIM.",
+      "You'll need your ID card to change your SIM."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Điện thoại tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "không nhận",
+        "en": "doesn't recognize"
+      },
+      {
+        "t": "SIM mới.",
+        "en": "the new SIM"
+      }
+    ],
+    "answers": [
+      "My phone doesn't recognize the new SIM.",
+      "My phone won't read the new SIM."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chuyển sang",
+        "en": "switched to"
+      },
+      {
+        "t": "SIM eSIM",
+        "en": "an eSIM"
+      },
+      {
+        "t": "tháng trước.",
+        "en": "last month"
+      }
+    ],
+    "answers": [
+      "He switched to an eSIM last month.",
+      "He moved to an eSIM last month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cửa hàng viễn thông",
+        "en": "the telecom shop"
+      },
+      {
+        "t": "cấp lại SIM",
+        "en": "reissued a SIM"
+      },
+      {
+        "t": "cho tôi",
+        "en": "for me"
+      },
+      {
+        "t": "miễn phí.",
+        "en": "for free"
+      }
+    ],
+    "answers": [
+      "The telecom shop reissued a SIM for me for free.",
+      "The phone shop gave me a replacement SIM for free."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi mất",
+        "en": "I lost"
+      },
+      {
+        "t": "số điện thoại cũ",
+        "en": "my old phone number"
+      },
+      {
+        "t": "khi đổi SIM.",
+        "en": "when I changed SIMs"
+      }
+    ],
+    "answers": [
+      "I lost my old phone number when I changed SIMs.",
+      "I lost my old number when switching SIM cards."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi vừa mất hết",
+        "en": "I just lost all"
+      },
+      {
+        "t": "ảnh",
+        "en": "the photos"
+      },
+      {
+        "t": "trong điện thoại.",
+        "en": "on my phone"
+      }
+    ],
+    "answers": [
+      "I just lost all the photos on my phone.",
+      "I just lost every photo on my phone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Máy tính bị treo",
+        "en": "the computer froze"
+      },
+      {
+        "t": "và tôi mất hết",
+        "en": "and I lost"
+      },
+      {
+        "t": "bài luận.",
+        "en": "my essay"
+      }
+    ],
+    "answers": [
+      "The computer froze, and I lost my essay.",
+      "My computer crashed and I lost the whole essay."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bạn",
+        "en": "do you"
+      },
+      {
+        "t": "có sao lưu dữ liệu",
+        "en": "back up your data"
+      },
+      {
+        "t": "thường xuyên không?",
+        "en": "regularly"
+      }
+    ],
+    "answers": [
+      "Do you back up your data regularly?",
+      "Do you regularly back up your data?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Ổ cứng ngoài",
+        "en": "the external hard drive"
+      },
+      {
+        "t": "của tôi",
+        "en": "of mine"
+      },
+      {
+        "t": "tự nhiên hỏng.",
+        "en": "suddenly broke"
+      }
+    ],
+    "answers": [
+      "My external hard drive suddenly broke.",
+      "My external hard drive just died."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tất cả tin nhắn của tôi",
+        "en": "all my messages"
+      },
+      {
+        "t": "biến mất",
+        "en": "disappeared"
+      },
+      {
+        "t": "sau khi cập nhật.",
+        "en": "after the update"
+      }
+    ],
+    "answers": [
+      "All my messages disappeared after the update.",
+      "All my texts vanished after the update."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cô ấy khóc",
+        "en": "she cried"
+      },
+      {
+        "t": "vì mất",
+        "en": "because she lost"
+      },
+      {
+        "t": "luận văn chưa lưu.",
+        "en": "her unsaved thesis"
+      }
+    ],
+    "answers": [
+      "She cried because she lost her unsaved thesis.",
+      "She cried after losing her unsaved thesis."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "May mà",
+        "en": "luckily"
+      },
+      {
+        "t": "tôi có",
+        "en": "I have"
+      },
+      {
+        "t": "bản sao lưu",
+        "en": "a backup"
+      },
+      {
+        "t": "trên đám mây.",
+        "en": "on the cloud"
+      }
+    ],
+    "answers": [
+      "Luckily, I have a backup on the cloud.",
+      "Luckily I had a cloud backup."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Màn hình điện thoại tôi",
+        "en": "my phone screen"
+      },
+      {
+        "t": "bị nứt nặng",
+        "en": "cracked badly"
+      },
+      {
+        "t": "khi tôi làm rơi",
+        "en": "when I dropped it"
+      },
+      {
+        "t": "hôm qua.",
+        "en": "yesterday"
+      }
+    ],
+    "answers": [
+      "My phone screen cracked badly when I dropped it yesterday.",
+      "My phone screen got badly cracked when I dropped it yesterday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cẩn thận đấy,",
+        "en": "be careful,"
+      },
+      {
+        "t": "màn hình laptop",
+        "en": "the laptop screen"
+      },
+      {
+        "t": "dễ vỡ lắm.",
+        "en": "breaks really easily"
+      }
+    ],
+    "answers": [
+      "Be careful, the laptop screen breaks really easily.",
+      "Careful, the laptop screen cracks so easily."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi làm rơi điện thoại",
+        "en": "I dropped my phone"
+      },
+      {
+        "t": "và màn hình",
+        "en": "and the screen"
+      },
+      {
+        "t": "vỡ tan.",
+        "en": "shattered"
+      }
+    ],
+    "answers": [
+      "I dropped my phone and the screen shattered.",
+      "I dropped my phone and its screen smashed."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sửa",
+        "en": "fixing"
+      },
+      {
+        "t": "màn hình vỡ này",
+        "en": "this cracked screen"
+      },
+      {
+        "t": "tốn bao nhiêu tiền vậy?",
+        "en": "costs how much"
+      }
+    ],
+    "answers": [
+      "How much does fixing this cracked screen cost?",
+      "How much would it cost to fix this cracked screen?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Anh ấy vẫn dùng",
+        "en": "he still uses"
+      },
+      {
+        "t": "điện thoại",
+        "en": "the phone"
+      },
+      {
+        "t": "dù màn hình bị vỡ.",
+        "en": "even though the screen is cracked"
+      }
+    ],
+    "answers": [
+      "He still uses the phone even though the screen is cracked.",
+      "He keeps using the phone even with a cracked screen."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi dán",
+        "en": "I stuck on"
+      },
+      {
+        "t": "miếng kính cường lực",
+        "en": "a tempered glass screen protector"
+      },
+      {
+        "t": "để bảo vệ màn hình.",
+        "en": "to protect the screen"
+      }
+    ],
+    "answers": [
+      "I stuck on a tempered glass screen protector to protect the screen.",
+      "I put on a tempered glass protector for the screen."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Màn hình máy tính bảng",
+        "en": "the tablet screen"
+      },
+      {
+        "t": "của con tôi",
+        "en": "of my kid"
+      },
+      {
+        "t": "bị vỡ góc.",
+        "en": "cracked at the corner"
+      }
+    ],
+    "answers": [
+      "My kid's tablet screen cracked at the corner.",
+      "The corner of my kid's tablet screen is cracked."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "vừa đăng ký",
+        "en": "just subscribed to"
+      },
+      {
+        "t": "gói xem phim trực tuyến.",
+        "en": "a streaming plan"
+      }
+    ],
+    "answers": [
+      "I just subscribed to a streaming plan.",
+      "I just signed up for a streaming subscription."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Dịch vụ này",
+        "en": "this service"
+      },
+      {
+        "t": "tự động trừ tiền",
+        "en": "automatically charges"
+      },
+      {
+        "t": "mỗi tháng.",
+        "en": "every month"
+      }
+    ],
+    "answers": [
+      "This service automatically charges every month.",
+      "This service automatically bills you each month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bạn nhớ",
+        "en": "remember to"
+      },
+      {
+        "t": "hủy đăng ký",
+        "en": "cancel the subscription"
+      },
+      {
+        "t": "trước khi hết hạn dùng thử.",
+        "en": "before the free trial ends"
+      }
+    ],
+    "answers": [
+      "Remember to cancel the subscription before the free trial ends.",
+      "Don't forget to cancel before the trial ends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đăng ký nhầm",
+        "en": "I accidentally signed up for"
+      },
+      {
+        "t": "hai gói dịch vụ",
+        "en": "two plans"
+      },
+      {
+        "t": "giống nhau.",
+        "en": "that are the same"
+      }
+    ],
+    "answers": [
+      "I accidentally signed up for two identical plans.",
+      "I mistakenly subscribed to two of the same plan."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cô ấy đăng ký",
+        "en": "she signed up for"
+      },
+      {
+        "t": "tài khoản mới",
+        "en": "a new account"
+      },
+      {
+        "t": "để mua sắm online.",
+        "en": "to shop online"
+      }
+    ],
+    "answers": [
+      "She signed up for a new account to shop online.",
+      "She created a new account for online shopping."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trang web yêu cầu tôi",
+        "en": "the website asked me"
+      },
+      {
+        "t": "xác nhận email",
+        "en": "to confirm my email"
+      },
+      {
+        "t": "trước khi đăng ký.",
+        "en": "before signing up"
+      }
+    ],
+    "answers": [
+      "The website asked me to confirm my email before signing up.",
+      "The site required email confirmation before I could sign up."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đổi",
+        "en": "I changed"
+      },
+      {
+        "t": "thẻ ngân hàng",
+        "en": "my bank card"
+      },
+      {
+        "t": "cho các gói đăng ký của mình.",
+        "en": "for my subscriptions"
+      }
+    ],
+    "answers": [
+      "I changed my bank card for my subscriptions.",
+      "I updated the card on my subscriptions."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi có",
+        "en": "I have"
+      },
+      {
+        "t": "một cuộc họp online",
+        "en": "an online meeting"
+      },
+      {
+        "t": "lúc chín giờ sáng.",
+        "en": "at nine a.m."
+      }
+    ],
+    "answers": [
+      "I have an online meeting at nine a.m.",
+      "I've got an online meeting at nine in the morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Micro của tôi",
+        "en": "my microphone"
+      },
+      {
+        "t": "không hoạt động",
+        "en": "didn't work"
+      },
+      {
+        "t": "trong cuộc họp.",
+        "en": "during the meeting"
+      }
+    ],
+    "answers": [
+      "My microphone didn't work during the meeting.",
+      "My mic wasn't working in the meeting."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sếp yêu cầu",
+        "en": "the boss asked"
+      },
+      {
+        "t": "mọi người",
+        "en": "everyone"
+      },
+      {
+        "t": "bật camera",
+        "en": "to turn on their camera"
+      },
+      {
+        "t": "khi họp.",
+        "en": "during meetings"
+      }
+    ],
+    "answers": [
+      "The boss asked everyone to turn on their camera during meetings.",
+      "The boss wants everyone's camera on for meetings."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi bị rớt khỏi",
+        "en": "I got disconnected from"
+      },
+      {
+        "t": "cuộc họp",
+        "en": "the meeting"
+      },
+      {
+        "t": "giữa chừng.",
+        "en": "halfway through"
+      }
+    ],
+    "answers": [
+      "I got disconnected from the meeting halfway through.",
+      "I dropped out of the meeting midway."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Con mèo của tôi",
+        "en": "my cat"
+      },
+      {
+        "t": "đi ngang qua",
+        "en": "walked past"
+      },
+      {
+        "t": "trong lúc họp online.",
+        "en": "during the online meeting"
+      }
+    ],
+    "answers": [
+      "My cat walked past during the online meeting.",
+      "My cat wandered by during my online meeting."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Chúng tôi họp online",
+        "en": "we have an online meeting"
+      },
+      {
+        "t": "mỗi thứ Hai",
+        "en": "every Monday"
+      },
+      {
+        "t": "hằng tuần.",
+        "en": "each week"
+      }
+    ],
+    "answers": [
+      "We have an online meeting every Monday each week.",
+      "We hold a weekly online meeting every Monday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Đường truyền yếu",
+        "en": "weak connection"
+      },
+      {
+        "t": "làm giọng nói tôi",
+        "en": "made my voice"
+      },
+      {
+        "t": "bị rè",
+        "en": "sound crackly"
+      },
+      {
+        "t": "trong cuộc họp.",
+        "en": "in the meeting"
+      }
+    ],
+    "answers": [
+      "Weak connection made my voice sound crackly in the meeting.",
+      "A weak connection made me sound crackly in the meeting."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đã mang điện thoại",
+        "en": "I've taken my phone"
+      },
+      {
+        "t": "đi sửa",
+        "en": "in for repair"
+      },
+      {
+        "t": "vì màn hình cứ tự động tắt.",
+        "en": "because the screen keeps turning off by itself"
+      }
+    ],
+    "answers": [
+      "I've taken my phone in for repair because the screen keeps turning off by itself.",
+      "I took my phone to get fixed since the screen kept shutting off on its own."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu điện thoại tiếp tục đơ như vậy,",
+        "en": "if the phone keeps freezing like that,"
+      },
+      {
+        "t": "tôi sẽ đổi",
+        "en": "I'll get"
+      },
+      {
+        "t": "máy mới.",
+        "en": "a new one"
+      }
+    ],
+    "answers": [
+      "If the phone keeps freezing like that, I'll get a new one.",
+      "If my phone keeps freezing, I will switch to a new device."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi tôi đang gọi điện",
+        "en": "while I was on a call"
+      },
+      {
+        "t": "thì máy đột nhiên",
+        "en": "the phone suddenly"
+      },
+      {
+        "t": "tắt nguồn.",
+        "en": "shut down"
+      }
+    ],
+    "answers": [
+      "While I was on a call, the phone suddenly shut down.",
+      "The phone suddenly powered off while I was in the middle of a call."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã sửa hai lần,",
+        "en": "although it's been repaired twice,"
+      },
+      {
+        "t": "điện thoại của anh ấy",
+        "en": "his phone"
+      },
+      {
+        "t": "vẫn hay bị treo.",
+        "en": "still freezes a lot"
+      }
+    ],
+    "answers": [
+      "Although it's been repaired twice, his phone still freezes a lot.",
+      "Even though it was fixed twice, his phone still hangs frequently."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Điện thoại này",
+        "en": "this phone"
+      },
+      {
+        "t": "từng chạy rất mượt",
+        "en": "used to run very smoothly"
+      },
+      {
+        "t": "trước khi tôi cập nhật phần mềm.",
+        "en": "before I updated the software"
+      }
+    ],
+    "answers": [
+      "This phone used to run very smoothly before I updated the software.",
+      "This phone ran smoothly until I updated its software."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi rơi xuống nước,",
+        "en": "after falling into water,"
+      },
+      {
+        "t": "điện thoại của tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "không bật lên được nữa.",
+        "en": "wouldn't turn on anymore"
+      }
+    ],
+    "answers": [
+      "After falling into water, my phone wouldn't turn on anymore.",
+      "My phone stopped turning on after it fell into water."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì màn hình cảm ứng không nhạy",
+        "en": "because the touchscreen isn't responsive"
+      },
+      {
+        "t": "nên tôi phải bấm đi bấm lại",
+        "en": "I have to tap over and over"
+      },
+      {
+        "t": "nhiều lần.",
+        "en": "several times"
+      }
+    ],
+    "answers": [
+      "Because the touchscreen isn't responsive, I have to tap several times.",
+      "Since the touchscreen is unresponsive, I keep having to tap repeatedly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì quên mật khẩu",
+        "en": "because I forgot my password"
+      },
+      {
+        "t": "nên tôi phải chờ",
+        "en": "I had to wait for"
+      },
+      {
+        "t": "email khôi phục tài khoản.",
+        "en": "an account recovery email"
+      }
+    ],
+    "answers": [
+      "Because I forgot my password, I had to wait for an account recovery email.",
+      "Since I forgot the password, I had to wait for a recovery email."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn quên mật khẩu lần nữa,",
+        "en": "if you forget your password again,"
+      },
+      {
+        "t": "hãy dùng",
+        "en": "use"
+      },
+      {
+        "t": "trình quản lý mật khẩu.",
+        "en": "a password manager"
+      }
+    ],
+    "answers": [
+      "If you forget your password again, use a password manager.",
+      "If you forget the password once more, try a password manager."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đã đổi mật khẩu",
+        "en": "I've changed my password"
+      },
+      {
+        "t": "nhiều lần",
+        "en": "many times"
+      },
+      {
+        "t": "nhưng vẫn hay quên.",
+        "en": "but I still forget it often"
+      }
+    ],
+    "answers": [
+      "I've changed my password many times but I still forget it often.",
+      "I have changed my password several times, yet I still forget it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi cô ấy đang đăng nhập",
+        "en": "while she was logging in"
+      },
+      {
+        "t": "thì hệ thống báo sai mật khẩu",
+        "en": "the system kept saying the password was wrong"
+      },
+      {
+        "t": "liên tục.",
+        "en": "repeatedly"
+      }
+    ],
+    "answers": [
+      "While she was logging in, the system kept saying the password was wrong.",
+      "The system kept flagging the wrong password while she tried to log in."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã viết mật khẩu ra giấy,",
+        "en": "although he wrote the password down on paper,"
+      },
+      {
+        "t": "anh ấy vẫn",
+        "en": "he still"
+      },
+      {
+        "t": "để thất lạc.",
+        "en": "lost it"
+      }
+    ],
+    "answers": [
+      "Although he wrote the password down on paper, he still lost it.",
+      "Even though he jotted the password down, he still misplaced it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi đi ngủ,",
+        "en": "before going to bed,"
+      },
+      {
+        "t": "tôi luôn kiểm tra",
+        "en": "I always check"
+      },
+      {
+        "t": "xem mình có nhớ mật khẩu không.",
+        "en": "whether I remember my password"
+      }
+    ],
+    "answers": [
+      "Before going to bed, I always check whether I remember my password.",
+      "I always check that I remember my password before I go to sleep."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì mạng chậm",
+        "en": "because the internet was slow"
+      },
+      {
+        "t": "nên cuộc họp video của chúng tôi",
+        "en": "our video meeting"
+      },
+      {
+        "t": "bị gián đoạn liên tục.",
+        "en": "kept getting interrupted"
+      }
+    ],
+    "answers": [
+      "Because the internet was slow, our video meeting kept getting interrupted.",
+      "Since the connection was slow, our video call kept cutting out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu mạng rớt giữa cuộc họp,",
+        "en": "if the internet drops during the meeting,"
+      },
+      {
+        "t": "chúng ta sẽ chuyển sang",
+        "en": "we'll switch to"
+      },
+      {
+        "t": "gọi điện thoại.",
+        "en": "a phone call"
+      }
+    ],
+    "answers": [
+      "If the internet drops during the meeting, we'll switch to a phone call.",
+      "If we lose the connection mid-meeting, we will just call by phone."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi nhà mạng bảo trì,",
+        "en": "after the provider did maintenance,"
+      },
+      {
+        "t": "tốc độ wifi nhà tôi",
+        "en": "my home wifi speed"
+      },
+      {
+        "t": "đã cải thiện hẳn.",
+        "en": "has improved a lot"
+      }
+    ],
+    "answers": [
+      "After the provider did maintenance, my home wifi speed has improved a lot.",
+      "My home wifi got much faster after the provider ran maintenance."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã đổi router mới,",
+        "en": "although I got a new router,"
+      },
+      {
+        "t": "mạng nhà tôi",
+        "en": "my internet"
+      },
+      {
+        "t": "vẫn hay bị rớt.",
+        "en": "still drops often"
+      }
+    ],
+    "answers": [
+      "Although I got a new router, my internet still drops often.",
+      "Even with a new router, my home internet still keeps dropping."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi trời mưa to,",
+        "en": "when it rains heavily,"
+      },
+      {
+        "t": "mạng cáp quang nhà tôi",
+        "en": "my fiber internet"
+      },
+      {
+        "t": "hay bị chậm hẳn.",
+        "en": "tends to slow down a lot"
+      }
+    ],
+    "answers": [
+      "When it rains heavily, my fiber internet tends to slow down a lot.",
+      "My fiber connection often slows down badly when it rains hard."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đã gọi tổng đài ba lần",
+        "en": "I've called the hotline three times"
+      },
+      {
+        "t": "vì mạng cứ chập chờn",
+        "en": "because the connection has been unstable"
+      },
+      {
+        "t": "suốt tuần.",
+        "en": "all week"
+      }
+    ],
+    "answers": [
+      "I've called the hotline three times because the connection has been unstable all week.",
+      "I called customer service three times since the internet was patchy all week."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi cập nhật,",
+        "en": "after the update,"
+      },
+      {
+        "t": "ứng dụng chạy nhanh hơn hẳn",
+        "en": "the app runs much faster"
+      },
+      {
+        "t": "trước đây.",
+        "en": "than before"
+      }
+    ],
+    "answers": [
+      "After the update, the app runs much faster than before.",
+      "The app has run a lot faster since the update."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn không cập nhật phần mềm,",
+        "en": "if you don't update the software,"
+      },
+      {
+        "t": "thiết bị sẽ dễ bị tấn công",
+        "en": "your device will be more vulnerable"
+      },
+      {
+        "t": "hơn.",
+        "en": "to attacks"
+      }
+    ],
+    "answers": [
+      "If you don't update the software, your device will be more vulnerable to attacks.",
+      "Failing to update the software will leave your device more exposed to attacks."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù bản cập nhật hứa hẹn nhiều tính năng mới,",
+        "en": "although the update promised many new features,"
+      },
+      {
+        "t": "máy tôi",
+        "en": "my device"
+      },
+      {
+        "t": "lại chạy chậm hơn.",
+        "en": "runs slower now"
+      }
+    ],
+    "answers": [
+      "Although the update promised many new features, my device runs slower now.",
+      "Even though the update added new features, my phone actually got slower."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi cập nhật,",
+        "en": "before updating,"
+      },
+      {
+        "t": "tôi luôn sao lưu dữ liệu",
+        "en": "I always back up my data"
+      },
+      {
+        "t": "để phòng trường hợp xấu.",
+        "en": "just in case"
+      }
+    ],
+    "answers": [
+      "Before updating, I always back up my data just in case.",
+      "I always back up my data before updating, just to be safe."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì quên cập nhật ứng dụng,",
+        "en": "because I forgot to update the app,"
+      },
+      {
+        "t": "tôi bỏ lỡ",
+        "en": "I missed"
+      },
+      {
+        "t": "tính năng bảo mật mới.",
+        "en": "the new security feature"
+      }
+    ],
+    "answers": [
+      "Because I forgot to update the app, I missed the new security feature.",
+      "Since I hadn't updated the app, I missed out on the new security feature."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang cập nhật phần mềm",
+        "en": "while it was updating the software"
+      },
+      {
+        "t": "thì máy tính của tôi",
+        "en": "my computer"
+      },
+      {
+        "t": "đột nhiên mất điện giữa chừng.",
+        "en": "suddenly lost power halfway through"
+      }
+    ],
+    "answers": [
+      "While it was updating the software, my computer suddenly lost power halfway through.",
+      "My computer suddenly lost power right in the middle of the software update."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đã tiết kiệm",
+        "en": "I've been saving"
+      },
+      {
+        "t": "suốt sáu tháng",
+        "en": "for six months"
+      },
+      {
+        "t": "để mua chiếc laptop mà mình thích.",
+        "en": "to buy the laptop I like"
+      }
+    ],
+    "answers": [
+      "I've been saving for six months to buy the laptop I like.",
+      "I saved for six whole months to buy the laptop I wanted."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu laptop này giảm giá vào tuần sau,",
+        "en": "if this laptop goes on sale next week,"
+      },
+      {
+        "t": "tôi sẽ mua",
+        "en": "I'll buy it"
+      },
+      {
+        "t": "ngay.",
+        "en": "right away"
+      }
+    ],
+    "answers": [
+      "If this laptop goes on sale next week, I'll buy it right away.",
+      "If the laptop is discounted next week, I will buy it immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù laptop này đắt hơn,",
+        "en": "although this laptop is more expensive,"
+      },
+      {
+        "t": "nó có pin bền hơn hẳn",
+        "en": "its battery lasts much longer than"
+      },
+      {
+        "t": "máy cũ.",
+        "en": "the old one"
+      }
+    ],
+    "answers": [
+      "Although this laptop is more expensive, its battery lasts much longer than the old one.",
+      "Even though it costs more, this laptop's battery life beats the old one by far."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi so sánh nhiều mẫu,",
+        "en": "after comparing many models,"
+      },
+      {
+        "t": "cuối cùng tôi đã chọn được",
+        "en": "I finally picked"
+      },
+      {
+        "t": "laptop ưng ý.",
+        "en": "a laptop I'm happy with"
+      }
+    ],
+    "answers": [
+      "After comparing many models, I finally picked a laptop I'm happy with.",
+      "I finally settled on a laptop I liked after comparing several models."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi mua laptop mới,",
+        "en": "before buying a new laptop,"
+      },
+      {
+        "t": "bạn nên đọc",
+        "en": "you should read"
+      },
+      {
+        "t": "đánh giá của người dùng khác.",
+        "en": "other users' reviews"
+      }
+    ],
+    "answers": [
+      "Before buying a new laptop, you should read other users' reviews.",
+      "You should check other users' reviews before purchasing a new laptop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì công việc thiết kế cần cấu hình mạnh,",
+        "en": "because my design work needs strong specs,"
+      },
+      {
+        "t": "tôi phải nâng cấp",
+        "en": "I had to upgrade"
+      },
+      {
+        "t": "laptop.",
+        "en": "my laptop"
+      }
+    ],
+    "answers": [
+      "Because my design work needs strong specs, I had to upgrade my laptop.",
+      "Since design work requires a powerful setup, I needed to upgrade my laptop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi đã dùng ứng dụng này",
+        "en": "I've been using this app"
+      },
+      {
+        "t": "được ba tháng",
+        "en": "for three months"
+      },
+      {
+        "t": "và vốn từ vựng tăng lên rõ rệt.",
+        "en": "and my vocabulary has clearly improved"
+      }
+    ],
+    "answers": [
+      "I've been using this app for three months, and my vocabulary has clearly improved.",
+      "My vocabulary has noticeably grown after three months of using this app."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn luyện tập mỗi ngày,",
+        "en": "if you practice every day,"
+      },
+      {
+        "t": "ứng dụng này sẽ giúp bạn",
+        "en": "this app will help you"
+      },
+      {
+        "t": "tiến bộ nhanh.",
+        "en": "improve quickly"
+      }
+    ],
+    "answers": [
+      "If you practice every day, this app will help you improve quickly.",
+      "This app will speed up your progress if you practice daily."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù ứng dụng miễn phí,",
+        "en": "although the app is free,"
+      },
+      {
+        "t": "nó vẫn có khá nhiều",
+        "en": "it still has quite a lot of"
+      },
+      {
+        "t": "bài học chất lượng.",
+        "en": "quality lessons"
+      }
+    ],
+    "answers": [
+      "Although the app is free, it still has quite a lot of quality lessons.",
+      "Even though it's free, the app offers plenty of solid lessons."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi hoàn thành khóa học,",
+        "en": "after finishing the course,"
+      },
+      {
+        "t": "tôi cảm thấy tự tin hơn",
+        "en": "I feel more confident"
+      },
+      {
+        "t": "khi nói tiếng Anh.",
+        "en": "speaking English"
+      }
+    ],
+    "answers": [
+      "After finishing the course, I feel more confident speaking English.",
+      "I feel much more confident speaking English after completing the course."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang luyện nghe trên app",
+        "en": "while I was practicing listening on the app"
+      },
+      {
+        "t": "thì điện thoại tôi hết pin",
+        "en": "my phone died"
+      },
+      {
+        "t": "giữa chừng.",
+        "en": "halfway through"
+      }
+    ],
+    "answers": [
+      "While I was practicing listening on the app, my phone died halfway through.",
+      "My phone ran out of battery midway through a listening exercise on the app."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi ngủ,",
+        "en": "before going to sleep,"
+      },
+      {
+        "t": "tôi thường dành mười lăm phút",
+        "en": "I usually spend fifteen minutes"
+      },
+      {
+        "t": "luyện từ vựng trên app.",
+        "en": "practicing vocabulary on the app"
+      }
+    ],
+    "answers": [
+      "Before going to sleep, I usually spend fifteen minutes practicing vocabulary on the app.",
+      "I usually spend fifteen minutes on vocabulary practice before bed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì lướt mạng xã hội",
+        "en": "because I scroll social media"
+      },
+      {
+        "t": "quá khuya",
+        "en": "too late at night"
+      },
+      {
+        "t": "nên tôi luôn thiếu ngủ.",
+        "en": "I'm always short on sleep"
+      }
+    ],
+    "answers": [
+      "Because I scroll social media too late at night, I'm always short on sleep.",
+      "Since I scroll social media so late, I always end up sleep-deprived."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn đăng ảnh đó lên,",
+        "en": "if you post that photo,"
+      },
+      {
+        "t": "mọi người chắc chắn sẽ",
+        "en": "people will definitely"
+      },
+      {
+        "t": "bình luận rất nhiều.",
+        "en": "leave a lot of comments"
+      }
+    ],
+    "answers": [
+      "If you post that photo, people will definitely leave a lot of comments.",
+      "People will surely comment a lot if you post that picture."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã bỏ theo dõi nhiều tài khoản,",
+        "en": "although I've unfollowed many accounts,"
+      },
+      {
+        "t": "tôi vẫn thấy",
+        "en": "I still see"
+      },
+      {
+        "t": "tin tức tiêu cực.",
+        "en": "negative news"
+      }
+    ],
+    "answers": [
+      "Although I've unfollowed many accounts, I still see negative news.",
+      "Even after unfollowing a lot of accounts, I still come across negative news."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi bài đăng của cô ấy lan truyền,",
+        "en": "after her post went viral,"
+      },
+      {
+        "t": "cô ấy nhận được",
+        "en": "she received"
+      },
+      {
+        "t": "hàng nghìn bình luận.",
+        "en": "thousands of comments"
+      }
+    ],
+    "answers": [
+      "After her post went viral, she received thousands of comments.",
+      "Once her post went viral, thousands of comments poured in."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang cuộn mạng xã hội",
+        "en": "while scrolling through social media"
+      },
+      {
+        "t": "thì tôi tình cờ thấy",
+        "en": "I happened to see"
+      },
+      {
+        "t": "tin nhắn của bạn cũ.",
+        "en": "a message from an old friend"
+      }
+    ],
+    "answers": [
+      "While scrolling through social media, I happened to see a message from an old friend.",
+      "I stumbled upon an old friend's message while scrolling social media."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi đăng bài,",
+        "en": "before posting,"
+      },
+      {
+        "t": "tôi luôn đọc lại",
+        "en": "I always reread it"
+      },
+      {
+        "t": "để tránh viết sai chính tả.",
+        "en": "to avoid spelling mistakes"
+      }
+    ],
+    "answers": [
+      "Before posting, I always reread it to avoid spelling mistakes.",
+      "I always proofread before posting to avoid typos."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Tôi từng dùng mạng xã hội",
+        "en": "I used to be on social media"
+      },
+      {
+        "t": "cả ngày,",
+        "en": "all day,"
+      },
+      {
+        "t": "nhưng giờ tôi hạn chế lại nhiều.",
+        "en": "but now I've cut back a lot"
+      }
+    ],
+    "answers": [
+      "I used to be on social media all day, but now I've cut back a lot.",
+      "I used to spend the whole day on social media, but I've cut down a lot now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu chatbot trả lời sai,",
+        "en": "if the chatbot gives a wrong answer,"
+      },
+      {
+        "t": "bạn nên kiểm tra lại",
+        "en": "you should double-check"
+      },
+      {
+        "t": "thông tin từ nguồn khác.",
+        "en": "the information elsewhere"
+      }
+    ],
+    "answers": [
+      "If the chatbot gives a wrong answer, you should double-check the information elsewhere.",
+      "You should verify with another source if the chatbot answers incorrectly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù AI khá thông minh,",
+        "en": "although AI is quite smart,"
+      },
+      {
+        "t": "nó vẫn thỉnh thoảng hiểu sai",
+        "en": "it still misunderstands"
+      },
+      {
+        "t": "câu hỏi của tôi.",
+        "en": "my questions sometimes"
+      }
+    ],
+    "answers": [
+      "Although AI is quite smart, it still misunderstands my questions sometimes.",
+      "Even though AI is fairly clever, it occasionally misreads my questions."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi dùng chatbot để soạn email,",
+        "en": "after using a chatbot to draft emails,"
+      },
+      {
+        "t": "tôi tiết kiệm được",
+        "en": "I've saved"
+      },
+      {
+        "t": "khá nhiều thời gian.",
+        "en": "quite a lot of time"
+      }
+    ],
+    "answers": [
+      "After using a chatbot to draft emails, I've saved quite a lot of time.",
+      "I've saved a lot of time since I started using a chatbot for emails."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi tôi đang trò chuyện với chatbot",
+        "en": "while I was chatting with the chatbot"
+      },
+      {
+        "t": "thì nó bất ngờ đưa ra",
+        "en": "it suddenly gave"
+      },
+      {
+        "t": "câu trả lời rất chi tiết.",
+        "en": "a very detailed answer"
+      }
+    ],
+    "answers": [
+      "While I was chatting with the chatbot, it suddenly gave a very detailed answer.",
+      "The chatbot suddenly offered a very detailed answer while we were chatting."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì công ty áp dụng AI vào công việc",
+        "en": "because the company has adopted AI at work"
+      },
+      {
+        "t": "nên nhiều nhân viên lo lắng",
+        "en": "many employees worry"
+      },
+      {
+        "t": "về việc làm.",
+        "en": "about their jobs"
+      }
+    ],
+    "answers": [
+      "Because the company has adopted AI at work, many employees worry about their jobs.",
+      "Since AI has been brought into the workplace, many staff worry about job security."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi tin vào câu trả lời của AI,",
+        "en": "before trusting an AI answer,"
+      },
+      {
+        "t": "tôi luôn kiểm tra chéo",
+        "en": "I always cross-check it"
+      },
+      {
+        "t": "với Google.",
+        "en": "with Google"
+      }
+    ],
+    "answers": [
+      "Before trusting an AI answer, I always cross-check it with Google.",
+      "I always double-check AI answers on Google before trusting them."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì pin xuống cấp",
+        "en": "because the battery has degraded"
+      },
+      {
+        "t": "nên điện thoại tôi hết pin",
+        "en": "my phone dies"
+      },
+      {
+        "t": "chỉ sau vài tiếng dùng.",
+        "en": "after just a few hours of use"
+      }
+    ],
+    "answers": [
+      "Because the battery has degraded, my phone dies after just a few hours of use.",
+      "Since the battery is worn out, my phone runs out after only a few hours."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn sạc pin qua đêm thường xuyên,",
+        "en": "if you charge your phone overnight often,"
+      },
+      {
+        "t": "pin sẽ nhanh chai",
+        "en": "the battery will wear out"
+      },
+      {
+        "t": "hơn.",
+        "en": "faster"
+      }
+    ],
+    "answers": [
+      "If you charge your phone overnight often, the battery will wear out faster.",
+      "Charging overnight too often will make the battery degrade quicker."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã thay pin mới,",
+        "en": "although I replaced the battery,"
+      },
+      {
+        "t": "điện thoại vẫn hết pin",
+        "en": "the phone still drains"
+      },
+      {
+        "t": "nhanh bất thường.",
+        "en": "unusually fast"
+      }
+    ],
+    "answers": [
+      "Although I replaced the battery, the phone still drains unusually fast.",
+      "Even with a new battery, the phone still dies unusually quickly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi sạc đầy,",
+        "en": "after it's fully charged,"
+      },
+      {
+        "t": "tôi rút sạc ra ngay",
+        "en": "I unplug it right away"
+      },
+      {
+        "t": "để tránh làm hỏng pin.",
+        "en": "to avoid damaging the battery"
+      }
+    ],
+    "answers": [
+      "After it's fully charged, I unplug it right away to avoid damaging the battery.",
+      "I unplug it as soon as it's full to protect the battery."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang sạc qua đêm",
+        "en": "while it was charging overnight"
+      },
+      {
+        "t": "thì điện thoại của tôi",
+        "en": "my phone"
+      },
+      {
+        "t": "nóng lên bất thường",
+        "en": "got unusually hot"
+      },
+      {
+        "t": "nên tôi phải rút sạc ra.",
+        "en": "so I had to unplug it"
+      }
+    ],
+    "answers": [
+      "While it was charging overnight, my phone got unusually hot, so I had to unplug it.",
+      "My phone heated up unusually while charging overnight, so I unplugged it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi đi xa,",
+        "en": "before traveling far,"
+      },
+      {
+        "t": "tôi luôn mang theo",
+        "en": "I always bring"
+      },
+      {
+        "t": "sạc dự phòng đã sạc đầy.",
+        "en": "a fully charged power bank"
+      }
+    ],
+    "answers": [
+      "Before traveling far, I always bring a fully charged power bank.",
+      "I always pack a fully charged power bank before a long trip."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì tải phần mềm lậu",
+        "en": "because I downloaded pirated software"
+      },
+      {
+        "t": "nên máy tính của tôi",
+        "en": "my computer"
+      },
+      {
+        "t": "bị nhiễm virus nặng.",
+        "en": "got badly infected with a virus"
+      }
+    ],
+    "answers": [
+      "Because I downloaded pirated software, my computer got badly infected with a virus.",
+      "My computer caught a serious virus since I downloaded cracked software."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn mở file đính kèm đó,",
+        "en": "if you open that attachment,"
+      },
+      {
+        "t": "máy tính có thể bị nhiễm virus",
+        "en": "your computer could get infected with a virus"
+      },
+      {
+        "t": "ngay.",
+        "en": "right away"
+      }
+    ],
+    "answers": [
+      "If you open that attachment, your computer could get infected with a virus right away.",
+      "Opening that attachment could infect your computer with a virus instantly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã cài phần mềm diệt virus,",
+        "en": "although I installed antivirus software,"
+      },
+      {
+        "t": "máy tôi vẫn",
+        "en": "my computer still"
+      },
+      {
+        "t": "bị tấn công.",
+        "en": "got attacked"
+      }
+    ],
+    "answers": [
+      "Although I installed antivirus software, my computer still got attacked.",
+      "Even with antivirus installed, my computer still got hit."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi quét virus,",
+        "en": "after scanning for viruses,"
+      },
+      {
+        "t": "phần mềm phát hiện và xóa được",
+        "en": "the software found and removed"
+      },
+      {
+        "t": "ba tệp độc hại.",
+        "en": "three malicious files"
+      }
+    ],
+    "answers": [
+      "After scanning for viruses, the software found and removed three malicious files.",
+      "The scan detected and deleted three malicious files."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang làm việc",
+        "en": "while I was working"
+      },
+      {
+        "t": "thì máy tính của tôi",
+        "en": "my computer"
+      },
+      {
+        "t": "tự động tắt vì nhiễm virus.",
+        "en": "shut down on its own because of a virus"
+      }
+    ],
+    "answers": [
+      "While I was working, my computer shut down on its own because of a virus.",
+      "My computer suddenly shut down mid-work due to a virus."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi cắm USB lạ vào máy,",
+        "en": "before plugging in an unfamiliar USB drive,"
+      },
+      {
+        "t": "bạn nên quét virus",
+        "en": "you should scan it for viruses"
+      },
+      {
+        "t": "trước.",
+        "en": "first"
+      }
+    ],
+    "answers": [
+      "Before plugging in an unfamiliar USB drive, you should scan it for viruses first.",
+      "You should scan any unknown USB drive for viruses before plugging it in."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì mất kết nối giữa chừng",
+        "en": "because the connection dropped midway"
+      },
+      {
+        "t": "nên dữ liệu của tôi",
+        "en": "my data"
+      },
+      {
+        "t": "không đồng bộ hết.",
+        "en": "didn't sync completely"
+      }
+    ],
+    "answers": [
+      "Because the connection dropped midway, my data didn't sync completely.",
+      "Since the connection was lost partway through, not all my data synced."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn tắt wifi,",
+        "en": "if you turn off wifi,"
+      },
+      {
+        "t": "dữ liệu sẽ không đồng bộ được",
+        "en": "the data won't sync"
+      },
+      {
+        "t": "lên đám mây.",
+        "en": "to the cloud"
+      }
+    ],
+    "answers": [
+      "If you turn off wifi, the data won't sync to the cloud.",
+      "Turning off wifi will stop your data from syncing to the cloud."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã bật đồng bộ tự động,",
+        "en": "although I turned on auto-sync,"
+      },
+      {
+        "t": "một vài file",
+        "en": "a few files"
+      },
+      {
+        "t": "vẫn bị thiếu.",
+        "en": "were still missing"
+      }
+    ],
+    "answers": [
+      "Although I turned on auto-sync, a few files were still missing.",
+      "Even with auto-sync on, some files still went missing."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi đồng bộ xong,",
+        "en": "after the sync finished,"
+      },
+      {
+        "t": "tôi thấy tất cả ảnh cũ",
+        "en": "I saw all my old photos"
+      },
+      {
+        "t": "đều xuất hiện lại.",
+        "en": "reappear"
+      }
+    ],
+    "answers": [
+      "After the sync finished, I saw all my old photos reappear.",
+      "All my old photos showed up again once the sync completed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang đồng bộ một file lớn",
+        "en": "while syncing a large file"
+      },
+      {
+        "t": "thì laptop của tôi",
+        "en": "my laptop"
+      },
+      {
+        "t": "đột nhiên bị đơ",
+        "en": "suddenly froze"
+      },
+      {
+        "t": "và phải khởi động lại.",
+        "en": "and had to be restarted"
+      }
+    ],
+    "answers": [
+      "While syncing a large file, my laptop suddenly froze and had to be restarted.",
+      "My laptop suddenly froze while syncing a big file, so I had to restart it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi đổi điện thoại,",
+        "en": "before switching phones,"
+      },
+      {
+        "t": "tôi đã đồng bộ toàn bộ danh bạ",
+        "en": "I synced my entire contact list"
+      },
+      {
+        "t": "lên tài khoản.",
+        "en": "to my account"
+      }
+    ],
+    "answers": [
+      "Before switching phones, I synced my entire contact list to my account.",
+      "I backed up my whole contact list to my account before getting a new phone."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì hay quên khóa cửa",
+        "en": "because I often forget to lock the door"
+      },
+      {
+        "t": "nên tôi đã lắp thêm",
+        "en": "I installed an extra"
+      },
+      {
+        "t": "camera an ninh.",
+        "en": "security camera"
+      }
+    ],
+    "answers": [
+      "Because I often forget to lock the door, I installed an extra security camera.",
+      "Since I keep forgetting to lock up, I added a security camera."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu camera phát hiện chuyển động lạ,",
+        "en": "if the camera detects unusual movement,"
+      },
+      {
+        "t": "điện thoại tôi sẽ nhận cảnh báo",
+        "en": "my phone will get an alert"
+      },
+      {
+        "t": "ngay.",
+        "en": "right away"
+      }
+    ],
+    "answers": [
+      "If the camera detects unusual movement, my phone will get an alert right away.",
+      "My phone gets an instant alert whenever the camera detects unusual motion."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù camera ghi hình rõ ban ngày,",
+        "en": "although the camera records clearly during the day,"
+      },
+      {
+        "t": "nó lại khá mờ",
+        "en": "it's quite blurry"
+      },
+      {
+        "t": "vào ban đêm.",
+        "en": "at night"
+      }
+    ],
+    "answers": [
+      "Although the camera records clearly during the day, it's quite blurry at night.",
+      "The camera films clearly by day but gets pretty blurry after dark."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi xem lại đoạn video,",
+        "en": "after reviewing the footage,"
+      },
+      {
+        "t": "chúng tôi phát hiện",
+        "en": "we discovered"
+      },
+      {
+        "t": "ai đã lấy trộm gói hàng.",
+        "en": "who had stolen the package"
+      }
+    ],
+    "answers": [
+      "After reviewing the footage, we discovered who had stolen the package.",
+      "We found out who stole the package after checking the footage."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi camera đang ghi hình",
+        "en": "while the camera was recording"
+      },
+      {
+        "t": "thì đột nhiên",
+        "en": "suddenly"
+      },
+      {
+        "t": "mất tín hiệu wifi.",
+        "en": "the wifi signal dropped"
+      }
+    ],
+    "answers": [
+      "While the camera was recording, the wifi signal suddenly dropped.",
+      "The wifi signal suddenly cut out while the camera was recording."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi đi công tác dài ngày,",
+        "en": "before going on a long business trip,"
+      },
+      {
+        "t": "tôi luôn kiểm tra lại",
+        "en": "I always check"
+      },
+      {
+        "t": "camera an ninh.",
+        "en": "the security camera"
+      }
+    ],
+    "answers": [
+      "Before going on a long business trip, I always check the security camera.",
+      "I always check the security camera before a long trip away."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì hay quên tắt đèn",
+        "en": "because I often forget to turn off the lights"
+      },
+      {
+        "t": "nên tôi đã đổi sang",
+        "en": "I switched to"
+      },
+      {
+        "t": "bóng đèn thông minh.",
+        "en": "smart bulbs"
+      }
+    ],
+    "answers": [
+      "Because I often forget to turn off the lights, I switched to smart bulbs.",
+      "Since I kept forgetting to switch off the lights, I got smart bulbs instead."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn kết nối tất cả thiết bị,",
+        "en": "if you connect all the devices,"
+      },
+      {
+        "t": "ngôi nhà sẽ hoạt động",
+        "en": "the house will run"
+      },
+      {
+        "t": "tự động hơn nhiều.",
+        "en": "much more automatically"
+      }
+    ],
+    "answers": [
+      "If you connect all the devices, the house will run much more automatically.",
+      "Connecting every device will make the house run far more automatically."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù hệ thống nhà thông minh tiện lợi,",
+        "en": "although the smart home system is convenient,"
+      },
+      {
+        "t": "nó đôi khi gặp",
+        "en": "it sometimes has"
+      },
+      {
+        "t": "lỗi kết nối.",
+        "en": "connection glitches"
+      }
+    ],
+    "answers": [
+      "Although the smart home system is convenient, it sometimes has connection glitches.",
+      "Even though the smart home setup is convenient, it occasionally has connection issues."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi lắp đặt loa thông minh,",
+        "en": "after installing the smart speaker,"
+      },
+      {
+        "t": "cả nhà tôi điều khiển mọi thứ",
+        "en": "my whole family controls everything"
+      },
+      {
+        "t": "bằng giọng nói.",
+        "en": "by voice"
+      }
+    ],
+    "answers": [
+      "After installing the smart speaker, my whole family controls everything by voice.",
+      "Since the smart speaker was installed, my family controls everything with voice commands."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi tôi đang ra khỏi nhà",
+        "en": "while I was leaving the house"
+      },
+      {
+        "t": "thì hệ thống tự động khóa cửa",
+        "en": "the system automatically locked the door"
+      },
+      {
+        "t": "và tắt đèn.",
+        "en": "and turned off the lights"
+      }
+    ],
+    "answers": [
+      "While I was leaving the house, the system automatically locked the door and turned off the lights.",
+      "The system locked the door and switched off the lights automatically as I left."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi mua thiết bị nhà thông minh,",
+        "en": "before buying smart home devices,"
+      },
+      {
+        "t": "bạn nên kiểm tra",
+        "en": "you should check"
+      },
+      {
+        "t": "xem chúng có tương thích không.",
+        "en": "whether they're compatible"
+      }
+    ],
+    "answers": [
+      "Before buying smart home devices, you should check whether they're compatible.",
+      "You should check compatibility before buying any smart home devices."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bố tôi từng ngại dùng công nghệ,",
+        "en": "my dad used to be reluctant with technology,"
+      },
+      {
+        "t": "nhưng giờ ông rất thích",
+        "en": "but now he loves"
+      },
+      {
+        "t": "ngôi nhà thông minh.",
+        "en": "the smart home"
+      }
+    ],
+    "answers": [
+      "My dad used to be reluctant with technology, but now he loves the smart home.",
+      "My dad used to avoid technology, but now he really enjoys the smart home."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì nhận quá nhiều email rác",
+        "en": "because I get so much spam"
+      },
+      {
+        "t": "nên tôi phải lọc hộp thư",
+        "en": "I have to sort my inbox"
+      },
+      {
+        "t": "mỗi tuần.",
+        "en": "every week"
+      }
+    ],
+    "answers": [
+      "Because I get so much spam, I have to sort my inbox every week.",
+      "Since I receive so much junk mail, I clean out my inbox weekly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn nhấp vào liên kết lạ đó,",
+        "en": "if you click that strange link,"
+      },
+      {
+        "t": "tài khoản của bạn",
+        "en": "your account"
+      },
+      {
+        "t": "có thể bị hack.",
+        "en": "could get hacked"
+      }
+    ],
+    "answers": [
+      "If you click that strange link, your account could get hacked.",
+      "Clicking that unfamiliar link could get your account hacked."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã chặn nhiều địa chỉ,",
+        "en": "although I've blocked many addresses,"
+      },
+      {
+        "t": "email lừa đảo vẫn xuất hiện",
+        "en": "scam emails keep showing up"
+      },
+      {
+        "t": "liên tục.",
+        "en": "constantly"
+      }
+    ],
+    "answers": [
+      "Although I've blocked many addresses, scam emails keep showing up.",
+      "Even after blocking many addresses, phishing emails keep coming."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi báo cáo email đó là thư rác,",
+        "en": "after reporting that email as spam,"
+      },
+      {
+        "t": "tôi không còn nhận được",
+        "en": "I stopped receiving it"
+      },
+      {
+        "t": "nữa.",
+        "en": "anymore"
+      }
+    ],
+    "answers": [
+      "After reporting that email as spam, I stopped receiving it.",
+      "I stopped getting those emails after reporting them as spam."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang kiểm tra hộp thư",
+        "en": "while checking my inbox"
+      },
+      {
+        "t": "thì tôi vô tình nhấn vào",
+        "en": "I accidentally clicked on"
+      },
+      {
+        "t": "một email lừa đảo.",
+        "en": "a scam email"
+      }
+    ],
+    "answers": [
+      "While checking my inbox, I accidentally clicked on a scam email.",
+      "I accidentally opened a scam email while going through my inbox."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi nhập thông tin thẻ,",
+        "en": "before entering your card details,"
+      },
+      {
+        "t": "bạn nên kiểm tra kỹ",
+        "en": "you should carefully check"
+      },
+      {
+        "t": "địa chỉ email người gửi.",
+        "en": "the sender's email address"
+      }
+    ],
+    "answers": [
+      "Before entering your card details, you should carefully check the sender's email address.",
+      "You should check the sender's address carefully before entering any card details."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì SIM cũ bị hỏng",
+        "en": "because my old SIM was damaged"
+      },
+      {
+        "t": "nên tôi đã ra cửa hàng",
+        "en": "I went to the shop"
+      },
+      {
+        "t": "đổi SIM mới.",
+        "en": "to get a new one"
+      }
+    ],
+    "answers": [
+      "Because my old SIM was damaged, I went to the shop to get a new one.",
+      "Since my old SIM broke, I went and got a replacement at the shop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn đổi sang eSIM,",
+        "en": "if you switch to an eSIM,"
+      },
+      {
+        "t": "bạn sẽ không cần",
+        "en": "you won't need"
+      },
+      {
+        "t": "khay SIM vật lý nữa.",
+        "en": "a physical SIM tray anymore"
+      }
+    ],
+    "answers": [
+      "If you switch to an eSIM, you won't need a physical SIM tray anymore.",
+      "Switching to an eSIM means you no longer need a physical SIM tray."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã đổi SIM mới,",
+        "en": "although I got a new SIM,"
+      },
+      {
+        "t": "tôi vẫn giữ được",
+        "en": "I still kept"
+      },
+      {
+        "t": "số điện thoại cũ.",
+        "en": "my old phone number"
+      }
+    ],
+    "answers": [
+      "Although I got a new SIM, I still kept my old phone number.",
+      "Even after switching SIMs, I managed to keep my old number."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi đổi SIM,",
+        "en": "after switching SIMs,"
+      },
+      {
+        "t": "điện thoại tôi mất vài phút",
+        "en": "it took my phone a few minutes"
+      },
+      {
+        "t": "mới bắt được sóng.",
+        "en": "to catch a signal"
+      }
+    ],
+    "answers": [
+      "After switching SIMs, it took my phone a few minutes to catch a signal.",
+      "It took a few minutes for my phone to get signal after the SIM change."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang ở nước ngoài",
+        "en": "while I was abroad"
+      },
+      {
+        "t": "thì SIM du lịch của tôi",
+        "en": "my travel SIM"
+      },
+      {
+        "t": "hết dung lượng.",
+        "en": "ran out of data"
+      }
+    ],
+    "answers": [
+      "While I was abroad, my travel SIM ran out of data.",
+      "My travel SIM ran out of data while I was overseas."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi đổi SIM,",
+        "en": "before changing SIMs,"
+      },
+      {
+        "t": "bạn nên sao lưu danh bạ",
+        "en": "you should back up your contacts"
+      },
+      {
+        "t": "để tránh mất số.",
+        "en": "to avoid losing numbers"
+      }
+    ],
+    "answers": [
+      "Before changing SIMs, you should back up your contacts to avoid losing numbers.",
+      "You should back up contacts before a SIM change so you don't lose numbers."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì quên sao lưu",
+        "en": "because I forgot to back up"
+      },
+      {
+        "t": "nên tôi mất hết",
+        "en": "I lost"
+      },
+      {
+        "t": "bài thuyết trình quan trọng.",
+        "en": "my important presentation"
+      }
+    ],
+    "answers": [
+      "Because I forgot to back up, I lost my important presentation.",
+      "Since I hadn't backed up, I lost my whole important presentation."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu máy tính hỏng đột ngột,",
+        "en": "if the computer breaks down suddenly,"
+      },
+      {
+        "t": "bạn sẽ mất hết",
+        "en": "you'll lose all"
+      },
+      {
+        "t": "dữ liệu chưa lưu.",
+        "en": "your unsaved data"
+      }
+    ],
+    "answers": [
+      "If the computer breaks down suddenly, you'll lose all your unsaved data.",
+      "A sudden computer failure will wipe out any unsaved data."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã cố khôi phục,",
+        "en": "although I tried to recover them,"
+      },
+      {
+        "t": "tôi vẫn không lấy lại được",
+        "en": "I still couldn't get back"
+      },
+      {
+        "t": "các ảnh đã mất.",
+        "en": "the lost photos"
+      }
+    ],
+    "answers": [
+      "Although I tried to recover them, I still couldn't get the lost photos back.",
+      "Even after trying recovery, I still couldn't retrieve the lost photos."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi ổ cứng hỏng,",
+        "en": "after the hard drive failed,"
+      },
+      {
+        "t": "anh ấy mất toàn bộ",
+        "en": "he lost the entire"
+      },
+      {
+        "t": "dự án làm việc nhiều tháng.",
+        "en": "project he'd worked on for months"
+      }
+    ],
+    "answers": [
+      "After the hard drive failed, he lost the entire project he'd worked on for months.",
+      "He lost months of project work after his hard drive failed."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang lưu file",
+        "en": "while I was saving the file"
+      },
+      {
+        "t": "thì máy tính",
+        "en": "the computer"
+      },
+      {
+        "t": "đột nhiên mất điện.",
+        "en": "suddenly lost power"
+      }
+    ],
+    "answers": [
+      "While I was saving the file, the computer suddenly lost power.",
+      "The computer suddenly lost power while I was saving the file."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi format lại máy,",
+        "en": "before reformatting my computer,"
+      },
+      {
+        "t": "tôi luôn sao lưu mọi thứ",
+        "en": "I always back everything up"
+      },
+      {
+        "t": "cẩn thận.",
+        "en": "carefully"
+      }
+    ],
+    "answers": [
+      "Before reformatting my computer, I always back everything up carefully.",
+      "I always carefully back everything up before reformatting."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì màn hình bị vỡ",
+        "en": "because the screen is cracked"
+      },
+      {
+        "t": "nên tôi khó đọc chữ",
+        "en": "I have trouble reading text"
+      },
+      {
+        "t": "trên điện thoại.",
+        "en": "on my phone"
+      }
+    ],
+    "answers": [
+      "Because the screen is cracked, I have trouble reading text on my phone.",
+      "Since the screen cracked, it's hard for me to read anything on my phone."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn không dán kính cường lực,",
+        "en": "if you don't put on a tempered glass protector,"
+      },
+      {
+        "t": "màn hình sẽ dễ vỡ hơn",
+        "en": "the screen will crack more easily"
+      },
+      {
+        "t": "khi rơi.",
+        "en": "when dropped"
+      }
+    ],
+    "answers": [
+      "If you don't put on a tempered glass protector, the screen will crack more easily when dropped.",
+      "Without a tempered glass protector, the screen cracks more easily if dropped."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù màn hình bị nứt,",
+        "en": "although the screen is cracked,"
+      },
+      {
+        "t": "camera và loa vẫn hoạt động",
+        "en": "the camera and speaker still work"
+      },
+      {
+        "t": "bình thường.",
+        "en": "fine"
+      }
+    ],
+    "answers": [
+      "Although the screen is cracked, the camera and speaker still work fine.",
+      "Even with a cracked screen, the camera and speaker still work normally."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi màn hình vỡ,",
+        "en": "after the screen cracked,"
+      },
+      {
+        "t": "tôi phải dùng bút cảm ứng",
+        "en": "I had to use a stylus"
+      },
+      {
+        "t": "để bấm chính xác hơn.",
+        "en": "to tap more accurately"
+      }
+    ],
+    "answers": [
+      "After the screen cracked, I had to use a stylus to tap more accurately.",
+      "Since the screen cracked, I've had to use a stylus for more accurate taps."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang chụp ảnh",
+        "en": "while taking a photo"
+      },
+      {
+        "t": "thì điện thoại tuột tay",
+        "en": "the phone slipped out of my hand"
+      },
+      {
+        "t": "và màn hình vỡ luôn.",
+        "en": "and the screen cracked"
+      }
+    ],
+    "answers": [
+      "While taking a photo, the phone slipped out of my hand and the screen cracked.",
+      "The phone slipped from my hand while I was taking a picture, and the screen shattered."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi đưa đi sửa,",
+        "en": "before taking it in for repair,"
+      },
+      {
+        "t": "tôi đã kiểm tra",
+        "en": "I checked"
+      },
+      {
+        "t": "xem bảo hành còn hạn không.",
+        "en": "whether the warranty was still valid"
+      }
+    ],
+    "answers": [
+      "Before taking it in for repair, I checked whether the warranty was still valid.",
+      "I checked if the warranty was still active before sending it for repair."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì quên hủy dùng thử",
+        "en": "because I forgot to cancel the trial"
+      },
+      {
+        "t": "nên tôi bị trừ tiền oan",
+        "en": "I got charged unfairly"
+      },
+      {
+        "t": "cả tháng.",
+        "en": "for a whole month"
+      }
+    ],
+    "answers": [
+      "Because I forgot to cancel the trial, I got charged unfairly for a whole month.",
+      "Since I forgot to cancel the free trial, I was billed for a full month."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn đăng ký gói năm,",
+        "en": "if you subscribe to the yearly plan,"
+      },
+      {
+        "t": "bạn sẽ tiết kiệm hơn",
+        "en": "you'll save more"
+      },
+      {
+        "t": "so với gói tháng.",
+        "en": "than the monthly plan"
+      }
+    ],
+    "answers": [
+      "If you subscribe to the yearly plan, you'll save more than the monthly plan.",
+      "Signing up for the annual plan saves more money than the monthly one."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù dịch vụ khá đắt,",
+        "en": "although the service is quite expensive,"
+      },
+      {
+        "t": "tôi vẫn thấy nó",
+        "en": "I still think it's"
+      },
+      {
+        "t": "đáng đồng tiền.",
+        "en": "worth the money"
+      }
+    ],
+    "answers": [
+      "Although the service is quite expensive, I still think it's worth the money.",
+      "Even though the service costs a lot, I still find it worth it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi đăng ký xong,",
+        "en": "after I finished signing up,"
+      },
+      {
+        "t": "tôi nhận được email xác nhận",
+        "en": "I immediately received a confirmation email"
+      },
+      {
+        "t": "ngay lập tức từ hệ thống.",
+        "en": "from the system"
+      }
+    ],
+    "answers": [
+      "After I finished signing up, I immediately received a confirmation email from the system.",
+      "As soon as I subscribed, the system sent me a confirmation email right away."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang thanh toán",
+        "en": "while I was paying"
+      },
+      {
+        "t": "thì trang web báo lỗi",
+        "en": "the website said"
+      },
+      {
+        "t": "thẻ bị từ chối.",
+        "en": "my card was declined"
+      }
+    ],
+    "answers": [
+      "While I was paying, the website said my card was declined.",
+      "The site flagged my card as declined while I was checking out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi đăng ký gói mới,",
+        "en": "before signing up for a new plan,"
+      },
+      {
+        "t": "tôi luôn so sánh giá",
+        "en": "I always compare prices"
+      },
+      {
+        "t": "giữa các nhà cung cấp.",
+        "en": "between providers"
+      }
+    ],
+    "answers": [
+      "Before signing up for a new plan, I always compare prices between providers.",
+      "I always compare prices across providers before subscribing to a new plan."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Vì mạng yếu",
+        "en": "because the connection was weak"
+      },
+      {
+        "t": "nên giọng nói của tôi",
+        "en": "my voice"
+      },
+      {
+        "t": "bị đứt quãng trong cuộc họp.",
+        "en": "kept cutting out during the meeting"
+      }
+    ],
+    "answers": [
+      "Because the connection was weak, my voice kept cutting out during the meeting.",
+      "My voice kept breaking up in the meeting since the connection was weak."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bạn quên tắt micro,",
+        "en": "if you forget to mute your mic,"
+      },
+      {
+        "t": "mọi người sẽ nghe thấy",
+        "en": "everyone will hear"
+      },
+      {
+        "t": "tiếng ồn xung quanh bạn.",
+        "en": "the noise around you"
+      }
+    ],
+    "answers": [
+      "If you forget to mute your mic, everyone will hear the noise around you.",
+      "Everyone will hear your background noise if you forget to mute yourself."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù họp online tiện lợi,",
+        "en": "although online meetings are convenient,"
+      },
+      {
+        "t": "tôi vẫn thích",
+        "en": "I still prefer"
+      },
+      {
+        "t": "gặp mặt trực tiếp hơn.",
+        "en": "meeting in person"
+      }
+    ],
+    "answers": [
+      "Although online meetings are convenient, I still prefer meeting in person.",
+      "Even though online meetings are handy, I still prefer face-to-face ones."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Sau khi cuộc họp kết thúc,",
+        "en": "after the meeting ended,"
+      },
+      {
+        "t": "chúng tôi gửi biên bản qua email",
+        "en": "we sent the minutes by email"
+      },
+      {
+        "t": "cho mọi người.",
+        "en": "to everyone"
+      }
+    ],
+    "answers": [
+      "After the meeting ended, we sent the minutes to everyone by email.",
+      "We emailed the meeting minutes to everyone once it wrapped up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Khi đang trình bày trước cả phòng họp",
+        "en": "while I was presenting in front of the whole meeting"
+      },
+      {
+        "t": "thì màn hình của tôi",
+        "en": "my screen"
+      },
+      {
+        "t": "đột nhiên đứng hình.",
+        "en": "suddenly froze"
+      }
+    ],
+    "answers": [
+      "While I was presenting in front of the whole meeting, my screen suddenly froze.",
+      "My screen suddenly froze right in the middle of my presentation to the whole meeting."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Trước khi họp online,",
+        "en": "before an online meeting,"
+      },
+      {
+        "t": "tôi luôn kiểm tra micro và camera",
+        "en": "I always check my mic and camera"
+      },
+      {
+        "t": "trước năm phút.",
+        "en": "five minutes ahead"
+      }
+    ],
+    "answers": [
+      "Before an online meeting, I always check my mic and camera five minutes ahead.",
+      "I always test my mic and camera five minutes before an online meeting."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu tôi đã cẩn thận hơn khi cầm điện thoại,",
+        "en": "if I had been more careful holding my phone,"
+      },
+      {
+        "t": "có lẽ màn hình",
+        "en": "the screen probably"
+      },
+      {
+        "t": "đã không bị vỡ như vậy.",
+        "en": "wouldn't have cracked like that"
+      }
+    ],
+    "answers": [
+      "If I had been more careful holding my phone, the screen probably wouldn't have cracked like that.",
+      "Had I held my phone more carefully, the screen might not have shattered that way."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Chiếc điện thoại mà tôi mua năm ngoái",
+        "en": "the phone I bought last year"
+      },
+      {
+        "t": "giờ đã bị hỏng",
+        "en": "has now broken down"
+      },
+      {
+        "t": "đến mức không sửa được nữa.",
+        "en": "to the point where it can't be repaired anymore"
+      }
+    ],
+    "answers": [
+      "The phone I bought last year has broken down to the point where it can't be repaired anymore.",
+      "The phone I bought last year is now damaged beyond repair."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi mua bảo hành ngay từ đầu",
+        "en": "I wish I had bought insurance from the start"
+      },
+      {
+        "t": "thì giờ đã không phải trả",
+        "en": "so I wouldn't have to pay"
+      },
+      {
+        "t": "cả đống tiền sửa máy.",
+        "en": "this much for repairs now"
+      }
+    ],
+    "answers": [
+      "I wish I had bought insurance from the start so I wouldn't have to pay this much for repairs now.",
+      "If only I'd gotten insurance at the beginning, I wouldn't be paying so much to fix it now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Điện thoại càng cũ",
+        "en": "the older the phone gets"
+      },
+      {
+        "t": "thì pin càng nhanh hết,",
+        "en": "the faster the battery drains,"
+      },
+      {
+        "t": "khiến tôi phải sạc liên tục cả ngày.",
+        "en": "forcing me to charge it constantly all day"
+      }
+    ],
+    "answers": [
+      "The older the phone gets, the faster the battery drains, forcing me to charge it constantly all day.",
+      "The more the phone ages, the quicker its battery dies, so I end up charging it nonstop."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Dù đã được bảo hành,",
+        "en": "even though it was under warranty,"
+      },
+      {
+        "t": "chiếc điện thoại vẫn bị từ chối sửa miễn phí",
+        "en": "the phone was still denied a free repair"
+      },
+      {
+        "t": "vì lỗi do người dùng.",
+        "en": "since the damage was considered the user's fault"
+      }
+    ],
+    "answers": [
+      "Even though it was under warranty, the phone was still denied a free repair because the damage was user-caused.",
+      "Although it had a warranty, the phone was refused a free fix since the damage was considered the user's fault."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu hệ thống không yêu cầu đổi mật khẩu quá thường xuyên,",
+        "en": "if the system didn't require password changes so often,"
+      },
+      {
+        "t": "có lẽ người dùng sẽ",
+        "en": "users would probably"
+      },
+      {
+        "t": "ít quên hơn.",
+        "en": "forget them less"
+      }
+    ],
+    "answers": [
+      "If the system didn't require password changes so often, users would probably forget them less.",
+      "Users would likely forget passwords less if the system didn't force frequent changes."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mật khẩu mà tôi đặt",
+        "en": "the password I set"
+      },
+      {
+        "t": "quá phức tạp",
+        "en": "was so complicated"
+      },
+      {
+        "t": "đến mức chính tôi cũng không nhớ nổi,",
+        "en": "that even I couldn't remember it,"
+      },
+      {
+        "t": "dù mới đổi tuần trước.",
+        "en": "even though I'd just changed it a week before"
+      }
+    ],
+    "answers": [
+      "The password I set was so complicated that even I couldn't remember it, even though I'd just changed it a week before.",
+      "I made the password so complex that I couldn't recall it myself, despite having changed it only a week earlier."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi dùng trình quản lý mật khẩu sớm hơn",
+        "en": "I wish I had used a password manager sooner"
+      },
+      {
+        "t": "thì đã không phải khóa tài khoản",
+        "en": "so I wouldn't have gotten locked out"
+      },
+      {
+        "t": "bao lần.",
+        "en": "so many times"
+      }
+    ],
+    "answers": [
+      "I wish I had used a password manager sooner so I wouldn't have gotten locked out so many times.",
+      "If only I'd started using a password manager earlier, my account wouldn't have been locked out repeatedly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng đặt nhiều mật khẩu khác nhau cho từng tài khoản,",
+        "en": "the more different passwords I set for each account,"
+      },
+      {
+        "t": "tôi càng dễ nhầm lẫn",
+        "en": "the more easily I mix them up"
+      },
+      {
+        "t": "giữa chúng.",
+        "en": "with each other"
+      }
+    ],
+    "answers": [
+      "The more different passwords I set for each account, the more easily I mix them up.",
+      "The more distinct passwords I create, the more I confuse one with another."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu nhà mạng nâng cấp hạ tầng sớm hơn,",
+        "en": "if the provider had upgraded the infrastructure sooner,"
+      },
+      {
+        "t": "khu vực này đã không phải chịu",
+        "en": "this area wouldn't have suffered"
+      },
+      {
+        "t": "tình trạng mạng chập chờn suốt năm qua.",
+        "en": "such an unstable connection all year"
+      }
+    ],
+    "answers": [
+      "If the provider had upgraded the infrastructure sooner, this area wouldn't have suffered such an unstable connection all year.",
+      "Had the network been upgraded earlier, this area wouldn't have dealt with such patchy internet all year."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Đường truyền mà chúng tôi đang dùng",
+        "en": "the connection we're using"
+      },
+      {
+        "t": "được lắp đặt từ nhiều năm trước",
+        "en": "was installed many years ago"
+      },
+      {
+        "t": "nên giờ đã lỗi thời",
+        "en": "so it's now outdated"
+      },
+      {
+        "t": "và thường xuyên gặp sự cố.",
+        "en": "and constantly runs into problems"
+      }
+    ],
+    "answers": [
+      "The connection we're using was installed many years ago, so it's now outdated and constantly runs into problems.",
+      "The line we rely on was set up years ago and has become outdated, causing frequent issues."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mạng càng đông người dùng cùng lúc",
+        "en": "the more people use the network at once"
+      },
+      {
+        "t": "thì tốc độ càng giảm rõ rệt",
+        "en": "the more noticeably the speed drops"
+      },
+      {
+        "t": "vào giờ cao điểm.",
+        "en": "during peak hours"
+      }
+    ],
+    "answers": [
+      "The more people use the network at once, the more noticeably the speed drops during peak hours.",
+      "The busier the network gets, the slower it becomes during rush hour."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Dù đã đổi sang gói cước cao cấp hơn,",
+        "en": "although we switched to a higher-tier plan,"
+      },
+      {
+        "t": "tình trạng rớt mạng vẫn xảy ra thường xuyên,",
+        "en": "the connection still drops frequently,"
+      },
+      {
+        "t": "nhất là vào buổi tối khi mọi người cùng dùng mạng.",
+        "en": "especially in the evening when everyone is online"
+      }
+    ],
+    "answers": [
+      "Although we switched to a higher-tier plan, the connection still drops frequently, especially in the evening when everyone is online.",
+      "Even after upgrading to a premium plan, the internet still cuts out often, particularly in the evening when everyone's using it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu nhà phát triển thử nghiệm kỹ hơn trước khi phát hành,",
+        "en": "if the developers had tested more thoroughly before release,"
+      },
+      {
+        "t": "bản cập nhật này đã không gây ra",
+        "en": "this update wouldn't have caused"
+      },
+      {
+        "t": "nhiều lỗi đến vậy.",
+        "en": "so many bugs"
+      }
+    ],
+    "answers": [
+      "If the developers had tested more thoroughly before release, this update wouldn't have caused so many bugs.",
+      "Had the update been tested more carefully, it wouldn't have introduced this many issues."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bản cập nhật được cài đặt tự động qua đêm",
+        "en": "the update that was installed automatically overnight"
+      },
+      {
+        "t": "đã khiến nhiều người dùng bất ngờ",
+        "en": "surprised a lot of users"
+      },
+      {
+        "t": "vào sáng hôm sau.",
+        "en": "the next morning"
+      }
+    ],
+    "answers": [
+      "The update that was installed automatically overnight surprised a lot of users the next morning.",
+      "Many users were caught off guard the next morning by an update installed automatically overnight."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi đọc ghi chú phát hành trước,",
+        "en": "I wish I had read the release notes first,"
+      },
+      {
+        "t": "tôi đã không cập nhật đúng lúc",
+        "en": "I wouldn't have updated right when"
+      },
+      {
+        "t": "đang cần dùng máy gấp.",
+        "en": "I urgently needed my device"
+      }
+    ],
+    "answers": [
+      "I wish I had read the release notes first so I wouldn't have updated right when I urgently needed my device.",
+      "If only I'd checked the release notes, I wouldn't have updated at such an inconvenient time."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng trì hoãn cập nhật lâu,",
+        "en": "the longer you delay an update,"
+      },
+      {
+        "t": "thiết bị càng dễ gặp",
+        "en": "the more likely the device is to have"
+      },
+      {
+        "t": "lỗ hổng bảo mật nghiêm trọng.",
+        "en": "serious security vulnerabilities"
+      }
+    ],
+    "answers": [
+      "The longer you delay an update, the more likely the device is to have serious security vulnerabilities.",
+      "The more you put off updating, the more exposed your device becomes to serious security flaws."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù bản cập nhật được quảng cáo là cải thiện hiệu năng,",
+        "en": "although the update was advertised as improving performance,"
+      },
+      {
+        "t": "nhiều người dùng lại phàn nàn rằng",
+        "en": "many users complained that"
+      },
+      {
+        "t": "máy chạy chậm hơn.",
+        "en": "their devices ran slower"
+      }
+    ],
+    "answers": [
+      "Although the update was advertised as improving performance, many users complained that their devices ran slower.",
+      "Even though the update claimed to boost performance, plenty of users reported their devices getting slower."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết trước mẫu laptop này sẽ giảm giá vào tháng sau,",
+        "en": "if I had known this laptop model would go on sale next month,"
+      },
+      {
+        "t": "tôi đã không mua nó",
+        "en": "I wouldn't have bought it"
+      },
+      {
+        "t": "với giá gốc.",
+        "en": "at full price"
+      }
+    ],
+    "answers": [
+      "If I had known this laptop model would go on sale next month, I wouldn't have bought it at full price.",
+      "Had I known about next month's discount, I wouldn't have paid full price for this laptop."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Chiếc laptop mà tôi đang cân nhắc mua",
+        "en": "the laptop I'm considering buying"
+      },
+      {
+        "t": "được nhiều chuyên gia công nghệ",
+        "en": "has been highly rated by many"
+      },
+      {
+        "t": "đánh giá rất cao",
+        "en": "tech experts"
+      },
+      {
+        "t": "trên các trang review.",
+        "en": "on several review sites"
+      }
+    ],
+    "answers": [
+      "The laptop I'm considering buying has been highly rated by many tech experts on several review sites.",
+      "Many tech reviewers on review sites have given the laptop I'm considering very high ratings."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng tìm hiểu kỹ về cấu hình,",
+        "en": "the more I researched the specs,"
+      },
+      {
+        "t": "tôi càng nhận ra mình cần",
+        "en": "the more I realized I needed"
+      },
+      {
+        "t": "laptop mạnh hơn cho công việc thiết kế.",
+        "en": "a more powerful laptop for design work"
+      }
+    ],
+    "answers": [
+      "The more I researched the specs, the more I realized I needed a more powerful laptop for design work.",
+      "The deeper I looked into the specs, the clearer it became that I needed a stronger laptop for design."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Dù giá cao hơn dự tính ban đầu,",
+        "en": "although it cost more than I originally planned,"
+      },
+      {
+        "t": "tôi vẫn quyết định mua",
+        "en": "I still decided to buy it"
+      },
+      {
+        "t": "vì độ bền của thương hiệu này.",
+        "en": "because of the brand's durability"
+      }
+    ],
+    "answers": [
+      "Although it cost more than I originally planned, I still decided to buy it because of the brand's durability.",
+      "Even though it was pricier than expected, I bought it anyway for the brand's reliability."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu ứng dụng này có thêm tính năng luyện nói với AI,",
+        "en": "if this app added an AI speaking-practice feature,"
+      },
+      {
+        "t": "tôi nghĩ nhiều người sẽ tiến bộ",
+        "en": "I think a lot of people would improve"
+      },
+      {
+        "t": "nhanh hơn nhiều.",
+        "en": "much faster"
+      }
+    ],
+    "answers": [
+      "If this app added an AI speaking-practice feature, I think a lot of people would improve much faster.",
+      "A lot of learners would likely progress faster if the app included AI-powered speaking practice."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng luyện tập đều đặn,",
+        "en": "the more consistently I practice,"
+      },
+      {
+        "t": "khả năng phản xạ tiếng Anh của tôi",
+        "en": "my English reflexes"
+      },
+      {
+        "t": "càng được cải thiện rõ rệt,",
+        "en": "improve more noticeably,"
+      },
+      {
+        "t": "nhất là khi nói chuyện với người nước ngoài.",
+        "en": "especially when I talk with foreigners"
+      }
+    ],
+    "answers": [
+      "The more consistently I practice, the more noticeably my English reflexes improve, especially when I talk with foreigners.",
+      "The more regularly I train, the more my English response speed improves, particularly in conversations with foreigners."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi bắt đầu học bằng ứng dụng này sớm hơn",
+        "en": "I wish I had started using this app sooner"
+      },
+      {
+        "t": "thì trình độ của tôi giờ đã",
+        "en": "my level would now be"
+      },
+      {
+        "t": "khá hơn nhiều.",
+        "en": "much better"
+      }
+    ],
+    "answers": [
+      "I wish I had started using this app sooner so my level would be much better by now.",
+      "If only I'd picked up this app earlier, my English would be far better now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Ứng dụng mà bạn tôi giới thiệu",
+        "en": "the app my friend recommended"
+      },
+      {
+        "t": "hóa ra lại phù hợp với cách học của tôi",
+        "en": "turned out to suit my learning style"
+      },
+      {
+        "t": "hơn tôi tưởng.",
+        "en": "better than I expected"
+      }
+    ],
+    "answers": [
+      "The app my friend recommended turned out to suit my learning style better than I expected.",
+      "It turned out that the app my friend suggested fit my learning style better than I thought."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu mạng xã hội không gây nghiện đến vậy,",
+        "en": "if social media weren't so addictive,"
+      },
+      {
+        "t": "có lẽ giới trẻ đã dành nhiều thời gian hơn",
+        "en": "young people would probably spend more time"
+      },
+      {
+        "t": "cho việc học.",
+        "en": "studying"
+      }
+    ],
+    "answers": [
+      "If social media weren't so addictive, young people would probably spend more time studying.",
+      "Young people would likely study more if social media weren't this addictive."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bài đăng mà cô ấy chia sẻ tối qua",
+        "en": "the post she shared last night"
+      },
+      {
+        "t": "đã bị hàng trăm người bình luận chỉ trích nặng nề trên mạng,",
+        "en": "was harshly criticized by hundreds of commenters online,"
+      },
+      {
+        "t": "trước khi cô ấy phải gỡ xuống.",
+        "en": "before she finally took it down"
+      }
+    ],
+    "answers": [
+      "The post she shared last night was harshly criticized by hundreds of commenters online before she finally took it down.",
+      "Hundreds of people harshly criticized the post she shared last night, so she eventually deleted it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng dành nhiều thời gian so sánh cuộc sống mình",
+        "en": "the more time I spend comparing my life"
+      },
+      {
+        "t": "với người khác trên mạng,",
+        "en": "to others' on social media,"
+      },
+      {
+        "t": "tôi càng cảm thấy tự ti.",
+        "en": "the more insecure I feel"
+      }
+    ],
+    "answers": [
+      "The more time I spend comparing my life to others' on social media, the more insecure I feel.",
+      "The more I compare myself to others online, the more self-conscious I become."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà nền tảng này kiểm duyệt nội dung chặt chẽ hơn,",
+        "en": "I wish this platform moderated content more strictly,"
+      },
+      {
+        "t": "tin giả đã không lan truyền nhanh",
+        "en": "fake news wouldn't have spread this fast"
+      },
+      {
+        "t": "đến thế.",
+        "en": "like that"
+      }
+    ],
+    "answers": [
+      "I wish this platform moderated content more strictly so fake news wouldn't spread this fast.",
+      "If the platform had tighter content moderation, misinformation wouldn't have spread so quickly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù biết mạng xã hội ảnh hưởng đến giấc ngủ,",
+        "en": "although she knows social media affects her sleep,"
+      },
+      {
+        "t": "cô ấy vẫn khó bỏ",
+        "en": "she still finds it hard to stop"
+      },
+      {
+        "t": "thói quen lướt điện thoại trước khi ngủ.",
+        "en": "the habit of scrolling her phone before bed"
+      }
+    ],
+    "answers": [
+      "Although she knows social media affects her sleep, she still finds it hard to stop scrolling before bed.",
+      "Even knowing it hurts her sleep, she still struggles to quit scrolling her phone before bedtime."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu AI được đào tạo trên dữ liệu chính xác hơn,",
+        "en": "if AI were trained on more accurate data,"
+      },
+      {
+        "t": "những câu trả lời sai lệch như vậy",
+        "en": "such incorrect answers"
+      },
+      {
+        "t": "đã ít xảy ra hơn.",
+        "en": "would happen less often"
+      }
+    ],
+    "answers": [
+      "If AI were trained on more accurate data, such incorrect answers would happen less often.",
+      "Errors like this would be rarer if AI were trained on more reliable data."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Công nghệ AI mà công ty tôi đang thử nghiệm",
+        "en": "the AI technology my company is testing"
+      },
+      {
+        "t": "được kỳ vọng sẽ thay đổi",
+        "en": "is expected to change"
+      },
+      {
+        "t": "cách chúng tôi làm việc.",
+        "en": "the way we work"
+      }
+    ],
+    "answers": [
+      "The AI technology my company is testing is expected to change the way we work.",
+      "The AI my company is trialing is expected to transform how we work."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng sử dụng AI nhiều trong công việc,",
+        "en": "the more I use AI at work,"
+      },
+      {
+        "t": "tôi càng lo ngại về việc",
+        "en": "the more I worry about"
+      },
+      {
+        "t": "mất đi khả năng tư duy độc lập.",
+        "en": "losing my ability to think independently"
+      }
+    ],
+    "answers": [
+      "The more I use AI at work, the more I worry about losing my ability to think independently.",
+      "The more I rely on AI, the more concerned I get about losing independent thinking skills."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà con người kiểm soát chặt chẽ hơn",
+        "en": "I wish humans controlled more tightly"
+      },
+      {
+        "t": "cách AI đưa ra quyết định,",
+        "en": "how AI makes decisions,"
+      },
+      {
+        "t": "chúng ta đã tránh được nhiều rủi ro.",
+        "en": "we could have avoided many risks"
+      }
+    ],
+    "answers": [
+      "I wish humans controlled more tightly how AI makes decisions, so we could have avoided many risks.",
+      "If AI decision-making had been more tightly controlled, many risks could have been avoided."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu nhà sản xuất cải thiện công nghệ pin,",
+        "en": "if manufacturers improved battery technology,"
+      },
+      {
+        "t": "người dùng đã không phải sạc điện thoại",
+        "en": "users wouldn't have to charge their phones"
+      },
+      {
+        "t": "nhiều lần một ngày.",
+        "en": "several times a day"
+      }
+    ],
+    "answers": [
+      "If manufacturers improved battery technology, users wouldn't have to charge their phones several times a day.",
+      "Users wouldn't need to recharge several times daily if battery tech had improved."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Cục sạc mà tôi mua ở lề đường",
+        "en": "the charger I bought from a street vendor"
+      },
+      {
+        "t": "hóa ra là hàng giả,",
+        "en": "turned out to be fake,"
+      },
+      {
+        "t": "khiến pin điện thoại tôi bị chai nhanh hơn.",
+        "en": "which made my phone battery wear out faster"
+      }
+    ],
+    "answers": [
+      "The charger I bought from a street vendor turned out to be fake, which made my phone battery wear out faster.",
+      "It turned out the charger I bought on the street was counterfeit, and it wore my battery down faster."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng sạc pin bằng cục sạc kém chất lượng,",
+        "en": "the more you charge with a low-quality charger,"
+      },
+      {
+        "t": "tuổi thọ pin càng giảm",
+        "en": "the battery's lifespan declines"
+      },
+      {
+        "t": "nhanh hơn.",
+        "en": "faster"
+      }
+    ],
+    "answers": [
+      "The more you charge with a low-quality charger, the faster the battery's lifespan declines.",
+      "Using a poor-quality charger more often speeds up battery degradation."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi không để pin xuống dưới hai mươi phần trăm thường xuyên,",
+        "en": "I wish I hadn't let the battery drop below twenty percent so often,"
+      },
+      {
+        "t": "có lẽ pin đã không chai",
+        "en": "it probably wouldn't have degraded"
+      },
+      {
+        "t": "nhanh vậy.",
+        "en": "this fast"
+      }
+    ],
+    "answers": [
+      "I wish I hadn't let the battery drop below twenty percent so often, or it probably wouldn't have degraded this fast.",
+      "If I hadn't regularly let the battery dip below twenty percent, it likely wouldn't have worn out this quickly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu tôi không nhấp vào đường link đáng ngờ đó,",
+        "en": "if I hadn't clicked that suspicious link,"
+      },
+      {
+        "t": "máy tính của tôi đã không bị nhiễm virus",
+        "en": "my computer wouldn't have gotten infected"
+      },
+      {
+        "t": "nặng như vậy.",
+        "en": "this badly"
+      }
+    ],
+    "answers": [
+      "If I hadn't clicked that suspicious link, my computer wouldn't have gotten infected this badly.",
+      "Had I avoided clicking that suspicious link, my computer wouldn't be this badly infected."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Virus mà máy tính công ty tôi nhiễm phải",
+        "en": "the virus that infected my company's computer"
+      },
+      {
+        "t": "được cho là đến từ",
+        "en": "is believed to have come from"
+      },
+      {
+        "t": "một tệp đính kèm giả mạo.",
+        "en": "a fake attachment"
+      }
+    ],
+    "answers": [
+      "The virus that infected my company's computer is believed to have come from a fake attachment.",
+      "It's believed the virus that hit my company's computer originated from a fraudulent attachment."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng trì hoãn quét virus,",
+        "en": "the longer you delay a virus scan,"
+      },
+      {
+        "t": "hệ thống càng có nguy cơ",
+        "en": "the greater the risk"
+      },
+      {
+        "t": "bị đánh cắp dữ liệu nghiêm trọng hơn.",
+        "en": "of serious data theft"
+      }
+    ],
+    "answers": [
+      "The longer you delay a virus scan, the greater the risk of serious data theft.",
+      "The more you put off scanning for viruses, the higher the chance of severe data theft."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà bộ phận IT cập nhật tường lửa sớm hơn,",
+        "en": "I wish the IT department had updated the firewall sooner,"
+      },
+      {
+        "t": "cuộc tấn công đó đã không gây thiệt hại lớn",
+        "en": "the attack wouldn't have caused such heavy damage"
+      },
+      {
+        "t": "đến vậy.",
+        "en": "to that extent"
+      }
+    ],
+    "answers": [
+      "I wish the IT department had updated the firewall sooner, so the attack wouldn't have caused such heavy damage.",
+      "If IT had patched the firewall earlier, the attack wouldn't have done this much damage."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã được cảnh báo,",
+        "en": "although they were warned,"
+      },
+      {
+        "t": "nhiều nhân viên vẫn mở email chứa virus",
+        "en": "many employees still opened the virus-laden email"
+      },
+      {
+        "t": "vì tò mò.",
+        "en": "out of curiosity"
+      }
+    ],
+    "answers": [
+      "Although they were warned, many employees still opened the virus-laden email out of curiosity.",
+      "Despite being warned, many staff still opened the infected email out of curiosity."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu dịch vụ đám mây ổn định hơn,",
+        "en": "if the cloud service were more reliable,"
+      },
+      {
+        "t": "dữ liệu của tôi đã không bị mất",
+        "en": "my data wouldn't have been lost"
+      },
+      {
+        "t": "giữa lúc đồng bộ.",
+        "en": "during the sync"
+      }
+    ],
+    "answers": [
+      "If the cloud service were more reliable, my data wouldn't have been lost during the sync.",
+      "My data wouldn't have gone missing mid-sync if the cloud service had been more stable."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng có nhiều thiết bị kết nối cùng tài khoản,",
+        "en": "the more devices connected to the same account,"
+      },
+      {
+        "t": "việc đồng bộ dữ liệu càng trở nên",
+        "en": "data syncing becomes"
+      },
+      {
+        "t": "phức tạp hơn.",
+        "en": "more complicated"
+      }
+    ],
+    "answers": [
+      "The more devices connected to the same account, the more complicated data syncing becomes.",
+      "Syncing data gets more complicated the more devices share the same account."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi kiểm tra kỹ trước khi đồng bộ,",
+        "en": "I wish I had checked carefully before syncing,"
+      },
+      {
+        "t": "tôi đã không ghi đè mất",
+        "en": "I wouldn't have overwritten"
+      },
+      {
+        "t": "bản ghi chú quan trọng.",
+        "en": "an important note"
+      }
+    ],
+    "answers": [
+      "I wish I had checked carefully before syncing so I wouldn't have overwritten an important note.",
+      "If only I'd double-checked before syncing, I wouldn't have overwritten an important note."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Dữ liệu mà hệ thống đồng bộ lên đám mây",
+        "en": "the data the system syncs to the cloud"
+      },
+      {
+        "t": "được mã hóa cẩn thận",
+        "en": "is carefully encrypted"
+      },
+      {
+        "t": "để đảm bảo an toàn cho người dùng.",
+        "en": "to keep it safe for users"
+      }
+    ],
+    "answers": [
+      "The data the system syncs to the cloud is carefully encrypted to keep it safe for users.",
+      "Data synced to the cloud is carefully encrypted to protect users' security."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu camera được lắp ở góc khác,",
+        "en": "if the camera had been mounted at a different angle,"
+      },
+      {
+        "t": "nó đã có thể ghi lại",
+        "en": "it could have captured"
+      },
+      {
+        "t": "toàn bộ khuôn mặt của kẻ đột nhập.",
+        "en": "the intruder's whole face"
+      }
+    ],
+    "answers": [
+      "If the camera had been mounted at a different angle, it could have captured the intruder's whole face.",
+      "Had the camera been placed differently, it might have caught the intruder's full face."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Đoạn video mà camera ghi lại được",
+        "en": "the footage captured by the camera"
+      },
+      {
+        "t": "sau đó đã được gửi cho cảnh sát",
+        "en": "was later sent to the police"
+      },
+      {
+        "t": "làm bằng chứng.",
+        "en": "as evidence"
+      }
+    ],
+    "answers": [
+      "The footage captured by the camera was later sent to the police as evidence.",
+      "The camera's recording was later handed over to the police as evidence."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng lắp nhiều camera trong nhà,",
+        "en": "the more cameras I install at home,"
+      },
+      {
+        "t": "tôi càng cảm thấy an tâm hơn",
+        "en": "the more at ease I feel"
+      },
+      {
+        "t": "mỗi khi đi vắng.",
+        "en": "whenever I'm away"
+      }
+    ],
+    "answers": [
+      "The more cameras I install at home, the more at ease I feel whenever I'm away.",
+      "The more cameras I have installed, the safer I feel while I'm out."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù hệ thống camera khá đắt,",
+        "en": "although the camera system was quite expensive,"
+      },
+      {
+        "t": "gia đình tôi vẫn quyết định lắp đặt",
+        "en": "my family still decided to install it"
+      },
+      {
+        "t": "vì lo ngại về an ninh khu phố.",
+        "en": "due to neighborhood security concerns"
+      }
+    ],
+    "answers": [
+      "Although the camera system was quite expensive, my family still decided to install it due to neighborhood security concerns.",
+      "Even though it cost a lot, my family installed the camera system anyway because of local safety concerns."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu tất cả thiết bị trong nhà đều tương thích với nhau,",
+        "en": "if all the devices in the house were compatible with each other,"
+      },
+      {
+        "t": "hệ thống nhà thông minh của tôi",
+        "en": "my smart home system"
+      },
+      {
+        "t": "đã hoạt động mượt mà hơn nhiều.",
+        "en": "would work much more smoothly"
+      }
+    ],
+    "answers": [
+      "If all the devices in the house were compatible with each other, my smart home system would work much more smoothly.",
+      "My smart home would run far more smoothly if every device were compatible."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Ngôi nhà mà chúng tôi đang sống",
+        "en": "the house we live in"
+      },
+      {
+        "t": "được trang bị hệ thống điều khiển tự động",
+        "en": "is equipped with an automated control system"
+      },
+      {
+        "t": "cho gần như mọi thiết bị.",
+        "en": "for nearly every device"
+      }
+    ],
+    "answers": [
+      "The house we live in is equipped with an automated control system for nearly every device.",
+      "Our house has an automated system controlling almost every device in it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng tích hợp nhiều thiết bị thông minh,",
+        "en": "the more smart devices we integrate,"
+      },
+      {
+        "t": "hóa đơn tiền điện của gia đình tôi",
+        "en": "our electricity bill"
+      },
+      {
+        "t": "càng tăng lên đáng kể mỗi tháng,",
+        "en": "rises more significantly each month,"
+      },
+      {
+        "t": "khiến bố mẹ tôi khá lo lắng.",
+        "en": "which worries my parents a lot"
+      }
+    ],
+    "answers": [
+      "The more smart devices we integrate, the more significantly our electricity bill rises each month, which worries my parents a lot.",
+      "The more smart devices we add, the higher our power bill climbs every month, and it worries my parents."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi đọc kỹ hướng dẫn lắp đặt,",
+        "en": "I wish I had read the installation guide carefully,"
+      },
+      {
+        "t": "hệ thống an ninh nhà thông minh đã không bị lỗi",
+        "en": "the smart home security system wouldn't have failed"
+      },
+      {
+        "t": "ngay tuần đầu.",
+        "en": "in the very first week"
+      }
+    ],
+    "answers": [
+      "I wish I had read the installation guide carefully, or the smart home security system wouldn't have failed in the very first week.",
+      "If I'd studied the setup guide more closely, the security system wouldn't have glitched in its first week."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù công nghệ nhà thông minh giúp tiết kiệm thời gian,",
+        "en": "although smart home technology saves time,"
+      },
+      {
+        "t": "không phải ai trong gia đình tôi",
+        "en": "not everyone in my family"
+      },
+      {
+        "t": "cũng thấy thoải mái với nó.",
+        "en": "feels comfortable with it"
+      }
+    ],
+    "answers": [
+      "Although smart home technology saves time, not everyone in my family feels comfortable with it.",
+      "Even though it saves time, smart home tech doesn't sit comfortably with everyone in my family."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu bộ lọc thư rác hoạt động hiệu quả hơn,",
+        "en": "if the spam filter worked more effectively,"
+      },
+      {
+        "t": "tôi đã không phải xóa",
+        "en": "I wouldn't have to delete"
+      },
+      {
+        "t": "hàng chục email lừa đảo mỗi ngày.",
+        "en": "dozens of scam emails every day"
+      }
+    ],
+    "answers": [
+      "If the spam filter worked more effectively, I wouldn't have to delete dozens of scam emails every day.",
+      "I wouldn't need to delete dozens of scam emails daily if the spam filter worked better."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Email lừa đảo mà tôi nhận được",
+        "en": "the phishing email I received"
+      },
+      {
+        "t": "giả mạo gần như hoàn hảo",
+        "en": "almost perfectly imitated"
+      },
+      {
+        "t": "giao diện của ngân hàng tôi đang dùng,",
+        "en": "my bank's interface,"
+      },
+      {
+        "t": "khiến tôi suýt bị lừa.",
+        "en": "and it nearly tricked me"
+      }
+    ],
+    "answers": [
+      "The phishing email I received almost perfectly imitated my bank's interface, and it nearly tricked me.",
+      "The scam email I got mimicked my bank's interface so well that I almost fell for it."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng có nhiều tài khoản trực tuyến,",
+        "en": "the more online accounts I have,"
+      },
+      {
+        "t": "hộp thư của tôi càng bị tràn ngập",
+        "en": "the more my inbox gets flooded"
+      },
+      {
+        "t": "bởi email quảng cáo không mong muốn.",
+        "en": "with unwanted promotional emails"
+      }
+    ],
+    "answers": [
+      "The more online accounts I have, the more my inbox gets flooded with unwanted promotional emails.",
+      "The more accounts I sign up for, the more my inbox fills with unwanted ads."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi không đăng ký nhận bản tin từ quá nhiều trang web,",
+        "en": "I wish I hadn't subscribed to newsletters from so many websites,"
+      },
+      {
+        "t": "tôi đã không nhận nhiều email rác",
+        "en": "I wouldn't be getting this much spam"
+      },
+      {
+        "t": "đến vậy.",
+        "en": "like that"
+      }
+    ],
+    "answers": [
+      "I wish I hadn't subscribed to newsletters from so many websites, or I wouldn't be getting this much spam.",
+      "If I hadn't signed up for so many newsletters, I wouldn't be drowning in this much spam."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu nhà mạng xử lý nhanh hơn,",
+        "en": "if the carrier had processed it faster,"
+      },
+      {
+        "t": "tôi đã không phải chờ cả ngày",
+        "en": "I wouldn't have had to wait all day"
+      },
+      {
+        "t": "để kích hoạt SIM mới.",
+        "en": "to activate the new SIM"
+      }
+    ],
+    "answers": [
+      "If the carrier had processed it faster, I wouldn't have had to wait all day to activate the new SIM.",
+      "I wouldn't have waited a whole day for activation if the carrier had been quicker."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "SIM mà tôi được cấp lại",
+        "en": "the SIM I was reissued"
+      },
+      {
+        "t": "hóa ra không tương thích",
+        "en": "turned out to be incompatible"
+      },
+      {
+        "t": "với chiếc điện thoại đời cũ của tôi.",
+        "en": "with my old phone model"
+      }
+    ],
+    "answers": [
+      "The SIM I was reissued turned out to be incompatible with my old phone model.",
+      "It turned out the replacement SIM didn't work with my older phone."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng chuyển đổi nhà mạng nhiều lần,",
+        "en": "the more times I switch carriers,"
+      },
+      {
+        "t": "tôi càng gặp rắc rối",
+        "en": "the more trouble I have"
+      },
+      {
+        "t": "với việc giữ lại số điện thoại cũ.",
+        "en": "keeping my old phone number"
+      }
+    ],
+    "answers": [
+      "The more times I switch carriers, the more trouble I have keeping my old phone number.",
+      "Switching carriers repeatedly makes it harder to hold onto my old number."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi kiểm tra kỹ thông tin trước khi đổi SIM,",
+        "en": "I wish I had double-checked the details before changing SIMs,"
+      },
+      {
+        "t": "tôi đã không bị mất quyền truy cập",
+        "en": "I wouldn't have lost access"
+      },
+      {
+        "t": "vào tài khoản ngân hàng.",
+        "en": "to my bank account"
+      }
+    ],
+    "answers": [
+      "I wish I had double-checked the details before changing SIMs, or I wouldn't have lost access to my bank account.",
+      "If I'd verified everything before the SIM swap, I wouldn't have lost access to my banking account."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu công ty có chính sách sao lưu nghiêm ngặt hơn,",
+        "en": "if the company had a stricter backup policy,"
+      },
+      {
+        "t": "dữ liệu khách hàng đã không bị mất",
+        "en": "customer data wouldn't have been lost"
+      },
+      {
+        "t": "trong sự cố vừa qua.",
+        "en": "in the recent incident"
+      }
+    ],
+    "answers": [
+      "If the company had a stricter backup policy, customer data wouldn't have been lost in the recent incident.",
+      "Customer data wouldn't have been lost in that incident with a stricter backup policy in place."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bài luận văn mà tôi mất chỉ vì quên lưu",
+        "en": "the thesis I lost just because I forgot to save it"
+      },
+      {
+        "t": "là công sức của",
+        "en": "represented"
+      },
+      {
+        "t": "cả một học kỳ.",
+        "en": "a whole semester's work"
+      }
+    ],
+    "answers": [
+      "The thesis I lost just because I forgot to save it represented a whole semester's work.",
+      "The paper I lost from forgetting to save it was a semester's worth of effort."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng lưu trữ dữ liệu ở một nơi duy nhất,",
+        "en": "the more you store data in a single location,"
+      },
+      {
+        "t": "nguy cơ mất trắng mọi thứ",
+        "en": "the risk of losing everything"
+      },
+      {
+        "t": "càng cao.",
+        "en": "gets higher"
+      }
+    ],
+    "answers": [
+      "The more you store data in a single location, the higher the risk of losing everything.",
+      "Keeping data in only one place raises the risk of losing it all."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi sao lưu định kỳ,",
+        "en": "I wish I had backed up regularly,"
+      },
+      {
+        "t": "tôi đã không phải làm lại toàn bộ báo cáo",
+        "en": "I wouldn't have had to redo the entire report"
+      },
+      {
+        "t": "từ đầu.",
+        "en": "from scratch"
+      }
+    ],
+    "answers": [
+      "I wish I had backed up regularly, so I wouldn't have had to redo the entire report from scratch.",
+      "If I'd backed things up regularly, I wouldn't have needed to rewrite the whole report."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù đã thử mọi phần mềm khôi phục,",
+        "en": "although he tried every recovery software,"
+      },
+      {
+        "t": "anh ấy vẫn không lấy lại được",
+        "en": "he still couldn't get back"
+      },
+      {
+        "t": "những tấm ảnh gia đình đã mất.",
+        "en": "the lost family photos"
+      }
+    ],
+    "answers": [
+      "Although he tried every recovery software, he still couldn't get back the lost family photos.",
+      "Even after trying every recovery tool, he couldn't retrieve the lost family photos."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu tôi dùng ốp lưng chắc chắn hơn,",
+        "en": "if I had used a sturdier case,"
+      },
+      {
+        "t": "màn hình điện thoại đã không bị vỡ",
+        "en": "the screen wouldn't have shattered"
+      },
+      {
+        "t": "khi rơi từ độ cao đó.",
+        "en": "from that height"
+      }
+    ],
+    "answers": [
+      "If I had used a sturdier case, the screen wouldn't have shattered from that height.",
+      "Had I used a stronger case, the screen wouldn't have cracked from that fall."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Chiếc màn hình mà tôi thay thế cách đây một tháng",
+        "en": "the screen I replaced a month ago"
+      },
+      {
+        "t": "đã lại bị nứt",
+        "en": "has already cracked again"
+      },
+      {
+        "t": "sau một cú va chạm nhẹ.",
+        "en": "after a minor bump"
+      }
+    ],
+    "answers": [
+      "The screen I replaced a month ago has already cracked again after a minor bump.",
+      "The screen replaced just a month ago has cracked again from a small knock."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng dùng điện thoại với màn hình vỡ lâu,",
+        "en": "the longer you use a phone with a cracked screen,"
+      },
+      {
+        "t": "nguy cơ đứt tay do mảnh kính vỡ",
+        "en": "the risk of cutting your hand on the broken glass"
+      },
+      {
+        "t": "càng cao.",
+        "en": "gets higher"
+      }
+    ],
+    "answers": [
+      "The longer you use a phone with a cracked screen, the higher the risk of cutting your hand on the broken glass.",
+      "Using a cracked-screen phone longer raises the chance of getting cut by the broken glass."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà cửa hàng sửa chữa dùng linh kiện chính hãng,",
+        "en": "I wish the repair shop had used genuine parts,"
+      },
+      {
+        "t": "màn hình đã không bị lỗi màu",
+        "en": "the screen wouldn't have shown color issues"
+      },
+      {
+        "t": "chỉ sau một tuần.",
+        "en": "after just a week"
+      }
+    ],
+    "answers": [
+      "I wish the repair shop had used genuine parts, or the screen wouldn't have shown color issues after just a week.",
+      "If the shop had used original parts, the screen wouldn't have glitched with color problems within a week."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu điều khoản dịch vụ rõ ràng hơn,",
+        "en": "if the terms of service were clearer,"
+      },
+      {
+        "t": "người dùng đã không bị tính phí tự động",
+        "en": "users wouldn't have been charged automatically"
+      },
+      {
+        "t": "mà không hề hay biết.",
+        "en": "without realizing it"
+      }
+    ],
+    "answers": [
+      "If the terms of service were clearer, users wouldn't have been charged automatically without realizing it.",
+      "Users wouldn't be silently auto-charged if the terms of service were clearer."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Gói dịch vụ mà tôi đăng ký",
+        "en": "the plan I subscribed to"
+      },
+      {
+        "t": "hóa ra bao gồm",
+        "en": "turned out to include"
+      },
+      {
+        "t": "nhiều tính năng tôi không hề dùng đến.",
+        "en": "many features I never actually use"
+      }
+    ],
+    "answers": [
+      "The plan I subscribed to turned out to include many features I never actually use.",
+      "It turned out the plan I signed up for came with features I never use."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng đăng ký nhiều dịch vụ trực tuyến,",
+        "en": "the more online services I subscribe to,"
+      },
+      {
+        "t": "tôi càng khó theo dõi hết",
+        "en": "the harder it is to keep track of"
+      },
+      {
+        "t": "các khoản phí hằng tháng.",
+        "en": "all the monthly fees"
+      }
+    ],
+    "answers": [
+      "The more online services I subscribe to, the harder it is to keep track of all the monthly fees.",
+      "Subscribing to more online services makes it harder to track every monthly charge."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi đặt lời nhắc hủy trước khi hết hạn dùng thử,",
+        "en": "I wish I had set a cancellation reminder before the trial ended,"
+      },
+      {
+        "t": "tôi đã không mất tiền oan",
+        "en": "I wouldn't have wasted money"
+      },
+      {
+        "t": "cho một dịch vụ chẳng dùng đến.",
+        "en": "on a service I never used"
+      }
+    ],
+    "answers": [
+      "I wish I had set a cancellation reminder before the trial ended, so I wouldn't have wasted money on a service I never used.",
+      "If I'd set a reminder to cancel, I wouldn't have paid for a service I don't even use."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Nếu công ty đầu tư vào đường truyền tốt hơn,",
+        "en": "if the company invested in a better connection,"
+      },
+      {
+        "t": "các cuộc họp online đã không bị gián đoạn",
+        "en": "online meetings wouldn't be interrupted"
+      },
+      {
+        "t": "thường xuyên như vậy.",
+        "en": "this often"
+      }
+    ],
+    "answers": [
+      "If the company invested in a better connection, online meetings wouldn't be interrupted this often.",
+      "Online meetings wouldn't be disrupted this frequently if the company had invested in a better connection."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Bài trình bày mà tôi chuẩn bị kỹ lưỡng",
+        "en": "the presentation I had carefully prepared"
+      },
+      {
+        "t": "suýt bị bỏ lỡ vì sự cố kết nối",
+        "en": "was almost missed because of a connection issue"
+      },
+      {
+        "t": "ngay trước cuộc họp.",
+        "en": "right before the meeting"
+      }
+    ],
+    "answers": [
+      "The presentation I had carefully prepared was almost missed because of a connection issue right before the meeting.",
+      "My carefully prepared presentation nearly got skipped due to a connection glitch right before the meeting."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Càng có nhiều cuộc họp online trong một ngày,",
+        "en": "the more online meetings there are in a day,"
+      },
+      {
+        "t": "nhân viên càng cảm thấy kiệt sức",
+        "en": "the more exhausted employees feel"
+      },
+      {
+        "t": "vào cuối ngày.",
+        "en": "by the end of it"
+      }
+    ],
+    "answers": [
+      "The more online meetings there are in a day, the more exhausted employees feel by the end of it.",
+      "The more back-to-back online meetings in a day, the more drained staff feel by evening."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Giá mà tôi kiểm tra kết nối trước,",
+        "en": "I wish I had checked my connection beforehand,"
+      },
+      {
+        "t": "bài thuyết trình quan trọng đó đã không bị gián đoạn",
+        "en": "that important presentation wouldn't have been interrupted"
+      },
+      {
+        "t": "giữa chừng.",
+        "en": "halfway through"
+      }
+    ],
+    "answers": [
+      "I wish I had checked my connection beforehand, so that important presentation wouldn't have been interrupted halfway through.",
+      "If I had tested my connection first, that key presentation wouldn't have been cut off midway."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "tech",
+    "chunks": [
+      {
+        "t": "Mặc dù họp online giúp tiết kiệm thời gian di chuyển,",
+        "en": "although online meetings save commuting time,"
+      },
+      {
+        "t": "nhiều người vẫn cảm thấy khó tập trung hơn",
+        "en": "many people still find it harder to focus"
+      },
+      {
+        "t": "so với họp trực tiếp.",
+        "en": "than in in-person meetings"
+      }
+    ],
+    "answers": [
+      "Although online meetings save commuting time, many people still find it harder to focus than in in-person meetings.",
+      "Even though online meetings cut down travel time, many still find it harder to stay focused than face-to-face."
+    ]
+  }
+]

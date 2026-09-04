@@ -1,0 +1,7580 @@
+[
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giá nhà",
+        "en": "house prices"
+      },
+      {
+        "t": "ở quận này",
+        "en": "in this district"
+      },
+      {
+        "t": "tăng lên",
+        "en": "go up"
+      },
+      {
+        "t": "mỗi năm.",
+        "en": "every year"
+      }
+    ],
+    "answers": [
+      "House prices in this district go up every year.",
+      "Home prices in this area rise every year."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Đường phố",
+        "en": "the streets"
+      },
+      {
+        "t": "lúc bảy giờ sáng",
+        "en": "at seven in the morning"
+      },
+      {
+        "t": "luôn",
+        "en": "are always"
+      },
+      {
+        "t": "đông nghẹt xe.",
+        "en": "packed with traffic"
+      }
+    ],
+    "answers": [
+      "The streets are always packed with traffic at seven in the morning.",
+      "The roads are always jam-packed at seven a.m."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không khí ở đây",
+        "en": "the air here"
+      },
+      {
+        "t": "đang ngày càng",
+        "en": "is getting more and more"
+      },
+      {
+        "t": "ô nhiễm.",
+        "en": "polluted"
+      }
+    ],
+    "answers": [
+      "The air here is getting more and more polluted.",
+      "The air quality here keeps getting worse."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sáng nay",
+        "en": "this morning"
+      },
+      {
+        "t": "tôi đọc",
+        "en": "I read"
+      },
+      {
+        "t": "một bản tin",
+        "en": "a news report"
+      },
+      {
+        "t": "về lũ lụt.",
+        "en": "about a flood"
+      }
+    ],
+    "answers": [
+      "This morning I read a news report about a flood.",
+      "I read a news story about flooding this morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Thành phố",
+        "en": "the city"
+      },
+      {
+        "t": "vừa đưa ra",
+        "en": "just introduced"
+      },
+      {
+        "t": "một chính sách mới",
+        "en": "a new policy"
+      },
+      {
+        "t": "cho người già.",
+        "en": "for elderly people"
+      }
+    ],
+    "answers": [
+      "The city just introduced a new policy for elderly people.",
+      "The city has just launched a new policy for the elderly."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhà giàu và nhà nghèo",
+        "en": "rich and poor families"
+      },
+      {
+        "t": "trong khu này",
+        "en": "in this area"
+      },
+      {
+        "t": "sống rất khác nhau.",
+        "en": "live very differently"
+      }
+    ],
+    "answers": [
+      "Rich and poor families in this area live very differently.",
+      "Wealthy and poor households in this neighborhood live very different lives."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Em gái tôi",
+        "en": "my little sister"
+      },
+      {
+        "t": "lúc nào cũng",
+        "en": "is always"
+      },
+      {
+        "t": "dán mắt vào điện thoại.",
+        "en": "glued to her phone"
+      }
+    ],
+    "answers": [
+      "My little sister is always glued to her phone.",
+      "My younger sister always has her eyes stuck on her phone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khu phố tôi",
+        "en": "my neighborhood"
+      },
+      {
+        "t": "có bảo vệ",
+        "en": "has a guard"
+      },
+      {
+        "t": "trực suốt đêm.",
+        "en": "on duty all night"
+      }
+    ],
+    "answers": [
+      "My neighborhood has a guard on duty all night.",
+      "There's a security guard on duty all night in my neighborhood."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cuối tuần này",
+        "en": "this weekend"
+      },
+      {
+        "t": "chúng tôi đi",
+        "en": "we are going"
+      },
+      {
+        "t": "dọn rác",
+        "en": "to clean up trash"
+      },
+      {
+        "t": "ở bãi biển.",
+        "en": "at the beach"
+      }
+    ],
+    "answers": [
+      "This weekend we are going to clean up trash at the beach.",
+      "We're picking up litter at the beach this weekend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Ở công ty tôi,",
+        "en": "at my company,"
+      },
+      {
+        "t": "nam và nữ",
+        "en": "men and women"
+      },
+      {
+        "t": "nhận lương như nhau.",
+        "en": "get the same pay"
+      }
+    ],
+    "answers": [
+      "At my company, men and women get the same pay.",
+      "In my workplace, men and women earn equal salaries."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trường con tôi",
+        "en": "my child's school"
+      },
+      {
+        "t": "vừa mở thêm",
+        "en": "just opened"
+      },
+      {
+        "t": "lớp học tiếng Anh.",
+        "en": "an extra English class"
+      }
+    ],
+    "answers": [
+      "My child's school just opened an extra English class.",
+      "My kid's school has just added another English class."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều bạn trẻ",
+        "en": "many young people"
+      },
+      {
+        "t": "đang tìm",
+        "en": "are looking for"
+      },
+      {
+        "t": "việc làm thêm.",
+        "en": "part-time jobs"
+      }
+    ],
+    "answers": [
+      "Many young people are looking for part-time jobs.",
+      "A lot of young people are searching for part-time work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vùng ngoại ô này",
+        "en": "this suburb"
+      },
+      {
+        "t": "giờ có",
+        "en": "now has"
+      },
+      {
+        "t": "rất nhiều tòa nhà cao tầng.",
+        "en": "a lot of high-rise buildings"
+      }
+    ],
+    "answers": [
+      "This suburb now has a lot of high-rise buildings.",
+      "There are now many tall buildings in this suburb."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cửa hàng đó",
+        "en": "that store"
+      },
+      {
+        "t": "không phát",
+        "en": "doesn't give out"
+      },
+      {
+        "t": "túi nhựa nữa.",
+        "en": "plastic bags anymore"
+      }
+    ],
+    "answers": [
+      "That store doesn't give out plastic bags anymore.",
+      "That shop no longer hands out plastic bags."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Hàng xóm của tôi",
+        "en": "my neighbors"
+      },
+      {
+        "t": "rất thân thiện",
+        "en": "are very friendly"
+      },
+      {
+        "t": "và hay giúp đỡ.",
+        "en": "and often helpful"
+      }
+    ],
+    "answers": [
+      "My neighbors are very friendly and often helpful.",
+      "My neighbors are really friendly and always ready to help."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Thành phố",
+        "en": "the city"
+      },
+      {
+        "t": "đang xây",
+        "en": "is building"
+      },
+      {
+        "t": "một công viên mới",
+        "en": "a new park"
+      },
+      {
+        "t": "gần nhà tôi.",
+        "en": "near my house"
+      }
+    ],
+    "answers": [
+      "The city is building a new park near my house.",
+      "The city is putting up a new park close to my home."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tối qua",
+        "en": "last night"
+      },
+      {
+        "t": "tôi thấy",
+        "en": "I saw"
+      },
+      {
+        "t": "một người vô gia cư",
+        "en": "a homeless person"
+      },
+      {
+        "t": "ngủ ở gầm cầu.",
+        "en": "sleeping under the bridge"
+      }
+    ],
+    "answers": [
+      "Last night I saw a homeless person sleeping under the bridge.",
+      "I saw a homeless man sleeping under the bridge last night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều bạn trẻ",
+        "en": "many young people"
+      },
+      {
+        "t": "cảm thấy áp lực",
+        "en": "feel pressure"
+      },
+      {
+        "t": "phải thành công sớm.",
+        "en": "to succeed early"
+      }
+    ],
+    "answers": [
+      "Many young people feel pressure to succeed early.",
+      "A lot of young people feel pressured to be successful early."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Căn hộ nhỏ xíu đó",
+        "en": "that tiny apartment"
+      },
+      {
+        "t": "có giá",
+        "en": "is"
+      },
+      {
+        "t": "đắt kinh khủng.",
+        "en": "incredibly expensive"
+      }
+    ],
+    "answers": [
+      "That tiny apartment is incredibly expensive.",
+      "That little apartment costs a fortune."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Xe máy",
+        "en": "motorbikes"
+      },
+      {
+        "t": "đậu kín",
+        "en": "fill up"
+      },
+      {
+        "t": "cả vỉa hè",
+        "en": "the whole sidewalk"
+      },
+      {
+        "t": "trước cửa hàng.",
+        "en": "in front of the shop"
+      }
+    ],
+    "answers": [
+      "Motorbikes fill up the whole sidewalk in front of the shop.",
+      "Motorbikes are parked all over the sidewalk in front of the shop."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chiều nay",
+        "en": "this afternoon"
+      },
+      {
+        "t": "trời có mùi khói",
+        "en": "the air smells of smoke"
+      },
+      {
+        "t": "rất khó chịu.",
+        "en": "very unpleasant"
+      }
+    ],
+    "answers": [
+      "This afternoon the air smells strongly of smoke.",
+      "There's an unpleasant smell of smoke in the air this afternoon."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cả xóm tôi",
+        "en": "my whole neighborhood"
+      },
+      {
+        "t": "đang bàn tán",
+        "en": "is talking"
+      },
+      {
+        "t": "về vụ cháy",
+        "en": "about the fire"
+      },
+      {
+        "t": "hôm qua.",
+        "en": "yesterday"
+      }
+    ],
+    "answers": [
+      "My whole neighborhood is talking about yesterday's fire.",
+      "Everyone in my neighborhood is discussing the fire from yesterday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chính phủ",
+        "en": "the government"
+      },
+      {
+        "t": "đang giảm",
+        "en": "is cutting"
+      },
+      {
+        "t": "học phí",
+        "en": "tuition fees"
+      },
+      {
+        "t": "cho học sinh nghèo.",
+        "en": "for poor students"
+      }
+    ],
+    "answers": [
+      "The government is cutting tuition fees for poor students.",
+      "The government is lowering school fees for low-income students."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Một số người",
+        "en": "some people"
+      },
+      {
+        "t": "mua nhà dễ dàng,",
+        "en": "buy houses easily,"
+      },
+      {
+        "t": "số khác",
+        "en": "others"
+      },
+      {
+        "t": "thì không đủ ăn.",
+        "en": "don't have enough to eat"
+      }
+    ],
+    "answers": [
+      "Some people buy houses easily, but others can't even afford food.",
+      "Some people can afford a house easily, but others don't have enough to eat."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Con trai tôi",
+        "en": "my son"
+      },
+      {
+        "t": "đăng ảnh",
+        "en": "posts photos"
+      },
+      {
+        "t": "lên mạng xã hội",
+        "en": "on social media"
+      },
+      {
+        "t": "mỗi ngày.",
+        "en": "every day"
+      }
+    ],
+    "answers": [
+      "My son posts photos on social media every day.",
+      "My son shares pictures on social media daily."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tối qua",
+        "en": "last night"
+      },
+      {
+        "t": "có trộm",
+        "en": "a burglar"
+      },
+      {
+        "t": "đột nhập",
+        "en": "broke in"
+      },
+      {
+        "t": "vào nhà bên cạnh.",
+        "en": "at the house next door"
+      }
+    ],
+    "answers": [
+      "Last night a burglar broke into the house next door.",
+      "There was a break-in at the house next door last night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhóm tình nguyện của tôi",
+        "en": "my volunteer group"
+      },
+      {
+        "t": "đang quyên góp",
+        "en": "is collecting"
+      },
+      {
+        "t": "quần áo ấm.",
+        "en": "warm clothes"
+      }
+    ],
+    "answers": [
+      "My volunteer group is collecting warm clothes.",
+      "My volunteer team is gathering warm clothing right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sếp của tôi",
+        "en": "my boss"
+      },
+      {
+        "t": "là phụ nữ,",
+        "en": "is a woman,"
+      },
+      {
+        "t": "còn hai phó phòng",
+        "en": "and the two deputy managers"
+      },
+      {
+        "t": "là nam.",
+        "en": "are men"
+      }
+    ],
+    "answers": [
+      "My boss is a woman, and the two deputy managers are men.",
+      "My manager is female, while both deputies are male."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Học sinh ở trường này",
+        "en": "students at this school"
+      },
+      {
+        "t": "học",
+        "en": "learn"
+      },
+      {
+        "t": "cả tiếng Anh lẫn tiếng Trung.",
+        "en": "both English and Chinese"
+      }
+    ],
+    "answers": [
+      "Students at this school learn both English and Chinese.",
+      "This school's students study English as well as Chinese."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Anh họ tôi",
+        "en": "my cousin"
+      },
+      {
+        "t": "vừa xin được",
+        "en": "just got"
+      },
+      {
+        "t": "việc",
+        "en": "a job"
+      },
+      {
+        "t": "ở một công ty công nghệ.",
+        "en": "at a tech company"
+      }
+    ],
+    "answers": [
+      "My cousin just got a job at a tech company.",
+      "My cousin has just landed a job at a technology company."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cánh đồng gần nhà tôi",
+        "en": "the field near my house"
+      },
+      {
+        "t": "giờ đã biến thành",
+        "en": "turned into"
+      },
+      {
+        "t": "khu chung cư.",
+        "en": "an apartment complex"
+      }
+    ],
+    "answers": [
+      "The field near my house turned into an apartment complex.",
+      "The field close to my home became an apartment complex."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bãi biển này",
+        "en": "this beach"
+      },
+      {
+        "t": "đầy rác nhựa",
+        "en": "is full of plastic waste"
+      },
+      {
+        "t": "vào mỗi cuối tuần.",
+        "en": "every weekend"
+      }
+    ],
+    "answers": [
+      "This beach is full of plastic waste every weekend.",
+      "There's plastic trash all over this beach every weekend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cả xóm tôi",
+        "en": "my whole neighborhood"
+      },
+      {
+        "t": "cùng nhau tổ chức",
+        "en": "organizes together"
+      },
+      {
+        "t": "tiệc Trung thu.",
+        "en": "a Mid-Autumn party"
+      }
+    ],
+    "answers": [
+      "My whole neighborhood organizes a Mid-Autumn party together.",
+      "Everyone in my neighborhood throws a Mid-Autumn Festival party together."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Con đường này",
+        "en": "this road"
+      },
+      {
+        "t": "sắp có thêm",
+        "en": "is going to have"
+      },
+      {
+        "t": "hai làn xe.",
+        "en": "two more lanes"
+      }
+    ],
+    "answers": [
+      "This road is going to have two more lanes.",
+      "This road will soon have two extra lanes."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mùa đông này,",
+        "en": "this winter,"
+      },
+      {
+        "t": "nhiều người vô gia cư",
+        "en": "many homeless people"
+      },
+      {
+        "t": "cần chăn ấm.",
+        "en": "need warm blankets"
+      }
+    ],
+    "answers": [
+      "This winter, many homeless people need warm blankets.",
+      "This winter many people without homes need warm blankets."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bạn tôi",
+        "en": "my friend"
+      },
+      {
+        "t": "lo lắng",
+        "en": "is worried"
+      },
+      {
+        "t": "vì bạn bè ai cũng",
+        "en": "because all her friends"
+      },
+      {
+        "t": "đã kết hôn.",
+        "en": "are already married"
+      }
+    ],
+    "answers": [
+      "My friend is worried because all her friends are already married.",
+      "My friend feels anxious because all her friends got married already."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều gia đình trẻ",
+        "en": "many young families"
+      },
+      {
+        "t": "phải thuê nhà",
+        "en": "have to rent"
+      },
+      {
+        "t": "vì không mua nổi.",
+        "en": "because they can't afford to buy"
+      }
+    ],
+    "answers": [
+      "Many young families have to rent because they can't afford to buy.",
+      "A lot of young families rent a place because buying is too expensive."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giờ tan tầm,",
+        "en": "at rush hour,"
+      },
+      {
+        "t": "xe buýt",
+        "en": "the bus"
+      },
+      {
+        "t": "lúc nào cũng",
+        "en": "is always"
+      },
+      {
+        "t": "chật cứng người.",
+        "en": "packed with people"
+      }
+    ],
+    "answers": [
+      "At rush hour, the bus is always packed with people.",
+      "During rush hour, buses are always crammed full."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người ta",
+        "en": "people"
+      },
+      {
+        "t": "trồng thêm",
+        "en": "are planting more"
+      },
+      {
+        "t": "cây xanh",
+        "en": "trees"
+      },
+      {
+        "t": "dọc con đường này.",
+        "en": "along this road"
+      }
+    ],
+    "answers": [
+      "People are planting more trees along this road.",
+      "They're adding more green trees along this street."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tin tức tối nay",
+        "en": "tonight's news"
+      },
+      {
+        "t": "nói về",
+        "en": "talks about"
+      },
+      {
+        "t": "giá xăng tăng.",
+        "en": "rising gas prices"
+      }
+    ],
+    "answers": [
+      "Tonight's news talks about rising gas prices.",
+      "The news tonight is about the increase in gas prices."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Từ năm sau,",
+        "en": "starting next year,"
+      },
+      {
+        "t": "xe máy cũ",
+        "en": "old motorbikes"
+      },
+      {
+        "t": "sẽ không được chạy",
+        "en": "won't be allowed to run"
+      },
+      {
+        "t": "trong trung tâm.",
+        "en": "downtown"
+      }
+    ],
+    "answers": [
+      "Starting next year, old motorbikes won't be allowed downtown.",
+      "From next year, old motorbikes can't drive in the city center."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Con nhà giàu",
+        "en": "rich kids"
+      },
+      {
+        "t": "đi học bằng ô tô,",
+        "en": "go to school by car,"
+      },
+      {
+        "t": "còn tôi",
+        "en": "but I"
+      },
+      {
+        "t": "đi bộ.",
+        "en": "walk"
+      }
+    ],
+    "answers": [
+      "Rich kids go to school by car, but I walk.",
+      "Wealthy children get driven to school, while I walk there."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Dạo này",
+        "en": "these days"
+      },
+      {
+        "t": "ai cũng bận",
+        "en": "everyone is busy"
+      },
+      {
+        "t": "xem video ngắn",
+        "en": "watching short videos"
+      },
+      {
+        "t": "trên điện thoại.",
+        "en": "on their phone"
+      }
+    ],
+    "answers": [
+      "These days everyone is busy watching short videos on their phone.",
+      "Nowadays everyone spends time watching short clips on their phones."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Camera an ninh mới",
+        "en": "a new security camera"
+      },
+      {
+        "t": "lắp",
+        "en": "was installed"
+      },
+      {
+        "t": "ở đầu hẻm nhà tôi.",
+        "en": "at the entrance to my alley"
+      }
+    ],
+    "answers": [
+      "A new security camera was installed at the entrance to my alley.",
+      "They just put up a new security camera at the start of my alley."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mỗi tháng,",
+        "en": "every month,"
+      },
+      {
+        "t": "câu lạc bộ của tôi",
+        "en": "my club"
+      },
+      {
+        "t": "đi thăm",
+        "en": "visits"
+      },
+      {
+        "t": "trại trẻ mồ côi.",
+        "en": "an orphanage"
+      }
+    ],
+    "answers": [
+      "Every month, my club visits an orphanage.",
+      "My club goes to visit an orphanage every month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Ở nhà tôi,",
+        "en": "in my house,"
+      },
+      {
+        "t": "bố nấu ăn",
+        "en": "dad cooks"
+      },
+      {
+        "t": "còn mẹ",
+        "en": "and mom"
+      },
+      {
+        "t": "sửa điện.",
+        "en": "fixes the wiring"
+      }
+    ],
+    "answers": [
+      "In my house, dad cooks and mom fixes the wiring.",
+      "At home, my father does the cooking while my mother handles the electrics."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Lớp học thêm buổi tối",
+        "en": "the evening extra class"
+      },
+      {
+        "t": "lúc nào cũng",
+        "en": "is always"
+      },
+      {
+        "t": "đông kín học sinh.",
+        "en": "packed with students"
+      }
+    ],
+    "answers": [
+      "The evening extra class is always packed with students.",
+      "The night tutoring class is always full of students."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Công ty đó",
+        "en": "that company"
+      },
+      {
+        "t": "chỉ tuyển",
+        "en": "only hires"
+      },
+      {
+        "t": "người có kinh nghiệm,",
+        "en": "experienced people,"
+      },
+      {
+        "t": "không nhận sinh viên mới ra trường.",
+        "en": "not fresh graduates"
+      }
+    ],
+    "answers": [
+      "That company only hires experienced people, not fresh graduates.",
+      "That company hires only people with experience, not new graduates."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Thị trấn nhỏ này",
+        "en": "this small town"
+      },
+      {
+        "t": "đang phát triển",
+        "en": "is developing"
+      },
+      {
+        "t": "rất nhanh.",
+        "en": "very quickly"
+      }
+    ],
+    "answers": [
+      "This small town is developing very quickly.",
+      "This little town is growing fast."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Siêu thị gần nhà tôi",
+        "en": "the supermarket near my house"
+      },
+      {
+        "t": "bán",
+        "en": "sells"
+      },
+      {
+        "t": "ống hút giấy",
+        "en": "paper straws"
+      },
+      {
+        "t": "thay vì ống hút nhựa.",
+        "en": "instead of plastic ones"
+      }
+    ],
+    "answers": [
+      "The supermarket near my house sells paper straws instead of plastic ones.",
+      "My local supermarket sells paper straws rather than plastic straws."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bác tổ trưởng",
+        "en": "the neighborhood leader"
+      },
+      {
+        "t": "thường nhắc mọi người",
+        "en": "often reminds everyone"
+      },
+      {
+        "t": "giữ vệ sinh chung.",
+        "en": "to keep things clean"
+      }
+    ],
+    "answers": [
+      "The neighborhood leader often reminds everyone to keep things clean.",
+      "Our block leader regularly tells people to keep the area tidy."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Thành phố",
+        "en": "the city"
+      },
+      {
+        "t": "sắp xây thêm",
+        "en": "is going to build"
+      },
+      {
+        "t": "một cây cầu mới.",
+        "en": "a new bridge"
+      }
+    ],
+    "answers": [
+      "The city is going to build a new bridge.",
+      "The city plans to add another new bridge."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Một cụ già vô gia cư",
+        "en": "an elderly homeless man"
+      },
+      {
+        "t": "hay ngồi",
+        "en": "often sits"
+      },
+      {
+        "t": "trước cổng chợ.",
+        "en": "in front of the market gate"
+      }
+    ],
+    "answers": [
+      "An elderly homeless man often sits in front of the market gate.",
+      "An old homeless man usually sits by the market entrance."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều học sinh",
+        "en": "many students"
+      },
+      {
+        "t": "sợ điểm kém",
+        "en": "fear bad grades"
+      },
+      {
+        "t": "vì bố mẹ so sánh",
+        "en": "because their parents compare them"
+      },
+      {
+        "t": "với bạn bè.",
+        "en": "with friends"
+      }
+    ],
+    "answers": [
+      "Many students fear bad grades because their parents compare them with friends.",
+      "A lot of students are afraid of low grades because parents compare them to their friends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Căn nhà đó",
+        "en": "that house"
+      },
+      {
+        "t": "bán rất nhanh",
+        "en": "sold very quickly"
+      },
+      {
+        "t": "vì giá hợp lý.",
+        "en": "because the price was reasonable"
+      }
+    ],
+    "answers": [
+      "That house sold very quickly because the price was reasonable.",
+      "That house was sold fast because it was affordable."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Đèn giao thông ở ngã tư này",
+        "en": "the traffic light at this intersection"
+      },
+      {
+        "t": "bị hỏng",
+        "en": "was broken"
+      },
+      {
+        "t": "suốt tuần.",
+        "en": "all week"
+      }
+    ],
+    "answers": [
+      "The traffic light at this intersection was broken all week.",
+      "The traffic light at this crossroads stayed broken for a whole week."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Hồ nước trong công viên",
+        "en": "the lake in the park"
+      },
+      {
+        "t": "đang bốc",
+        "en": "is giving off"
+      },
+      {
+        "t": "mùi hôi.",
+        "en": "a bad smell"
+      }
+    ],
+    "answers": [
+      "The lake in the park is giving off a bad smell.",
+      "The pond in the park smells terrible these days."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Báo sáng nay",
+        "en": "this morning's newspaper"
+      },
+      {
+        "t": "đưa tin về",
+        "en": "reported"
+      },
+      {
+        "t": "một vụ tai nạn giao thông lớn.",
+        "en": "a major traffic accident"
+      }
+    ],
+    "answers": [
+      "This morning's newspaper reported a major traffic accident.",
+      "The paper this morning covered a big traffic accident."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhà nước",
+        "en": "the government"
+      },
+      {
+        "t": "hỗ trợ tiền",
+        "en": "gives money"
+      },
+      {
+        "t": "cho các gia đình",
+        "en": "to families"
+      },
+      {
+        "t": "có con nhỏ.",
+        "en": "with young children"
+      }
+    ],
+    "answers": [
+      "The government gives money to families with young children.",
+      "The state provides financial support to families with small kids."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khu nhà giàu",
+        "en": "the rich area"
+      },
+      {
+        "t": "có bể bơi riêng,",
+        "en": "has its own swimming pool,"
+      },
+      {
+        "t": "khu tôi",
+        "en": "my area"
+      },
+      {
+        "t": "thì không có gì cả.",
+        "en": "has nothing"
+      }
+    ],
+    "answers": [
+      "The rich area has its own swimming pool, but my area has nothing.",
+      "The wealthy neighborhood has a private pool, while mine has nothing at all."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cháu tôi",
+        "en": "my nephew"
+      },
+      {
+        "t": "mới mười tuổi",
+        "en": "is only ten"
+      },
+      {
+        "t": "mà đã có",
+        "en": "but already has"
+      },
+      {
+        "t": "tài khoản mạng xã hội.",
+        "en": "a social media account"
+      }
+    ],
+    "answers": [
+      "My nephew is only ten but already has a social media account.",
+      "My niece is just ten years old and already owns a social media account."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cả xóm",
+        "en": "the whole neighborhood"
+      },
+      {
+        "t": "đang lo",
+        "en": "is worried"
+      },
+      {
+        "t": "vì gần đây có nhiều vụ trộm chó.",
+        "en": "because there are many dog thefts lately"
+      }
+    ],
+    "answers": [
+      "The whole neighborhood is worried because there are many dog thefts lately.",
+      "Everyone in the neighborhood feels anxious because dog thefts are happening a lot recently."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sinh viên tình nguyện",
+        "en": "volunteer students"
+      },
+      {
+        "t": "dạy học miễn phí",
+        "en": "teach for free"
+      },
+      {
+        "t": "cho trẻ em nghèo.",
+        "en": "for poor children"
+      }
+    ],
+    "answers": [
+      "Volunteer students teach poor children for free.",
+      "Student volunteers give free lessons to underprivileged kids."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trong đội bóng đá nữ này,",
+        "en": "in this women's soccer team,"
+      },
+      {
+        "t": "các cô gái",
+        "en": "the girls"
+      },
+      {
+        "t": "tập luyện rất chăm chỉ.",
+        "en": "train very hard"
+      }
+    ],
+    "answers": [
+      "In this women's soccer team, the girls train very hard.",
+      "The girls on this female football team practice really hard."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trường tôi",
+        "en": "my school"
+      },
+      {
+        "t": "vừa lắp",
+        "en": "just installed"
+      },
+      {
+        "t": "máy lạnh",
+        "en": "air conditioning"
+      },
+      {
+        "t": "cho tất cả các phòng học.",
+        "en": "in every classroom"
+      }
+    ],
+    "answers": [
+      "My school just installed air conditioning in every classroom.",
+      "My school just put air conditioners in all the classrooms."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều bạn trẻ",
+        "en": "many young people"
+      },
+      {
+        "t": "chọn làm freelancer",
+        "en": "choose to freelance"
+      },
+      {
+        "t": "thay vì đi làm văn phòng.",
+        "en": "instead of working in an office"
+      }
+    ],
+    "answers": [
+      "Many young people choose to freelance instead of working in an office.",
+      "A lot of young people prefer freelancing over office jobs."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người dân quê tôi",
+        "en": "people from my hometown"
+      },
+      {
+        "t": "đang chuyển dần",
+        "en": "are gradually moving"
+      },
+      {
+        "t": "lên thành phố sinh sống.",
+        "en": "to the city to live"
+      }
+    ],
+    "answers": [
+      "People from my hometown are gradually moving to the city to live.",
+      "Folks from my hometown are slowly relocating to the city."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chai nhựa",
+        "en": "plastic bottles"
+      },
+      {
+        "t": "vứt đầy",
+        "en": "pile up"
+      },
+      {
+        "t": "dọc bờ sông",
+        "en": "along the riverbank"
+      },
+      {
+        "t": "sau mỗi trận mưa.",
+        "en": "after every rain"
+      }
+    ],
+    "answers": [
+      "Plastic bottles pile up along the riverbank after every rain.",
+      "Plastic bottles get dumped all along the river after each rainstorm."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chú Ba trong xóm",
+        "en": "uncle Ba in our neighborhood"
+      },
+      {
+        "t": "sửa xe miễn phí",
+        "en": "fixes bikes for free"
+      },
+      {
+        "t": "cho người già.",
+        "en": "for elderly people"
+      }
+    ],
+    "answers": [
+      "Uncle Ba in our neighborhood fixes bikes for free for elderly people.",
+      "Mr. Ba from our block repairs bikes for old folks at no charge."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khu chợ cũ",
+        "en": "the old market"
+      },
+      {
+        "t": "sắp bị dỡ",
+        "en": "is about to be torn down"
+      },
+      {
+        "t": "để xây trung tâm thương mại.",
+        "en": "to build a mall"
+      }
+    ],
+    "answers": [
+      "The old market is about to be torn down to build a mall.",
+      "They are going to tear down the old market to build a shopping mall."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tổ chức từ thiện",
+        "en": "a charity"
+      },
+      {
+        "t": "phát cơm",
+        "en": "gives out meals"
+      },
+      {
+        "t": "cho người vô gia cư",
+        "en": "to homeless people"
+      },
+      {
+        "t": "mỗi tối.",
+        "en": "every evening"
+      }
+    ],
+    "answers": [
+      "A charity gives out meals to homeless people every evening.",
+      "A charity hands out food to homeless people each night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Con gái tôi",
+        "en": "my daughter"
+      },
+      {
+        "t": "buồn",
+        "en": "feels sad"
+      },
+      {
+        "t": "vì bạn cùng lớp ai cũng",
+        "en": "because all her classmates"
+      },
+      {
+        "t": "có điện thoại xịn.",
+        "en": "have fancy phones"
+      }
+    ],
+    "answers": [
+      "My daughter feels sad because all her classmates have fancy phones.",
+      "My daughter is upset because everyone in her class owns an expensive phone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tiền thuê nhà ở đây",
+        "en": "rent here"
+      },
+      {
+        "t": "rẻ hơn nhiều",
+        "en": "is much cheaper"
+      },
+      {
+        "t": "so với trung tâm.",
+        "en": "than in the center"
+      }
+    ],
+    "answers": [
+      "Rent here is much cheaper than in the center.",
+      "House rent in this area is far cheaper than downtown."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sáng nào tôi cũng",
+        "en": "every morning I"
+      },
+      {
+        "t": "phải chen chúc",
+        "en": "have to squeeze"
+      },
+      {
+        "t": "trên chuyến xe buýt đầu tiên.",
+        "en": "onto the first bus"
+      }
+    ],
+    "answers": [
+      "Every morning I have to squeeze onto the first bus.",
+      "I have to push my way onto the first bus every morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhà máy đó",
+        "en": "that factory"
+      },
+      {
+        "t": "xả khói đen",
+        "en": "releases black smoke"
+      },
+      {
+        "t": "mỗi sáng.",
+        "en": "every morning"
+      }
+    ],
+    "answers": [
+      "That factory releases black smoke every morning.",
+      "That factory lets out dark smoke each morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bản tin thời sự tối qua",
+        "en": "last night's news broadcast"
+      },
+      {
+        "t": "kéo dài",
+        "en": "lasted"
+      },
+      {
+        "t": "hơn thường lệ.",
+        "en": "longer than usual"
+      }
+    ],
+    "answers": [
+      "Last night's news broadcast lasted longer than usual.",
+      "The evening news ran longer than normal last night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vé xe buýt cho học sinh",
+        "en": "bus tickets for students"
+      },
+      {
+        "t": "giờ chỉ còn",
+        "en": "are now only"
+      },
+      {
+        "t": "một nửa giá.",
+        "en": "half price"
+      }
+    ],
+    "answers": [
+      "Bus tickets for students are now only half price.",
+      "Student bus fares are now cut to half the price."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Có gia đình",
+        "en": "some families"
+      },
+      {
+        "t": "đi nghỉ mát nước ngoài,",
+        "en": "go on vacation abroad,"
+      },
+      {
+        "t": "có gia đình",
+        "en": "others"
+      },
+      {
+        "t": "còn chưa đủ tiền đóng học.",
+        "en": "can't even afford school fees"
+      }
+    ],
+    "answers": [
+      "Some families go on vacation abroad, while others can't even afford school fees.",
+      "Some families take trips overseas, but others don't even have enough money for tuition."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bố mẹ tôi bây giờ",
+        "en": "my parents now"
+      },
+      {
+        "t": "cũng dùng mạng xã hội",
+        "en": "also use social media"
+      },
+      {
+        "t": "để đọc tin.",
+        "en": "to read the news"
+      }
+    ],
+    "answers": [
+      "My parents now use social media to read the news too.",
+      "These days my parents also use social media for news."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cửa hàng tiện lợi gần nhà",
+        "en": "the convenience store near my house"
+      },
+      {
+        "t": "lắp thêm",
+        "en": "added"
+      },
+      {
+        "t": "chuông báo trộm.",
+        "en": "an extra burglar alarm"
+      }
+    ],
+    "answers": [
+      "The convenience store near my house added an extra burglar alarm.",
+      "The corner store close to home installed another anti-theft alarm."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tuần trước,",
+        "en": "last week,"
+      },
+      {
+        "t": "đội tình nguyện",
+        "en": "the volunteer team"
+      },
+      {
+        "t": "sơn lại tường",
+        "en": "repainted the walls"
+      },
+      {
+        "t": "cho một trường mẫu giáo.",
+        "en": "of a kindergarten"
+      }
+    ],
+    "answers": [
+      "Last week, the volunteer team repainted the walls of a kindergarten.",
+      "Last week, volunteers painted the walls of a preschool."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Ở lớp học lái xe,",
+        "en": "in the driving class,"
+      },
+      {
+        "t": "có cả nam lẫn nữ",
+        "en": "there are both male and female"
+      },
+      {
+        "t": "học viên.",
+        "en": "students"
+      }
+    ],
+    "answers": [
+      "In the driving class, there are both male and female students.",
+      "The driving course has students of both genders."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều học sinh vùng núi",
+        "en": "many students in mountain areas"
+      },
+      {
+        "t": "phải đi bộ rất xa",
+        "en": "have to walk very far"
+      },
+      {
+        "t": "để đến trường.",
+        "en": "to school"
+      }
+    ],
+    "answers": [
+      "Many students in mountain areas have to walk very far to school.",
+      "A lot of students in the mountains walk a long way to get to school."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Dạo này",
+        "en": "these days"
+      },
+      {
+        "t": "công ty nào cũng",
+        "en": "every company"
+      },
+      {
+        "t": "đòi hỏi kinh nghiệm làm việc.",
+        "en": "demands work experience"
+      }
+    ],
+    "answers": [
+      "These days every company demands work experience.",
+      "Nowadays every employer requires work experience."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Con đường đất trước đây",
+        "en": "the dirt road from before"
+      },
+      {
+        "t": "giờ đã trở thành",
+        "en": "turned into"
+      },
+      {
+        "t": "phố xá sầm uất.",
+        "en": "a busy street"
+      }
+    ],
+    "answers": [
+      "The dirt road from before turned into a busy street.",
+      "That old dirt path became a bustling street."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người bán hàng rong",
+        "en": "the street vendor"
+      },
+      {
+        "t": "dùng hộp xốp",
+        "en": "uses foam boxes"
+      },
+      {
+        "t": "đựng đồ ăn.",
+        "en": "for food"
+      }
+    ],
+    "answers": [
+      "The street vendor uses foam boxes for food.",
+      "The street seller packs food in styrofoam containers."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mọi người trong hẻm",
+        "en": "everyone in the alley"
+      },
+      {
+        "t": "góp tiền",
+        "en": "chipped in"
+      },
+      {
+        "t": "sửa lại con đường chung.",
+        "en": "to fix the shared road"
+      }
+    ],
+    "answers": [
+      "Everyone in the alley chipped in to fix the shared road.",
+      "People in the alley pooled money to repair the common road."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bản đồ quy hoạch mới",
+        "en": "the new planning map"
+      },
+      {
+        "t": "có thêm",
+        "en": "includes"
+      },
+      {
+        "t": "một công viên lớn.",
+        "en": "a big park"
+      }
+    ],
+    "answers": [
+      "The new planning map includes a big park.",
+      "The new city plan adds a large park."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trời lạnh thế này,",
+        "en": "with this cold weather,"
+      },
+      {
+        "t": "tôi thấy thương",
+        "en": "I feel sorry for"
+      },
+      {
+        "t": "mấy người vô gia cư.",
+        "en": "the homeless people"
+      }
+    ],
+    "answers": [
+      "With this cold weather, I feel sorry for the homeless people.",
+      "In weather this cold, I feel bad for homeless people."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Ở tuổi ba mươi,",
+        "en": "at thirty,"
+      },
+      {
+        "t": "người ta hay hỏi tôi",
+        "en": "people often ask me"
+      },
+      {
+        "t": "bao giờ lấy chồng.",
+        "en": "when I'm getting married"
+      }
+    ],
+    "answers": [
+      "At thirty, people often ask me when I'm getting married.",
+      "When you turn thirty, people keep asking when you'll get married."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chủ nhà",
+        "en": "the landlord"
+      },
+      {
+        "t": "vừa tăng",
+        "en": "just raised"
+      },
+      {
+        "t": "tiền thuê",
+        "en": "the rent"
+      },
+      {
+        "t": "thêm một triệu.",
+        "en": "by a million dong"
+      }
+    ],
+    "answers": [
+      "The landlord just raised the rent by a million dong.",
+      "My landlord just increased the rent by a million."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Đường này đang sửa",
+        "en": "this road is under repair"
+      },
+      {
+        "t": "nên xe cộ",
+        "en": "so traffic"
+      },
+      {
+        "t": "phải đi vòng.",
+        "en": "has to go around"
+      }
+    ],
+    "answers": [
+      "This road is under repair so traffic has to go around.",
+      "They're fixing this road, so cars must take a detour."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "phân loại rác",
+        "en": "sort our trash"
+      },
+      {
+        "t": "thành ba thùng khác nhau.",
+        "en": "into three different bins"
+      }
+    ],
+    "answers": [
+      "We sort our trash into three different bins.",
+      "We separate our garbage into three different bins."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Kênh truyền hình đó",
+        "en": "that TV channel"
+      },
+      {
+        "t": "vừa đổi",
+        "en": "just changed"
+      },
+      {
+        "t": "giờ phát bản tin buổi tối.",
+        "en": "its evening news time"
+      }
+    ],
+    "answers": [
+      "That TV channel just changed its evening news time.",
+      "That channel recently moved the time of its evening broadcast."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người cao tuổi",
+        "en": "elderly people"
+      },
+      {
+        "t": "được đi xe buýt miễn phí",
+        "en": "ride the bus for free"
+      },
+      {
+        "t": "trong thành phố.",
+        "en": "in the city"
+      }
+    ],
+    "answers": [
+      "Elderly people ride the bus for free in the city.",
+      "Senior citizens get free bus rides around the city."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bạn tôi",
+        "en": "my friend"
+      },
+      {
+        "t": "đổi điện thoại mới",
+        "en": "gets a new phone"
+      },
+      {
+        "t": "mỗi năm,",
+        "en": "every year,"
+      },
+      {
+        "t": "còn tôi dùng một cái",
+        "en": "while I use the same one"
+      },
+      {
+        "t": "suốt năm năm.",
+        "en": "for five years"
+      }
+    ],
+    "answers": [
+      "My friend gets a new phone every year, but I use the same one for five years.",
+      "My friend buys a new phone every year, while I use the same one for five years."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều người trẻ",
+        "en": "many young people"
+      },
+      {
+        "t": "dùng mạng xã hội",
+        "en": "use social media"
+      },
+      {
+        "t": "để bán hàng online.",
+        "en": "to sell things online"
+      }
+    ],
+    "answers": [
+      "Many young people use social media to sell things online.",
+      "A lot of young people sell products online through social media."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chú bảo vệ khu tôi",
+        "en": "the guard in my area"
+      },
+      {
+        "t": "đi tuần",
+        "en": "patrols"
+      },
+      {
+        "t": "hai lần mỗi đêm.",
+        "en": "twice every night"
+      }
+    ],
+    "answers": [
+      "The guard in my area patrols twice every night.",
+      "Our security guard walks the area twice a night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Các bạn sinh viên",
+        "en": "students"
+      },
+      {
+        "t": "phát khẩu trang miễn phí",
+        "en": "hand out free face masks"
+      },
+      {
+        "t": "ở bến xe.",
+        "en": "at the bus station"
+      }
+    ],
+    "answers": [
+      "Students hand out free face masks at the bus station.",
+      "College students give away free masks at the bus terminal."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Ở quê tôi,",
+        "en": "in my hometown,"
+      },
+      {
+        "t": "con gái giờ cũng được đi học đại học",
+        "en": "girls now also get to go to university"
+      },
+      {
+        "t": "như con trai.",
+        "en": "like boys"
+      }
+    ],
+    "answers": [
+      "In my hometown, girls now also get to go to university like boys.",
+      "Back home, girls now go to college just like boys do."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Học sinh lớp bốn",
+        "en": "fourth graders"
+      },
+      {
+        "t": "giờ đã học",
+        "en": "now learn"
+      },
+      {
+        "t": "lập trình cơ bản.",
+        "en": "basic coding"
+      }
+    ],
+    "answers": [
+      "Fourth graders now learn basic coding.",
+      "Kids in grade four now study basic programming."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Em họ tôi",
+        "en": "my cousin"
+      },
+      {
+        "t": "đang thực tập không lương",
+        "en": "is doing an unpaid internship"
+      },
+      {
+        "t": "ở một tòa soạn báo.",
+        "en": "at a newspaper"
+      }
+    ],
+    "answers": [
+      "My cousin is doing an unpaid internship at a newspaper.",
+      "My cousin works an unpaid internship at a news office."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giờ đây làng tôi",
+        "en": "now my village"
+      },
+      {
+        "t": "có cả siêu thị",
+        "en": "has both a supermarket"
+      },
+      {
+        "t": "lẫn quán cà phê.",
+        "en": "and a coffee shop"
+      }
+    ],
+    "answers": [
+      "Now my village has both a supermarket and a coffee shop.",
+      "My village now has a supermarket as well as a cafe."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trường tôi",
+        "en": "my school"
+      },
+      {
+        "t": "đang phát động",
+        "en": "is launching"
+      },
+      {
+        "t": "phong trào không dùng đồ nhựa một lần.",
+        "en": "a campaign against single-use plastic"
+      }
+    ],
+    "answers": [
+      "My school is launching a campaign against single-use plastic.",
+      "My school is starting a movement to stop single-use plastic."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Buổi họp tổ dân phố",
+        "en": "the neighborhood meeting"
+      },
+      {
+        "t": "diễn ra",
+        "en": "happens"
+      },
+      {
+        "t": "vào tối thứ Ba.",
+        "en": "on Tuesday evening"
+      }
+    ],
+    "answers": [
+      "The neighborhood meeting happens on Tuesday evening.",
+      "The residents' meeting takes place on Tuesday night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người ta",
+        "en": "workers"
+      },
+      {
+        "t": "đang đo đạc đất",
+        "en": "are measuring the land"
+      },
+      {
+        "t": "để mở đường mới.",
+        "en": "to open a new road"
+      }
+    ],
+    "answers": [
+      "Workers are measuring the land to open a new road.",
+      "They're surveying the land to build a new road."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Năm ngoái",
+        "en": "last year"
+      },
+      {
+        "t": "anh ấy vô gia cư,",
+        "en": "he was homeless,"
+      },
+      {
+        "t": "nhưng năm nay",
+        "en": "but this year"
+      },
+      {
+        "t": "anh ấy có việc làm ổn định.",
+        "en": "he has a stable job"
+      }
+    ],
+    "answers": [
+      "Last year he was homeless, but this year he has a stable job.",
+      "He was homeless last year, but now he has steady work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều bạn trẻ",
+        "en": "many young people"
+      },
+      {
+        "t": "thấy mệt mỏi",
+        "en": "feel tired"
+      },
+      {
+        "t": "vì phải luôn tỏ ra vui vẻ",
+        "en": "from always having to look happy"
+      },
+      {
+        "t": "trên mạng.",
+        "en": "online"
+      }
+    ],
+    "answers": [
+      "Many young people feel tired from always having to look happy online.",
+      "A lot of young people feel exhausted always pretending to be happy online."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khu chung cư mới",
+        "en": "the new apartment complex"
+      },
+      {
+        "t": "có cả",
+        "en": "has also"
+      },
+      {
+        "t": "sân chơi cho trẻ em.",
+        "en": "a playground for children"
+      }
+    ],
+    "answers": [
+      "The new apartment complex has a playground for children too.",
+      "The new apartment building also has a kids' playground."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người đi bộ ở đây",
+        "en": "pedestrians here"
+      },
+      {
+        "t": "rất khó qua đường",
+        "en": "find it hard to cross the street"
+      },
+      {
+        "t": "vì xe chạy nhanh.",
+        "en": "because cars go fast"
+      }
+    ],
+    "answers": [
+      "Pedestrians here find it hard to cross the street because cars go fast.",
+      "It's hard for people to cross here because the traffic moves fast."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Công viên",
+        "en": "the park"
+      },
+      {
+        "t": "gần nhà tôi",
+        "en": "near my house"
+      },
+      {
+        "t": "cấm hút thuốc.",
+        "en": "bans smoking"
+      }
+    ],
+    "answers": [
+      "The park near my house bans smoking.",
+      "Smoking isn't allowed in the park near my house."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Có một bài báo",
+        "en": "there's an article"
+      },
+      {
+        "t": "viết về ô nhiễm tiếng ồn",
+        "en": "about noise pollution"
+      },
+      {
+        "t": "trong thành phố.",
+        "en": "in the city"
+      }
+    ],
+    "answers": [
+      "There's an article about noise pollution in the city.",
+      "There is a news story about noise pollution in the city."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trẻ em",
+        "en": "children"
+      },
+      {
+        "t": "dưới sáu tuổi",
+        "en": "under six"
+      },
+      {
+        "t": "được khám bệnh miễn phí.",
+        "en": "get free medical checkups"
+      }
+    ],
+    "answers": [
+      "Children under six get free medical checkups.",
+      "Kids under the age of six receive free health checkups."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Một số trẻ em",
+        "en": "some children"
+      },
+      {
+        "t": "đi học bằng xe hơi riêng,",
+        "en": "go to school by private car,"
+      },
+      {
+        "t": "số khác",
+        "en": "others"
+      },
+      {
+        "t": "đi bộ cả cây số.",
+        "en": "walk a kilometer"
+      }
+    ],
+    "answers": [
+      "Some children go to school by private car, while others walk a kilometer.",
+      "Some kids get driven to school in a private car, but others walk a whole kilometer."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cô giáo tôi",
+        "en": "my teacher"
+      },
+      {
+        "t": "cấm học sinh dùng điện thoại",
+        "en": "bans students from using phones"
+      },
+      {
+        "t": "trong giờ học.",
+        "en": "during class"
+      }
+    ],
+    "answers": [
+      "My teacher bans students from using phones during class.",
+      "My teacher doesn't allow phones in class."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Có bảng cấm đậu xe",
+        "en": "there's a no-parking sign"
+      },
+      {
+        "t": "ngay đầu ngõ",
+        "en": "right at the entrance"
+      },
+      {
+        "t": "nhà tôi.",
+        "en": "to my alley"
+      }
+    ],
+    "answers": [
+      "There's a no-parking sign right at the entrance to my alley.",
+      "A no-parking sign stands right at my alley entrance."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Hội phụ nữ trong xóm",
+        "en": "the women's association in the neighborhood"
+      },
+      {
+        "t": "nấu cơm từ thiện",
+        "en": "cooks charity meals"
+      },
+      {
+        "t": "mỗi thứ Bảy.",
+        "en": "every Saturday"
+      }
+    ],
+    "answers": [
+      "The women's association in the neighborhood cooks charity meals every Saturday.",
+      "The neighborhood women's group makes charity meals every Saturday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giờ đây,",
+        "en": "nowadays,"
+      },
+      {
+        "t": "nhiều ông bố",
+        "en": "many fathers"
+      },
+      {
+        "t": "cũng ở nhà",
+        "en": "also stay home"
+      },
+      {
+        "t": "chăm con nhỏ.",
+        "en": "to look after young children"
+      }
+    ],
+    "answers": [
+      "Nowadays, many fathers also stay home to look after young children.",
+      "These days, a lot of dads stay home taking care of small kids too."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trường làng tôi",
+        "en": "my village school"
+      },
+      {
+        "t": "thiếu",
+        "en": "lacks"
+      },
+      {
+        "t": "giáo viên dạy tiếng Anh.",
+        "en": "English teachers"
+      }
+    ],
+    "answers": [
+      "My village school lacks English teachers.",
+      "My village school doesn't have enough English teachers."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cô ấy nghỉ việc văn phòng",
+        "en": "she quit her office job"
+      },
+      {
+        "t": "để mở",
+        "en": "to open"
+      },
+      {
+        "t": "một quán cà phê nhỏ.",
+        "en": "a small coffee shop"
+      }
+    ],
+    "answers": [
+      "She quit her office job to open a small coffee shop.",
+      "She left her desk job to start a little cafe."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Đường sá",
+        "en": "the roads"
+      },
+      {
+        "t": "ở quê tôi",
+        "en": "in my hometown"
+      },
+      {
+        "t": "giờ được trải nhựa hết rồi.",
+        "en": "are now all paved"
+      }
+    ],
+    "answers": [
+      "The roads in my hometown are now all paved.",
+      "All the roads back home got paved now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chợ đầu mối này",
+        "en": "this wholesale market"
+      },
+      {
+        "t": "thải ra rất nhiều túi nylon",
+        "en": "throws out a lot of plastic bags"
+      },
+      {
+        "t": "mỗi ngày.",
+        "en": "every day"
+      }
+    ],
+    "answers": [
+      "This wholesale market throws out a lot of plastic bags every day.",
+      "This wholesale market produces tons of nylon bags daily."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trẻ con trong xóm",
+        "en": "kids in the neighborhood"
+      },
+      {
+        "t": "hay chơi đá bóng",
+        "en": "often play soccer"
+      },
+      {
+        "t": "ở bãi đất trống.",
+        "en": "in the empty lot"
+      }
+    ],
+    "answers": [
+      "Kids in the neighborhood often play soccer in the empty lot.",
+      "Children in the block usually play football on the vacant lot."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chính quyền",
+        "en": "the authorities"
+      },
+      {
+        "t": "vừa sơn lại",
+        "en": "just repainted"
+      },
+      {
+        "t": "vạch kẻ đường",
+        "en": "the lane markings"
+      },
+      {
+        "t": "trên phố chính.",
+        "en": "on the main street"
+      }
+    ],
+    "answers": [
+      "The authorities just repainted the lane markings on the main street.",
+      "The local government just redid the road lines on the main street."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Đêm nay trời mưa to,",
+        "en": "it's raining hard tonight,"
+      },
+      {
+        "t": "chắc mấy người vô gia cư",
+        "en": "the homeless people must be"
+      },
+      {
+        "t": "lạnh lắm.",
+        "en": "very cold"
+      }
+    ],
+    "answers": [
+      "It's raining hard tonight, so the homeless people must be very cold.",
+      "It's pouring tonight — the homeless people are probably freezing."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bạn tôi ngại về quê ăn Tết",
+        "en": "my friend dreads going home for Tet"
+      },
+      {
+        "t": "vì họ hàng hay hỏi",
+        "en": "because relatives always ask"
+      },
+      {
+        "t": "chuyện lương.",
+        "en": "about salary"
+      }
+    ],
+    "answers": [
+      "My friend dreads going home for Tet because relatives always ask about salary.",
+      "My friend hates going back home for Tet because relatives keep asking about pay."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giá đất ở vùng ven",
+        "en": "land prices on the outskirts"
+      },
+      {
+        "t": "đang tăng",
+        "en": "are rising"
+      },
+      {
+        "t": "từng tháng.",
+        "en": "every month"
+      }
+    ],
+    "answers": [
+      "Land prices on the outskirts are rising every month.",
+      "Land prices in the suburbs go up month by month."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cây cầu này",
+        "en": "this bridge"
+      },
+      {
+        "t": "chỉ có một làn xe",
+        "en": "has only one lane"
+      },
+      {
+        "t": "nên hay bị kẹt.",
+        "en": "so it often gets jammed"
+      }
+    ],
+    "answers": [
+      "This bridge has only one lane, so it often gets jammed.",
+      "This bridge has just a single lane, which often causes traffic jams."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người dân ở đây",
+        "en": "people here"
+      },
+      {
+        "t": "tự trồng rau",
+        "en": "grow their own vegetables"
+      },
+      {
+        "t": "trên sân thượng.",
+        "en": "on the rooftop"
+      }
+    ],
+    "answers": [
+      "People here grow their own vegetables on the rooftop.",
+      "Residents here grow vegetables on their rooftops."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Đài truyền hình địa phương",
+        "en": "the local TV station"
+      },
+      {
+        "t": "phỏng vấn người dân",
+        "en": "interviews people"
+      },
+      {
+        "t": "về giá thực phẩm.",
+        "en": "about food prices"
+      }
+    ],
+    "answers": [
+      "The local TV station interviews people about food prices.",
+      "The local television station talks to residents about food prices."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều trẻ em ở vùng sâu vùng xa",
+        "en": "many children in remote areas"
+      },
+      {
+        "t": "không biết",
+        "en": "don't know"
+      },
+      {
+        "t": "internet là gì.",
+        "en": "what the internet is"
+      }
+    ],
+    "answers": [
+      "Many children in remote areas don't know what the internet is.",
+      "A lot of kids in remote areas have no idea what the internet is."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Hội phụ huynh",
+        "en": "the parents' group"
+      },
+      {
+        "t": "lo lắng về",
+        "en": "worries about"
+      },
+      {
+        "t": "giờ dùng điện thoại của con cái.",
+        "en": "their children's phone time"
+      }
+    ],
+    "answers": [
+      "The parents' group worries about their children's phone time.",
+      "The parent association is concerned about how much time kids spend on phones."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều phụ huynh",
+        "en": "many parents"
+      },
+      {
+        "t": "cho con học thêm",
+        "en": "send their kids to extra classes"
+      },
+      {
+        "t": "cả cuối tuần.",
+        "en": "even on weekends"
+      }
+    ],
+    "answers": [
+      "Many parents send their kids to extra classes even on weekends.",
+      "A lot of parents make their children take extra lessons even on weekends."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu giá nhà",
+        "en": "if house prices"
+      },
+      {
+        "t": "tiếp tục tăng như thế này,",
+        "en": "keep rising like this,"
+      },
+      {
+        "t": "nhiều người trẻ",
+        "en": "many young people"
+      },
+      {
+        "t": "sẽ không bao giờ",
+        "en": "will never"
+      },
+      {
+        "t": "mua nổi nhà.",
+        "en": "be able to afford a house"
+      }
+    ],
+    "answers": [
+      "If house prices keep rising like this, many young people will never be able to afford a house.",
+      "If housing prices continue to go up this way, a lot of young people will never afford to buy one."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì đường bị tắc nghiêm trọng,",
+        "en": "because the traffic was seriously jammed,"
+      },
+      {
+        "t": "tôi đã phải",
+        "en": "I had to"
+      },
+      {
+        "t": "bỏ cuộc họp giữa chừng.",
+        "en": "leave the meeting halfway through"
+      }
+    ],
+    "answers": [
+      "Because the traffic was seriously jammed, I had to leave the meeting halfway through.",
+      "Since the road was badly jammed, I ended up leaving the meeting early."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù thành phố",
+        "en": "although the city"
+      },
+      {
+        "t": "đã trồng thêm cây xanh,",
+        "en": "has planted more trees,"
+      },
+      {
+        "t": "không khí",
+        "en": "the air"
+      },
+      {
+        "t": "vẫn chưa cải thiện nhiều.",
+        "en": "hasn't improved much"
+      }
+    ],
+    "answers": [
+      "Although the city has planted more trees, the air hasn't improved much.",
+      "Even though the city has added more trees, air quality still hasn't gotten much better."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi tôi bật tivi lên,",
+        "en": "when I turned on the TV,"
+      },
+      {
+        "t": "bản tin đang nói về",
+        "en": "the news was talking about"
+      },
+      {
+        "t": "một cuộc biểu tình lớn.",
+        "en": "a big protest"
+      }
+    ],
+    "answers": [
+      "When I turned on the TV, the news was talking about a big protest.",
+      "When I switched on the television, they were reporting on a large protest."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi chính sách mới được đưa ra,",
+        "en": "after the new policy was introduced,"
+      },
+      {
+        "t": "nhiều gia đình",
+        "en": "many families"
+      },
+      {
+        "t": "đã đăng ký nhận hỗ trợ.",
+        "en": "signed up for support"
+      }
+    ],
+    "answers": [
+      "After the new policy was introduced, many families signed up for support.",
+      "After the new policy came out, a lot of families applied for help."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trước khi chuyển đến khu này,",
+        "en": "before I moved to this area,"
+      },
+      {
+        "t": "tôi không nhận ra",
+        "en": "I didn't realize"
+      },
+      {
+        "t": "khoảng cách giàu nghèo",
+        "en": "the wealth gap"
+      },
+      {
+        "t": "rõ đến vậy.",
+        "en": "was this obvious"
+      }
+    ],
+    "answers": [
+      "Before I moved to this area, I didn't realize the wealth gap was this obvious.",
+      "Before I moved here, I never noticed the gap between rich and poor was so clear."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Con tôi dùng mạng xã hội nhiều",
+        "en": "my kid uses social media so much"
+      },
+      {
+        "t": "đến mức",
+        "en": "that"
+      },
+      {
+        "t": "tôi phải tắt wifi",
+        "en": "I have to turn off the wifi"
+      },
+      {
+        "t": "vào buổi tối.",
+        "en": "at night"
+      }
+    ],
+    "answers": [
+      "My kid uses social media so much that I have to turn off the wifi at night.",
+      "My child spends so much time on social media that I turn off the wifi in the evenings."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Từ khi lắp camera,",
+        "en": "since the cameras were installed,"
+      },
+      {
+        "t": "khu tôi",
+        "en": "my neighborhood"
+      },
+      {
+        "t": "hầu như không còn",
+        "en": "has had almost no"
+      },
+      {
+        "t": "vụ trộm nào nữa.",
+        "en": "thefts"
+      }
+    ],
+    "answers": [
+      "Since the cameras were installed, my neighborhood has had almost no thefts.",
+      "Ever since we put up the cameras, there have hardly been any break-ins in my area."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tôi tham gia tình nguyện",
+        "en": "I take part in volunteering"
+      },
+      {
+        "t": "vì tôi muốn",
+        "en": "because I want"
+      },
+      {
+        "t": "làm gì đó có ích",
+        "en": "to do something useful"
+      },
+      {
+        "t": "cho cộng đồng.",
+        "en": "for the community"
+      }
+    ],
+    "answers": [
+      "I take part in volunteering because I want to do something useful for the community.",
+      "I volunteer because I want to give something back to the community."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Hồi trước,",
+        "en": "in the past,"
+      },
+      {
+        "t": "phụ nữ ở làng tôi",
+        "en": "women in my village"
+      },
+      {
+        "t": "hiếm khi được đi học đại học.",
+        "en": "rarely went to university"
+      }
+    ],
+    "answers": [
+      "Women in my village used to rarely go to university.",
+      "In the past, women from my village rarely went to college."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu trường không tăng học phí,",
+        "en": "if the school doesn't raise tuition,"
+      },
+      {
+        "t": "nhiều phụ huynh",
+        "en": "many parents"
+      },
+      {
+        "t": "sẽ bớt lo lắng hơn.",
+        "en": "will worry less"
+      }
+    ],
+    "answers": [
+      "If the school doesn't raise tuition, many parents will worry less.",
+      "If tuition fees don't go up, many parents will feel less anxious."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Anh ấy đã nộp đơn xin việc",
+        "en": "he has applied"
+      },
+      {
+        "t": "ở hơn hai mươi công ty",
+        "en": "to more than twenty companies"
+      },
+      {
+        "t": "nhưng vẫn chưa nhận được câu trả lời.",
+        "en": "but still hasn't gotten a reply"
+      }
+    ],
+    "answers": [
+      "He has applied to more than twenty companies but still hasn't gotten a reply.",
+      "He's sent applications to over twenty companies and still hasn't heard back."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi tôi còn nhỏ,",
+        "en": "when I was little,"
+      },
+      {
+        "t": "khu này toàn ruộng lúa,",
+        "en": "this area was all rice fields,"
+      },
+      {
+        "t": "không hề có nhà cao tầng.",
+        "en": "with no high-rises at all"
+      }
+    ],
+    "answers": [
+      "When I was little, this area was all rice fields, with no high-rises at all.",
+      "When I was a kid, this place used to be all paddy fields, not a single tall building."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù nhiều người",
+        "en": "although many people"
+      },
+      {
+        "t": "đã bắt đầu mang túi vải đi chợ,",
+        "en": "have started bringing cloth bags to the market,"
+      },
+      {
+        "t": "rác nhựa vẫn là vấn đề lớn.",
+        "en": "plastic waste is still a big problem"
+      }
+    ],
+    "answers": [
+      "Although many people have started bringing cloth bags to the market, plastic waste is still a big problem.",
+      "Even though a lot of people now bring their own bags to the market, plastic waste remains a major issue."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chúng tôi đã sống ở đây được mười năm",
+        "en": "we've lived here for ten years"
+      },
+      {
+        "t": "nên",
+        "en": "so"
+      },
+      {
+        "t": "biết gần hết hàng xóm.",
+        "en": "we know almost all our neighbors"
+      }
+    ],
+    "answers": [
+      "We've lived here for ten years, so we know almost all our neighbors.",
+      "We have been living in this area for a decade, so we know nearly everyone nearby."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trong khi thành phố đang mở rộng đường,",
+        "en": "while the city is widening the road,"
+      },
+      {
+        "t": "người dân xung quanh",
+        "en": "nearby residents"
+      },
+      {
+        "t": "phải chịu bụi bặm suốt.",
+        "en": "have to put up with dust all the time"
+      }
+    ],
+    "answers": [
+      "While the city is widening the road, nearby residents have to put up with dust all the time.",
+      "While the road is being widened, people living nearby keep putting up with constant dust."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi mất việc,",
+        "en": "after losing his job,"
+      },
+      {
+        "t": "anh ấy dần dần",
+        "en": "he gradually"
+      },
+      {
+        "t": "trở thành người vô gia cư.",
+        "en": "became homeless"
+      }
+    ],
+    "answers": [
+      "After losing his job, he gradually became homeless.",
+      "After he lost his job, he slowly ended up living on the streets."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều bạn trẻ bỏ cuộc giữa chừng",
+        "en": "many young people give up halfway"
+      },
+      {
+        "t": "vì áp lực",
+        "en": "because of the pressure"
+      },
+      {
+        "t": "phải thành công nhanh.",
+        "en": "to succeed quickly"
+      }
+    ],
+    "answers": [
+      "Many young people give up halfway because of the pressure to succeed quickly.",
+      "A lot of young people drop out halfway due to the pressure to be successful fast."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu tiền thuê nhà rẻ hơn,",
+        "en": "if rent gets cheaper,"
+      },
+      {
+        "t": "tôi sẽ chuyển ra ở riêng",
+        "en": "I will move out on my own"
+      },
+      {
+        "t": "ngay.",
+        "en": "right away"
+      }
+    ],
+    "answers": [
+      "If rent gets cheaper, I will move out right away.",
+      "If the rent is cheaper, I'll move out on my own immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tôi đang đi xe máy",
+        "en": "I was riding my motorbike"
+      },
+      {
+        "t": "thì trời đổ mưa",
+        "en": "when it suddenly poured"
+      },
+      {
+        "t": "như trút nước.",
+        "en": "with rain"
+      }
+    ],
+    "answers": [
+      "I was riding my motorbike when it suddenly poured with rain.",
+      "I was on my bike when the rain started pouring down."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người dân đã phàn nàn nhiều lần",
+        "en": "residents have complained many times"
+      },
+      {
+        "t": "nhưng nhà máy vẫn xả thải",
+        "en": "but the factory still dumps waste"
+      },
+      {
+        "t": "ra sông.",
+        "en": "into the river"
+      }
+    ],
+    "answers": [
+      "Residents have complained many times, but the factory still dumps waste into the river.",
+      "People have filed complaints repeatedly, but the factory keeps dumping waste in the river."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi bài báo đó được đăng,",
+        "en": "when that article was published,"
+      },
+      {
+        "t": "cả mạng xã hội",
+        "en": "all of social media"
+      },
+      {
+        "t": "đã dậy sóng.",
+        "en": "blew up"
+      }
+    ],
+    "answers": [
+      "When that article was published, all of social media blew up.",
+      "When the story came out, social media went crazy over it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù chính sách nghe hay,",
+        "en": "although the policy sounds good,"
+      },
+      {
+        "t": "nhiều người dân",
+        "en": "many people"
+      },
+      {
+        "t": "vẫn không biết cách đăng ký.",
+        "en": "still don't know how to register"
+      }
+    ],
+    "answers": [
+      "Although the policy sounds good, many people still don't know how to register.",
+      "Even though the policy sounds great, a lot of people still don't know how to sign up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì gia đình khó khăn,",
+        "en": "because her family struggled financially,"
+      },
+      {
+        "t": "cô ấy phải nghỉ học",
+        "en": "she had to drop out of school"
+      },
+      {
+        "t": "từ năm mười lăm tuổi.",
+        "en": "at fifteen"
+      }
+    ],
+    "answers": [
+      "Because her family struggled financially, she had to drop out of school at fifteen.",
+      "Since her family was poor, she had to quit school when she was fifteen."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tôi từng dùng mạng xã hội cả ngày,",
+        "en": "I used to be on social media all day,"
+      },
+      {
+        "t": "nhưng giờ tôi cố",
+        "en": "but now I try"
+      },
+      {
+        "t": "giảm bớt.",
+        "en": "to cut back"
+      }
+    ],
+    "answers": [
+      "I used to be on social media all day, but now I try to cut back.",
+      "I used to spend the whole day on social media, but I'm trying to cut down now."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu ai đó thấy điều gì khả nghi,",
+        "en": "if anyone notices something suspicious,"
+      },
+      {
+        "t": "họ nên báo ngay",
+        "en": "they should report it right away"
+      },
+      {
+        "t": "cho tổ trưởng.",
+        "en": "to the block leader"
+      }
+    ],
+    "answers": [
+      "If anyone notices something suspicious, they should report it to the block leader right away.",
+      "If someone sees anything suspicious, they should tell the neighborhood leader immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi tốt nghiệp,",
+        "en": "after graduating,"
+      },
+      {
+        "t": "tôi đã dành cả năm",
+        "en": "I spent a whole year"
+      },
+      {
+        "t": "để đi tình nguyện ở vùng cao.",
+        "en": "volunteering in the highlands"
+      }
+    ],
+    "answers": [
+      "After graduating, I spent a whole year volunteering in the highlands.",
+      "After I graduated, I spent an entire year doing volunteer work in the mountains."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù luật đã thay đổi,",
+        "en": "although the law has changed,"
+      },
+      {
+        "t": "nhiều nơi vẫn ưu tiên",
+        "en": "many places still prefer"
+      },
+      {
+        "t": "tuyển nam hơn nữ.",
+        "en": "hiring men over women"
+      }
+    ],
+    "answers": [
+      "Although the law has changed, many places still prefer hiring men over women.",
+      "Even though the law has been updated, a lot of places still favor male candidates over female ones."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi tôi còn đi học,",
+        "en": "when I was in school,"
+      },
+      {
+        "t": "chúng tôi phải học thuộc lòng",
+        "en": "we had to memorize"
+      },
+      {
+        "t": "rất nhiều.",
+        "en": "a lot"
+      }
+    ],
+    "answers": [
+      "When I was in school, we had to memorize a lot.",
+      "When I was a student, we had to learn a lot of things by heart."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cô ấy đã bỏ việc lương cao",
+        "en": "she has quit her high-paying job"
+      },
+      {
+        "t": "để theo đuổi",
+        "en": "to pursue"
+      },
+      {
+        "t": "công việc mình thích.",
+        "en": "the work she loves"
+      }
+    ],
+    "answers": [
+      "She has quit her high-paying job to pursue the work she loves.",
+      "She's given up a well-paid job to follow the career she really wants."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì đô thị hóa quá nhanh,",
+        "en": "because urbanization happened so fast,"
+      },
+      {
+        "t": "hệ thống thoát nước",
+        "en": "the drainage system"
+      },
+      {
+        "t": "không theo kịp.",
+        "en": "couldn't keep up"
+      }
+    ],
+    "answers": [
+      "Because urbanization happened so fast, the drainage system couldn't keep up.",
+      "Since urbanization moved too quickly, the drainage system fell behind."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu mọi người mang theo bình nước riêng,",
+        "en": "if everyone brings their own water bottle,"
+      },
+      {
+        "t": "chúng ta sẽ giảm được",
+        "en": "we will cut down"
+      },
+      {
+        "t": "rất nhiều rác nhựa.",
+        "en": "a lot of plastic waste"
+      }
+    ],
+    "answers": [
+      "If everyone brings their own water bottle, we will cut down a lot of plastic waste.",
+      "If people carry their own water bottles, we'll reduce plastic waste significantly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trong khi tôi đang tưới cây,",
+        "en": "while I was watering the plants,"
+      },
+      {
+        "t": "hàng xóm ghé qua",
+        "en": "my neighbor dropped by"
+      },
+      {
+        "t": "hỏi thăm.",
+        "en": "to say hello"
+      }
+    ],
+    "answers": [
+      "While I was watering the plants, my neighbor dropped by to say hello.",
+      "While I was watering my plants, a neighbor stopped by to chat."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi bản quy hoạch được công bố,",
+        "en": "after the plan was announced,"
+      },
+      {
+        "t": "nhiều người dân",
+        "en": "many residents"
+      },
+      {
+        "t": "đã phản đối việc di dời.",
+        "en": "opposed the relocation"
+      }
+    ],
+    "answers": [
+      "After the plan was announced, many residents opposed the relocation.",
+      "After the plan came out, a lot of residents pushed back against being relocated."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù chính quyền",
+        "en": "although the authorities"
+      },
+      {
+        "t": "đã mở thêm nhà tạm trú,",
+        "en": "have opened more shelters,"
+      },
+      {
+        "t": "số người vô gia cư",
+        "en": "the number of homeless people"
+      },
+      {
+        "t": "vẫn không giảm.",
+        "en": "hasn't gone down"
+      }
+    ],
+    "answers": [
+      "Although the authorities have opened more shelters, the number of homeless people hasn't gone down.",
+      "Even though the government has added more shelters, homelessness hasn't decreased."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì sợ bị so sánh,",
+        "en": "because they're afraid of being compared,"
+      },
+      {
+        "t": "nhiều bạn trẻ",
+        "en": "many young people"
+      },
+      {
+        "t": "không dám chia sẻ khó khăn của mình.",
+        "en": "don't dare share their struggles"
+      }
+    ],
+    "answers": [
+      "Because they're afraid of being compared, many young people don't dare share their struggles.",
+      "Since they fear being compared to others, a lot of young people hesitate to open up about their problems."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Anh tôi đã tiết kiệm suốt năm năm",
+        "en": "my brother has saved for five whole years"
+      },
+      {
+        "t": "mới đủ tiền",
+        "en": "just to have enough"
+      },
+      {
+        "t": "đặt cọc mua nhà.",
+        "en": "for a down payment"
+      }
+    ],
+    "answers": [
+      "My brother has saved for five whole years just to have enough for a down payment.",
+      "My brother saved money for five years before he had enough for a house deposit."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu chính quyền xây thêm cầu vượt,",
+        "en": "if the authorities build more overpasses,"
+      },
+      {
+        "t": "tình trạng kẹt xe",
+        "en": "the traffic jam situation"
+      },
+      {
+        "t": "sẽ đỡ hơn nhiều.",
+        "en": "will improve a lot"
+      }
+    ],
+    "answers": [
+      "If the authorities build more overpasses, the traffic jam situation will improve a lot.",
+      "If the local government builds more flyovers, congestion will get much better."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi trời nắng gắt,",
+        "en": "when it's extremely sunny,"
+      },
+      {
+        "t": "chất lượng không khí ở đây",
+        "en": "the air quality here"
+      },
+      {
+        "t": "tệ hẳn đi.",
+        "en": "gets a lot worse"
+      }
+    ],
+    "answers": [
+      "When it's extremely sunny, the air quality here gets a lot worse.",
+      "When the weather is very hot and sunny, air quality here drops noticeably."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù tin đó chưa được xác nhận,",
+        "en": "although that news hasn't been confirmed,"
+      },
+      {
+        "t": "mọi người vẫn chia sẻ",
+        "en": "people are still sharing it"
+      },
+      {
+        "t": "khắp nơi.",
+        "en": "everywhere"
+      }
+    ],
+    "answers": [
+      "Although that news hasn't been confirmed, people are still sharing it everywhere.",
+      "Even though the story is still unconfirmed, everyone keeps sharing it around."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi chương trình hỗ trợ kết thúc,",
+        "en": "when the support program ended,"
+      },
+      {
+        "t": "nhiều hộ nghèo",
+        "en": "many poor households"
+      },
+      {
+        "t": "lại gặp khó khăn.",
+        "en": "struggled again"
+      }
+    ],
+    "answers": [
+      "When the support program ended, many poor households struggled again.",
+      "When the assistance program came to an end, a lot of low-income families ran into trouble again."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trong khi một số người sống trong biệt thự,",
+        "en": "while some people live in mansions,"
+      },
+      {
+        "t": "nhiều người khác",
+        "en": "many others"
+      },
+      {
+        "t": "vẫn chật vật từng bữa ăn.",
+        "en": "still struggle for every meal"
+      }
+    ],
+    "answers": [
+      "While some people live in mansions, many others still struggle for every meal.",
+      "While some people live in huge villas, plenty of others still struggle to put food on the table."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Con gái tôi đã xóa hết",
+        "en": "my daughter has deleted all"
+      },
+      {
+        "t": "ứng dụng mạng xã hội",
+        "en": "her social media apps"
+      },
+      {
+        "t": "vì thấy quá mệt mỏi.",
+        "en": "because she felt too exhausted"
+      }
+    ],
+    "answers": [
+      "My daughter has deleted all her social media apps because she felt too exhausted.",
+      "My daughter deleted every social media app since she was feeling too worn out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi khu này lắp đèn đường mới,",
+        "en": "after this area installed new streetlights,"
+      },
+      {
+        "t": "mọi người cảm thấy an toàn hơn",
+        "en": "people feel safer"
+      },
+      {
+        "t": "khi về khuya.",
+        "en": "coming home late"
+      }
+    ],
+    "answers": [
+      "After this area installed new streetlights, people feel safer coming home late.",
+      "After the new streetlights went up, residents feel more secure walking home late at night."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù trời mưa,",
+        "en": "although it was raining,"
+      },
+      {
+        "t": "nhóm tình nguyện vẫn đi",
+        "en": "the volunteer group still went"
+      },
+      {
+        "t": "phát quà cho trẻ mồ côi.",
+        "en": "to give gifts to orphans"
+      }
+    ],
+    "answers": [
+      "Although it was raining, the volunteer group still went to give gifts to orphans.",
+      "Even though it was raining, the volunteers still went out to hand out gifts to orphans."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu công ty trả lương công bằng hơn,",
+        "en": "if the company pays more fairly,"
+      },
+      {
+        "t": "nhiều nhân viên nữ",
+        "en": "many female employees"
+      },
+      {
+        "t": "sẽ gắn bó lâu dài.",
+        "en": "will stay long-term"
+      }
+    ],
+    "answers": [
+      "If the company pays more fairly, many female employees will stay long-term.",
+      "If the company offers fairer pay, a lot of women will stick around longer."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tôi đã phải bỏ ra rất nhiều tiền",
+        "en": "I have spent a lot of money"
+      },
+      {
+        "t": "cho con học thêm",
+        "en": "on extra classes for my child"
+      },
+      {
+        "t": "nhưng kết quả không như mong đợi.",
+        "en": "but the results weren't as expected"
+      }
+    ],
+    "answers": [
+      "I have spent a lot of money on extra classes for my child, but the results weren't as expected.",
+      "I've paid a lot for my kid's tutoring, but the outcome hasn't matched what I hoped for."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi mới ra trường,",
+        "en": "when I first graduated,"
+      },
+      {
+        "t": "tôi từng làm",
+        "en": "I used to work"
+      },
+      {
+        "t": "ba công việc bán thời gian cùng lúc.",
+        "en": "three part-time jobs at once"
+      }
+    ],
+    "answers": [
+      "When I first graduated, I used to work three part-time jobs at once.",
+      "Right after graduating, I used to hold three part-time jobs at the same time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì thành phố mở rộng quá nhanh,",
+        "en": "because the city expanded so fast,"
+      },
+      {
+        "t": "nhiều làng quê gần đó",
+        "en": "many nearby villages"
+      },
+      {
+        "t": "bị cuốn theo.",
+        "en": "got swept up in it"
+      }
+    ],
+    "answers": [
+      "Because the city expanded so fast, many nearby villages got swept up in it.",
+      "Since the city grew too quickly, a lot of nearby villages were pulled into it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi xem một bộ phim tài liệu về rác nhựa,",
+        "en": "after watching a documentary about plastic waste,"
+      },
+      {
+        "t": "tôi bắt đầu",
+        "en": "I started"
+      },
+      {
+        "t": "hạn chế đồ nhựa dùng một lần.",
+        "en": "cutting back on single-use plastic"
+      }
+    ],
+    "answers": [
+      "After watching a documentary about plastic waste, I started cutting back on single-use plastic.",
+      "After I saw a documentary on plastic pollution, I began reducing single-use plastic items."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù mới chuyển đến,",
+        "en": "although I just moved here,"
+      },
+      {
+        "t": "tôi đã quen được",
+        "en": "I've already gotten to know"
+      },
+      {
+        "t": "vài người hàng xóm tốt bụng.",
+        "en": "some kind neighbors"
+      }
+    ],
+    "answers": [
+      "Although I just moved here, I've already gotten to know some kind neighbors.",
+      "Even though I'm new here, I've already made friends with a few kind neighbors."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu thành phố không quy hoạch cẩn thận,",
+        "en": "if the city doesn't plan carefully,"
+      },
+      {
+        "t": "tình trạng ngập lụt",
+        "en": "the flooding situation"
+      },
+      {
+        "t": "sẽ càng tệ hơn.",
+        "en": "will get even worse"
+      }
+    ],
+    "answers": [
+      "If the city doesn't plan carefully, the flooding situation will get even worse.",
+      "If urban planning isn't done carefully, flooding will become even more serious."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trong khi đi làm về,",
+        "en": "while walking home from work,"
+      },
+      {
+        "t": "tôi thường gặp",
+        "en": "I often come across"
+      },
+      {
+        "t": "một bác vô gia cư",
+        "en": "a homeless man"
+      },
+      {
+        "t": "ngồi ở trạm xe buýt.",
+        "en": "sitting at the bus stop"
+      }
+    ],
+    "answers": [
+      "While walking home from work, I often come across a homeless man sitting at the bus stop.",
+      "While heading home from work, I often run into a homeless man at the bus stop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì bạn bè ai cũng đã lập gia đình,",
+        "en": "because all her friends have gotten married,"
+      },
+      {
+        "t": "cô ấy bắt đầu",
+        "en": "she has started"
+      },
+      {
+        "t": "cảm thấy lo lắng cho bản thân.",
+        "en": "to feel anxious about herself"
+      }
+    ],
+    "answers": [
+      "Because all her friends have gotten married, she has started to feel anxious about herself.",
+      "Since all her friends have settled down, she's begun to worry about her own life."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù đã tiết kiệm rất nhiều,",
+        "en": "although they had saved a lot,"
+      },
+      {
+        "t": "họ vẫn phải vay ngân hàng",
+        "en": "they still had to borrow from the bank"
+      },
+      {
+        "t": "để mua nhà.",
+        "en": "to buy a house"
+      }
+    ],
+    "answers": [
+      "Although they had saved a lot, they still had to borrow from the bank to buy a house.",
+      "Even though they'd saved a great deal, they still needed a bank loan to buy their house."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi tôi đến bến xe,",
+        "en": "when I arrived at the station,"
+      },
+      {
+        "t": "chuyến xe buýt cuối cùng",
+        "en": "the last bus"
+      },
+      {
+        "t": "vừa mới rời bến.",
+        "en": "just left"
+      }
+    ],
+    "answers": [
+      "When I arrived at the station, the last bus just left.",
+      "When I got to the bus station, the final bus pulled out right before I arrived."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nhiều người",
+        "en": "many people"
+      },
+      {
+        "t": "đã chuyển sang dùng xe đạp",
+        "en": "have switched to bikes"
+      },
+      {
+        "t": "vì lo ngại về ô nhiễm không khí.",
+        "en": "because they're worried about air pollution"
+      }
+    ],
+    "answers": [
+      "Many people have switched to bikes because they're worried about air pollution.",
+      "A lot of people have moved to cycling out of concern for air pollution."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi tin giả lan truyền,",
+        "en": "after the fake news spread,"
+      },
+      {
+        "t": "tòa soạn phải đăng",
+        "en": "the newspaper had to publish"
+      },
+      {
+        "t": "bài đính chính.",
+        "en": "a correction"
+      }
+    ],
+    "answers": [
+      "After the fake news spread, the newspaper had to publish a correction.",
+      "After the false story went around, the paper had to put out a correction."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu người dân không hiểu rõ chính sách,",
+        "en": "if people don't clearly understand the policy,"
+      },
+      {
+        "t": "họ sẽ khó mà tận dụng",
+        "en": "they will find it hard to make use"
+      },
+      {
+        "t": "được nó.",
+        "en": "of it"
+      }
+    ],
+    "answers": [
+      "If people don't clearly understand the policy, they will find it hard to make use of it.",
+      "If residents aren't clear on the policy, it will be hard for them to benefit from it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Dù xuất phát điểm khác nhau,",
+        "en": "although they started from different places,"
+      },
+      {
+        "t": "cả hai đều làm việc chăm chỉ",
+        "en": "both of them work hard"
+      },
+      {
+        "t": "để lo cho gia đình.",
+        "en": "to support their families"
+      }
+    ],
+    "answers": [
+      "Although they started from different places, both of them work hard to support their families.",
+      "Even though their backgrounds were different, they both work hard to provide for their families."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cô ấy đăng ảnh sống ảo",
+        "en": "she posts fake-perfect photos"
+      },
+      {
+        "t": "suốt ngày",
+        "en": "all day long"
+      },
+      {
+        "t": "nên bạn bè bắt đầu xa lánh.",
+        "en": "so her friends have started keeping their distance"
+      }
+    ],
+    "answers": [
+      "She posts fake-perfect photos all day long, so her friends have started keeping their distance.",
+      "She keeps posting overly staged photos all the time, so friends are starting to pull away."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Từ khi có tổ tự quản,",
+        "en": "since the neighborhood watch group started,"
+      },
+      {
+        "t": "tình hình an ninh trong xóm",
+        "en": "security in our block"
+      },
+      {
+        "t": "đã cải thiện rõ rệt.",
+        "en": "has clearly improved"
+      }
+    ],
+    "answers": [
+      "Since the neighborhood watch group started, security in our block has clearly improved.",
+      "Ever since we set up a neighborhood watch, security here has gotten noticeably better."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mỗi lần đi tình nguyện về,",
+        "en": "every time I come back from volunteering,"
+      },
+      {
+        "t": "tôi luôn cảm thấy biết ơn",
+        "en": "I always feel grateful"
+      },
+      {
+        "t": "những gì mình đang có.",
+        "en": "for what I have"
+      }
+    ],
+    "answers": [
+      "Every time I come back from volunteering, I always feel grateful for what I have.",
+      "Whenever I return from a volunteer trip, I feel thankful for everything I already have."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi con gái tôi nói muốn học kỹ thuật,",
+        "en": "when my daughter said she wanted to study engineering,"
+      },
+      {
+        "t": "vài người họ hàng",
+        "en": "some relatives"
+      },
+      {
+        "t": "đã tỏ ra ngạc nhiên.",
+        "en": "were surprised"
+      }
+    ],
+    "answers": [
+      "When my daughter said she wanted to study engineering, some relatives were surprised.",
+      "When my daughter mentioned wanting to study engineering, a few relatives seemed taken aback."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu học sinh được học ít giờ hơn,",
+        "en": "if students study fewer hours,"
+      },
+      {
+        "t": "các em sẽ có",
+        "en": "they will have"
+      },
+      {
+        "t": "thời gian nghỉ ngơi nhiều hơn.",
+        "en": "more time to rest"
+      }
+    ],
+    "answers": [
+      "If students study fewer hours, they will have more time to rest.",
+      "If kids spend less time in class, they'll get more time to relax."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù có bằng đại học,",
+        "en": "although they have a university degree,"
+      },
+      {
+        "t": "nhiều bạn trẻ vẫn khó tìm được việc",
+        "en": "many young people still find it hard to get a job"
+      },
+      {
+        "t": "đúng chuyên ngành.",
+        "en": "in their field"
+      }
+    ],
+    "answers": [
+      "Although they have a university degree, many young people still find it hard to get a job in their field.",
+      "Even though they've got a college degree, a lot of young people still struggle to find work in their major."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi nhà máy mới mở,",
+        "en": "when the new factory opened,"
+      },
+      {
+        "t": "dân số ở thị trấn này",
+        "en": "the population of this town"
+      },
+      {
+        "t": "tăng lên gấp đôi.",
+        "en": "doubled"
+      }
+    ],
+    "answers": [
+      "When the new factory opened, the population of this town doubled.",
+      "When the new factory started up, this town's population doubled."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì lo cho môi trường,",
+        "en": "because they care about the environment,"
+      },
+      {
+        "t": "nhiều quán cà phê",
+        "en": "many coffee shops"
+      },
+      {
+        "t": "đã chuyển sang dùng ống hút tre.",
+        "en": "have switched to bamboo straws"
+      }
+    ],
+    "answers": [
+      "Because they care about the environment, many coffee shops have switched to bamboo straws.",
+      "Out of concern for the environment, a lot of cafes have moved to bamboo straws."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu ai đó gặp khó khăn,",
+        "en": "if someone runs into trouble,"
+      },
+      {
+        "t": "cả xóm thường xúm lại",
+        "en": "the whole neighborhood usually rallies"
+      },
+      {
+        "t": "giúp đỡ ngay.",
+        "en": "to help right away"
+      }
+    ],
+    "answers": [
+      "If someone runs into trouble, the whole neighborhood usually pitches in to help right away.",
+      "If anyone has a problem, everyone in the block tends to rally around and help immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi mở tuyến metro,",
+        "en": "after the metro line opened,"
+      },
+      {
+        "t": "giao thông ở khu trung tâm",
+        "en": "traffic in the city center"
+      },
+      {
+        "t": "đã bớt căng thẳng hơn.",
+        "en": "has become less stressful"
+      }
+    ],
+    "answers": [
+      "After the metro line opened, traffic in the city center has become less stressful.",
+      "After the subway line started running, downtown traffic has eased up quite a bit."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu có đủ nhà tạm trú,",
+        "en": "if there are enough shelters,"
+      },
+      {
+        "t": "số người phải ngủ ngoài đường",
+        "en": "the number of people sleeping on the streets"
+      },
+      {
+        "t": "sẽ giảm đi nhiều.",
+        "en": "will drop a lot"
+      }
+    ],
+    "answers": [
+      "If there are enough shelters, the number of people sleeping on the streets will drop a lot.",
+      "If enough shelters are available, far fewer people will end up sleeping outdoors."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi nghỉ việc để chăm sóc bản thân,",
+        "en": "after she quit her job to take care of herself,"
+      },
+      {
+        "t": "cô ấy mới nhận ra",
+        "en": "she realized"
+      },
+      {
+        "t": "mình đã kiệt sức từ lâu.",
+        "en": "she'd been exhausted for a long time"
+      }
+    ],
+    "answers": [
+      "After she quit her job to take care of herself, she realized she'd been exhausted for a long time.",
+      "After leaving her job to focus on herself, she finally understood she had been worn out for ages."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì không đủ tiền mua nhà,",
+        "en": "because they can't afford to buy a house,"
+      },
+      {
+        "t": "nhiều cặp vợ chồng trẻ",
+        "en": "many young couples"
+      },
+      {
+        "t": "chọn thuê chung cư nhỏ.",
+        "en": "choose to rent a small apartment"
+      }
+    ],
+    "answers": [
+      "Because they can't afford to buy a house, many young couples choose to rent a small apartment.",
+      "Since they don't have enough money for a house, a lot of young couples opt to rent small flats."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi đèn đỏ chuyển sang xanh,",
+        "en": "when the light turns green,"
+      },
+      {
+        "t": "ai cũng vội vàng phóng đi",
+        "en": "everyone rushes off"
+      },
+      {
+        "t": "cùng lúc.",
+        "en": "at the same time"
+      }
+    ],
+    "answers": [
+      "When the light turns green, everyone rushes off at the same time.",
+      "When the red light changes to green, everyone speeds off together at once."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù chai nhựa được thu gom,",
+        "en": "although plastic bottles are collected,"
+      },
+      {
+        "t": "nhiều chai vẫn trôi",
+        "en": "many still end up drifting"
+      },
+      {
+        "t": "ra biển.",
+        "en": "into the sea"
+      }
+    ],
+    "answers": [
+      "Although plastic bottles are collected, many still end up drifting into the sea.",
+      "Even though plastic bottles get collected, plenty still wash out into the ocean."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Tôi đang lướt điện thoại",
+        "en": "I was scrolling through my phone"
+      },
+      {
+        "t": "thì thấy tin",
+        "en": "when I saw the news"
+      },
+      {
+        "t": "về giá điện tăng.",
+        "en": "about rising electricity prices"
+      }
+    ],
+    "answers": [
+      "I was scrolling through my phone when I saw the news about rising electricity prices.",
+      "I was browsing my phone when I came across news of the electricity price hike."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi luật mới có hiệu lực,",
+        "en": "after the new law took effect,"
+      },
+      {
+        "t": "các cửa hàng không được bán rượu",
+        "en": "shops aren't allowed to sell alcohol"
+      },
+      {
+        "t": "sau mười giờ tối.",
+        "en": "after ten p.m."
+      }
+    ],
+    "answers": [
+      "After the new law took effect, shops aren't allowed to sell alcohol after ten p.m.",
+      "After the new law came into force, stores can't sell liquor past ten at night."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu học phí đại học rẻ hơn,",
+        "en": "if university tuition is cheaper,"
+      },
+      {
+        "t": "nhiều học sinh nghèo",
+        "en": "many poor students"
+      },
+      {
+        "t": "sẽ có cơ hội học tiếp.",
+        "en": "will get a chance to keep studying"
+      }
+    ],
+    "answers": [
+      "If university tuition is cheaper, many poor students will get a chance to keep studying.",
+      "If college fees go down, a lot of low-income students will have the chance to continue their education."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Từ khi bỏ Facebook,",
+        "en": "since I quit Facebook,"
+      },
+      {
+        "t": "tôi thấy đầu óc mình",
+        "en": "I've felt"
+      },
+      {
+        "t": "thoải mái hơn hẳn.",
+        "en": "much more relaxed"
+      }
+    ],
+    "answers": [
+      "Since I quit Facebook, I've felt much more relaxed.",
+      "Ever since giving up Facebook, my mind has felt a lot lighter."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trong khi cả nhà đi vắng,",
+        "en": "while the whole family was away,"
+      },
+      {
+        "t": "hàng xóm đã giúp",
+        "en": "the neighbor helped"
+      },
+      {
+        "t": "trông chừng nhà cửa.",
+        "en": "keep an eye on the house"
+      }
+    ],
+    "answers": [
+      "While the whole family was away, the neighbor helped keep an eye on the house.",
+      "While everyone in the family was out, a neighbor watched over the house for us."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu bạn có thời gian rảnh cuối tuần,",
+        "en": "if you have free time on the weekend,"
+      },
+      {
+        "t": "hãy thử tham gia",
+        "en": "try joining"
+      },
+      {
+        "t": "một buổi tình nguyện xem sao.",
+        "en": "a volunteer session and see how it goes"
+      }
+    ],
+    "answers": [
+      "If you have free time on the weekend, try joining a volunteer session and see how it goes.",
+      "If you're free on weekends, give volunteering a try and see how you like it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù đã có nhiều tiến bộ,",
+        "en": "although there has been a lot of progress,"
+      },
+      {
+        "t": "phụ nữ vẫn phải làm việc nhà",
+        "en": "women still do more housework"
+      },
+      {
+        "t": "nhiều hơn nam giới.",
+        "en": "than men"
+      }
+    ],
+    "answers": [
+      "Although there has been a lot of progress, women still do more housework than men.",
+      "Even though things have improved a lot, women still handle more housework than men do."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi tôi hỏi con muốn học gì,",
+        "en": "when I asked my child what she wanted to study,"
+      },
+      {
+        "t": "cháu trả lời",
+        "en": "she answered"
+      },
+      {
+        "t": "rất tự tin.",
+        "en": "very confidently"
+      }
+    ],
+    "answers": [
+      "When I asked my child what she wanted to study, she answered very confidently.",
+      "When I asked my kid what subject she wanted to pursue, she replied with real confidence."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu công ty cho làm việc từ xa,",
+        "en": "if the company allows remote work,"
+      },
+      {
+        "t": "nhiều bạn trẻ sẽ ứng tuyển",
+        "en": "many young people will apply"
+      },
+      {
+        "t": "ngay.",
+        "en": "right away"
+      }
+    ],
+    "answers": [
+      "If the company allows remote work, many young people will apply right away.",
+      "If the job offers remote work, a lot of young people will apply immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trong khi thành phố phát triển,",
+        "en": "while the city develops,"
+      },
+      {
+        "t": "một số nét văn hóa cũ",
+        "en": "some old cultural traditions"
+      },
+      {
+        "t": "dần bị mai một.",
+        "en": "are gradually fading away"
+      }
+    ],
+    "answers": [
+      "While the city develops, some old cultural traditions are gradually fading away.",
+      "As the city grows, certain old cultural customs are slowly dying out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi lệnh cấm túi nylon được ban hành,",
+        "en": "after the ban on plastic bags was issued,"
+      },
+      {
+        "t": "một số chợ vẫn lén",
+        "en": "some markets still secretly"
+      },
+      {
+        "t": "sử dụng.",
+        "en": "use them"
+      }
+    ],
+    "answers": [
+      "After the ban on plastic bags was issued, some markets still secretly use them.",
+      "After the plastic bag ban came out, a few markets still use them on the sly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì mọi người trong xóm quen biết nhau,",
+        "en": "because everyone in the neighborhood knows each other,"
+      },
+      {
+        "t": "trẻ con ở đây",
+        "en": "children here"
+      },
+      {
+        "t": "được trông chừng chung.",
+        "en": "are looked after by everyone"
+      }
+    ],
+    "answers": [
+      "Because everyone in the neighborhood knows each other, children here are looked after by everyone.",
+      "Since people in the block all know one another, kids here get watched over by the whole community."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu thành phố không kiểm soát xây dựng,",
+        "en": "if the city doesn't control construction,"
+      },
+      {
+        "t": "khu này",
+        "en": "this area"
+      },
+      {
+        "t": "sẽ sớm quá tải.",
+        "en": "will soon become overcrowded"
+      }
+    ],
+    "answers": [
+      "If the city doesn't control construction, this area will soon become overcrowded.",
+      "If building isn't regulated, this area will get overloaded pretty soon."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi trời trở lạnh,",
+        "en": "when the weather turns cold,"
+      },
+      {
+        "t": "các trung tâm cứu trợ luôn đông",
+        "en": "relief centers are always full of"
+      },
+      {
+        "t": "người vô gia cư đến xin chỗ ngủ.",
+        "en": "homeless people asking for a place to sleep"
+      }
+    ],
+    "answers": [
+      "When the weather turns cold, relief centers are always full of homeless people asking for a place to sleep.",
+      "When it gets cold, shelters are always crowded with homeless people looking for somewhere to sleep."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù không muốn,",
+        "en": "although they don't want to,"
+      },
+      {
+        "t": "nhiều người trẻ vẫn phải chạy theo",
+        "en": "many young people still have to chase"
+      },
+      {
+        "t": "tiêu chuẩn thành công của xã hội.",
+        "en": "society's standards of success"
+      }
+    ],
+    "answers": [
+      "Although they don't want to, many young people still have to chase society's standards of success.",
+      "Even though they'd rather not, a lot of young people still feel forced to keep up with society's idea of success."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu bạn không kiểm tra kỹ hợp đồng thuê nhà,",
+        "en": "if you don't check the rental contract carefully,"
+      },
+      {
+        "t": "bạn có thể gặp rắc rối",
+        "en": "you could run into trouble"
+      },
+      {
+        "t": "về sau.",
+        "en": "later"
+      }
+    ],
+    "answers": [
+      "If you don't check the rental contract carefully, you could run into trouble later.",
+      "If you don't look over the lease carefully, you might face problems down the road."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì hệ thống xe buýt công cộng chưa tốt,",
+        "en": "because the public bus system isn't great yet,"
+      },
+      {
+        "t": "nhiều người vẫn thích",
+        "en": "many people still prefer"
+      },
+      {
+        "t": "tự lái xe hơn.",
+        "en": "driving themselves"
+      }
+    ],
+    "answers": [
+      "Because the public bus system isn't great yet, many people still prefer driving themselves.",
+      "Since public buses aren't reliable enough, a lot of people still prefer to drive."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi mùa khô đến,",
+        "en": "when the dry season arrives,"
+      },
+      {
+        "t": "nhiều con sông trong vùng",
+        "en": "many rivers in the area"
+      },
+      {
+        "t": "bắt đầu cạn nước.",
+        "en": "start running low"
+      }
+    ],
+    "answers": [
+      "When the dry season arrives, many rivers in the area start running low.",
+      "When the dry season comes, rivers around here begin to dry up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì có quá nhiều tin giả,",
+        "en": "because there's so much fake news,"
+      },
+      {
+        "t": "nhiều người giờ",
+        "en": "many people now"
+      },
+      {
+        "t": "không còn tin vào mạng xã hội nữa.",
+        "en": "no longer trust social media"
+      }
+    ],
+    "answers": [
+      "Because there's so much fake news, many people no longer trust social media.",
+      "Since fake news is so common now, a lot of people don't trust social media anymore."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi biết tin được giảm thuế,",
+        "en": "when they heard about the tax cut,"
+      },
+      {
+        "t": "nhiều chủ cửa hàng nhỏ",
+        "en": "many small shop owners"
+      },
+      {
+        "t": "đã thở phào nhẹ nhõm.",
+        "en": "let out a sigh of relief"
+      }
+    ],
+    "answers": [
+      "When they heard about the tax cut, many small shop owners let out a sigh of relief.",
+      "When small shop owners learned about the tax reduction, they breathed a sigh of relief."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù kiếm được nhiều tiền hơn trước,",
+        "en": "although he earns more money than before,"
+      },
+      {
+        "t": "anh ấy vẫn cảm thấy",
+        "en": "he still feels"
+      },
+      {
+        "t": "khoảng cách với người giàu quá xa.",
+        "en": "the gap with rich people is too big"
+      }
+    ],
+    "answers": [
+      "Although he earns more money than before, he still feels the gap with rich people is too big.",
+      "Even though he makes more than he used to, he still feels far removed from wealthy people."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi bị chỉ trích trên mạng,",
+        "en": "after being criticized online,"
+      },
+      {
+        "t": "cô ấy quyết định",
+        "en": "she decided"
+      },
+      {
+        "t": "khóa hết tài khoản.",
+        "en": "to lock all her accounts"
+      }
+    ],
+    "answers": [
+      "After being criticized online, she decided to lock all her accounts.",
+      "After facing backlash online, she chose to shut down all her accounts."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu bạn thấy ai đó lạ mặt lảng vảng,",
+        "en": "if you see a stranger hanging around,"
+      },
+      {
+        "t": "hãy báo ngay",
+        "en": "report it right away"
+      },
+      {
+        "t": "cho bảo vệ.",
+        "en": "to the security guard"
+      }
+    ],
+    "answers": [
+      "If you see a stranger hanging around, report it to the security guard right away.",
+      "If you notice an unfamiliar person loitering, let the guard know immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì thấy nhiều trẻ em thiếu sách,",
+        "en": "because I saw so many children lacking books,"
+      },
+      {
+        "t": "tôi đã quyên góp",
+        "en": "I donated"
+      },
+      {
+        "t": "cả một tủ sách cũ.",
+        "en": "an entire shelf of old books"
+      }
+    ],
+    "answers": [
+      "Because I saw so many children lacking books, I donated an entire shelf of old books.",
+      "Since I noticed many kids without books, I gave away a whole bookshelf of used books."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi con trai tôi nói muốn học nấu ăn,",
+        "en": "when my son said he wanted to learn cooking,"
+      },
+      {
+        "t": "tôi ủng hộ",
+        "en": "I supported him"
+      },
+      {
+        "t": "hết mình.",
+        "en": "wholeheartedly"
+      }
+    ],
+    "answers": [
+      "When my son said he wanted to learn cooking, I supported him wholeheartedly.",
+      "When my son mentioned wanting to learn to cook, I backed him completely."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu trường có thêm câu lạc bộ thể thao,",
+        "en": "if the school adds more sports clubs,"
+      },
+      {
+        "t": "học sinh",
+        "en": "students"
+      },
+      {
+        "t": "sẽ bớt căng thẳng hơn.",
+        "en": "will feel less stressed"
+      }
+    ],
+    "answers": [
+      "If the school adds more sports clubs, students will feel less stressed.",
+      "If the school offers more sports clubs, kids will have less stress."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù mới vào nghề,",
+        "en": "although she's new to the job,"
+      },
+      {
+        "t": "cô ấy đã học hỏi được rất nhiều",
+        "en": "she has already learned a lot"
+      },
+      {
+        "t": "từ đồng nghiệp.",
+        "en": "from her colleagues"
+      }
+    ],
+    "answers": [
+      "Although she's new to the job, she has already learned a lot from her colleagues.",
+      "Even though she just started out, she's already picked up a lot from her coworkers."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi con đường lớn được mở,",
+        "en": "after the big road was opened,"
+      },
+      {
+        "t": "giá đất quanh đó",
+        "en": "land prices around there"
+      },
+      {
+        "t": "tăng vọt.",
+        "en": "shot up"
+      }
+    ],
+    "answers": [
+      "After the big road was opened, land prices around there shot up.",
+      "After the main road opened, nearby land prices jumped sharply."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì lo cho sức khỏe,",
+        "en": "because they're concerned about health,"
+      },
+      {
+        "t": "nhiều người bắt đầu tránh",
+        "en": "many people have started avoiding"
+      },
+      {
+        "t": "đựng đồ nóng trong hộp nhựa.",
+        "en": "putting hot food in plastic containers"
+      }
+    ],
+    "answers": [
+      "Because they're concerned about health, many people have started avoiding putting hot food in plastic containers.",
+      "Out of health concerns, a lot of people are now avoiding hot food in plastic boxes."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi có việc hiếu hỉ,",
+        "en": "when there's a wedding or a funeral,"
+      },
+      {
+        "t": "cả xóm đều đến",
+        "en": "the whole neighborhood comes"
+      },
+      {
+        "t": "giúp một tay.",
+        "en": "to lend a hand"
+      }
+    ],
+    "answers": [
+      "When there's a wedding or a funeral, the whole neighborhood comes to lend a hand.",
+      "When family events happen, everyone in the block shows up to help out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu người dân được hỏi ý kiến trước,",
+        "en": "if residents are asked for their opinions first,"
+      },
+      {
+        "t": "dự án",
+        "en": "the project"
+      },
+      {
+        "t": "sẽ ít gặp phản đối hơn.",
+        "en": "will face less opposition"
+      }
+    ],
+    "answers": [
+      "If residents are asked for their opinions first, the project will face less opposition.",
+      "If people are consulted beforehand, the project will run into less pushback."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù không có nhà,",
+        "en": "although he has no home,"
+      },
+      {
+        "t": "ông cụ vẫn luôn giữ",
+        "en": "the old man always keeps"
+      },
+      {
+        "t": "nụ cười lạc quan.",
+        "en": "an optimistic smile"
+      }
+    ],
+    "answers": [
+      "Although he has no home, the old man always keeps an optimistic smile.",
+      "Even without a home, the elderly man always keeps a hopeful smile on his face."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Vì sợ bị đánh giá,",
+        "en": "because they're afraid of being judged,"
+      },
+      {
+        "t": "nhiều bạn trẻ giấu chuyện thất nghiệp",
+        "en": "many young people hide their unemployment"
+      },
+      {
+        "t": "với gia đình.",
+        "en": "from family"
+      }
+    ],
+    "answers": [
+      "Because they're afraid of being judged, many young people hide their unemployment from family.",
+      "Since they fear being judged, a lot of young people keep their unemployment a secret from relatives."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trong khi giá nhà tăng,",
+        "en": "while house prices rise,"
+      },
+      {
+        "t": "thu nhập của người dân",
+        "en": "people's income"
+      },
+      {
+        "t": "lại gần như đứng yên.",
+        "en": "has stayed almost the same"
+      }
+    ],
+    "answers": [
+      "While house prices rise, people's income has stayed almost the same.",
+      "While housing prices go up, residents' incomes remain nearly unchanged."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi lắp thêm đèn tín hiệu,",
+        "en": "after extra traffic lights were installed,"
+      },
+      {
+        "t": "số vụ tai nạn ở ngã tư đó",
+        "en": "accidents at that intersection"
+      },
+      {
+        "t": "đã giảm hẳn.",
+        "en": "have dropped significantly"
+      }
+    ],
+    "answers": [
+      "After extra traffic lights were installed, accidents at that intersection have dropped significantly.",
+      "After more traffic signals were put in, crashes at that junction have gone down a lot."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu chúng ta không hành động sớm,",
+        "en": "if we don't act soon,"
+      },
+      {
+        "t": "tình trạng ô nhiễm",
+        "en": "the pollution situation"
+      },
+      {
+        "t": "sẽ khó mà đảo ngược.",
+        "en": "will be hard to reverse"
+      }
+    ],
+    "answers": [
+      "If we don't act soon, the pollution situation will be hard to reverse.",
+      "If we don't take action soon, pollution will become hard to turn around."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi vụ việc được phanh phui,",
+        "en": "when the scandal was exposed,"
+      },
+      {
+        "t": "cả cộng đồng mạng",
+        "en": "the whole online community"
+      },
+      {
+        "t": "đã lên tiếng phẫn nộ.",
+        "en": "spoke out in outrage"
+      }
+    ],
+    "answers": [
+      "When the scandal was exposed, the whole online community spoke out in outrage.",
+      "When the story broke, internet users everywhere reacted with anger."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Mặc dù luật giao thông đã siết chặt hơn,",
+        "en": "although traffic laws have been tightened,"
+      },
+      {
+        "t": "một số người",
+        "en": "some people"
+      },
+      {
+        "t": "vẫn phớt lờ.",
+        "en": "still ignore them"
+      }
+    ],
+    "answers": [
+      "Although traffic laws have been tightened, some people still ignore them.",
+      "Even though traffic regulations have gotten stricter, some people still disregard them."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khi so sánh hai khu vực,",
+        "en": "when you compare the two areas,"
+      },
+      {
+        "t": "sự chênh lệch về mức sống",
+        "en": "the difference in living standards"
+      },
+      {
+        "t": "rõ ràng đến bất ngờ.",
+        "en": "is surprisingly clear"
+      }
+    ],
+    "answers": [
+      "When you compare the two areas, the difference in living standards is surprisingly clear.",
+      "When comparing these two regions, the gap in living standards is shockingly obvious."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trong khi nhiều người dùng mạng xã hội để giải trí,",
+        "en": "while many people use social media for entertainment,"
+      },
+      {
+        "t": "một số khác",
+        "en": "others"
+      },
+      {
+        "t": "lại dùng nó để kinh doanh.",
+        "en": "use it for business"
+      }
+    ],
+    "answers": [
+      "While many people use social media for entertainment, others use it for business.",
+      "While a lot of people use social media just for fun, some use it to run a business."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Sau khi đổi phương pháp giảng dạy,",
+        "en": "after changing the teaching method,"
+      },
+      {
+        "t": "học sinh",
+        "en": "students"
+      },
+      {
+        "t": "có vẻ hứng thú hơn hẳn.",
+        "en": "seem much more interested"
+      }
+    ],
+    "answers": [
+      "After changing the teaching method, students seem much more interested.",
+      "After switching up the teaching approach, students appear far more engaged."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu bạn kiên trì thêm một thời gian nữa,",
+        "en": "if you hold on a bit longer,"
+      },
+      {
+        "t": "cơ hội",
+        "en": "an opportunity"
+      },
+      {
+        "t": "chắc chắn sẽ đến.",
+        "en": "will definitely come"
+      }
+    ],
+    "answers": [
+      "If you hold on a bit longer, an opportunity will definitely come.",
+      "If you keep at it a little longer, a chance will surely turn up."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu chính phủ không can thiệp sớm hơn,",
+        "en": "if the government hadn't intervened earlier,"
+      },
+      {
+        "t": "giá nhà ở các thành phố lớn",
+        "en": "house prices in big cities"
+      },
+      {
+        "t": "hẳn đã vượt xa",
+        "en": "would have far outstripped"
+      },
+      {
+        "t": "khả năng chi trả của đa số người dân.",
+        "en": "what most people could afford"
+      }
+    ],
+    "answers": [
+      "If the government hadn't intervened earlier, house prices in big cities would have far outstripped what most people could afford.",
+      "Had the government not stepped in sooner, housing prices in major cities would have exceeded what most people could pay."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Con đường mà tôi đi làm mỗi ngày",
+        "en": "the road that I take to work every day"
+      },
+      {
+        "t": "đã bị đào lên",
+        "en": "has been dug up"
+      },
+      {
+        "t": "để sửa cống",
+        "en": "to fix the sewers"
+      },
+      {
+        "t": "suốt ba tháng nay.",
+        "en": "for three months now"
+      }
+    ],
+    "answers": [
+      "The road that I take to work every day has been dug up to fix the sewers for three months now.",
+      "The street I use to commute has been torn up for sewer repairs for three months already."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không khí càng ô nhiễm,",
+        "en": "the more polluted the air gets,"
+      },
+      {
+        "t": "người dân càng có xu hướng",
+        "en": "the more people tend"
+      },
+      {
+        "t": "ở trong nhà nhiều hơn.",
+        "en": "to stay indoors"
+      }
+    ],
+    "answers": [
+      "The more polluted the air gets, the more people tend to stay indoors.",
+      "The worse the air pollution becomes, the more residents tend to stay home."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giá như tòa soạn kiểm chứng thông tin kỹ hơn,",
+        "en": "if only the newsroom had fact-checked more carefully,"
+      },
+      {
+        "t": "họ đã không phải xin lỗi công khai",
+        "en": "they wouldn't have had to issue a public apology"
+      },
+      {
+        "t": "như vậy.",
+        "en": "like that"
+      }
+    ],
+    "answers": [
+      "If only the newsroom had fact-checked more carefully, they wouldn't have had to issue such a public apology.",
+      "Had the editors verified the information more carefully, they wouldn't have needed to apologize publicly like that."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chính sách này,",
+        "en": "this policy,"
+      },
+      {
+        "t": "vốn được kỳ vọng sẽ giúp người nghèo,",
+        "en": "which was expected to help the poor,"
+      },
+      {
+        "t": "lại vô tình khiến giá thuê nhà",
+        "en": "has unintentionally driven rents"
+      },
+      {
+        "t": "tăng cao hơn.",
+        "en": "even higher"
+      }
+    ],
+    "answers": [
+      "This policy, which was expected to help the poor, has unintentionally driven rents even higher.",
+      "This policy, originally meant to support low-income people, has ended up pushing rents up even further."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu ai cũng có cơ hội học hành như nhau,",
+        "en": "if everyone had equal access to education,"
+      },
+      {
+        "t": "khoảng cách giàu nghèo",
+        "en": "the wealth gap"
+      },
+      {
+        "t": "có lẽ đã không lớn đến thế.",
+        "en": "probably wouldn't be this big"
+      }
+    ],
+    "answers": [
+      "If everyone had equal access to education, the wealth gap probably wouldn't be this big.",
+      "Had everyone been given equal educational opportunities, the gap between rich and poor might not be so wide."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Càng dùng mạng xã hội nhiều,",
+        "en": "the more people use social media,"
+      },
+      {
+        "t": "người ta càng dễ so sánh",
+        "en": "the more easily they compare"
+      },
+      {
+        "t": "cuộc sống của mình với người khác.",
+        "en": "their lives with others"
+      }
+    ],
+    "answers": [
+      "The more people use social media, the more easily they compare their lives with others.",
+      "The more time someone spends on social media, the more likely they are to compare their life to other people's."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu không có hệ thống camera được lắp đặt khắp khu phố,",
+        "en": "if the camera system hadn't been installed around the neighborhood,"
+      },
+      {
+        "t": "có lẽ vụ trộm đó",
+        "en": "that theft"
+      },
+      {
+        "t": "đã không bao giờ bị phát hiện.",
+        "en": "might never have been discovered"
+      }
+    ],
+    "answers": [
+      "If the camera system hadn't been installed around the neighborhood, that theft might never have been discovered.",
+      "Had the neighborhood not had cameras installed everywhere, the burglary probably would never have come to light."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Hiếm khi tôi thấy",
+        "en": "rarely have I seen"
+      },
+      {
+        "t": "một nhóm sinh viên nào nhiệt tình",
+        "en": "a group of students as enthusiastic"
+      },
+      {
+        "t": "như nhóm tình nguyện mà tôi mới gặp tuần trước.",
+        "en": "as the volunteer group I met last week"
+      }
+    ],
+    "answers": [
+      "Rarely have I seen a group of students as enthusiastic as the volunteer group I met last week.",
+      "Seldom do I come across students as dedicated as the volunteer team I met last week."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu công ty không thay đổi chính sách thăng chức,",
+        "en": "if the company doesn't change its promotion policy,"
+      },
+      {
+        "t": "những nhân viên nữ có năng lực",
+        "en": "talented female employees"
+      },
+      {
+        "t": "sẽ tiếp tục bị bỏ qua.",
+        "en": "will keep being overlooked"
+      }
+    ],
+    "answers": [
+      "If the company doesn't change its promotion policy, talented female employees will keep being overlooked.",
+      "Unless the company revises its promotion policy, capable women on staff will continue to be passed over."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Đứa trẻ mà tôi từng dạy kèm năm ngoái",
+        "en": "the child that I used to tutor last year"
+      },
+      {
+        "t": "giờ đã đậu vào",
+        "en": "has now gotten into"
+      },
+      {
+        "t": "một trường chuyên danh tiếng.",
+        "en": "a prestigious specialized school"
+      }
+    ],
+    "answers": [
+      "The child that I used to tutor last year has now gotten into a prestigious specialized school.",
+      "The kid I tutored last year has just been accepted into a well-known specialized school."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giá như tôi biết sớm hơn",
+        "en": "if only I had known sooner"
+      },
+      {
+        "t": "thị trường việc làm khó khăn đến vậy,",
+        "en": "how tough the job market would be,"
+      },
+      {
+        "t": "tôi đã chọn học một ngành khác.",
+        "en": "I would have chosen a different major"
+      }
+    ],
+    "answers": [
+      "If only I had known sooner how tough the job market would be, I would have chosen a different major.",
+      "Had I realized earlier how hard the job market was, I'd have picked a different field of study."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Thành phố này,",
+        "en": "this city,"
+      },
+      {
+        "t": "vốn từng là một thị trấn yên tĩnh,",
+        "en": "which used to be a quiet town,"
+      },
+      {
+        "t": "giờ đây đã trở thành",
+        "en": "has now become"
+      },
+      {
+        "t": "trung tâm kinh tế của cả vùng.",
+        "en": "the economic hub of the whole region"
+      }
+    ],
+    "answers": [
+      "This city, which used to be a quiet town, has now become the economic hub of the whole region.",
+      "This city, once a peaceful little town, is now the economic center of the entire region."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu các doanh nghiệp bị buộc phải chịu trách nhiệm về bao bì,",
+        "en": "if businesses had been required to take responsibility for their packaging,"
+      },
+      {
+        "t": "lượng rác nhựa",
+        "en": "plastic waste"
+      },
+      {
+        "t": "có lẽ đã giảm đáng kể.",
+        "en": "would probably have decreased significantly"
+      }
+    ],
+    "answers": [
+      "If businesses had been required to take responsibility for their packaging, plastic waste would probably have decreased significantly.",
+      "Had companies been held accountable for their packaging, plastic waste levels might have dropped considerably."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người phụ nữ sống cạnh nhà tôi,",
+        "en": "the woman who lives next to me,"
+      },
+      {
+        "t": "người luôn để ý giúp đỡ mọi người,",
+        "en": "who always looks out to help everyone,"
+      },
+      {
+        "t": "vừa mới chuyển đi nơi khác.",
+        "en": "has just moved away"
+      }
+    ],
+    "answers": [
+      "The woman who lives next to me, who always looks out to help everyone, has just moved away.",
+      "The lady next door, who was always ready to lend a hand, has just moved somewhere else."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không chỉ giao thông trở nên tệ hơn",
+        "en": "not only has traffic gotten worse,"
+      },
+      {
+        "t": "mà chất lượng sống của người dân",
+        "en": "but residents' quality of life"
+      },
+      {
+        "t": "cũng bị ảnh hưởng nghiêm trọng.",
+        "en": "has also been seriously affected"
+      }
+    ],
+    "answers": [
+      "Not only has traffic gotten worse, but residents' quality of life has also been seriously affected.",
+      "Not only did traffic deteriorate, but people's quality of life was also badly hit."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu xã hội quan tâm hơn đến những người vô gia cư,",
+        "en": "if society paid more attention to homeless people,"
+      },
+      {
+        "t": "có lẽ nhiều bi kịch",
+        "en": "perhaps many tragedies"
+      },
+      {
+        "t": "đã không xảy ra.",
+        "en": "wouldn't have happened"
+      }
+    ],
+    "answers": [
+      "If society paid more attention to homeless people, perhaps many tragedies wouldn't have happened.",
+      "Had society cared more about homeless people, a number of tragedies might have been avoided."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Càng nhiều người khoe cuộc sống hoàn hảo trên mạng,",
+        "en": "the more people show off perfect lives online,"
+      },
+      {
+        "t": "giới trẻ càng cảm thấy áp lực",
+        "en": "the more pressure young people feel"
+      },
+      {
+        "t": "phải theo kịp.",
+        "en": "to keep up"
+      }
+    ],
+    "answers": [
+      "The more people show off perfect lives online, the more pressure young people feel to keep up.",
+      "The more perfect lives get flaunted online, the more young people feel pressured to keep pace."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Căn nhà mà gia đình tôi mua",
+        "en": "the house that my family bought"
+      },
+      {
+        "t": "cách đây mười năm",
+        "en": "ten years ago"
+      },
+      {
+        "t": "giờ có giá gấp ba lần lúc đó.",
+        "en": "is now worth three times what it was then"
+      }
+    ],
+    "answers": [
+      "The house that my family bought ten years ago is now worth three times what it was then.",
+      "The house my family purchased a decade ago is now valued at triple its original price."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu thành phố đầu tư vào metro sớm hơn mười năm,",
+        "en": "if the city had invested in the metro ten years earlier,"
+      },
+      {
+        "t": "tình trạng kẹt xe",
+        "en": "traffic congestion"
+      },
+      {
+        "t": "hẳn đã không tệ như bây giờ.",
+        "en": "wouldn't be as bad as it is now"
+      }
+    ],
+    "answers": [
+      "If the city had invested in the metro ten years earlier, traffic congestion wouldn't be as bad as it is now.",
+      "Had the city built the subway a decade sooner, congestion wouldn't be nearly this bad today."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khu rừng từng phủ xanh cả ngọn đồi đó",
+        "en": "the forest that once covered that entire hill"
+      },
+      {
+        "t": "giờ đã bị đốn hạ gần hết",
+        "en": "has now been cut down almost completely"
+      },
+      {
+        "t": "để lấy đất xây dựng.",
+        "en": "for construction land"
+      }
+    ],
+    "answers": [
+      "The forest that once covered that entire hill has now been cut down almost completely for construction land.",
+      "The forest which used to blanket the whole hill has been nearly wiped out to make way for construction."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giá như người dân kiểm tra nguồn tin",
+        "en": "if only people checked their sources"
+      },
+      {
+        "t": "trước khi chia sẻ,",
+        "en": "before sharing,"
+      },
+      {
+        "t": "những tin đồn thất thiệt",
+        "en": "false rumors"
+      },
+      {
+        "t": "đã không lan nhanh đến vậy.",
+        "en": "wouldn't spread this fast"
+      }
+    ],
+    "answers": [
+      "If only people checked their sources before sharing, false rumors wouldn't spread this fast.",
+      "Had people verified sources before sharing, baseless rumors wouldn't have spread so quickly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chính sách trợ cấp thất nghiệp,",
+        "en": "the unemployment benefit policy,"
+      },
+      {
+        "t": "dù được thiết kế kỹ lưỡng,",
+        "en": "although carefully designed,"
+      },
+      {
+        "t": "vẫn chưa tới được tay",
+        "en": "still hasn't reached"
+      },
+      {
+        "t": "những người cần nhất.",
+        "en": "the people who need it most"
+      }
+    ],
+    "answers": [
+      "The unemployment benefit policy, although carefully designed, still hasn't reached the people who need it most.",
+      "Even though it was carefully designed, the unemployment benefits scheme still fails to reach those who need it most."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chưa bao giờ tôi thấy",
+        "en": "never have I seen"
+      },
+      {
+        "t": "sự chênh lệch giàu nghèo rõ ràng",
+        "en": "the wealth gap so clearly"
+      },
+      {
+        "t": "như khi đứng giữa hai khu phố này.",
+        "en": "as when standing between these two neighborhoods"
+      }
+    ],
+    "answers": [
+      "Never have I seen the wealth gap so clearly as when standing between these two neighborhoods.",
+      "Never before have I noticed the divide between rich and poor as clearly as I do standing between these two areas."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu nền tảng mạng xã hội minh bạch hơn về thuật toán,",
+        "en": "if social media platforms were more transparent about their algorithms,"
+      },
+      {
+        "t": "người dùng có lẽ đã ý thức hơn",
+        "en": "users might be more aware"
+      },
+      {
+        "t": "về thời gian sử dụng.",
+        "en": "of their screen time"
+      }
+    ],
+    "answers": [
+      "If social media platforms were more transparent about their algorithms, users might be more aware of their screen time.",
+      "Were social media platforms more open about their algorithms, users would probably be more conscious of how much time they spend."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khu phố này,",
+        "en": "this neighborhood,"
+      },
+      {
+        "t": "nơi từng nổi tiếng vì an toàn,",
+        "en": "which used to be known for its safety,"
+      },
+      {
+        "t": "giờ khiến nhiều cư dân bắt đầu lo lắng.",
+        "en": "is now making many residents anxious"
+      }
+    ],
+    "answers": [
+      "This neighborhood, which used to be known for its safety, is now making many residents anxious.",
+      "This area, once famous for being safe, is now causing a lot of residents to worry."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Càng tham gia nhiều hoạt động tình nguyện,",
+        "en": "the more volunteer activities I take part in,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "mình may mắn hơn nhiều người khác.",
+        "en": "how much luckier I am than many others"
+      }
+    ],
+    "answers": [
+      "The more volunteer activities I take part in, the more I realize how much luckier I am than many others.",
+      "The more I volunteer, the more I recognize how fortunate I am compared to a lot of people."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu không có những phụ nữ dám lên tiếng trước đây,",
+        "en": "if there hadn't been women brave enough to speak up before,"
+      },
+      {
+        "t": "có lẽ luật bình đẳng giới",
+        "en": "the gender equality law"
+      },
+      {
+        "t": "đã không được thông qua.",
+        "en": "might not have been passed"
+      }
+    ],
+    "answers": [
+      "If there hadn't been women brave enough to speak up before, the gender equality law might not have been passed.",
+      "Had earlier women not dared to speak out, the gender equality law probably wouldn't have gone through."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Ngôi trường mà tôi từng theo học",
+        "en": "the school that I attended"
+      },
+      {
+        "t": "suốt mười hai năm",
+        "en": "for twelve years"
+      },
+      {
+        "t": "giờ đã bị đóng cửa",
+        "en": "has now been shut down"
+      },
+      {
+        "t": "vì thiếu học sinh.",
+        "en": "due to a lack of students"
+      }
+    ],
+    "answers": [
+      "The school that I attended for twelve years has now been shut down due to a lack of students.",
+      "The school where I studied for twelve years has closed because there weren't enough students."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không chỉ thiếu kinh nghiệm",
+        "en": "not only does a lack of experience"
+      },
+      {
+        "t": "cản trở người trẻ tìm việc,",
+        "en": "hold young people back from finding jobs,"
+      },
+      {
+        "t": "mà tâm lý ngại thất bại",
+        "en": "but a fear of failure"
+      },
+      {
+        "t": "cũng khiến họ chùn bước.",
+        "en": "also holds them back"
+      }
+    ],
+    "answers": [
+      "Not only does a lack of experience hold young people back from finding jobs, but a fear of failure also holds them back.",
+      "It isn't just inexperience that stops young people from getting hired; fear of failure also makes them hesitate."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu quá trình đô thị hóa được quản lý tốt hơn,",
+        "en": "if the urbanization process had been managed better,"
+      },
+      {
+        "t": "những khu ổ chuột như thế này",
+        "en": "slums like this"
+      },
+      {
+        "t": "có lẽ đã không hình thành.",
+        "en": "probably wouldn't have formed"
+      }
+    ],
+    "answers": [
+      "If the urbanization process had been managed better, slums like this probably wouldn't have formed.",
+      "Had urbanization been handled more carefully, neighborhoods like this slum might never have developed."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Càng nhiều nhãn hàng chuyển sang bao bì thân thiện với môi trường,",
+        "en": "the more brands switch to eco-friendly packaging,"
+      },
+      {
+        "t": "người tiêu dùng càng có",
+        "en": "consumers get more"
+      },
+      {
+        "t": "nhiều lựa chọn xanh hơn.",
+        "en": "green choices"
+      }
+    ],
+    "answers": [
+      "The more brands switch to eco-friendly packaging, the more green choices consumers have.",
+      "The more companies move to environmentally friendly packaging, the wider the range of green options for shoppers."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu không nhờ những người hàng xóm tốt bụng,",
+        "en": "if it hadn't been for my kind neighbors,"
+      },
+      {
+        "t": "tôi hẳn đã không thể vượt qua",
+        "en": "I wouldn't have been able to get through"
+      },
+      {
+        "t": "giai đoạn khó khăn đó một mình.",
+        "en": "that hard time alone"
+      }
+    ],
+    "answers": [
+      "If it hadn't been for my kind neighbors, I wouldn't have been able to get through that hard time alone.",
+      "Had it not been for such kind neighbors, I could never have made it through that difficult period by myself."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bản quy hoạch mới,",
+        "en": "the new plan,"
+      },
+      {
+        "t": "vốn gây nhiều tranh cãi ngay từ đầu,",
+        "en": "which was controversial from the start,"
+      },
+      {
+        "t": "cuối cùng đã được thông qua",
+        "en": "was finally approved"
+      },
+      {
+        "t": "sau nhiều lần chỉnh sửa.",
+        "en": "after many revisions"
+      }
+    ],
+    "answers": [
+      "The new plan, which was controversial from the start, was finally approved after many revisions.",
+      "The new urban plan, which sparked debate right from the beginning, was eventually passed after several rounds of changes."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Hiếm khi người ta dừng lại hỏi thăm",
+        "en": "rarely do people stop to check on"
+      },
+      {
+        "t": "những người vô gia cư,",
+        "en": "homeless individuals,"
+      },
+      {
+        "t": "dù chỉ là một câu chào đơn giản.",
+        "en": "even with just a simple greeting"
+      }
+    ],
+    "answers": [
+      "Rarely do people stop to check on homeless individuals, even with just a simple greeting.",
+      "Seldom does anyone stop to speak to homeless people, even a simple hello."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu xã hội bớt đặt nặng chuyện kết hôn đúng tuổi,",
+        "en": "if society placed less emphasis on marrying at the 'right' age,"
+      },
+      {
+        "t": "nhiều người trẻ",
+        "en": "many young people"
+      },
+      {
+        "t": "đã cảm thấy nhẹ nhõm hơn nhiều.",
+        "en": "would feel much more relieved"
+      }
+    ],
+    "answers": [
+      "If society placed less emphasis on marrying at the 'right' age, many young people would feel much more relieved.",
+      "Were society less obsessed with marrying by a certain age, a lot of young people would feel far less burdened."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Những căn hộ giá rẻ mà chính quyền hứa xây",
+        "en": "the affordable apartments that the authorities promised to build"
+      },
+      {
+        "t": "từ ba năm trước",
+        "en": "three years ago"
+      },
+      {
+        "t": "vẫn chưa hề được khởi công.",
+        "en": "still haven't even broken ground"
+      }
+    ],
+    "answers": [
+      "The affordable apartments that the authorities promised to build three years ago still haven't even broken ground.",
+      "The low-cost housing units the government promised three years back still haven't been started."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không những lượng xe cá nhân tăng chóng mặt,",
+        "en": "not only has the number of private vehicles skyrocketed,"
+      },
+      {
+        "t": "mà cơ sở hạ tầng",
+        "en": "but the infrastructure"
+      },
+      {
+        "t": "cũng không được nâng cấp kịp thời.",
+        "en": "also hasn't been upgraded in time"
+      }
+    ],
+    "answers": [
+      "Not only has the number of private vehicles skyrocketed, but the infrastructure also hasn't been upgraded in time.",
+      "Private vehicle numbers haven't just soared; the infrastructure hasn't kept pace either."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giá như các nhà máy tuân thủ quy định xả thải,",
+        "en": "if only factories complied with waste disposal regulations,"
+      },
+      {
+        "t": "dòng sông đó",
+        "en": "that river"
+      },
+      {
+        "t": "đã không bị ô nhiễm nặng như bây giờ.",
+        "en": "wouldn't be as heavily polluted as it is now"
+      }
+    ],
+    "answers": [
+      "If only factories complied with waste disposal regulations, that river wouldn't be as heavily polluted as it is now.",
+      "Had the factories followed the waste discharge rules, that river wouldn't be so badly polluted today."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Bản tin mà tôi xem tối qua,",
+        "en": "the news report that I watched last night,"
+      },
+      {
+        "t": "vốn được cho là chính xác,",
+        "en": "which was supposed to be accurate,"
+      },
+      {
+        "t": "hóa ra lại chứa nhiều thông tin sai lệch.",
+        "en": "turned out to contain a lot of misinformation"
+      }
+    ],
+    "answers": [
+      "The news report that I watched last night, which was supposed to be accurate, turned out to contain a lot of misinformation.",
+      "The broadcast I watched last night, supposedly reliable, actually contained plenty of inaccurate information."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu chính sách này được áp dụng đồng bộ trên cả nước,",
+        "en": "if this policy were applied consistently nationwide,"
+      },
+      {
+        "t": "sự chênh lệch giữa các vùng",
+        "en": "the disparity between regions"
+      },
+      {
+        "t": "có lẽ đã được thu hẹp.",
+        "en": "might be narrowed"
+      }
+    ],
+    "answers": [
+      "If this policy were applied consistently nationwide, the disparity between regions might be narrowed.",
+      "Had this policy been rolled out uniformly across the country, regional inequality might have been reduced."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người đàn ông mà tôi gặp ở quán cà phê hôm nọ",
+        "en": "the man I met at the cafe the other day"
+      },
+      {
+        "t": "từng là tỷ phú",
+        "en": "was once a billionaire"
+      },
+      {
+        "t": "trước khi mất trắng sau một vụ kiện.",
+        "en": "before he lost everything in a lawsuit"
+      }
+    ],
+    "answers": [
+      "The man I met at the cafe the other day was once a billionaire before he lost everything in a lawsuit.",
+      "The man I ran into at the cafe recently used to be a billionaire until a lawsuit wiped him out."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không chỉ giới trẻ bị cuốn vào mạng xã hội,",
+        "en": "not only young people get drawn into social media,"
+      },
+      {
+        "t": "mà cả người lớn tuổi",
+        "en": "but older people"
+      },
+      {
+        "t": "cũng dần trở nên nghiện lướt điện thoại.",
+        "en": "are also gradually becoming addicted to scrolling their phones"
+      }
+    ],
+    "answers": [
+      "Not only young people get drawn into social media, but older people are also gradually becoming addicted to scrolling their phones.",
+      "It's not just young people getting pulled into social media; older adults, too, are slowly becoming hooked on scrolling."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu cư dân trong khu không đoàn kết báo cáo kịp thời,",
+        "en": "if the residents hadn't united to report it in time,"
+      },
+      {
+        "t": "tên trộm đó",
+        "en": "that thief"
+      },
+      {
+        "t": "có lẽ đã trốn thoát.",
+        "en": "might have escaped"
+      }
+    ],
+    "answers": [
+      "If the residents hadn't united to report it in time, that thief might have escaped.",
+      "Had residents not banded together to report it quickly, the burglar could well have gotten away."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Dự án tình nguyện",
+        "en": "the volunteer project"
+      },
+      {
+        "t": "mà nhóm chúng tôi khởi xướng năm ngoái",
+        "en": "that our group launched last year"
+      },
+      {
+        "t": "giờ đã lan rộng ra cả năm tỉnh thành.",
+        "en": "has now spread to five whole provinces"
+      }
+    ],
+    "answers": [
+      "The volunteer project that our group launched last year has now spread to five whole provinces.",
+      "The volunteer initiative our team started last year has since expanded to five different provinces."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Càng nhiều công ty công khai số liệu về lương theo giới,",
+        "en": "the more companies publicly disclose gender pay data,"
+      },
+      {
+        "t": "khoảng cách thu nhập",
+        "en": "the income gap"
+      },
+      {
+        "t": "càng có khả năng được thu hẹp.",
+        "en": "is more likely to be narrowed"
+      }
+    ],
+    "answers": [
+      "The more companies publicly disclose gender pay data, the more likely the income gap is to be narrowed.",
+      "The more firms are transparent about gender pay figures, the greater the chance of closing the income gap."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu hệ thống giáo dục chú trọng kỹ năng thực hành hơn,",
+        "en": "if the education system focused more on practical skills,"
+      },
+      {
+        "t": "sinh viên ra trường",
+        "en": "graduates"
+      },
+      {
+        "t": "có lẽ đã tự tin hơn khi đi làm.",
+        "en": "would probably be more confident entering the workforce"
+      }
+    ],
+    "answers": [
+      "If the education system focused more on practical skills, graduates would probably be more confident entering the workforce.",
+      "Were the education system to emphasize hands-on skills more, students would likely feel more prepared once they graduate."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Công việc",
+        "en": "the job"
+      },
+      {
+        "t": "mà tôi từng mơ ước từ hồi sinh viên",
+        "en": "that I used to dream about back in college"
+      },
+      {
+        "t": "hóa ra lại chẳng giống như tôi tưởng tượng chút nào.",
+        "en": "turned out to be nothing like I imagined"
+      }
+    ],
+    "answers": [
+      "The job that I used to dream about back in college turned out to be nothing like I imagined.",
+      "The career I dreamed of as a student turned out to be completely different from what I pictured."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không chỉ đất nông nghiệp bị thu hẹp,",
+        "en": "not only has farmland shrunk,"
+      },
+      {
+        "t": "mà lối sống truyền thống của người dân địa phương",
+        "en": "but the local people's traditional way of life"
+      },
+      {
+        "t": "cũng dần biến mất.",
+        "en": "is also gradually disappearing"
+      }
+    ],
+    "answers": [
+      "Not only has farmland shrunk, but the local people's traditional way of life is also gradually disappearing.",
+      "It isn't just agricultural land that's shrinking; the traditional lifestyle of local residents is fading away too."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu người tiêu dùng sẵn sàng trả thêm tiền",
+        "en": "if consumers were willing to pay more"
+      },
+      {
+        "t": "cho sản phẩm không dùng nhựa,",
+        "en": "for plastic-free products,"
+      },
+      {
+        "t": "các doanh nghiệp sẽ có động lực thay đổi hơn.",
+        "en": "businesses would have more incentive to change"
+      }
+    ],
+    "answers": [
+      "If consumers were willing to pay more for plastic-free products, businesses would have more incentive to change.",
+      "Were shoppers ready to pay a premium for plastic-free items, companies would feel more pressure to change their ways."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Buổi họp tổ dân phố,",
+        "en": "the neighborhood meeting,"
+      },
+      {
+        "t": "vốn thường vắng người tham dự,",
+        "en": "which is usually poorly attended,"
+      },
+      {
+        "t": "bất ngờ đông đủ vào tháng này",
+        "en": "was surprisingly full this month"
+      },
+      {
+        "t": "vì có tin đồn về giải tỏa.",
+        "en": "because of rumors about demolition"
+      }
+    ],
+    "answers": [
+      "The neighborhood meeting, which is usually poorly attended, was surprisingly full this month because of rumors about demolition.",
+      "The residents' meeting, normally sparsely attended, was unexpectedly packed this month due to rumors of a clearance."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu quá trình lấy ý kiến người dân được thực hiện nghiêm túc hơn,",
+        "en": "if the process of gathering public feedback had been carried out more seriously,"
+      },
+      {
+        "t": "dự án đó đã không vấp phải",
+        "en": "that project wouldn't have faced"
+      },
+      {
+        "t": "nhiều phản đối như vậy.",
+        "en": "so much opposition"
+      }
+    ],
+    "answers": [
+      "If the process of gathering public feedback had been carried out more seriously, that project wouldn't have faced so much opposition.",
+      "Had public consultation been handled more thoroughly, that project wouldn't have run into such strong resistance."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Người đàn ông mà chúng tôi thường thấy ngồi trước ga tàu",
+        "en": "the man that we often used to see sitting in front of the train station"
+      },
+      {
+        "t": "đã không còn xuất hiện từ mấy tuần nay,",
+        "en": "hasn't appeared for weeks,"
+      },
+      {
+        "t": "khiến nhiều người lo lắng.",
+        "en": "which has worried a lot of people"
+      }
+    ],
+    "answers": [
+      "The man that we often used to see sitting in front of the train station hasn't appeared for weeks, which has worried a lot of people.",
+      "The man we regularly saw outside the train station has been missing for weeks now, and it's left many of us concerned."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giá như bố mẹ tôi bớt so sánh tôi với con nhà người ta,",
+        "en": "if only my parents had compared me less to other people's kids,"
+      },
+      {
+        "t": "có lẽ tôi đã tự tin hơn rất nhiều",
+        "en": "I would probably have been much more confident"
+      },
+      {
+        "t": "khi lớn lên.",
+        "en": "growing up"
+      }
+    ],
+    "answers": [
+      "If only my parents had compared me less to other people's kids, I would probably have grown up much more confident.",
+      "Had my parents not constantly compared me to other kids, I might have grown up with far more confidence."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khu tập thể cũ mà tôi lớn lên",
+        "en": "the old collective housing block where I grew up"
+      },
+      {
+        "t": "giờ đã được thay bằng",
+        "en": "has now been replaced by"
+      },
+      {
+        "t": "một tòa chung cư cao cấp.",
+        "en": "a luxury apartment building"
+      }
+    ],
+    "answers": [
+      "The old collective housing block where I grew up has now been replaced by a luxury apartment building.",
+      "The old housing block I grew up in has since been torn down and replaced with a high-end apartment tower."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu người dân được khuyến khích đi xe đạp nhiều hơn,",
+        "en": "if people were encouraged to cycle more,"
+      },
+      {
+        "t": "lượng khí thải trong thành phố",
+        "en": "the city's emissions"
+      },
+      {
+        "t": "có lẽ đã giảm rõ rệt.",
+        "en": "might have dropped noticeably"
+      }
+    ],
+    "answers": [
+      "If people were encouraged to cycle more, the city's emissions might have dropped noticeably.",
+      "Were residents given more incentive to bike, the city's emissions would likely have fallen significantly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Con kênh mà trước đây trẻ con hay bơi lội",
+        "en": "the canal where children used to swim"
+      },
+      {
+        "t": "giờ đã đen ngòm",
+        "en": "has now turned black"
+      },
+      {
+        "t": "vì nước thải chưa qua xử lý.",
+        "en": "from untreated wastewater"
+      }
+    ],
+    "answers": [
+      "The canal where children used to swim has now turned black from untreated wastewater.",
+      "The canal kids used to swim in has gone completely black due to untreated sewage."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chưa bao giờ tôi thấy một câu chuyện lan truyền nhanh",
+        "en": "never have I seen a story spread so fast"
+      },
+      {
+        "t": "đến mức chỉ trong một đêm",
+        "en": "that in just one night"
+      },
+      {
+        "t": "đã có hàng triệu lượt chia sẻ.",
+        "en": "it got millions of shares"
+      }
+    ],
+    "answers": [
+      "Never have I seen a story spread so fast that it got millions of shares in just one night.",
+      "Never before have I witnessed a story go viral so quickly, racking up millions of shares overnight."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu không có sự vận động của các tổ chức phi chính phủ,",
+        "en": "if it weren't for the lobbying of NGOs,"
+      },
+      {
+        "t": "chính sách bảo vệ trẻ em này",
+        "en": "this child protection policy"
+      },
+      {
+        "t": "có lẽ đã không bao giờ được ban hành.",
+        "en": "might never have been enacted"
+      }
+    ],
+    "answers": [
+      "If it weren't for the lobbying of NGOs, this child protection policy might never have been enacted.",
+      "Had NGOs not campaigned for it, this policy protecting children might never have been passed."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Càng đi nhiều nơi,",
+        "en": "the more places I travel to,"
+      },
+      {
+        "t": "tôi càng nhận ra",
+        "en": "the more I realize"
+      },
+      {
+        "t": "khoảng cách giàu nghèo ở đất nước mình sâu sắc đến mức nào.",
+        "en": "how deep the wealth gap in my country really is"
+      }
+    ],
+    "answers": [
+      "The more places I travel to, the more I realize how deep the wealth gap in my country really is.",
+      "The more I travel around, the more I recognize just how stark the divide between rich and poor is at home."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu tôi biết sớm hơn",
+        "en": "if I had known sooner"
+      },
+      {
+        "t": "những gì mình đăng có thể bị lưu lại mãi mãi,",
+        "en": "that what I post could be saved forever,"
+      },
+      {
+        "t": "tôi đã cẩn thận hơn nhiều.",
+        "en": "I would have been much more careful"
+      }
+    ],
+    "answers": [
+      "If I had known sooner that what I post could be saved forever, I would have been much more careful.",
+      "Had I realized earlier that anything I post can last forever online, I'd have been far more cautious."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Chiếc xe máy bị mất trộm tuần trước,",
+        "en": "the motorbike stolen last week,"
+      },
+      {
+        "t": "thứ mà anh ấy đã dành dụm hai năm để mua,",
+        "en": "which he had spent two years saving up to buy,"
+      },
+      {
+        "t": "cuối cùng được tìm thấy",
+        "en": "was finally found"
+      },
+      {
+        "t": "nhờ camera an ninh.",
+        "en": "thanks to security cameras"
+      }
+    ],
+    "answers": [
+      "The motorbike stolen last week, which he had spent two years saving up to buy, was finally found thanks to security cameras.",
+      "The motorbike that got stolen last week — something he'd saved two years for — was eventually located because of security footage."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu không phải nhờ những tình nguyện viên không quản ngày đêm,",
+        "en": "if it weren't for the volunteers working day and night,"
+      },
+      {
+        "t": "khu vực bị lũ lụt đó",
+        "en": "that flooded area"
+      },
+      {
+        "t": "đã không được hỗ trợ kịp thời.",
+        "en": "wouldn't have received timely help"
+      }
+    ],
+    "answers": [
+      "If it weren't for the volunteers working day and night, that flooded area wouldn't have received timely help.",
+      "Had it not been for volunteers working around the clock, that flood-hit area wouldn't have gotten aid in time."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không chỉ tiền lương chênh lệch,",
+        "en": "not only is there a pay gap,"
+      },
+      {
+        "t": "mà cơ hội thăng tiến của phụ nữ trong ngành này",
+        "en": "but women's promotion opportunities in this field"
+      },
+      {
+        "t": "cũng thấp hơn hẳn so với nam giới.",
+        "en": "are also much lower than men's"
+      }
+    ],
+    "answers": [
+      "Not only is there a pay gap, but women's promotion opportunities in this field are also much lower than men's.",
+      "It isn't just the pay that's unequal; women in this industry also have far fewer chances of promotion than men."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Ngôi trường mà bọn trẻ trong xóm tôi theo học",
+        "en": "the school that the kids in my neighborhood attend"
+      },
+      {
+        "t": "thiếu thốn đến mức",
+        "en": "is so underfunded that"
+      },
+      {
+        "t": "không có cả bàn ghế đủ cho học sinh.",
+        "en": "there aren't even enough desks for students"
+      }
+    ],
+    "answers": [
+      "The school that the kids in my neighborhood attend is so underfunded it doesn't even have enough desks for students.",
+      "The school where local kids study is so lacking in resources that there aren't even enough desks to go around."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu các trường đại học gắn kết chặt chẽ hơn với doanh nghiệp,",
+        "en": "if universities partnered more closely with businesses,"
+      },
+      {
+        "t": "sinh viên tốt nghiệp",
+        "en": "graduates"
+      },
+      {
+        "t": "đã không phải chật vật tìm việc như bây giờ.",
+        "en": "wouldn't struggle to find jobs the way they do now"
+      }
+    ],
+    "answers": [
+      "If universities partnered more closely with businesses, graduates wouldn't struggle to find jobs the way they do now.",
+      "Had colleges built stronger ties with employers, graduates wouldn't be having such a hard time landing jobs today."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Ngôi làng mà ông tôi từng kể chuyện thời thơ ấu",
+        "en": "the village that my grandfather used to tell childhood stories about"
+      },
+      {
+        "t": "giờ chẳng còn dấu vết gì",
+        "en": "now has no trace left"
+      },
+      {
+        "t": "ngoài vài bức ảnh cũ.",
+        "en": "except a few old photos"
+      }
+    ],
+    "answers": [
+      "The village that my grandfather used to tell childhood stories about now has no trace left except a few old photos.",
+      "The village my grandfather told childhood stories about has vanished entirely except for a handful of old photographs."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu quy định phân loại rác được thực thi nghiêm ngặt hơn,",
+        "en": "if waste sorting regulations were enforced more strictly,"
+      },
+      {
+        "t": "lượng rác nhựa chôn lấp",
+        "en": "the amount of plastic waste sent to landfills"
+      },
+      {
+        "t": "có lẽ đã giảm mạnh.",
+        "en": "might have dropped sharply"
+      }
+    ],
+    "answers": [
+      "If waste sorting regulations were enforced more strictly, the amount of plastic waste sent to landfills might have dropped sharply.",
+      "Had rules on waste separation been more strictly enforced, plastic waste going to landfills could have fallen dramatically."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không chỉ những buổi họp mặt cuối năm gắn kết mọi người,",
+        "en": "not only do year-end gatherings bring people together,"
+      },
+      {
+        "t": "mà những lần giúp đỡ nhau lúc khó khăn",
+        "en": "but also helping each other in hard times"
+      },
+      {
+        "t": "cũng khiến tình làng nghĩa xóm bền chặt hơn.",
+        "en": "strengthens neighborly bonds"
+      }
+    ],
+    "answers": [
+      "Not only do year-end gatherings bring people together, but also helping each other in hard times strengthens neighborly bonds.",
+      "It's not just the end-of-year get-togethers that unite people; helping one another through hard times deepens the sense of community too."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Khu chợ truyền thống mà người dân gắn bó suốt mấy chục năm",
+        "en": "the traditional market that residents have been attached to for decades"
+      },
+      {
+        "t": "sắp bị thay thế",
+        "en": "is about to be replaced"
+      },
+      {
+        "t": "bởi một trung tâm thương mại hiện đại.",
+        "en": "by a modern shopping mall"
+      }
+    ],
+    "answers": [
+      "The traditional market that residents have been attached to for decades is about to be replaced by a modern shopping mall.",
+      "The traditional market people have relied on for decades is soon to be replaced by a modern shopping center."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu có nhiều nhà tạm trú hơn được xây dựng gần khu trung tâm,",
+        "en": "if more shelters had been built near the city center,"
+      },
+      {
+        "t": "những người vô gia cư",
+        "en": "homeless people"
+      },
+      {
+        "t": "đã không phải ngủ ngoài trời như thế này.",
+        "en": "wouldn't have to sleep outdoors like this"
+      }
+    ],
+    "answers": [
+      "If more shelters had been built near the city center, homeless people wouldn't have to sleep outdoors like this.",
+      "Had more shelters been set up close to downtown, homeless individuals wouldn't be forced to sleep outside like they are now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Càng lớn tuổi,",
+        "en": "the older I get,"
+      },
+      {
+        "t": "tôi càng thấy áp lực phải thành công",
+        "en": "the more I realize the pressure to succeed"
+      },
+      {
+        "t": "không đến từ người khác, mà đến từ chính mình.",
+        "en": "doesn't come from others, but from myself"
+      }
+    ],
+    "answers": [
+      "The older I get, the more I realize the pressure to succeed doesn't come from others, but from myself.",
+      "The older I become, the more I understand that the pressure to succeed comes from within, not from other people."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Giá như tôi mua căn hộ đó ba năm trước,",
+        "en": "if only I had bought that apartment three years ago,"
+      },
+      {
+        "t": "giờ tôi đã không phải trả gấp đôi",
+        "en": "I wouldn't have to pay double"
+      },
+      {
+        "t": "số tiền như bây giờ.",
+        "en": "the price now"
+      }
+    ],
+    "answers": [
+      "If only I had bought that apartment three years ago, I wouldn't have to pay double the price now.",
+      "Had I purchased that flat three years back, I wouldn't be paying twice as much today."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cây cầu mà người dân chờ đợi suốt nhiều năm",
+        "en": "the bridge that residents had been waiting for many years"
+      },
+      {
+        "t": "cuối cùng cũng được khởi công",
+        "en": "was finally started"
+      },
+      {
+        "t": "vào tháng trước.",
+        "en": "last month"
+      }
+    ],
+    "answers": [
+      "The bridge that residents had been waiting for many years was finally started last month.",
+      "The bridge people had waited years for was finally broken ground on last month."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không chỉ nhiệt độ thành phố tăng lên mỗi năm,",
+        "en": "not only does the city's temperature rise every year,"
+      },
+      {
+        "t": "mà số ngày nắng nóng kéo dài",
+        "en": "but the number of prolonged heatwave days"
+      },
+      {
+        "t": "cũng nhiều hơn hẳn so với trước.",
+        "en": "has also increased noticeably"
+      }
+    ],
+    "answers": [
+      "Not only does the city's temperature rise every year, but the number of prolonged heatwave days has also increased noticeably.",
+      "The city isn't just getting hotter each year; the number of long heatwaves has also gone up considerably."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu không có những nhà báo dám điều tra đến cùng,",
+        "en": "if it weren't for journalists brave enough to investigate all the way through,"
+      },
+      {
+        "t": "vụ tham nhũng đó",
+        "en": "that corruption case"
+      },
+      {
+        "t": "có lẽ đã bị che giấu mãi mãi.",
+        "en": "might have been hidden forever"
+      }
+    ],
+    "answers": [
+      "If it weren't for journalists brave enough to investigate all the way through, that corruption case might have been hidden forever.",
+      "Had journalists not dared to dig deep, that corruption scandal might have stayed buried forever."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Càng nhiều địa phương áp dụng chính sách này,",
+        "en": "the more localities that adopt this policy,"
+      },
+      {
+        "t": "hiệu quả của nó",
+        "en": "its effectiveness"
+      },
+      {
+        "t": "càng được chứng minh rõ ràng hơn.",
+        "en": "gets proven more clearly"
+      }
+    ],
+    "answers": [
+      "The more localities that adopt this policy, the more clearly its effectiveness gets proven.",
+      "The more regions that put this policy into practice, the more evident its results become."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu thuế thu nhập được điều chỉnh công bằng hơn,",
+        "en": "if income tax were adjusted more fairly,"
+      },
+      {
+        "t": "khoảng cách giữa người giàu và người nghèo",
+        "en": "the gap between the rich and the poor"
+      },
+      {
+        "t": "có lẽ đã không nới rộng như hiện nay.",
+        "en": "might not have widened as much as it has"
+      }
+    ],
+    "answers": [
+      "If income tax were adjusted more fairly, the gap between the rich and the poor might not have widened as much as it has.",
+      "Had income tax been made fairer, the divide between rich and poor probably wouldn't have grown this wide."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Trang mạng xã hội",
+        "en": "the social media platform"
+      },
+      {
+        "t": "mà giới trẻ hiện nay dùng nhiều nhất",
+        "en": "that young people use most nowadays"
+      },
+      {
+        "t": "lại chính là nơi lan truyền nhiều tin tức sai lệch nhất.",
+        "en": "is exactly where the most misinformation spreads"
+      }
+    ],
+    "answers": [
+      "The social media platform that young people use most nowadays is exactly where the most misinformation spreads.",
+      "The platform young people rely on most these days happens to be the very place where false information spreads fastest."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu tôi được tiếp cận với những cơ hội học tập như học sinh bây giờ,",
+        "en": "if I had had access to the learning opportunities students have now,"
+      },
+      {
+        "t": "cuộc đời tôi",
+        "en": "my life"
+      },
+      {
+        "t": "có lẽ đã khác đi rất nhiều.",
+        "en": "would probably have turned out very differently"
+      }
+    ],
+    "answers": [
+      "If I had had access to the learning opportunities students have now, my life would probably have turned out very differently.",
+      "Had I been given the kind of educational opportunities kids get today, my life might have gone a completely different way."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Không chỉ mức lương khởi điểm thấp khiến nhiều bạn trẻ nản lòng,",
+        "en": "not only do low starting salaries discourage many young people,"
+      },
+      {
+        "t": "mà môi trường làm việc thiếu tôn trọng",
+        "en": "but a disrespectful work environment"
+      },
+      {
+        "t": "cũng là lý do khiến họ nghỉ việc.",
+        "en": "is also a reason they quit"
+      }
+    ],
+    "answers": [
+      "Not only do low starting salaries discourage many young people, but a disrespectful work environment is also a reason they quit.",
+      "Low entry-level pay isn't the only thing discouraging young workers; a lack of respect in the workplace also drives them to quit."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Nếu chính quyền địa phương lắng nghe ý kiến người dân sớm hơn,",
+        "en": "if the local government had listened to residents' opinions sooner,"
+      },
+      {
+        "t": "quá trình đô thị hóa ở đây",
+        "en": "the urbanization process here"
+      },
+      {
+        "t": "có lẽ đã diễn ra êm thấm hơn nhiều.",
+        "en": "might have gone much more smoothly"
+      }
+    ],
+    "answers": [
+      "If the local government had listened to residents' opinions sooner, the urbanization process here might have gone much more smoothly.",
+      "Had local authorities heeded residents' concerns earlier, urbanization in this area could have unfolded far more smoothly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "society",
+    "chunks": [
+      {
+        "t": "Cộng đồng mà tôi lớn lên,",
+        "en": "the community that I grew up in,"
+      },
+      {
+        "t": "nơi mọi người từng biết rõ tên tuổi từng nhà,",
+        "en": "where everyone once knew every household by name,"
+      },
+      {
+        "t": "giờ đây phần lớn hàng xóm còn chẳng buồn chào nhau.",
+        "en": "now has neighbors who barely bother greeting each other"
+      }
+    ],
+    "answers": [
+      "The community that I grew up in, where everyone once knew every household by name, now has neighbors who barely bother greeting each other.",
+      "The community I grew up in, once a place where people knew every family by name, now has neighbors who hardly even say hello."
+    ]
+  }
+]

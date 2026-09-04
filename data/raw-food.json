@@ -1,0 +1,7572 @@
+[
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tối nay",
+    "en": "tonight"
+   },
+   {
+    "t": "tôi không muốn nấu ăn,",
+    "en": "I don't feel like cooking,"
+   },
+   {
+    "t": "nên tôi rủ bạn",
+    "en": "so I asked my friend"
+   },
+   {
+    "t": "ra quán ăn.",
+    "en": "to eat out"
+   }
+  ],
+  "answers": [
+   "Tonight I don't feel like cooking, so I asked my friend to eat out.",
+   "I don't feel like cooking tonight, so I invited my friend out to eat."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Quán phở đầu ngõ",
+    "en": "the pho shop at the end of the alley"
+   },
+   {
+    "t": "lúc nào cũng đông khách",
+    "en": "is always crowded"
+   },
+   {
+    "t": "vào buổi sáng.",
+    "en": "in the morning"
+   }
+  ],
+  "answers": [
+   "The pho shop at the end of the alley is always crowded in the morning.",
+   "That pho place near the alley is always packed in the morning."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chúng tôi đang ngồi",
+    "en": "we are sitting"
+   },
+   {
+    "t": "đợi món ăn",
+    "en": "waiting for our food"
+   },
+   {
+    "t": "ở một quán nhỏ.",
+    "en": "at a small restaurant"
+   }
+  ],
+  "answers": [
+   "We are sitting and waiting for our food at a small restaurant.",
+   "We're sitting at a small restaurant, waiting for our order."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bạn có muốn",
+    "en": "do you want to"
+   },
+   {
+    "t": "đi ăn bún chả",
+    "en": "go eat bun cha"
+   },
+   {
+    "t": "tối nay không?",
+    "en": "tonight"
+   }
+  ],
+  "answers": [
+   "Do you want to go eat bun cha tonight?",
+   "Do you feel like going out for bun cha tonight?"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nhà hàng đó",
+    "en": "that restaurant"
+   },
+   {
+    "t": "phục vụ rất chậm,",
+    "en": "serves very slowly,"
+   },
+   {
+    "t": "tôi phải đợi",
+    "en": "I had to wait"
+   },
+   {
+    "t": "gần nửa tiếng.",
+    "en": "almost half an hour"
+   }
+  ],
+  "answers": [
+   "That restaurant serves very slowly, and I had to wait almost half an hour.",
+   "Service at that restaurant is really slow, so I waited nearly half an hour."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Ôi,",
+    "en": "oh,"
+   },
+   {
+    "t": "món lẩu ở đây",
+    "en": "the hotpot here"
+   },
+   {
+    "t": "cay quá!",
+    "en": "is so spicy"
+   }
+  ],
+  "answers": [
+   "Oh, the hotpot here is so spicy!",
+   "Wow, this hotpot is really spicy!"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cuối tuần",
+    "en": "on weekends"
+   },
+   {
+    "t": "gia đình tôi",
+    "en": "my family"
+   },
+   {
+    "t": "thường ăn tối",
+    "en": "usually has dinner"
+   },
+   {
+    "t": "ở ngoài.",
+    "en": "outside"
+   }
+  ],
+  "answers": [
+   "On weekends, my family usually has dinner outside.",
+   "My family usually eats dinner out on weekends."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Quán này",
+    "en": "this place"
+   },
+   {
+    "t": "không nhận đặt bàn,",
+    "en": "doesn't take reservations,"
+   },
+   {
+    "t": "nên khách",
+    "en": "so customers"
+   },
+   {
+    "t": "phải xếp hàng.",
+    "en": "have to stand in line"
+   }
+  ],
+  "answers": [
+   "This place doesn't take reservations, so customers have to stand in line.",
+   "This restaurant doesn't accept bookings, so people have to queue up."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang nấu",
+    "en": "I am cooking"
+   },
+   {
+    "t": "canh chua",
+    "en": "sour soup"
+   },
+   {
+    "t": "cho bữa trưa.",
+    "en": "for lunch"
+   }
+  ],
+  "answers": [
+   "I am cooking sour soup for lunch.",
+   "I'm making sour soup for lunch."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bố tôi",
+    "en": "my dad"
+   },
+   {
+    "t": "đang chiên cá",
+    "en": "is frying fish"
+   },
+   {
+    "t": "trong bếp.",
+    "en": "in the kitchen"
+   }
+  ],
+  "answers": [
+   "My dad is frying fish in the kitchen.",
+   "My father is frying some fish in the kitchen right now."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi vừa học",
+    "en": "I just learned"
+   },
+   {
+    "t": "cách làm bánh xèo",
+    "en": "how to make banh xeo"
+   },
+   {
+    "t": "trên mạng.",
+    "en": "online"
+   }
+  ],
+  "answers": [
+   "I just learned how to make banh xeo online.",
+   "I recently learned to cook banh xeo from a video online."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Hôm qua",
+    "en": "yesterday"
+   },
+   {
+    "t": "tôi nấu cơm",
+    "en": "I cooked rice"
+   },
+   {
+    "t": "nhưng bị khê.",
+    "en": "but it burned"
+   }
+  ],
+  "answers": [
+   "Yesterday I cooked rice, but it burned.",
+   "I cooked rice yesterday, but it got burnt."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mỗi tối",
+    "en": "every evening"
+   },
+   {
+    "t": "tôi vào bếp",
+    "en": "I go into the kitchen"
+   },
+   {
+    "t": "nấu ăn cùng mẹ.",
+    "en": "to cook with my mom"
+   }
+  ],
+  "answers": [
+   "Every evening I go into the kitchen to cook with my mom.",
+   "I go into the kitchen and cook with my mom every evening."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Có ai",
+    "en": "does anyone"
+   },
+   {
+    "t": "biết nấu",
+    "en": "know how to cook"
+   },
+   {
+    "t": "món này không?",
+    "en": "this dish"
+   }
+  ],
+  "answers": [
+   "Does anyone know how to cook this dish?",
+   "Does anybody here know how to make this dish?"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi thích",
+    "en": "I like"
+   },
+   {
+    "t": "tự nấu ăn",
+    "en": "cooking for myself"
+   },
+   {
+    "t": "hơn là",
+    "en": "more than"
+   },
+   {
+    "t": "đi ăn ngoài.",
+    "en": "eating out"
+   }
+  ],
+  "answers": [
+   "I like cooking for myself more than eating out.",
+   "I prefer cooking at home to eating out."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chị tôi",
+    "en": "my sister"
+   },
+   {
+    "t": "đang ướp thịt",
+    "en": "is marinating meat"
+   },
+   {
+    "t": "để nướng",
+    "en": "to grill"
+   },
+   {
+    "t": "cuối tuần này.",
+    "en": "this weekend"
+   }
+  ],
+  "answers": [
+   "My sister is marinating meat to grill this weekend.",
+   "My sister is marinating some meat for grilling this weekend."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi vừa đặt",
+    "en": "I just ordered"
+   },
+   {
+    "t": "một suất cơm gà",
+    "en": "a chicken rice meal"
+   },
+   {
+    "t": "qua ứng dụng.",
+    "en": "through the app"
+   }
+  ],
+  "answers": [
+   "I just ordered a chicken rice meal through the app.",
+   "I just ordered chicken rice on the app."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Đơn hàng của tôi",
+    "en": "my order"
+   },
+   {
+    "t": "đang trên đường",
+    "en": "is on the way"
+   },
+   {
+    "t": "giao đến.",
+    "en": "to me"
+   }
+  ],
+  "answers": [
+   "My order is on the way to me.",
+   "My order is currently being delivered."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Ứng dụng đặt đồ ăn",
+    "en": "the food delivery app"
+   },
+   {
+    "t": "đang giảm giá",
+    "en": "is having a discount"
+   },
+   {
+    "t": "cho đơn đầu tiên.",
+    "en": "on the first order"
+   }
+  ],
+  "answers": [
+   "The food delivery app is having a discount on the first order.",
+   "The food delivery app has a discount for first-time orders."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sao",
+    "en": "why"
+   },
+   {
+    "t": "đơn hàng của tôi",
+    "en": "my order"
+   },
+   {
+    "t": "vẫn chưa đến?",
+    "en": "still hasn't arrived"
+   }
+  ],
+  "answers": [
+   "Why hasn't my order arrived yet?",
+   "Why is my order still not here?"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tối nay",
+    "en": "tonight"
+   },
+   {
+    "t": "tôi lười nấu,",
+    "en": "I'm too lazy to cook,"
+   },
+   {
+    "t": "nên tôi đặt",
+    "en": "so I'm ordering"
+   },
+   {
+    "t": "đồ ăn online.",
+    "en": "food online"
+   }
+  ],
+  "answers": [
+   "Tonight I'm too lazy to cook, so I'm ordering food online.",
+   "I'm too lazy to cook tonight, so I'm ordering delivery."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Người giao hàng",
+    "en": "the delivery driver"
+   },
+   {
+    "t": "vừa gọi",
+    "en": "just called"
+   },
+   {
+    "t": "cho tôi.",
+    "en": "me"
+   }
+  ],
+  "answers": [
+   "The delivery driver just called me.",
+   "The delivery guy just gave me a call."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang so sánh giá",
+    "en": "I'm comparing prices"
+   },
+   {
+    "t": "trên hai ứng dụng",
+    "en": "on two apps"
+   },
+   {
+    "t": "trước khi đặt.",
+    "en": "before ordering"
+   }
+  ],
+  "answers": [
+   "I'm comparing prices on two apps before ordering.",
+   "I'm checking prices on two apps before I order."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Đồ ăn giao đến",
+    "en": "the delivered food"
+   },
+   {
+    "t": "đã nguội",
+    "en": "had gone cold"
+   },
+   {
+    "t": "khi tôi mở ra.",
+    "en": "by the time I opened it"
+   }
+  ],
+  "answers": [
+   "The delivered food had gone cold by the time I opened it.",
+   "The food was already cold by the time it arrived."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bạn tôi",
+    "en": "my friend"
+   },
+   {
+    "t": "không ăn thịt",
+    "en": "doesn't eat meat"
+   },
+   {
+    "t": "hay cá.",
+    "en": "or fish"
+   }
+  ],
+  "answers": [
+   "My friend doesn't eat meat or fish.",
+   "My friend eats neither meat nor fish."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang tập",
+    "en": "I'm trying"
+   },
+   {
+    "t": "ăn chay",
+    "en": "to eat vegetarian"
+   },
+   {
+    "t": "vào thứ Hai.",
+    "en": "on Mondays"
+   }
+  ],
+  "answers": [
+   "I'm trying to eat vegetarian on Mondays.",
+   "I'm trying to go vegetarian on Mondays."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Ở quán này",
+    "en": "at this place"
+   },
+   {
+    "t": "có nhiều món chay",
+    "en": "there are many vegetarian dishes"
+   },
+   {
+    "t": "ngon lắm.",
+    "en": "that are really tasty"
+   }
+  ],
+  "answers": [
+   "There are many really tasty vegetarian dishes at this place.",
+   "This restaurant has lots of delicious vegetarian dishes."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bà tôi",
+    "en": "my grandma"
+   },
+   {
+    "t": "ăn chay",
+    "en": "eats vegetarian food"
+   },
+   {
+    "t": "vào ngày rằm.",
+    "en": "on the full moon day"
+   }
+  ],
+  "answers": [
+   "My grandma eats vegetarian food on the full moon day.",
+   "My grandmother goes vegetarian on the full moon day."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Đậu hũ chiên",
+    "en": "fried tofu"
+   },
+   {
+    "t": "là món chay",
+    "en": "is a vegetarian dish"
+   },
+   {
+    "t": "tôi thích nhất.",
+    "en": "that I like most"
+   }
+  ],
+  "answers": [
+   "Fried tofu is the vegetarian dish I like most.",
+   "Fried tofu is my favorite vegetarian dish."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cửa hàng đó",
+    "en": "that shop"
+   },
+   {
+    "t": "chỉ bán",
+    "en": "only sells"
+   },
+   {
+    "t": "đồ ăn chay.",
+    "en": "vegetarian food"
+   }
+  ],
+  "answers": [
+   "That shop only sells vegetarian food.",
+   "That shop sells only vegetarian dishes."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Từ năm ngoái,",
+    "en": "since last year,"
+   },
+   {
+    "t": "em gái tôi",
+    "en": "my younger sister"
+   },
+   {
+    "t": "ăn chay trường.",
+    "en": "has been a full-time vegetarian"
+   }
+  ],
+  "answers": [
+   "Since last year, my younger sister has been a full-time vegetarian.",
+   "My little sister has eaten strictly vegetarian since last year."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nhà hàng chay đó",
+    "en": "that vegetarian restaurant"
+   },
+   {
+    "t": "đang mở cửa",
+    "en": "is open"
+   },
+   {
+    "t": "cả ngày.",
+    "en": "all day"
+   }
+  ],
+  "answers": [
+   "That vegetarian restaurant is open all day.",
+   "That vegetarian restaurant stays open all day."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Con trai tôi",
+    "en": "my son"
+   },
+   {
+    "t": "bị dị ứng",
+    "en": "is allergic"
+   },
+   {
+    "t": "với tôm.",
+    "en": "to shrimp"
+   }
+  ],
+  "answers": [
+   "My son is allergic to shrimp.",
+   "My son has a shrimp allergy."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Xin lỗi,",
+    "en": "sorry,"
+   },
+   {
+    "t": "món này",
+    "en": "this dish"
+   },
+   {
+    "t": "có đậu phộng không?",
+    "en": "does it have peanuts"
+   }
+  ],
+  "answers": [
+   "Sorry, does this dish have peanuts in it?",
+   "Excuse me, does this dish contain peanuts?"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi không ăn được",
+    "en": "I can't eat"
+   },
+   {
+    "t": "hải sản",
+    "en": "seafood"
+   },
+   {
+    "t": "vì bị dị ứng.",
+    "en": "because I'm allergic"
+   }
+  ],
+  "answers": [
+   "I can't eat seafood because I'm allergic.",
+   "I can't have seafood because of my allergy."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi ăn sữa chua,",
+    "en": "after eating yogurt,"
+   },
+   {
+    "t": "da của bé",
+    "en": "the baby's skin"
+   },
+   {
+    "t": "bị nổi mẩn.",
+    "en": "broke out in a rash"
+   }
+  ],
+  "answers": [
+   "After eating yogurt, the baby's skin broke out in a rash.",
+   "The baby's skin got a rash after eating yogurt."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bạn nên hỏi",
+    "en": "you should ask"
+   },
+   {
+    "t": "nhân viên",
+    "en": "the staff"
+   },
+   {
+    "t": "về thành phần món ăn.",
+    "en": "about the dish's ingredients"
+   }
+  ],
+  "answers": [
+   "You should ask the staff about the dish's ingredients.",
+   "You should check with the staff about what's in the dish."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chồng tôi",
+    "en": "my husband"
+   },
+   {
+    "t": "không ăn được trứng,",
+    "en": "can't eat eggs,"
+   },
+   {
+    "t": "nên tôi",
+    "en": "so I"
+   },
+   {
+    "t": "nấu riêng cho anh ấy.",
+    "en": "cook separately for him"
+   }
+  ],
+  "answers": [
+   "My husband can't eat eggs, so I cook separately for him.",
+   "My husband is allergic to eggs, so I make him a separate meal."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trên bao bì",
+    "en": "on the packaging"
+   },
+   {
+    "t": "có ghi",
+    "en": "it says"
+   },
+   {
+    "t": "cảnh báo dị ứng.",
+    "en": "an allergy warning"
+   }
+  ],
+  "answers": [
+   "The packaging has an allergy warning on it.",
+   "There's an allergy warning printed on the packaging."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bún bò Huế",
+    "en": "Hue beef noodle soup"
+   },
+   {
+    "t": "cay hơn",
+    "en": "is spicier than"
+   },
+   {
+    "t": "phở miền Bắc.",
+    "en": "northern-style pho"
+   }
+  ],
+  "answers": [
+   "Hue beef noodle soup is spicier than northern-style pho.",
+   "Bun bo Hue is spicier than pho from the north."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Người miền Nam",
+    "en": "southern Vietnamese people"
+   },
+   {
+    "t": "thường nêm",
+    "en": "usually season"
+   },
+   {
+    "t": "đồ ăn ngọt hơn.",
+    "en": "food sweeter"
+   }
+  ],
+  "answers": [
+   "Southern Vietnamese people usually season their food sweeter.",
+   "People in the south usually make their food sweeter."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Ở Hội An,",
+    "en": "in Hoi An,"
+   },
+   {
+    "t": "tôi đã ăn thử",
+    "en": "I tried"
+   },
+   {
+    "t": "cao lầu.",
+    "en": "cao lau"
+   }
+  ],
+  "answers": [
+   "In Hoi An, I tried cao lau.",
+   "I tried cao lau while I was in Hoi An."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bánh cuốn Thanh Trì",
+    "en": "Thanh Tri steamed rice rolls"
+   },
+   {
+    "t": "khác với",
+    "en": "are different from"
+   },
+   {
+    "t": "bánh cuốn miền Nam.",
+    "en": "southern rice rolls"
+   }
+  ],
+  "answers": [
+   "Thanh Tri steamed rice rolls are different from southern rice rolls.",
+   "Thanh Tri rice rolls are not the same as the southern version."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mì Quảng",
+    "en": "mi quang noodles"
+   },
+   {
+    "t": "là đặc sản",
+    "en": "is a specialty"
+   },
+   {
+    "t": "của Đà Nẵng.",
+    "en": "of Da Nang"
+   }
+  ],
+  "answers": [
+   "Mi quang noodles are a specialty of Da Nang.",
+   "Mi quang is a local specialty from Da Nang."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi chưa bao giờ",
+    "en": "I've never"
+   },
+   {
+    "t": "ăn bánh khọt",
+    "en": "eaten banh khot"
+   },
+   {
+    "t": "trước đây.",
+    "en": "before"
+   }
+  ],
+  "answers": [
+   "I've never eaten banh khot before.",
+   "I have never tried banh khot before."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món này",
+    "en": "this dish"
+   },
+   {
+    "t": "chỉ có",
+    "en": "is only found"
+   },
+   {
+    "t": "ở miền Tây.",
+    "en": "in the Mekong Delta"
+   }
+  ],
+  "answers": [
+   "This dish is only found in the Mekong Delta.",
+   "You can only find this dish in the Mekong Delta."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sáng nào",
+    "en": "every morning"
+   },
+   {
+    "t": "tôi cũng uống",
+    "en": "I drink"
+   },
+   {
+    "t": "một ly cà phê đen.",
+    "en": "a cup of black coffee"
+   }
+  ],
+  "answers": [
+   "I drink a cup of black coffee every morning.",
+   "Every morning I have a cup of black coffee."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trà sữa trân châu",
+    "en": "bubble milk tea"
+   },
+   {
+    "t": "là món",
+    "en": "is the drink"
+   },
+   {
+    "t": "tôi nghiện nhất.",
+    "en": "I'm most addicted to"
+   }
+  ],
+  "answers": [
+   "Bubble milk tea is the drink I'm most addicted to.",
+   "I'm totally addicted to bubble milk tea."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bạn muốn",
+    "en": "do you want"
+   },
+   {
+    "t": "ít đường",
+    "en": "less sugar"
+   },
+   {
+    "t": "trong trà sữa không?",
+    "en": "in your milk tea"
+   }
+  ],
+  "answers": [
+   "Do you want less sugar in your milk tea?",
+   "Would you like less sugar in your bubble tea?"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Quán cà phê này",
+    "en": "this coffee shop"
+   },
+   {
+    "t": "có wifi mạnh",
+    "en": "has strong wifi"
+   },
+   {
+    "t": "và chỗ ngồi thoải mái.",
+    "en": "and comfortable seats"
+   }
+  ],
+  "answers": [
+   "This coffee shop has strong wifi and comfortable seats.",
+   "This café has good wifi and comfy seating."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang xếp hàng",
+    "en": "I'm standing in line"
+   },
+   {
+    "t": "mua trà sữa",
+    "en": "to buy milk tea"
+   },
+   {
+    "t": "ở tiệm mới mở.",
+    "en": "at the newly opened shop"
+   }
+  ],
+  "answers": [
+   "I'm standing in line to buy milk tea at the newly opened shop.",
+   "I'm queuing up for milk tea at the new shop."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cà phê sữa đá",
+    "en": "iced milk coffee"
+   },
+   {
+    "t": "là thức uống",
+    "en": "is the drink"
+   },
+   {
+    "t": "tôi hay gọi nhất.",
+    "en": "I order most often"
+   }
+  ],
+  "answers": [
+   "Iced milk coffee is the drink I order most often.",
+   "Iced milk coffee is what I order the most."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bây giờ",
+    "en": "right now"
+   },
+   {
+    "t": "tôi đang pha",
+    "en": "I'm brewing"
+   },
+   {
+    "t": "một ấm trà nóng.",
+    "en": "a pot of hot tea"
+   }
+  ],
+  "answers": [
+   "Right now I'm brewing a pot of hot tea.",
+   "I'm making a pot of hot tea right now."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cô bạn tôi",
+    "en": "my friend"
+   },
+   {
+    "t": "đang giảm cân,",
+    "en": "is losing weight,"
+   },
+   {
+    "t": "nên cô ấy",
+    "en": "so she"
+   },
+   {
+    "t": "bỏ tinh bột.",
+    "en": "has cut out carbs"
+   }
+  ],
+  "answers": [
+   "My friend is losing weight, so she has cut out carbs.",
+   "My friend is dieting, so she's given up carbs."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang cố",
+    "en": "I'm trying"
+   },
+   {
+    "t": "ăn ít đường",
+    "en": "to eat less sugar"
+   },
+   {
+    "t": "mỗi ngày.",
+    "en": "every day"
+   }
+  ],
+  "answers": [
+   "I'm trying to eat less sugar every day.",
+   "I'm trying to cut down on sugar every day."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Từ tuần trước,",
+    "en": "since last week,"
+   },
+   {
+    "t": "anh tôi",
+    "en": "my brother"
+   },
+   {
+    "t": "không ăn cơm buổi tối.",
+    "en": "hasn't eaten rice at dinner"
+   }
+  ],
+  "answers": [
+   "Since last week, my brother hasn't eaten rice at dinner.",
+   "My brother has skipped rice at dinner since last week."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bữa nay",
+    "en": "today"
+   },
+   {
+    "t": "tôi chỉ ăn",
+    "en": "I only ate"
+   },
+   {
+    "t": "rau và trái cây.",
+    "en": "vegetables and fruit"
+   }
+  ],
+  "answers": [
+   "Today I only ate vegetables and fruit.",
+   "Today I ate nothing but vegetables and fruit."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cân nặng của tôi",
+    "en": "my weight"
+   },
+   {
+    "t": "không thay đổi",
+    "en": "hasn't changed"
+   },
+   {
+    "t": "dù tôi ăn kiêng.",
+    "en": "even though I'm dieting"
+   }
+  ],
+  "answers": [
+   "My weight hasn't changed even though I'm dieting.",
+   "Even though I'm on a diet, my weight hasn't changed."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang tránh",
+    "en": "I'm avoiding"
+   },
+   {
+    "t": "đồ chiên",
+    "en": "fried food"
+   },
+   {
+    "t": "trong tuần này.",
+    "en": "this week"
+   }
+  ],
+  "answers": [
+   "I'm avoiding fried food this week.",
+   "I'm staying away from fried food this week."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chế độ ăn kiêng này",
+    "en": "this diet"
+   },
+   {
+    "t": "khó theo",
+    "en": "is hard to stick to"
+   },
+   {
+    "t": "lắm.",
+    "en": "really"
+   }
+  ],
+  "answers": [
+   "This diet is really hard to stick to.",
+   "This diet is really hard to follow."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tối nay",
+    "en": "tonight"
+   },
+   {
+    "t": "nhà tôi",
+    "en": "my house"
+   },
+   {
+    "t": "tổ chức tiệc,",
+    "en": "is having a party,"
+   },
+   {
+    "t": "mời bạn ghé chơi.",
+    "en": "you're invited to come"
+   }
+  ],
+  "answers": [
+   "Tonight my house is having a party, and you're invited to come.",
+   "We're having a party at my place tonight, come join us."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chúng tôi",
+    "en": "we"
+   },
+   {
+    "t": "đang chuẩn bị",
+    "en": "are preparing"
+   },
+   {
+    "t": "đồ ăn",
+    "en": "the food"
+   },
+   {
+    "t": "cho tiệc sinh nhật.",
+    "en": "for the birthday party"
+   }
+  ],
+  "answers": [
+   "We are preparing the food for the birthday party.",
+   "We're getting the food ready for the birthday party."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bàn tiệc",
+    "en": "the party table"
+   },
+   {
+    "t": "đầy ắp",
+    "en": "is full of"
+   },
+   {
+    "t": "món ăn ngon.",
+    "en": "delicious food"
+   }
+  ],
+  "answers": [
+   "The party table is full of delicious food.",
+   "The table is loaded with tasty dishes."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Ai",
+    "en": "who"
+   },
+   {
+    "t": "mang bánh",
+    "en": "is bringing the cake"
+   },
+   {
+    "t": "đến tiệc vậy?",
+    "en": "to the party"
+   }
+  ],
+  "answers": [
+   "Who is bringing the cake to the party?",
+   "Who's going to bring the cake to the party?"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bữa tiệc BBQ",
+    "en": "the BBQ party"
+   },
+   {
+    "t": "tối qua",
+    "en": "last night"
+   },
+   {
+    "t": "rất vui.",
+    "en": "was really fun"
+   }
+  ],
+  "answers": [
+   "The BBQ party last night was really fun.",
+   "Last night's BBQ party was a lot of fun."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khách mời",
+    "en": "the guests"
+   },
+   {
+    "t": "đang tự lấy đồ ăn",
+    "en": "are helping themselves to food"
+   },
+   {
+    "t": "ở góc bếp.",
+    "en": "in the kitchen corner"
+   }
+  ],
+  "answers": [
+   "The guests are helping themselves to food in the kitchen corner.",
+   "The guests are getting their own food from the kitchen corner."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tiệc tất niên",
+    "en": "the year-end party"
+   },
+   {
+    "t": "của công ty tôi",
+    "en": "at my company"
+   },
+   {
+    "t": "có rất nhiều món.",
+    "en": "has so many dishes"
+   }
+  ],
+  "answers": [
+   "The year-end party at my company has so many dishes.",
+   "My company's year-end party has a huge spread of food."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mỗi Chủ nhật,",
+    "en": "every Sunday,"
+   },
+   {
+    "t": "tôi nấu",
+    "en": "I cook"
+   },
+   {
+    "t": "cả một bữa lớn",
+    "en": "a big meal"
+   },
+   {
+    "t": "cho cả nhà.",
+    "en": "for the whole family"
+   }
+  ],
+  "answers": [
+   "Every Sunday, I cook a big meal for the whole family.",
+   "I cook a big family meal every Sunday."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Con tôi",
+    "en": "my kid"
+   },
+   {
+    "t": "không chịu ăn rau,",
+    "en": "refuses to eat vegetables,"
+   },
+   {
+    "t": "nên tôi",
+    "en": "so I"
+   },
+   {
+    "t": "phải giấu vào cháo.",
+    "en": "have to hide them in porridge"
+   }
+  ],
+  "answers": [
+   "My kid refuses to eat vegetables, so I have to hide them in porridge.",
+   "My child won't eat vegetables, so I hide them in his porridge."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang nấu",
+    "en": "I'm cooking"
+   },
+   {
+    "t": "món yêu thích",
+    "en": "the favorite dish"
+   },
+   {
+    "t": "của bố tôi.",
+    "en": "of my dad"
+   }
+  ],
+  "answers": [
+   "I'm cooking my dad's favorite dish.",
+   "I'm making the dish my dad loves most."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cả nhà",
+    "en": "the whole family"
+   },
+   {
+    "t": "đang ngồi ăn",
+    "en": "is sitting and eating"
+   },
+   {
+    "t": "quanh mâm cơm.",
+    "en": "around the tray"
+   }
+  ],
+  "answers": [
+   "The whole family is sitting and eating around the tray.",
+   "The whole family is gathered around the dinner tray eating."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi thường nấu",
+    "en": "I usually cook"
+   },
+   {
+    "t": "nhiều món",
+    "en": "several dishes"
+   },
+   {
+    "t": "để mọi người thích.",
+    "en": "so everyone will like something"
+   }
+  ],
+  "answers": [
+   "I usually cook several dishes so everyone will like something.",
+   "I usually make a few dishes so everyone finds something they like."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vợ tôi",
+    "en": "my wife"
+   },
+   {
+    "t": "đang dạy con gái",
+    "en": "is teaching our daughter"
+   },
+   {
+    "t": "cách gói nem.",
+    "en": "how to roll spring rolls"
+   }
+  ],
+  "answers": [
+   "My wife is teaching our daughter how to roll spring rolls.",
+   "My wife is showing our daughter how to make spring rolls."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cuối tuần này,",
+    "en": "this weekend,"
+   },
+   {
+    "t": "tôi định nấu",
+    "en": "I plan to cook"
+   },
+   {
+    "t": "lẩu cho cả nhà.",
+    "en": "hotpot for the family"
+   }
+  ],
+  "answers": [
+   "This weekend, I plan to cook hotpot for the family.",
+   "I'm planning to make hotpot for the family this weekend."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tủ lạnh nhà tôi",
+    "en": "my fridge"
+   },
+   {
+    "t": "lúc nào cũng có",
+    "en": "always has"
+   },
+   {
+    "t": "snack và bánh quy.",
+    "en": "snacks and cookies"
+   }
+  ],
+  "answers": [
+   "My fridge always has snacks and cookies in it.",
+   "There are always snacks and cookies in my fridge."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang thèm",
+    "en": "I'm craving"
+   },
+   {
+    "t": "khoai tây chiên",
+    "en": "french fries"
+   },
+   {
+    "t": "lắm.",
+    "en": "so much"
+   }
+  ],
+  "answers": [
+   "I'm craving french fries so much.",
+   "I'm really craving fries right now."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Buổi tối,",
+    "en": "in the evening,"
+   },
+   {
+    "t": "tôi hay ăn vặt",
+    "en": "I often snack"
+   },
+   {
+    "t": "khi xem phim.",
+    "en": "while watching movies"
+   }
+  ],
+  "answers": [
+   "In the evening, I often snack while watching movies.",
+   "I usually snack while watching movies in the evening."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bánh tráng trộn",
+    "en": "rice paper salad"
+   },
+   {
+    "t": "là món ăn vặt",
+    "en": "is the snack"
+   },
+   {
+    "t": "tôi mê nhất.",
+    "en": "I'm most crazy about"
+   }
+  ],
+  "answers": [
+   "Rice paper salad is the snack I'm most crazy about.",
+   "Rice paper salad is my all-time favorite snack."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Em trai tôi",
+    "en": "my little brother"
+   },
+   {
+    "t": "đang nhai",
+    "en": "is chewing"
+   },
+   {
+    "t": "snack khoai tây",
+    "en": "potato chips"
+   },
+   {
+    "t": "trong phòng.",
+    "en": "in his room"
+   }
+  ],
+  "answers": [
+   "My little brother is chewing potato chips in his room.",
+   "My little brother is eating chips in his room right now."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Có xe bán",
+    "en": "there is a cart selling"
+   },
+   {
+    "t": "bắp xào",
+    "en": "stir-fried corn"
+   },
+   {
+    "t": "trước cổng trường.",
+    "en": "in front of the school gate"
+   }
+  ],
+  "answers": [
+   "There is a cart selling stir-fried corn in front of the school gate.",
+   "There's a stir-fried corn cart outside the school gate."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tối nào",
+    "en": "every evening"
+   },
+   {
+    "t": "con gái tôi",
+    "en": "my daughter"
+   },
+   {
+    "t": "cũng đòi ăn",
+    "en": "asks for"
+   },
+   {
+    "t": "kẹo trước khi ngủ.",
+    "en": "candy before bed"
+   }
+  ],
+  "answers": [
+   "Every evening, my daughter asks for candy before bed.",
+   "My daughter asks for candy before bed every single evening."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Túi bim bim",
+    "en": "the bag of chips"
+   },
+   {
+    "t": "trên bàn",
+    "en": "on the table"
+   },
+   {
+    "t": "đã hết sạch.",
+    "en": "is completely finished"
+   }
+  ],
+  "answers": [
+   "The bag of chips on the table is completely finished.",
+   "The bag of chips on the table is all gone."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Quán cơm tấm này",
+    "en": "this broken rice place"
+   },
+   {
+    "t": "tôi ăn",
+    "en": "I've been eating at"
+   },
+   {
+    "t": "suốt mười năm rồi.",
+    "en": "for ten years now"
+   }
+  ],
+  "answers": [
+   "I've been eating at this broken rice place for ten years now.",
+   "I've eaten at this broken rice restaurant for ten years."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chú chủ quán",
+    "en": "the shop owner"
+   },
+   {
+    "t": "luôn nhớ",
+    "en": "always remembers"
+   },
+   {
+    "t": "món tôi hay gọi.",
+    "en": "what I usually order"
+   }
+  ],
+  "answers": [
+   "The shop owner always remembers what I usually order.",
+   "The owner always remembers my usual order."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Quán bún đậu",
+    "en": "the bun dau shop"
+   },
+   {
+    "t": "gần nhà tôi",
+    "en": "near my house"
+   },
+   {
+    "t": "lúc nào cũng ngon.",
+    "en": "is always delicious"
+   }
+  ],
+  "answers": [
+   "The bun dau shop near my house is always delicious.",
+   "The bun dau place near my house is always great."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi hay ghé",
+    "en": "I often stop by"
+   },
+   {
+    "t": "quán chè quen",
+    "en": "my usual dessert shop"
+   },
+   {
+    "t": "sau giờ làm.",
+    "en": "after work"
+   }
+  ],
+  "answers": [
+   "I often stop by my usual dessert shop after work.",
+   "I often drop by my go-to chè shop after work."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Quán đó",
+    "en": "that place"
+   },
+   {
+    "t": "vừa đổi menu,",
+    "en": "just changed its menu,"
+   },
+   {
+    "t": "tôi hơi buồn.",
+    "en": "and I'm a bit sad"
+   }
+  ],
+  "answers": [
+   "That place just changed its menu, and I'm a bit sad.",
+   "That place just switched up its menu, and I'm kind of bummed."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chị bán hàng",
+    "en": "the food seller"
+   },
+   {
+    "t": "ở quán quen",
+    "en": "at my usual spot"
+   },
+   {
+    "t": "rất thân thiện.",
+    "en": "is very friendly"
+   }
+  ],
+  "answers": [
+   "The food seller at my usual spot is very friendly.",
+   "The lady at my regular food stall is very friendly."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sáng nay",
+    "en": "this morning"
+   },
+   {
+    "t": "tôi đi chợ",
+    "en": "I went to the market"
+   },
+   {
+    "t": "mua rau và cá.",
+    "en": "to buy vegetables and fish"
+   }
+  ],
+  "answers": [
+   "This morning I went to the market to buy vegetables and fish.",
+   "I went to the market this morning for vegetables and fish."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chợ gần nhà",
+    "en": "the market near my house"
+   },
+   {
+    "t": "đang bán",
+    "en": "is selling"
+   },
+   {
+    "t": "trái cây rất rẻ.",
+    "en": "fruit very cheap"
+   }
+  ],
+  "answers": [
+   "The market near my house is selling fruit very cheap.",
+   "Fruit is really cheap at the market near my house."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi quên mua",
+    "en": "I forgot to buy"
+   },
+   {
+    "t": "trứng",
+    "en": "eggs"
+   },
+   {
+    "t": "khi đi siêu thị.",
+    "en": "when I went to the supermarket"
+   }
+  ],
+  "answers": [
+   "I forgot to buy eggs when I went to the supermarket.",
+   "I forgot the eggs when I went to the supermarket."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá thịt heo",
+    "en": "the price of pork"
+   },
+   {
+    "t": "tăng lên",
+    "en": "went up"
+   },
+   {
+    "t": "tuần này.",
+    "en": "this week"
+   }
+  ],
+  "answers": [
+   "The price of pork went up this week.",
+   "Pork prices went up this week."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bạn có thể",
+    "en": "can you"
+   },
+   {
+    "t": "mua giúp tôi",
+    "en": "buy for me"
+   },
+   {
+    "t": "một ít hành lá không?",
+    "en": "a bit of scallions"
+   }
+  ],
+  "answers": [
+   "Can you buy me a bit of scallions?",
+   "Could you pick up some scallions for me?"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang đứng",
+    "en": "I'm standing"
+   },
+   {
+    "t": "trong siêu thị,",
+    "en": "in the supermarket,"
+   },
+   {
+    "t": "chọn hoa quả.",
+    "en": "picking out fruit"
+   }
+  ],
+  "answers": [
+   "I'm standing in the supermarket, picking out fruit.",
+   "I'm in the supermarket right now, choosing some fruit."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giỏ đồ ăn của tôi",
+    "en": "my grocery basket"
+   },
+   {
+    "t": "đầy rau",
+    "en": "is full of vegetables"
+   },
+   {
+    "t": "và trái cây.",
+    "en": "and fruit"
+   }
+  ],
+  "answers": [
+   "My grocery basket is full of vegetables and fruit.",
+   "My shopping basket is packed with vegetables and fruit."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cứ mỗi dịp Tết,",
+    "en": "every Tet holiday,"
+   },
+   {
+    "t": "nhà tôi",
+    "en": "my family"
+   },
+   {
+    "t": "gói bánh chưng.",
+    "en": "makes banh chung"
+   }
+  ],
+  "answers": [
+   "Every Tet holiday, my family makes banh chung.",
+   "My family makes banh chung every Tet."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mâm cỗ ngày Tết",
+    "en": "the Tet feast tray"
+   },
+   {
+    "t": "luôn có",
+    "en": "always has"
+   },
+   {
+    "t": "thịt kho tàu.",
+    "en": "caramelized pork and eggs"
+   }
+  ],
+  "answers": [
+   "The Tet feast tray always has caramelized pork and eggs.",
+   "There's always caramelized pork and eggs on the Tet tray."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bà tôi",
+    "en": "my grandmother"
+   },
+   {
+    "t": "đang làm mứt dừa",
+    "en": "is making coconut candy"
+   },
+   {
+    "t": "cho Tết.",
+    "en": "for Tet"
+   }
+  ],
+  "answers": [
+   "My grandmother is making coconut candy for Tet.",
+   "My grandmother is making coconut jam for the Tet holiday."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Năm nào",
+    "en": "every year"
+   },
+   {
+    "t": "cả nhà tôi",
+    "en": "my whole family"
+   },
+   {
+    "t": "cũng ngồi",
+    "en": "sits down"
+   },
+   {
+    "t": "canh nồi bánh chưng.",
+    "en": "to watch the banh chung pot"
+   }
+  ],
+  "answers": [
+   "Every year, my whole family sits down to watch the banh chung pot.",
+   "My whole family gathers to watch the banh chung pot boil every year."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Dưa hành",
+    "en": "pickled onions"
+   },
+   {
+    "t": "ăn cùng bánh chưng",
+    "en": "eaten with banh chung"
+   },
+   {
+    "t": "rất ngon.",
+    "en": "is very delicious"
+   }
+  ],
+  "answers": [
+   "Pickled onions eaten with banh chung is very delicious.",
+   "Pickled onions taste great with banh chung."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tết năm nay,",
+    "en": "this Tet,"
+   },
+   {
+    "t": "nhà tôi",
+    "en": "my family"
+   },
+   {
+    "t": "không luộc gà",
+    "en": "isn't boiling chicken"
+   },
+   {
+    "t": "vì ít người.",
+    "en": "because there are fewer people"
+   }
+  ],
+  "answers": [
+   "This Tet, my family isn't boiling chicken because there are fewer people.",
+   "We're not boiling chicken this Tet since there aren't many of us."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tủ lạnh nhà tôi",
+    "en": "my fridge"
+   },
+   {
+    "t": "còn rất nhiều",
+    "en": "still has a lot of"
+   },
+   {
+    "t": "đồ ăn thừa.",
+    "en": "leftover food"
+   }
+  ],
+  "answers": [
+   "My fridge still has a lot of leftover food.",
+   "There's still a lot of leftover food in my fridge."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi không nỡ",
+    "en": "I can't bring myself"
+   },
+   {
+    "t": "đổ bỏ",
+    "en": "to throw away"
+   },
+   {
+    "t": "phần cơm còn dư.",
+    "en": "the leftover rice"
+   }
+  ],
+  "answers": [
+   "I can't bring myself to throw away the leftover rice.",
+   "I just can't throw out the rice that's left over."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tối qua",
+    "en": "last night"
+   },
+   {
+    "t": "tôi hâm lại",
+    "en": "I reheated"
+   },
+   {
+    "t": "canh của bữa trưa.",
+    "en": "the soup from lunch"
+   }
+  ],
+  "answers": [
+   "Last night I reheated the soup from lunch.",
+   "I reheated last lunch's soup last night."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nhiều gia đình",
+    "en": "many families"
+   },
+   {
+    "t": "vứt bỏ",
+    "en": "throw away"
+   },
+   {
+    "t": "đồ ăn mỗi ngày.",
+    "en": "food every day"
+   }
+  ],
+  "answers": [
+   "Many families throw away food every day.",
+   "A lot of families waste food every day."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi cố gắng",
+    "en": "I try"
+   },
+   {
+    "t": "nấu vừa đủ ăn",
+    "en": "to cook just enough"
+   },
+   {
+    "t": "để khỏi thừa.",
+    "en": "so there's no leftovers"
+   }
+  ],
+  "answers": [
+   "I try to cook just enough so there's no leftovers.",
+   "I try to cook the right amount so nothing gets wasted."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bánh mì để lâu",
+    "en": "the bread left too long"
+   },
+   {
+    "t": "đã bị mốc",
+    "en": "has gone moldy"
+   },
+   {
+    "t": "trong tủ.",
+    "en": "in the cupboard"
+   }
+  ],
+  "answers": [
+   "The bread left too long has gone moldy in the cupboard.",
+   "The bread went moldy in the cupboard because it sat too long."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Lần đầu nấu ăn,",
+    "en": "the first time I cooked,"
+   },
+   {
+    "t": "tôi làm cháy",
+    "en": "I burned"
+   },
+   {
+    "t": "cả nồi cơm.",
+    "en": "the whole pot of rice"
+   }
+  ],
+  "answers": [
+   "The first time I cooked, I burned the whole pot of rice.",
+   "When I cooked for the first time, I burned the whole pot of rice."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món canh tôi nấu",
+    "en": "the soup I cooked"
+   },
+   {
+    "t": "mặn quá,",
+    "en": "is too salty,"
+   },
+   {
+    "t": "không ai ăn nổi.",
+    "en": "nobody can eat it"
+   }
+  ],
+  "answers": [
+   "The soup I cooked is too salty, nobody can eat it.",
+   "The soup I made is way too salty, and no one can eat it."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi quên bật lò,",
+    "en": "I forgot to turn on the oven,"
+   },
+   {
+    "t": "nên bánh",
+    "en": "so the cake"
+   },
+   {
+    "t": "không chín.",
+    "en": "didn't cook"
+   }
+  ],
+  "answers": [
+   "I forgot to turn on the oven, so the cake didn't cook.",
+   "I forgot to preheat the oven, so the cake never baked."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Oops,",
+    "en": "oops,"
+   },
+   {
+    "t": "tôi cho nhầm đường",
+    "en": "I mixed up sugar"
+   },
+   {
+    "t": "thành muối rồi!",
+    "en": "with salt"
+   }
+  ],
+  "answers": [
+   "Oops, I mixed up sugar with salt!",
+   "Oops, I accidentally used salt instead of sugar!"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món gà kho",
+    "en": "the braised chicken"
+   },
+   {
+    "t": "của tôi",
+    "en": "that I made"
+   },
+   {
+    "t": "bị cháy đen.",
+    "en": "turned black and burnt"
+   }
+  ],
+  "answers": [
+   "The braised chicken that I made turned black and burnt.",
+   "The chicken I braised burned and turned black."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bánh flan tôi làm",
+    "en": "the flan I made"
+   },
+   {
+    "t": "không đông,",
+    "en": "didn't set,"
+   },
+   {
+    "t": "vẫn còn lỏng.",
+    "en": "and it's still runny"
+   }
+  ],
+  "answers": [
+   "The flan I made didn't set, and it's still runny.",
+   "The flan I made never set, so it's still liquid."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cuối tuần này",
+    "en": "this weekend"
+   },
+   {
+    "t": "tôi muốn",
+    "en": "I want to"
+   },
+   {
+    "t": "thử một món mới.",
+    "en": "try a new dish"
+   }
+  ],
+  "answers": [
+   "This weekend I want to try a new dish.",
+   "I want to try out a new dish this weekend."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Đây là",
+    "en": "this is"
+   },
+   {
+    "t": "lần đầu tiên",
+    "en": "the first time"
+   },
+   {
+    "t": "tôi ăn sầu riêng.",
+    "en": "I've eaten durian"
+   }
+  ],
+  "answers": [
+   "This is the first time I've eaten durian.",
+   "This is my first time eating durian."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món ăn Hàn Quốc này",
+    "en": "this Korean dish"
+   },
+   {
+    "t": "có vị lạ,",
+    "en": "tastes strange,"
+   },
+   {
+    "t": "nhưng khá ngon.",
+    "en": "but it's pretty good"
+   }
+  ],
+  "answers": [
+   "This Korean dish tastes strange, but it's pretty good.",
+   "This Korean dish has an odd taste, but it's actually quite nice."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bạn đã bao giờ",
+    "en": "have you ever"
+   },
+   {
+    "t": "ăn thử",
+    "en": "tried"
+   },
+   {
+    "t": "trứng vịt lộn chưa?",
+    "en": "balut before"
+   }
+  ],
+  "answers": [
+   "Have you ever tried balut before?",
+   "Have you ever eaten balut?"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang thử",
+    "en": "I'm trying"
+   },
+   {
+    "t": "món chay Nhật",
+    "en": "Japanese vegetarian food"
+   },
+   {
+    "t": "lần đầu tiên.",
+    "en": "for the first time"
+   }
+  ],
+  "answers": [
+   "I'm trying Japanese vegetarian food for the first time.",
+   "This is my first time trying Japanese vegetarian food."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món này",
+    "en": "this dish"
+   },
+   {
+    "t": "trông lạ,",
+    "en": "looks strange,"
+   },
+   {
+    "t": "nhưng tôi vẫn muốn ăn.",
+    "en": "but I still want to eat it"
+   }
+  ],
+  "answers": [
+   "This dish looks strange, but I still want to eat it.",
+   "This dish looks weird, but I still want to try it."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tối nay",
+    "en": "tonight"
+   },
+   {
+    "t": "tôi hẹn",
+    "en": "I'm meeting"
+   },
+   {
+    "t": "đám bạn",
+    "en": "my friends"
+   },
+   {
+    "t": "đi ăn lẩu.",
+    "en": "to go eat hotpot"
+   }
+  ],
+  "answers": [
+   "Tonight I'm meeting my friends to go eat hotpot.",
+   "Tonight I'm meeting up with my friends for hotpot."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chúng tôi",
+    "en": "we"
+   },
+   {
+    "t": "đang cười đùa",
+    "en": "are laughing and joking"
+   },
+   {
+    "t": "quanh bàn ăn.",
+    "en": "around the dinner table"
+   }
+  ],
+  "answers": [
+   "We are laughing and joking around the dinner table.",
+   "We're sitting around the table laughing and joking."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bạn thân tôi",
+    "en": "my best friend"
+   },
+   {
+    "t": "luôn gọi",
+    "en": "always orders"
+   },
+   {
+    "t": "món giống tôi.",
+    "en": "the same dish as me"
+   }
+  ],
+  "answers": [
+   "My best friend always orders the same dish as me.",
+   "My best friend always gets the same dish I do."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nhóm bạn tôi",
+    "en": "my group of friends"
+   },
+   {
+    "t": "hẹn nhau",
+    "en": "meets up"
+   },
+   {
+    "t": "ăn sáng",
+    "en": "for breakfast"
+   },
+   {
+    "t": "mỗi Chủ nhật.",
+    "en": "every Sunday"
+   }
+  ],
+  "answers": [
+   "My group of friends meets up for breakfast every Sunday.",
+   "My friends and I get together for breakfast every Sunday."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Ai",
+    "en": "who"
+   },
+   {
+    "t": "trả tiền",
+    "en": "is paying"
+   },
+   {
+    "t": "bữa này vậy?",
+    "en": "for this meal"
+   }
+  ],
+  "answers": [
+   "Who is paying for this meal?",
+   "Who's paying this time?"
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bạn bè tôi",
+    "en": "my friends"
+   },
+   {
+    "t": "đang chia nhau",
+    "en": "are sharing"
+   },
+   {
+    "t": "một đĩa gỏi cuốn.",
+    "en": "a plate of fresh spring rolls"
+   }
+  ],
+  "answers": [
+   "My friends are sharing a plate of fresh spring rolls.",
+   "My friends are all sharing one plate of fresh spring rolls."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chúng tôi",
+    "en": "we"
+   },
+   {
+    "t": "vừa ăn",
+    "en": "just ate"
+   },
+   {
+    "t": "vừa kể chuyện",
+    "en": "and told stories"
+   },
+   {
+    "t": "suốt buổi tối.",
+    "en": "all evening"
+   }
+  ],
+  "answers": [
+   "We just ate and told stories all evening.",
+   "We ate and chatted the whole evening."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Quán ăn đó",
+    "en": "that restaurant"
+   },
+   {
+    "t": "vừa mở thêm",
+    "en": "just opened"
+   },
+   {
+    "t": "một chi nhánh mới.",
+    "en": "a new branch"
+   }
+  ],
+  "answers": [
+   "That restaurant just opened a new branch.",
+   "That restaurant has just opened another branch."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang rửa",
+    "en": "I'm washing"
+   },
+   {
+    "t": "rau",
+    "en": "vegetables"
+   },
+   {
+    "t": "trước khi nấu.",
+    "en": "before cooking"
+   }
+  ],
+  "answers": [
+   "I'm washing vegetables before cooking.",
+   "I'm washing the veggies before I cook."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Ứng dụng giao đồ ăn",
+    "en": "the delivery app"
+   },
+   {
+    "t": "bị lỗi,",
+    "en": "has a bug,"
+   },
+   {
+    "t": "tôi không đặt được.",
+    "en": "I can't place an order"
+   }
+  ],
+  "answers": [
+   "The delivery app has a bug, I can't place an order.",
+   "The delivery app is glitching, so I can't order."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cô ấy",
+    "en": "she"
+   },
+   {
+    "t": "không ăn được",
+    "en": "can't eat"
+   },
+   {
+    "t": "đồ có gluten.",
+    "en": "food with gluten"
+   }
+  ],
+  "answers": [
+   "She can't eat food with gluten.",
+   "She's not able to eat anything with gluten."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món chả cá Lã Vọng",
+    "en": "cha ca la vong"
+   },
+   {
+    "t": "chỉ có",
+    "en": "is only found"
+   },
+   {
+    "t": "ở Hà Nội.",
+    "en": "in Hanoi"
+   }
+  ],
+  "answers": [
+   "Cha ca la vong is only found in Hanoi.",
+   "You can only find cha ca la vong in Hanoi."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang nhâm nhi",
+    "en": "I'm sipping"
+   },
+   {
+    "t": "cà phê muối",
+    "en": "salted coffee"
+   },
+   {
+    "t": "ở Huế.",
+    "en": "in Hue"
+   }
+  ],
+  "answers": [
+   "I'm sipping salted coffee in Hue.",
+   "I'm sipping on some salted coffee here in Hue."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Hộp cơm trưa",
+    "en": "my lunchbox"
+   },
+   {
+    "t": "của tôi",
+    "en": "of mine"
+   },
+   {
+    "t": "còn dư một ít cơm.",
+    "en": "still has some rice left"
+   }
+  ],
+  "answers": [
+   "My lunchbox still has some rice left.",
+   "There's still a little rice left in my lunchbox."
+  ]
+ },
+ {
+  "level": "A2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bạn tôi",
+    "en": "my friend"
+   },
+   {
+    "t": "đang nướng bánh",
+    "en": "is baking a cake"
+   },
+   {
+    "t": "lần đầu tiên.",
+    "en": "for the first time"
+   }
+  ],
+  "answers": [
+   "My friend is baking a cake for the first time.",
+   "My friend is baking her first cake ever."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì quán quen",
+    "en": "because our usual place"
+   },
+   {
+    "t": "đã đóng cửa,",
+    "en": "had closed down,"
+   },
+   {
+    "t": "chúng tôi phải tìm",
+    "en": "we had to find"
+   },
+   {
+    "t": "một nhà hàng khác.",
+    "en": "another restaurant"
+   }
+  ],
+  "answers": [
+   "Because our usual place had closed down, we had to find another restaurant.",
+   "Since our regular spot had shut down, we had to look for a different restaurant."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đã đặt bàn trước,",
+    "en": "I had booked a table in advance,"
+   },
+   {
+    "t": "nhưng khi đến nơi",
+    "en": "but when we arrived"
+   },
+   {
+    "t": "vẫn phải đợi.",
+    "en": "we still had to wait"
+   }
+  ],
+  "answers": [
+   "I had booked a table in advance, but when we arrived we still had to wait.",
+   "I'd reserved a table beforehand, but we still had to wait when we got there."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù giá hơi cao,",
+    "en": "although the price is a bit high,"
+   },
+   {
+    "t": "nhà hàng đó",
+    "en": "that restaurant"
+   },
+   {
+    "t": "vẫn luôn đông khách.",
+    "en": "is still always packed"
+   }
+  ],
+  "answers": [
+   "Although the price is a bit high, that restaurant is still always packed.",
+   "Even though it's a bit pricey, that restaurant is still always crowded."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi ăn xong,",
+    "en": "after we finished eating,"
+   },
+   {
+    "t": "chúng tôi mới nhận ra",
+    "en": "we only realized"
+   },
+   {
+    "t": "mình quên mang ví.",
+    "en": "we'd forgotten our wallets"
+   }
+  ],
+  "answers": [
+   "After we finished eating, we only realized we'd forgotten our wallets.",
+   "After we finished the meal, we suddenly realized we had forgotten to bring our wallets."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn đặt bàn trước,",
+    "en": "if you book a table in advance,"
+   },
+   {
+    "t": "bạn sẽ không phải",
+    "en": "you won't have to"
+   },
+   {
+    "t": "xếp hàng đợi.",
+    "en": "stand in line"
+   }
+  ],
+  "answers": [
+   "If you book a table in advance, you won't have to stand in line.",
+   "If you reserve a table ahead of time, you won't have to wait in line."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trong khi chúng tôi đang ăn,",
+    "en": "while we were eating,"
+   },
+   {
+    "t": "quán bất ngờ",
+    "en": "the restaurant suddenly"
+   },
+   {
+    "t": "mất điện.",
+    "en": "lost power"
+   }
+  ],
+  "answers": [
+   "While we were eating, the restaurant suddenly lost power.",
+   "The restaurant suddenly lost power while we were eating."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trước khi vào quán,",
+    "en": "before we went into the restaurant,"
+   },
+   {
+    "t": "chúng tôi đã kiểm tra",
+    "en": "we had already checked"
+   },
+   {
+    "t": "đánh giá trên mạng.",
+    "en": "the reviews online"
+   }
+  ],
+  "answers": [
+   "Before we went into the restaurant, we had already checked the reviews online.",
+   "We'd already checked the online reviews before we went into the restaurant."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đã học nấu ăn",
+    "en": "I've learned to cook"
+   },
+   {
+    "t": "từ khi",
+    "en": "since"
+   },
+   {
+    "t": "còn ở với bố mẹ.",
+    "en": "I still lived with my parents"
+   }
+  ],
+  "answers": [
+   "I've learned to cook since I still lived with my parents.",
+   "I've known how to cook since the time I still lived with my parents."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Hồi nhỏ,",
+    "en": "when I was young,"
+   },
+   {
+    "t": "tôi thường",
+    "en": "I used to"
+   },
+   {
+    "t": "nấu ăn cùng bà.",
+    "en": "cook with my grandmother"
+   }
+  ],
+  "answers": [
+   "When I was young, I used to cook with my grandmother.",
+   "I used to cook with my grandmother when I was little."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn thêm chút đường,",
+    "en": "if you add a little sugar,"
+   },
+   {
+    "t": "món kho",
+    "en": "the braised dish"
+   },
+   {
+    "t": "sẽ ngon hơn nhiều.",
+    "en": "will taste much better"
+   }
+  ],
+  "answers": [
+   "If you add a little sugar, the braised dish will taste much better.",
+   "If you put in a bit of sugar, the braised dish will taste a lot better."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đang tập nấu ăn",
+    "en": "I'm learning to cook"
+   },
+   {
+    "t": "vì tôi",
+    "en": "because I"
+   },
+   {
+    "t": "sắp ra ở riêng.",
+    "en": "am about to move out on my own"
+   }
+  ],
+  "answers": [
+   "I'm learning to cook because I'm about to move out on my own.",
+   "I'm learning to cook since I'm about to live on my own."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi thử nhiều công thức,",
+    "en": "after trying many recipes,"
+   },
+   {
+    "t": "tôi cuối cùng cũng",
+    "en": "I finally"
+   },
+   {
+    "t": "nấu được món phở ngon.",
+    "en": "managed to cook a good pho"
+   }
+  ],
+  "answers": [
+   "After trying many recipes, I finally managed to cook a good pho.",
+   "After trying out lots of recipes, I finally got the pho right."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi thường bật nhạc",
+    "en": "I usually turn on music"
+   },
+   {
+    "t": "trong khi nấu ăn",
+    "en": "while cooking"
+   },
+   {
+    "t": "để đỡ chán.",
+    "en": "so it's less boring"
+   }
+  ],
+  "answers": [
+   "I usually turn on music while cooking so it's less boring.",
+   "I usually play music while I cook to make it less boring."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì ứng dụng",
+    "en": "because the app"
+   },
+   {
+    "t": "đang khuyến mãi,",
+    "en": "is running a promotion,"
+   },
+   {
+    "t": "tôi đặt hẳn ba món.",
+    "en": "I ordered as many as three dishes"
+   }
+  ],
+  "answers": [
+   "Because the app is running a promotion, I ordered as many as three dishes.",
+   "Since the app had a deal on, I went ahead and ordered three dishes."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Đơn hàng của tôi",
+    "en": "my order"
+   },
+   {
+    "t": "đã bị hủy",
+    "en": "got cancelled"
+   },
+   {
+    "t": "mà không rõ lý do.",
+    "en": "for no clear reason"
+   }
+  ],
+  "answers": [
+   "My order got cancelled for no clear reason.",
+   "My order was cancelled without any clear explanation."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu shipper gọi",
+    "en": "if the delivery driver calls"
+   },
+   {
+    "t": "mà bạn không nghe máy,",
+    "en": "and you don't pick up,"
+   },
+   {
+    "t": "đơn sẽ bị hủy.",
+    "en": "the order will be cancelled"
+   }
+  ],
+  "answers": [
+   "If the delivery driver calls and you don't pick up, the order will be cancelled.",
+   "If the driver calls and you don't answer, your order gets cancelled."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đã chờ hơn một tiếng,",
+    "en": "I had waited over an hour,"
+   },
+   {
+    "t": "nhưng đồ ăn",
+    "en": "but the food"
+   },
+   {
+    "t": "vẫn chưa tới.",
+    "en": "still hadn't arrived"
+   }
+  ],
+  "answers": [
+   "I had waited over an hour, but the food still hadn't arrived.",
+   "I'd been waiting for over an hour, and the food still hadn't shown up."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì tôi bận họp",
+    "en": "because I was busy in a meeting"
+   },
+   {
+    "t": "cả buổi chiều,",
+    "en": "all afternoon,"
+   },
+   {
+    "t": "tôi đặt đồ ăn giao tận bàn.",
+    "en": "I ordered food delivered to my desk"
+   }
+  ],
+  "answers": [
+   "Because I was busy in a meeting all afternoon, I ordered food delivered to my desk.",
+   "Since I was tied up in meetings all afternoon, I had food delivered straight to my desk."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi so sánh giá",
+    "en": "after comparing prices"
+   },
+   {
+    "t": "trên vài ứng dụng,",
+    "en": "across a few apps,"
+   },
+   {
+    "t": "tôi chọn quán rẻ nhất.",
+    "en": "I picked the cheapest place"
+   }
+  ],
+  "answers": [
+   "After comparing prices across a few apps, I picked the cheapest place.",
+   "After checking prices on a few apps, I went with the cheapest option."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Từ khi chuyển sang ăn chay,",
+    "en": "since switching to a vegetarian diet,"
+   },
+   {
+    "t": "tôi cảm thấy",
+    "en": "I've felt"
+   },
+   {
+    "t": "khỏe hơn hẳn.",
+    "en": "much healthier"
+   }
+  ],
+  "answers": [
+   "Since switching to a vegetarian diet, I've felt much healthier.",
+   "I've felt a lot healthier since I switched to eating vegetarian."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù không ăn thịt,",
+    "en": "although she doesn't eat meat,"
+   },
+   {
+    "t": "cô ấy",
+    "en": "she"
+   },
+   {
+    "t": "vẫn đủ chất dinh dưỡng.",
+    "en": "still gets enough nutrients"
+   }
+  ],
+  "answers": [
+   "Although she doesn't eat meat, she still gets enough nutrients.",
+   "Even though she doesn't eat meat, she still gets plenty of nutrients."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn mới ăn chay,",
+    "en": "if you're new to eating vegetarian,"
+   },
+   {
+    "t": "bạn nên bắt đầu",
+    "en": "you should start"
+   },
+   {
+    "t": "từ từ thôi.",
+    "en": "slowly"
+   }
+  ],
+  "answers": [
+   "If you're new to eating vegetarian, you should start slowly.",
+   "If you're just starting out as a vegetarian, you should ease into it."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đã ăn chay",
+    "en": "I've eaten vegetarian"
+   },
+   {
+    "t": "được ba năm rồi,",
+    "en": "for three years now,"
+   },
+   {
+    "t": "nên nấu món chay",
+    "en": "so cooking vegetarian food"
+   },
+   {
+    "t": "không còn khó nữa.",
+    "en": "is no longer hard"
+   }
+  ],
+  "answers": [
+   "I've eaten vegetarian for three years now, so cooking vegetarian food is no longer hard.",
+   "I've been vegetarian for three years, so making vegetarian meals isn't difficult anymore."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi bạn tôi",
+    "en": "when my friend"
+   },
+   {
+    "t": "biết tôi ăn chay,",
+    "en": "found out I was vegetarian,"
+   },
+   {
+    "t": "cô ấy đổi hẳn thực đơn.",
+    "en": "she completely changed the menu"
+   }
+  ],
+  "answers": [
+   "When my friend found out I was vegetarian, she completely changed the menu.",
+   "When my friend learned I was vegetarian, she changed the whole menu."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì lo cho sức khỏe,",
+    "en": "worried about her health,"
+   },
+   {
+    "t": "mẹ tôi",
+    "en": "my mom"
+   },
+   {
+    "t": "đã chuyển sang ăn chay.",
+    "en": "has switched to a vegetarian diet"
+   }
+  ],
+  "answers": [
+   "Worried about her health, my mom has switched to a vegetarian diet.",
+   "Because she's concerned about her health, my mom has gone vegetarian."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi con tôi",
+    "en": "after my child"
+   },
+   {
+    "t": "bị dị ứng đậu phộng,",
+    "en": "had an allergic reaction to peanuts,"
+   },
+   {
+    "t": "tôi phải đọc kỹ",
+    "en": "I have to carefully read"
+   },
+   {
+    "t": "nhãn mọi món ăn.",
+    "en": "the label on every food item"
+   }
+  ],
+  "answers": [
+   "After my child had an allergic reaction to peanuts, I have to carefully read the label on every food item.",
+   "Ever since my child reacted to peanuts, I've had to check the label on every single food item."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn bị dị ứng hải sản,",
+    "en": "if you are allergic to seafood,"
+   },
+   {
+    "t": "bạn nên báo trước",
+    "en": "you should let them know in advance"
+   },
+   {
+    "t": "cho nhân viên.",
+    "en": "to the staff"
+   }
+  ],
+  "answers": [
+   "If you're allergic to seafood, you should let the staff know beforehand.",
+   "If seafood gives you an allergic reaction, you should tell the staff in advance."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đã kiểm tra kỹ,",
+    "en": "I checked carefully,"
+   },
+   {
+    "t": "nhưng vẫn ăn nhầm",
+    "en": "but I still accidentally ate"
+   },
+   {
+    "t": "thứ có chứa sữa.",
+    "en": "something that contained milk"
+   }
+  ],
+  "answers": [
+   "I checked carefully, but I still accidentally ate something that contained milk.",
+   "I double-checked, but I still ended up eating something with milk in it."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì em gái tôi",
+    "en": "because my little sister"
+   },
+   {
+    "t": "dị ứng với trứng,",
+    "en": "is allergic to eggs,"
+   },
+   {
+    "t": "cả nhà",
+    "en": "the whole family"
+   },
+   {
+    "t": "tránh dùng trứng khi nấu.",
+    "en": "avoids using eggs when cooking"
+   }
+  ],
+  "answers": [
+   "Because my little sister is allergic to eggs, the whole family avoids using eggs when cooking.",
+   "Since my sister is allergic to eggs, we avoid eggs in our cooking altogether."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi phát hiện",
+    "en": "when I found out"
+   },
+   {
+    "t": "mình bị dị ứng tôm,",
+    "en": "I was allergic to shrimp,"
+   },
+   {
+    "t": "tôi phải bỏ hẳn",
+    "en": "I had to give up completely"
+   },
+   {
+    "t": "món lẩu hải sản.",
+    "en": "seafood hotpot"
+   }
+  ],
+  "answers": [
+   "When I found out I was allergic to shrimp, I had to give up seafood hotpot completely.",
+   "When I discovered my shrimp allergy, I had to cut seafood hotpot out entirely."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù đã cẩn thận,",
+    "en": "although I was careful,"
+   },
+   {
+    "t": "tôi vẫn bị nổi mẩn",
+    "en": "I still broke out in a rash"
+   },
+   {
+    "t": "sau bữa tối đó.",
+    "en": "after that dinner"
+   }
+  ],
+  "answers": [
+   "Although I was careful, I still broke out in a rash after that dinner.",
+   "Even though I was careful, I still got a rash after that dinner."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món bún bò Huế",
+    "en": "bun bo hue"
+   },
+   {
+    "t": "khác với phở",
+    "en": "differs from pho"
+   },
+   {
+    "t": "vì nó cay và đậm vị hơn.",
+    "en": "because it's spicier and richer in flavor"
+   }
+  ],
+  "answers": [
+   "Bun bo hue differs from pho because it's spicier and richer in flavor.",
+   "Bun bo hue is different from pho since it's spicier and more full-flavored."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi tôi đến Đà Lạt,",
+    "en": "when I visited Da Lat,"
+   },
+   {
+    "t": "tôi đã thử",
+    "en": "I tried"
+   },
+   {
+    "t": "bánh tráng nướng lần đầu.",
+    "en": "grilled rice paper for the first time"
+   }
+  ],
+  "answers": [
+   "When I visited Da Lat, I tried grilled rice paper for the first time.",
+   "I tried grilled rice paper for the first time when I went to Da Lat."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù sống ở miền Bắc,",
+    "en": "although I live in the north,"
+   },
+   {
+    "t": "tôi vẫn thích",
+    "en": "I still love"
+   },
+   {
+    "t": "đồ ăn ngọt kiểu miền Nam.",
+    "en": "southern-style sweet food"
+   }
+  ],
+  "answers": [
+   "Although I live in the north, I still love southern-style sweet food.",
+   "Even though I live in the north, I still love the sweeter southern-style food."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi ăn thử",
+    "en": "after trying"
+   },
+   {
+    "t": "mì Quảng Đà Nẵng,",
+    "en": "Da Nang's mi quang,"
+   },
+   {
+    "t": "tôi mới hiểu",
+    "en": "I finally understood"
+   },
+   {
+    "t": "vì sao nó nổi tiếng.",
+    "en": "why it's famous"
+   }
+  ],
+  "answers": [
+   "After trying Da Nang's mi quang, I finally understood why it's famous.",
+   "Once I tried mi quang from Da Nang, I finally got why it's so famous."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì mỗi vùng",
+    "en": "because each region"
+   },
+   {
+    "t": "nêm gia vị khác nhau,",
+    "en": "seasons its food differently,"
+   },
+   {
+    "t": "cùng một món",
+    "en": "the same dish"
+   },
+   {
+    "t": "có thể có vị rất khác.",
+    "en": "can taste very different"
+   }
+  ],
+  "answers": [
+   "Because each region seasons its food differently, the same dish can taste very different.",
+   "Since every region seasons food its own way, the same dish can taste totally different."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trước khi thử bún đậu mắm tôm,",
+    "en": "before I tried bun dau with shrimp paste,"
+   },
+   {
+    "t": "tôi đã hơi lo",
+    "en": "I was a bit worried"
+   },
+   {
+    "t": "vì mùi khá nồng.",
+    "en": "because the smell is quite strong"
+   }
+  ],
+  "answers": [
+   "Before I tried bun dau with shrimp paste, I was a bit worried because the smell is quite strong.",
+   "I was a little worried before trying bun dau with shrimp paste, since it smells quite strong."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cứ mỗi sáng,",
+    "en": "every single morning,"
+   },
+   {
+    "t": "tôi ghé quán quen",
+    "en": "I stop by my usual place"
+   },
+   {
+    "t": "để mua cà phê",
+    "en": "to buy coffee"
+   },
+   {
+    "t": "trước khi đi làm.",
+    "en": "before going to work"
+   }
+  ],
+  "answers": [
+   "Every single morning, I stop by my usual place to buy coffee before going to work.",
+   "Every morning I drop by my regular spot for coffee before heading to work."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì tôi hay thức khuya,",
+    "en": "because I often stay up late,"
+   },
+   {
+    "t": "tôi phải uống cà phê",
+    "en": "I have to drink coffee"
+   },
+   {
+    "t": "để tỉnh táo.",
+    "en": "to stay alert"
+   }
+  ],
+  "answers": [
+   "Because I often stay up late, I have to drink coffee to stay alert.",
+   "Since I stay up late a lot, I need coffee to stay awake."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn uống trà sữa mỗi ngày,",
+    "en": "if you drink milk tea every day,"
+   },
+   {
+    "t": "bạn sẽ nạp",
+    "en": "you'll take in"
+   },
+   {
+    "t": "rất nhiều đường.",
+    "en": "a lot of sugar"
+   }
+  ],
+  "answers": [
+   "If you drink milk tea every day, you'll take in a lot of sugar.",
+   "If you have milk tea daily, you'll end up consuming a lot of sugar."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi bỏ cà phê",
+    "en": "after cutting out coffee"
+   },
+   {
+    "t": "một tuần,",
+    "en": "for a week,"
+   },
+   {
+    "t": "tôi bị đau đầu",
+    "en": "I got headaches"
+   },
+   {
+    "t": "liên tục.",
+    "en": "constantly"
+   }
+  ],
+  "answers": [
+   "After cutting out coffee for a week, I got constant headaches.",
+   "After going a week without coffee, I kept getting headaches."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi từng uống",
+    "en": "I used to drink"
+   },
+   {
+    "t": "trà sữa mỗi ngày,",
+    "en": "milk tea every day,"
+   },
+   {
+    "t": "nhưng giờ tôi bỏ hẳn rồi.",
+    "en": "but now I've completely given it up"
+   }
+  ],
+  "answers": [
+   "I used to drink milk tea every day, but now I've completely given it up.",
+   "I used to have milk tea daily, but I've quit it entirely now."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trong khi chờ pha cà phê,",
+    "en": "while waiting for the coffee to brew,"
+   },
+   {
+    "t": "tôi thường",
+    "en": "I usually"
+   },
+   {
+    "t": "lướt điện thoại.",
+    "en": "scroll through my phone"
+   }
+  ],
+  "answers": [
+   "While waiting for the coffee to brew, I usually scroll through my phone.",
+   "I usually scroll my phone while my coffee is brewing."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì quán cà phê đó",
+    "en": "because that café"
+   },
+   {
+    "t": "quá ồn,",
+    "en": "is too noisy,"
+   },
+   {
+    "t": "tôi đã chuyển sang",
+    "en": "I switched to"
+   },
+   {
+    "t": "một quán yên tĩnh hơn.",
+    "en": "a quieter place"
+   }
+  ],
+  "answers": [
+   "Because that café is too noisy, I switched to a quieter place.",
+   "Since that coffee shop was too loud, I moved to a quieter one."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu tôi ăn kiêng nghiêm túc,",
+    "en": "if I diet seriously,"
+   },
+   {
+    "t": "tôi sẽ giảm được",
+    "en": "I'll be able to lose"
+   },
+   {
+    "t": "vài cân trong tháng này.",
+    "en": "a few kilos this month"
+   }
+  ],
+  "answers": [
+   "If I diet seriously, I'll be able to lose a few kilos this month.",
+   "If I stick to a strict diet, I'll lose a few kilos this month."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Từ khi bắt đầu ăn kiêng,",
+    "en": "since I started dieting,"
+   },
+   {
+    "t": "tôi đã bỏ hẳn",
+    "en": "I've completely cut out"
+   },
+   {
+    "t": "đồ ngọt.",
+    "en": "sweets"
+   }
+  ],
+  "answers": [
+   "Since I started dieting, I've completely cut out sweets.",
+   "I've cut out sweets entirely since I began my diet."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù đang giảm cân,",
+    "en": "although I'm losing weight,"
+   },
+   {
+    "t": "tôi vẫn thèm",
+    "en": "I still crave"
+   },
+   {
+    "t": "đồ chiên rán.",
+    "en": "fried food"
+   }
+  ],
+  "answers": [
+   "Although I'm losing weight, I still crave fried food.",
+   "Even though I'm on a weight-loss plan, I still crave fried food."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi tăng cân mùa Tết,",
+    "en": "after gaining weight over Tet,"
+   },
+   {
+    "t": "tôi quyết định",
+    "en": "I decided"
+   },
+   {
+    "t": "ăn kiêng nghiêm túc hơn.",
+    "en": "to diet more seriously"
+   }
+  ],
+  "answers": [
+   "After gaining weight over Tet, I decided to diet more seriously.",
+   "After putting on weight during Tet, I decided to be more serious about dieting."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Huấn luyện viên khuyên tôi",
+    "en": "my trainer advised me"
+   },
+   {
+    "t": "nên ăn nhiều rau",
+    "en": "to eat more vegetables"
+   },
+   {
+    "t": "thay vì cắt hẳn tinh bột.",
+    "en": "instead of cutting out carbs completely"
+   }
+  ],
+  "answers": [
+   "My trainer advised me to eat more vegetables instead of cutting out carbs completely.",
+   "My trainer suggested I eat more vegetables rather than completely eliminate carbs."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì tôi ăn kiêng quá khắt khe,",
+    "en": "because I dieted too strictly,"
+   },
+   {
+    "t": "tôi bắt đầu cảm thấy",
+    "en": "I started to feel"
+   },
+   {
+    "t": "mệt mỏi và cáu gắt.",
+    "en": "tired and irritable"
+   }
+  ],
+  "answers": [
+   "Because I dieted too strictly, I started to feel tired and irritable.",
+   "Since I was dieting too strictly, I began feeling tired and cranky."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu chúng ta đặt tiệc ngoài trời,",
+    "en": "if we hold the party outdoors,"
+   },
+   {
+    "t": "chúng ta sẽ cần",
+    "en": "we'll need"
+   },
+   {
+    "t": "thêm bàn ghế.",
+    "en": "extra tables and chairs"
+   }
+  ],
+  "answers": [
+   "If we hold the party outdoors, we'll need extra tables and chairs.",
+   "If we host the party outside, we'll need more tables and chairs."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi tiệc kết thúc,",
+    "en": "after the party ended,"
+   },
+   {
+    "t": "chúng tôi phải dọn dẹp",
+    "en": "we had to clean up"
+   },
+   {
+    "t": "đến tận nửa đêm.",
+    "en": "until midnight"
+   }
+  ],
+  "answers": [
+   "After the party ended, we had to clean up until midnight.",
+   "We had to clean up until midnight after the party was over."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì khách mời đông hơn dự kiến,",
+    "en": "because more guests showed up than expected,"
+   },
+   {
+    "t": "đồ ăn",
+    "en": "the food"
+   },
+   {
+    "t": "hết sạch sớm.",
+    "en": "ran out early"
+   }
+  ],
+  "answers": [
+   "Because more guests showed up than expected, the food ran out early.",
+   "Since we had more guests than expected, the food ran out early."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trong khi mọi người",
+    "en": "while everyone"
+   },
+   {
+    "t": "chuẩn bị món ăn,",
+    "en": "was preparing the food,"
+   },
+   {
+    "t": "tôi lo trang trí bàn tiệc.",
+    "en": "I took care of decorating the table"
+   }
+  ],
+  "answers": [
+   "While everyone was preparing the food, I took care of decorating the table.",
+   "I decorated the table while everyone else prepared the food."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn muốn tổ chức tiệc thành công,",
+    "en": "if you want to host a successful party,"
+   },
+   {
+    "t": "bạn nên chuẩn bị",
+    "en": "you should prepare"
+   },
+   {
+    "t": "đồ ăn đa dạng.",
+    "en": "a variety of food"
+   }
+  ],
+  "answers": [
+   "If you want to host a successful party, you should prepare a variety of food.",
+   "If you want your party to go well, you should have a range of dishes."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi tôi đến,",
+    "en": "when I arrived,"
+   },
+   {
+    "t": "bữa tiệc đã bắt đầu",
+    "en": "the party had already started"
+   },
+   {
+    "t": "được nửa giờ.",
+    "en": "half an hour earlier"
+   }
+  ],
+  "answers": [
+   "When I arrived, the party had already started half an hour earlier.",
+   "By the time I got there, the party had already been going for half an hour."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù bận rộn cả tuần,",
+    "en": "although I was busy all week,"
+   },
+   {
+    "t": "tôi vẫn cố nấu",
+    "en": "I still tried to cook"
+   },
+   {
+    "t": "một bữa tối tử tế cho gia đình.",
+    "en": "a decent dinner for the family"
+   }
+  ],
+  "answers": [
+   "Although I was busy all week, I still tried to cook a decent dinner for the family.",
+   "Even though I was busy all week, I still made an effort to cook a proper dinner for the family."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì con tôi kén ăn,",
+    "en": "because my kid is a picky eater,"
+   },
+   {
+    "t": "tôi phải nghĩ ra",
+    "en": "I have to come up with"
+   },
+   {
+    "t": "đủ kiểu món khác nhau.",
+    "en": "all sorts of different dishes"
+   }
+  ],
+  "answers": [
+   "Because my kid is a picky eater, I have to come up with all sorts of different dishes.",
+   "Since my child is picky, I have to think up all kinds of different dishes."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi con tôi",
+    "en": "after my child"
+   },
+   {
+    "t": "chê món canh,",
+    "en": "complained about the soup,"
+   },
+   {
+    "t": "tôi phải đổi công thức khác.",
+    "en": "I had to switch to a different recipe"
+   }
+  ],
+  "answers": [
+   "After my child complained about the soup, I had to switch to a different recipe.",
+   "When my kid complained about the soup, I had to try a different recipe."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu cả nhà cùng vào bếp,",
+    "en": "if the whole family cooks together,"
+   },
+   {
+    "t": "bữa ăn",
+    "en": "the meal"
+   },
+   {
+    "t": "sẽ vui hơn nhiều.",
+    "en": "will be a lot more fun"
+   }
+  ],
+  "answers": [
+   "If the whole family cooks together, the meal will be a lot more fun.",
+   "If everyone in the family helps cook, mealtime becomes a lot more fun."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Từ khi có con,",
+    "en": "since having kids,"
+   },
+   {
+    "t": "tôi luôn nấu",
+    "en": "I always cook"
+   },
+   {
+    "t": "ít cay hơn trước.",
+    "en": "less spicy food than before"
+   }
+  ],
+  "answers": [
+   "Since having kids, I always cook less spicy food than before.",
+   "I've cooked less spicy food ever since I had kids."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vợ tôi",
+    "en": "my wife"
+   },
+   {
+    "t": "luôn nấu dư ra một chút,",
+    "en": "always cooks a bit extra,"
+   },
+   {
+    "t": "phòng khi có khách bất ngờ.",
+    "en": "in case guests show up unexpectedly"
+   }
+  ],
+  "answers": [
+   "My wife always cooks a bit extra, in case guests show up unexpectedly.",
+   "My wife always makes a little extra, just in case unexpected guests drop by."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mỗi khi buồn ngủ về đêm,",
+    "en": "whenever I get sleepy at night,"
+   },
+   {
+    "t": "tôi lại lục tủ bếp",
+    "en": "I dig through the pantry"
+   },
+   {
+    "t": "tìm cái gì đó để nhai.",
+    "en": "looking for something to munch on"
+   }
+  ],
+  "answers": [
+   "Whenever I get sleepy at night, I dig through the pantry looking for something to munch on.",
+   "Whenever I feel sleepy at night, I rummage through the pantry for a snack."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì thèm đồ ngọt,",
+    "en": "craving something sweet,"
+   },
+   {
+    "t": "tôi đã ăn hết",
+    "en": "I ended up eating"
+   },
+   {
+    "t": "cả hộp bánh quy.",
+    "en": "a whole box of cookies"
+   }
+  ],
+  "answers": [
+   "Craving something sweet, I ended up eating a whole box of cookies.",
+   "Because I was craving sweets, I ate an entire box of cookies."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi bỏ ăn vặt",
+    "en": "after cutting out snacking"
+   },
+   {
+    "t": "được một tháng,",
+    "en": "for a month,"
+   },
+   {
+    "t": "tôi cảm thấy",
+    "en": "I've felt"
+   },
+   {
+    "t": "nhẹ người hẳn.",
+    "en": "noticeably lighter"
+   }
+  ],
+  "answers": [
+   "After cutting out snacking for a month, I've felt noticeably lighter.",
+   "Having gone a month without snacking, I feel noticeably lighter."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn để bim bim trong nhà,",
+    "en": "if you keep chips in the house,"
+   },
+   {
+    "t": "bạn sẽ ăn vặt",
+    "en": "you'll end up snacking"
+   },
+   {
+    "t": "nhiều hơn.",
+    "en": "more"
+   }
+  ],
+  "answers": [
+   "If you keep chips in the house, you'll end up snacking more.",
+   "If you have chips at home, you'll snack more."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi từng ăn vặt",
+    "en": "I used to snack"
+   },
+   {
+    "t": "suốt ngày,",
+    "en": "all day long,"
+   },
+   {
+    "t": "nhưng giờ tôi cố hạn chế.",
+    "en": "but now I try to cut back"
+   }
+  ],
+  "answers": [
+   "I used to snack all day long, but now I try to cut back.",
+   "I used to snack constantly, but I'm trying to limit it now."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi tôi căng thẳng vì công việc,",
+    "en": "when I'm stressed from work,"
+   },
+   {
+    "t": "tôi hay ăn vặt",
+    "en": "I tend to snack"
+   },
+   {
+    "t": "nhiều hơn bình thường.",
+    "en": "more than usual"
+   }
+  ],
+  "answers": [
+   "When I'm stressed from work, I tend to snack more than usual.",
+   "Whenever work stresses me out, I snack more than I normally do."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì quán cơm quen",
+    "en": "because my usual rice shop"
+   },
+   {
+    "t": "đã tăng giá,",
+    "en": "raised its prices,"
+   },
+   {
+    "t": "tôi đang tìm chỗ khác.",
+    "en": "I'm looking for a different place"
+   }
+  ],
+  "answers": [
+   "Because my usual rice shop raised its prices, I'm looking for a different place.",
+   "Since my regular rice place raised prices, I'm searching for somewhere else."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Tôi đã ăn ở quán đó",
+    "en": "I have eaten at that place"
+   },
+   {
+    "t": "nhiều đến mức",
+    "en": "so many times that"
+   },
+   {
+    "t": "nhân viên nhớ mặt tôi.",
+    "en": "the staff recognize me by face"
+   }
+  ],
+  "answers": [
+   "I have eaten at that place so many times that the staff recognize me by face.",
+   "I've been to that restaurant so often that the staff know my face."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi chủ quán",
+    "en": "when the owner"
+   },
+   {
+    "t": "nghỉ hưu,",
+    "en": "retired,"
+   },
+   {
+    "t": "con trai anh ấy",
+    "en": "his son"
+   },
+   {
+    "t": "tiếp quản quán ăn.",
+    "en": "took over the restaurant"
+   }
+  ],
+  "answers": [
+   "When the owner retired, his son took over the restaurant.",
+   "His son took over the restaurant when the owner retired."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù có nhiều quán mới mở,",
+    "en": "although lots of new places have opened,"
+   },
+   {
+    "t": "tôi vẫn trung thành",
+    "en": "I'm still loyal"
+   },
+   {
+    "t": "với quán quen của mình.",
+    "en": "to my usual spot"
+   }
+  ],
+  "answers": [
+   "Although lots of new places have opened, I'm still loyal to my usual spot.",
+   "Even with so many new places opening, I still stick to my regular one."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn ghé quán đó",
+    "en": "if you go to that place"
+   },
+   {
+    "t": "vào giờ cao điểm,",
+    "en": "during rush hour,"
+   },
+   {
+    "t": "bạn sẽ phải đợi khá lâu.",
+    "en": "you will have to wait quite a while"
+   }
+  ],
+  "answers": [
+   "If you go to that place during rush hour, you'll have to wait quite a while.",
+   "If you visit that place at peak hours, you'll be waiting for quite a while."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau nhiều năm ghé quán đó,",
+    "en": "after years of visiting that place,"
+   },
+   {
+    "t": "tôi coi nó",
+    "en": "I consider it"
+   },
+   {
+    "t": "như nhà bếp thứ hai của mình.",
+    "en": "like my second kitchen"
+   }
+  ],
+  "answers": [
+   "After years of visiting that place, I consider it like my second kitchen.",
+   "After going there for years, that place feels like my second kitchen."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì giá thực phẩm tăng,",
+    "en": "because food prices have gone up,"
+   },
+   {
+    "t": "tôi phải cân nhắc kỹ",
+    "en": "I have to think carefully"
+   },
+   {
+    "t": "trước khi mua đồ ở chợ.",
+    "en": "before buying anything at the market"
+   }
+  ],
+  "answers": [
+   "Because food prices have gone up, I have to think carefully before buying anything at the market.",
+   "Since food prices have risen, I have to be careful about what I buy at the market."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn đi chợ vào sáng sớm,",
+    "en": "if you go to the market early in the morning,"
+   },
+   {
+    "t": "bạn sẽ mua được",
+    "en": "you'll be able to get"
+   },
+   {
+    "t": "rau tươi hơn.",
+    "en": "fresher vegetables"
+   }
+  ],
+  "answers": [
+   "If you go to the market early in the morning, you'll be able to get fresher vegetables.",
+   "If you shop at the market early, you'll find fresher vegetables."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi lập danh sách,",
+    "en": "after making a list,"
+   },
+   {
+    "t": "tôi mua đồ ăn",
+    "en": "I buy food"
+   },
+   {
+    "t": "nhanh hơn hẳn.",
+    "en": "much faster"
+   }
+  ],
+  "answers": [
+   "After making a list, I buy food much faster.",
+   "Once I write a list, I get through grocery shopping much faster."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trong khi mẹ tôi",
+    "en": "while my mom"
+   },
+   {
+    "t": "mặc cả giá cá,",
+    "en": "was haggling over the fish price,"
+   },
+   {
+    "t": "tôi đứng đợi",
+    "en": "I stood waiting"
+   },
+   {
+    "t": "bên cạnh.",
+    "en": "beside her"
+   }
+  ],
+  "answers": [
+   "While my mom was haggling over the fish price, I stood waiting beside her.",
+   "I stood waiting next to her while my mom haggled over the price of fish."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì tôi quên mang túi,",
+    "en": "because I forgot to bring a bag,"
+   },
+   {
+    "t": "tôi phải mua thêm",
+    "en": "I had to buy an extra"
+   },
+   {
+    "t": "một túi ni lông ở chợ.",
+    "en": "plastic bag at the market"
+   }
+  ],
+  "answers": [
+   "Because I forgot to bring a bag, I had to buy an extra plastic bag at the market.",
+   "Since I forgot my bag, I had to buy a plastic one at the market."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù siêu thị tiện hơn,",
+    "en": "although the supermarket is more convenient,"
+   },
+   {
+    "t": "tôi vẫn thích",
+    "en": "I still prefer"
+   },
+   {
+    "t": "đi chợ truyền thống.",
+    "en": "going to the traditional market"
+   }
+  ],
+  "answers": [
+   "Although the supermarket is more convenient, I still prefer going to the traditional market.",
+   "Even though the supermarket is handier, I still prefer the traditional market."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Cứ mỗi dịp Tết đến,",
+    "en": "every time Tet comes around,"
+   },
+   {
+    "t": "cả nhà tôi",
+    "en": "my whole family"
+   },
+   {
+    "t": "lại quây quần gói bánh chưng.",
+    "en": "gathers together to make banh chung"
+   }
+  ],
+  "answers": [
+   "Every time Tet comes around, my whole family gathers together to make banh chung.",
+   "Every Tet, my whole family gets together to wrap banh chung."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì Tết năm nay",
+    "en": "because this Tet"
+   },
+   {
+    "t": "về quê muộn,",
+    "en": "we went back to our hometown late,"
+   },
+   {
+    "t": "chúng tôi không kịp",
+    "en": "we didn't have time"
+   },
+   {
+    "t": "gói bánh chưng.",
+    "en": "to make banh chung"
+   }
+  ],
+  "answers": [
+   "Because we went back to our hometown late this Tet, we didn't have time to make banh chung.",
+   "Since we got home late this Tet, we couldn't manage to make banh chung."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trước khi Tết đến,",
+    "en": "before Tet arrives,"
+   },
+   {
+    "t": "mẹ tôi",
+    "en": "my mom"
+   },
+   {
+    "t": "đã chuẩn bị sẵn",
+    "en": "has already prepared"
+   },
+   {
+    "t": "mứt và bánh kẹo.",
+    "en": "jams and sweets"
+   }
+  ],
+  "answers": [
+   "Before Tet arrives, my mom has already prepared jams and sweets.",
+   "My mom always has jams and sweets ready before Tet arrives."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn đến nhà tôi vào Tết,",
+    "en": "if you come to my house during Tet,"
+   },
+   {
+    "t": "bạn sẽ được mời",
+    "en": "you'll be treated to"
+   },
+   {
+    "t": "đủ loại mứt.",
+    "en": "all kinds of candied fruit"
+   }
+  ],
+  "answers": [
+   "If you come to my house during Tet, you'll be treated to all kinds of candied fruit.",
+   "If you visit my house at Tet, you'll get offered every kind of candied fruit."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Từ khi tôi lấy chồng,",
+    "en": "since I got married,"
+   },
+   {
+    "t": "tôi bắt đầu",
+    "en": "I've started"
+   },
+   {
+    "t": "tự tay gói bánh chưng.",
+    "en": "making banh chung myself"
+   }
+  ],
+  "answers": [
+   "Since I got married, I've started making banh chung myself.",
+   "I've started wrapping banh chung myself since I got married."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù bận đến mấy,",
+    "en": "no matter how busy she is,"
+   },
+   {
+    "t": "bà tôi",
+    "en": "my grandmother"
+   },
+   {
+    "t": "vẫn tự tay nấu",
+    "en": "still cooks by herself"
+   },
+   {
+    "t": "mâm cỗ ngày Tết.",
+    "en": "the Tet feast tray"
+   }
+  ],
+  "answers": [
+   "No matter how busy she is, my grandmother still cooks the Tet feast tray by herself.",
+   "However busy she gets, my grandmother still makes the whole Tet feast on her own."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì nấu quá nhiều,",
+    "en": "because I cooked too much,"
+   },
+   {
+    "t": "tủ lạnh nhà tôi",
+    "en": "my fridge"
+   },
+   {
+    "t": "chất đầy đồ ăn thừa.",
+    "en": "is packed with leftovers"
+   }
+  ],
+  "answers": [
+   "Because I cooked too much, my fridge is packed with leftovers.",
+   "Since I made too much food, my fridge is full of leftovers."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn không ăn hết,",
+    "en": "if you don't finish it,"
+   },
+   {
+    "t": "hãy cất vào hộp",
+    "en": "put it in a container"
+   },
+   {
+    "t": "thay vì đổ đi.",
+    "en": "instead of throwing it away"
+   }
+  ],
+  "answers": [
+   "If you don't finish it, put it in a container instead of throwing it away.",
+   "If you can't finish it, store it in a container rather than tossing it out."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi đọc về lãng phí thực phẩm,",
+    "en": "after reading about food waste,"
+   },
+   {
+    "t": "tôi bắt đầu",
+    "en": "I started"
+   },
+   {
+    "t": "lên kế hoạch bữa ăn cẩn thận hơn.",
+    "en": "planning meals more carefully"
+   }
+  ],
+  "answers": [
+   "After reading about food waste, I started planning meals more carefully.",
+   "Since reading about food waste, I've started to plan my meals more carefully."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì để quên trong tủ lạnh quá lâu,",
+    "en": "because it was left in the fridge too long,"
+   },
+   {
+    "t": "chỗ thịt đó",
+    "en": "that piece of meat"
+   },
+   {
+    "t": "đã bị hỏng.",
+    "en": "has gone bad"
+   }
+  ],
+  "answers": [
+   "Because it was left in the fridge too long, that piece of meat has gone bad.",
+   "Since it sat in the fridge for too long, that meat has spoiled."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù biết là lãng phí,",
+    "en": "although I know it's wasteful,"
+   },
+   {
+    "t": "tôi vẫn hay",
+    "en": "I still often"
+   },
+   {
+    "t": "nấu dư đồ ăn.",
+    "en": "cook more food than needed"
+   }
+  ],
+  "answers": [
+   "Although I know it's wasteful, I still often cook more food than needed.",
+   "Even though I know it's a waste, I still often cook too much food."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi tôi thấy",
+    "en": "when I saw"
+   },
+   {
+    "t": "bao nhiêu đồ ăn bị vứt đi,",
+    "en": "how much food got thrown away,"
+   },
+   {
+    "t": "tôi thấy áy náy vô cùng.",
+    "en": "I felt extremely guilty"
+   }
+  ],
+  "answers": [
+   "When I saw how much food got thrown away, I felt extremely guilty.",
+   "Seeing how much food was thrown out made me feel really guilty."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Lần đầu nấu ăn một mình,",
+    "en": "the first time I cooked alone,"
+   },
+   {
+    "t": "tôi đã làm cháy",
+    "en": "I burned"
+   },
+   {
+    "t": "toàn bộ nồi thịt kho.",
+    "en": "the entire pot of braised pork"
+   }
+  ],
+  "answers": [
+   "The first time I cooked alone, I burned the entire pot of braised pork.",
+   "When I cooked by myself for the first time, I burned the whole pot of braised pork."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì cho nhầm muối thay vì đường,",
+    "en": "because I mixed up salt for sugar,"
+   },
+   {
+    "t": "món chè",
+    "en": "the dessert soup"
+   },
+   {
+    "t": "trở nên không thể ăn nổi.",
+    "en": "became completely inedible"
+   }
+  ],
+  "answers": [
+   "Because I mixed up salt for sugar, the dessert soup became completely inedible.",
+   "Since I put in salt instead of sugar, the sweet soup ended up totally inedible."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi thất bại vài lần,",
+    "en": "after failing a few times,"
+   },
+   {
+    "t": "tôi mới làm được",
+    "en": "I finally managed to make"
+   },
+   {
+    "t": "một mẻ bánh không cháy.",
+    "en": "a batch of cake that didn't burn"
+   }
+  ],
+  "answers": [
+   "After failing a few times, I finally managed to make a batch of cake that didn't burn.",
+   "After a few failed attempts, I finally made a batch of cake that wasn't burnt."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn quên",
+    "en": "if you forget"
+   },
+   {
+    "t": "bật lò trước,",
+    "en": "to preheat the oven,"
+   },
+   {
+    "t": "bánh sẽ không nở đều.",
+    "en": "the cake will not rise evenly"
+   }
+  ],
+  "answers": [
+   "If you forget to preheat the oven, the cake won't rise evenly.",
+   "If you don't preheat the oven, your cake won't rise properly."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trong khi đang khoe với bạn bè,",
+    "en": "while I was showing off to my friends,"
+   },
+   {
+    "t": "món cá tôi kho",
+    "en": "the fish I braised"
+   },
+   {
+    "t": "lại bị cháy khét.",
+    "en": "ended up burnt"
+   }
+  ],
+  "answers": [
+   "While I was showing off to my friends, the fish I braised ended up burnt.",
+   "The fish I braised burned right while I was bragging to my friends about it."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù làm theo đúng công thức,",
+    "en": "although I followed the recipe exactly,"
+   },
+   {
+    "t": "món bánh của tôi",
+    "en": "my cake"
+   },
+   {
+    "t": "vẫn không giống trong ảnh.",
+    "en": "still didn't look like the picture"
+   }
+  ],
+  "answers": [
+   "Although I followed the recipe exactly, my cake still didn't look like the picture.",
+   "Even though I followed the recipe to the letter, my cake still didn't turn out like the photo."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi bạn tôi",
+    "en": "when my friend"
+   },
+   {
+    "t": "rủ thử món ăn Thái,",
+    "en": "invited me to try Thai food,"
+   },
+   {
+    "t": "tôi hơi ngại",
+    "en": "I was a bit hesitant"
+   },
+   {
+    "t": "vì sợ quá cay.",
+    "en": "because I was afraid it would be too spicy"
+   }
+  ],
+  "answers": [
+   "When my friend invited me to try Thai food, I was a bit hesitant because I was afraid it would be too spicy.",
+   "I hesitated a little when my friend asked me to try Thai food, worried it'd be too spicy."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi thử món natto,",
+    "en": "after trying natto,"
+   },
+   {
+    "t": "tôi mới hiểu",
+    "en": "I finally understood"
+   },
+   {
+    "t": "tại sao nhiều người không thích.",
+    "en": "why a lot of people dislike it"
+   }
+  ],
+  "answers": [
+   "After trying natto, I finally understood why a lot of people dislike it.",
+   "Once I tried natto, I finally got why so many people don't like it."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn chưa từng ăn sầu riêng,",
+    "en": "if you've never eaten durian,"
+   },
+   {
+    "t": "bạn nên thử",
+    "en": "you should try"
+   },
+   {
+    "t": "ít nhất một lần trong đời.",
+    "en": "it at least once in your life"
+   }
+  ],
+  "answers": [
+   "If you've never eaten durian, you should try it at least once in your life.",
+   "If you haven't tried durian before, give it a shot at least once."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù nghe hơi rùng mình,",
+    "en": "although it sounds a bit gross,"
+   },
+   {
+    "t": "tôi vẫn quyết định",
+    "en": "I still decided"
+   },
+   {
+    "t": "nếm thử tiết canh.",
+    "en": "to try tiet canh"
+   }
+  ],
+  "answers": [
+   "Although it sounds a bit gross, I still decided to try tiet canh.",
+   "Even though it sounds kind of unsettling, I still decided to give tiet canh a try."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Từ khi thử món ăn Ấn Độ,",
+    "en": "since trying Indian food,"
+   },
+   {
+    "t": "tôi đã nghiện",
+    "en": "I've become hooked on"
+   },
+   {
+    "t": "vị cà ri.",
+    "en": "the taste of curry"
+   }
+  ],
+  "answers": [
+   "Since trying Indian food, I've become hooked on the taste of curry.",
+   "I've been hooked on curry ever since I tried Indian food."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi đám bạn",
+    "en": "when my group of friends"
+   },
+   {
+    "t": "rủ đi ăn buffet,",
+    "en": "invited me to a buffet,"
+   },
+   {
+    "t": "tôi luôn đồng ý ngay.",
+    "en": "I always agree right away"
+   }
+  ],
+  "answers": [
+   "When my group of friends invites me to a buffet, I always agree right away.",
+   "Whenever my friends invite me to a buffet, I say yes immediately."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì lâu rồi không gặp,",
+    "en": "because we hadn't met in a long time,"
+   },
+   {
+    "t": "chúng tôi ngồi ăn",
+    "en": "we sat eating"
+   },
+   {
+    "t": "nói chuyện đến tận khuya.",
+    "en": "and chatting until late at night"
+   }
+  ],
+  "answers": [
+   "Because we hadn't met in a long time, we sat eating and chatting until late at night.",
+   "Since it had been so long since we'd seen each other, we ate and talked till late at night."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi cãi nhau về việc chia tiền,",
+    "en": "after arguing about splitting the bill,"
+   },
+   {
+    "t": "chúng tôi quyết định",
+    "en": "we decided"
+   },
+   {
+    "t": "chia đều cho mỗi người.",
+    "en": "to split it evenly among everyone"
+   }
+  ],
+  "answers": [
+   "After arguing about splitting the bill, we decided to split it evenly among everyone.",
+   "Once we argued over the bill, we agreed to just split it equally."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu ai đó trong nhóm ăn chay,",
+    "en": "if someone in the group is vegetarian,"
+   },
+   {
+    "t": "chúng tôi luôn chọn",
+    "en": "we always choose"
+   },
+   {
+    "t": "quán có món chay.",
+    "en": "a place that has vegetarian options"
+   }
+  ],
+  "answers": [
+   "If someone in the group is vegetarian, we always choose a place that has vegetarian options.",
+   "If a friend in the group doesn't eat meat, we always pick a restaurant with vegetarian dishes."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Trong khi chờ món ăn được mang ra,",
+    "en": "while waiting for the food to be brought out,"
+   },
+   {
+    "t": "chúng tôi trò chuyện",
+    "en": "we chatted"
+   },
+   {
+    "t": "về công việc mỗi người.",
+    "en": "about everyone's jobs"
+   }
+  ],
+  "answers": [
+   "While waiting for the food to be brought out, we chatted about everyone's jobs.",
+   "We chatted about each other's jobs while waiting for the food to arrive."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì đơn hàng bị giao nhầm địa chỉ,",
+    "en": "because the order was delivered to the wrong address,"
+   },
+   {
+    "t": "tôi phải gọi",
+    "en": "I had to call"
+   },
+   {
+    "t": "lên tổng đài để khiếu nại.",
+    "en": "the hotline to complain"
+   }
+  ],
+  "answers": [
+   "Because the order was delivered to the wrong address, I had to call the hotline to complain.",
+   "Since my order went to the wrong address, I had to call and complain to customer service."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi nếm thử canh chua cá lóc,",
+    "en": "after tasting snakehead fish sour soup,"
+   },
+   {
+    "t": "bạn tôi",
+    "en": "my friend"
+   },
+   {
+    "t": "xin luôn công thức.",
+    "en": "asked for the recipe right away"
+   }
+  ],
+  "answers": [
+   "After tasting snakehead fish sour soup, my friend asked for the recipe right away.",
+   "Once she tried the snakehead fish sour soup, my friend immediately asked for the recipe."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn nấu cơm bằng nồi đất,",
+    "en": "if you cook rice in a clay pot,"
+   },
+   {
+    "t": "cơm sẽ có",
+    "en": "the rice will have"
+   },
+   {
+    "t": "lớp cháy giòn ở đáy.",
+    "en": "a crispy burnt layer at the bottom"
+   }
+  ],
+  "answers": [
+   "If you cook rice in a clay pot, the rice will have a crispy burnt layer at the bottom.",
+   "If you use a clay pot to cook rice, you'll get a crispy layer stuck to the bottom."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi tôi mới chuyển đến thành phố này,",
+    "en": "when I first moved to this city,"
+   },
+   {
+    "t": "tôi không quen",
+    "en": "I wasn't used to"
+   },
+   {
+    "t": "đồ ăn nêm nhạt.",
+    "en": "lightly seasoned food"
+   }
+  ],
+  "answers": [
+   "When I first moved to this city, I wasn't used to lightly seasoned food.",
+   "I wasn't used to the mild seasoning here when I first moved to this city."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù đã đổi sang sữa hạt,",
+    "en": "although I switched to plant milk,"
+   },
+   {
+    "t": "tôi vẫn thấy nhớ",
+    "en": "I still miss"
+   },
+   {
+    "t": "vị sữa bò thật.",
+    "en": "the taste of real cow's milk"
+   }
+  ],
+  "answers": [
+   "Although I switched to plant milk, I still miss the taste of real cow's milk.",
+   "Even though I switched to plant milk, I still miss real dairy milk."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Vì bếp nhà tôi",
+    "en": "because my kitchen"
+   },
+   {
+    "t": "quá nhỏ,",
+    "en": "is too small,"
+   },
+   {
+    "t": "tôi phải nấu từng món một.",
+    "en": "I have to cook one dish at a time"
+   }
+  ],
+  "answers": [
+   "Because my kitchen is too small, I have to cook one dish at a time.",
+   "Since my kitchen is so small, I can only cook one dish at a time."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Sau khi biết tin",
+    "en": "after finding out"
+   },
+   {
+    "t": "quán chè quen sắp đóng cửa,",
+    "en": "my usual dessert shop was about to close,"
+   },
+   {
+    "t": "tôi ghé ăn liền mấy hôm.",
+    "en": "I went there several days in a row"
+   }
+  ],
+  "answers": [
+   "After finding out my usual dessert shop was about to close, I went there several days in a row.",
+   "When I heard my go-to chè shop was closing, I visited it for several days straight."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu tủ lạnh nhà bạn",
+    "en": "if your fridge"
+   },
+   {
+    "t": "quá đầy,",
+    "en": "is too full,"
+   },
+   {
+    "t": "đồ ăn sẽ nhanh hỏng hơn.",
+    "en": "the food will go bad faster"
+   }
+  ],
+  "answers": [
+   "If your fridge is too full, the food will go bad faster.",
+   "If your refrigerator is overstuffed, the food spoils faster."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Khi thấy giá cà chua",
+    "en": "when I saw the price of tomatoes"
+   },
+   {
+    "t": "tăng gấp đôi,",
+    "en": "had doubled,"
+   },
+   {
+    "t": "tôi quyết định",
+    "en": "I decided"
+   },
+   {
+    "t": "trồng thử ở ban công.",
+    "en": "to try growing them on the balcony"
+   }
+  ],
+  "answers": [
+   "When I saw the price of tomatoes had doubled, I decided to try growing them on the balcony.",
+   "Seeing tomato prices double, I decided to try growing some on my balcony."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu tôi biết trước",
+    "en": "if I had known beforehand"
+   },
+   {
+    "t": "quán đó sẽ đông đến vậy,",
+    "en": "that place would be this crowded,"
+   },
+   {
+    "t": "tôi đã đặt bàn",
+    "en": "I would have booked a table"
+   },
+   {
+    "t": "từ tuần trước rồi.",
+    "en": "a week in advance"
+   }
+  ],
+  "answers": [
+   "If I had known beforehand that place would be this crowded, I would have booked a table a week in advance.",
+   "Had I known that place would get this busy, I'd have reserved a table the week before."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món ăn ở quán đó",
+    "en": "the food at that restaurant"
+   },
+   {
+    "t": "được nấu bởi một đầu bếp",
+    "en": "is cooked by a chef"
+   },
+   {
+    "t": "từng làm việc ở Pháp nhiều năm.",
+    "en": "who used to work in France for years"
+   }
+  ],
+  "answers": [
+   "The food at that restaurant is cooked by a chef who used to work in France for years.",
+   "That restaurant's dishes are made by a chef who spent years working in France."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá cả ở quán đó",
+    "en": "the prices at that restaurant"
+   },
+   {
+    "t": "càng ngày càng cao,",
+    "en": "keep getting higher and higher,"
+   },
+   {
+    "t": "đến mức tôi không dám",
+    "en": "to the point where I don't dare"
+   },
+   {
+    "t": "rủ bạn bè đến đó nữa.",
+    "en": "invite my friends there anymore"
+   }
+  ],
+  "answers": [
+   "The prices at that restaurant keep getting higher, to the point where I don't dare invite my friends there anymore.",
+   "Prices at that restaurant have climbed so much that I no longer dare take my friends there."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã kiểm tra đánh giá",
+    "en": "I had checked the reviews"
+   },
+   {
+    "t": "trước khi đặt bàn ở nhà hàng đó.",
+    "en": "before booking a table at that restaurant"
+   }
+  ],
+  "answers": [
+   "I wish I had checked the reviews before booking a table at that restaurant.",
+   "I regret not checking the reviews before I booked that restaurant."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù đã đặt bàn từ trước,",
+    "en": "even though we'd booked a table in advance,"
+   },
+   {
+    "t": "chúng tôi vẫn bị xếp",
+    "en": "we still ended up being seated"
+   },
+   {
+    "t": "vào một góc bàn gần nhà vệ sinh.",
+    "en": "at a table right near the restroom"
+   }
+  ],
+  "answers": [
+   "Even though we'd booked a table in advance, we still ended up being seated near the restroom.",
+   "Despite reserving ahead of time, we still got put at a table right by the restroom."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng tự nấu ăn nhiều,",
+    "en": "the more I cook for myself,"
+   },
+   {
+    "t": "tôi càng nhận ra",
+    "en": "the more I realize"
+   },
+   {
+    "t": "mình đã lãng phí bao nhiêu tiền ăn ngoài.",
+    "en": "how much money I've wasted eating out"
+   }
+  ],
+  "answers": [
+   "The more I cook for myself, the more I realize how much money I've wasted eating out.",
+   "The more I cook at home, the clearer it becomes how much I used to waste on eating out."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu không phải vì bận việc,",
+    "en": "if it weren't for being busy with work,"
+   },
+   {
+    "t": "tôi đã tự nấu ăn",
+    "en": "I would be cooking for myself"
+   },
+   {
+    "t": "mỗi ngày rồi.",
+    "en": "every day"
+   }
+  ],
+  "answers": [
+   "If it weren't for being busy with work, I would be cooking for myself every day.",
+   "Were I not so tied up with work, I'd be cooking every meal myself."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món canh mà bà tôi",
+    "en": "the soup that my grandmother"
+   },
+   {
+    "t": "nấu hồi tôi còn nhỏ",
+    "en": "used to make when I was a child"
+   },
+   {
+    "t": "vẫn là hương vị tôi nhớ nhất.",
+    "en": "is still the flavor I miss the most"
+   }
+  ],
+  "answers": [
+   "The soup that my grandmother used to make when I was a child is still the flavor I miss the most.",
+   "The soup my grandmother made when I was little is still the taste I miss most."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như hồi đó",
+    "en": "I wish back then"
+   },
+   {
+    "t": "tôi đã học nấu ăn từ mẹ,",
+    "en": "I had learned to cook from my mother,"
+   },
+   {
+    "t": "thì giờ tôi đã không phải",
+    "en": "then I wouldn't have to"
+   },
+   {
+    "t": "gọi điện hỏi bà mỗi lần vào bếp.",
+    "en": "call her every time I cook"
+   }
+  ],
+  "answers": [
+   "I wish I had learned to cook from my mother back then, so I wouldn't have to call her every time I cook now.",
+   "Had I learned to cook from my mom back then, I wouldn't need to call her every time I'm in the kitchen."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Đơn hàng giao đến",
+    "en": "the delivered order"
+   },
+   {
+    "t": "đã bị đổ hết ra túi",
+    "en": "had spilled all over the bag"
+   },
+   {
+    "t": "vì tài xế chạy quá nhanh.",
+    "en": "because the driver was riding too fast"
+   }
+  ],
+  "answers": [
+   "The delivered order had spilled all over the bag because the driver was riding too fast.",
+   "The order spilled everywhere in the bag because the driver rode too fast."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu ứng dụng đó",
+    "en": "if that app"
+   },
+   {
+    "t": "không thường xuyên bị lỗi,",
+    "en": "didn't keep crashing so often,"
+   },
+   {
+    "t": "tôi đã không chuyển sang",
+    "en": "I wouldn't have switched to"
+   },
+   {
+    "t": "dùng ứng dụng khác.",
+    "en": "a different one"
+   }
+  ],
+  "answers": [
+   "If that app didn't keep crashing so often, I wouldn't have switched to a different one.",
+   "Had that app not glitched so much, I wouldn't have moved to another one."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng đặt đồ ăn online nhiều,",
+    "en": "the more I order food online,"
+   },
+   {
+    "t": "tôi càng thấy",
+    "en": "the more I notice"
+   },
+   {
+    "t": "mình lười nấu ăn hơn hẳn.",
+    "en": "how much lazier I've become about cooking"
+   }
+  ],
+  "answers": [
+   "The more I order food online, the more I notice how much lazier I've become about cooking.",
+   "The more I use delivery apps, the lazier I get about cooking myself."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Đơn hàng của tôi",
+    "en": "my order"
+   },
+   {
+    "t": "lẽ ra đã được giao sớm hơn",
+    "en": "would have been delivered earlier"
+   },
+   {
+    "t": "nếu tôi không chọn giờ cao điểm.",
+    "en": "if I hadn't chosen rush hour"
+   }
+  ],
+  "answers": [
+   "My order would have been delivered earlier if I hadn't chosen rush hour.",
+   "If I hadn't ordered during rush hour, my food would have arrived sooner."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nhân viên giao hàng",
+    "en": "the delivery worker"
+   },
+   {
+    "t": "mà tôi gặp hôm qua",
+    "en": "whom I met yesterday"
+   },
+   {
+    "t": "đã đi bộ hơn hai cây số vì xe hỏng.",
+    "en": "had walked more than two kilometers because his bike broke down"
+   }
+  ],
+  "answers": [
+   "The delivery worker whom I met yesterday had walked more than two kilometers because his bike broke down.",
+   "The delivery guy I met yesterday had walked over two kilometers after his bike broke down."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng tìm hiểu về chế độ ăn chay,",
+    "en": "the more I learn about a vegetarian diet,"
+   },
+   {
+    "t": "tôi càng ngạc nhiên",
+    "en": "the more surprised I am"
+   },
+   {
+    "t": "vì có nhiều nguồn đạm thay thế thịt.",
+    "en": "at how many protein sources can replace meat"
+   }
+  ],
+  "answers": [
+   "The more I learn about a vegetarian diet, the more surprised I am at how many protein sources can replace meat.",
+   "The more I study vegetarian eating, the more amazed I am by all the meat alternatives out there."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã chuyển sang ăn chay",
+    "en": "I had switched to vegetarian eating"
+   },
+   {
+    "t": "sớm hơn mười năm.",
+    "en": "ten years earlier"
+   }
+  ],
+  "answers": [
+   "I wish I had switched to vegetarian eating ten years earlier.",
+   "I regret not going vegetarian ten years sooner."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù được nhiều người khuyên nên ăn chay,",
+    "en": "even though a lot of people advised her to go vegetarian,"
+   },
+   {
+    "t": "cô ấy vẫn chưa",
+    "en": "she still hasn't"
+   },
+   {
+    "t": "sẵn sàng từ bỏ thịt hoàn toàn.",
+    "en": "been ready to give up meat entirely"
+   }
+  ],
+  "answers": [
+   "Even though a lot of people advised her to go vegetarian, she still hasn't been ready to give up meat entirely.",
+   "Despite being urged by many people to go vegetarian, she isn't ready to quit meat completely."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món chay mà đầu bếp đó",
+    "en": "the vegetarian dish that chef"
+   },
+   {
+    "t": "sáng tạo ra",
+    "en": "created"
+   },
+   {
+    "t": "đã khiến nhiều thực khách",
+    "en": "has convinced many diners"
+   },
+   {
+    "t": "thay đổi quan niệm về đồ chay.",
+    "en": "to change their views on vegetarian food"
+   }
+  ],
+  "answers": [
+   "The vegetarian dish that chef created has convinced many diners to change their views on vegetarian food.",
+   "That chef's vegetarian creation has changed the way many diners think about meat-free food."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu chưa từng bị dị ứng thực phẩm,",
+    "en": "if you've never had a food allergy,"
+   },
+   {
+    "t": "bạn khó có thể hiểu",
+    "en": "it's hard for you to understand"
+   },
+   {
+    "t": "cảm giác lo lắng mỗi khi ăn ở ngoài.",
+    "en": "the anxiety of eating out every time"
+   }
+  ],
+  "answers": [
+   "If you've never had a food allergy, it's hard for you to understand the anxiety of eating out every time.",
+   "Unless you've had a food allergy yourself, it's hard to grasp the anxiety of eating out."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Đứa trẻ mà bác sĩ",
+    "en": "the child whom the doctor"
+   },
+   {
+    "t": "vừa chẩn đoán dị ứng sữa",
+    "en": "just diagnosed with a milk allergy"
+   },
+   {
+    "t": "phải kiêng hoàn toàn các sản phẩm từ sữa.",
+    "en": "has to completely avoid dairy products"
+   }
+  ],
+  "answers": [
+   "The child whom the doctor just diagnosed with a milk allergy has to completely avoid dairy products.",
+   "The child the doctor just diagnosed with a milk allergy must avoid dairy altogether."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "nhà hàng đó",
+    "en": "that restaurant"
+   },
+   {
+    "t": "ghi rõ thành phần trên thực đơn,",
+    "en": "had clearly listed the ingredients on the menu,"
+   },
+   {
+    "t": "tôi đã không bị dị ứng.",
+    "en": "I wouldn't have had an allergic reaction"
+   }
+  ],
+  "answers": [
+   "I wish that restaurant had clearly listed the ingredients on the menu, then I wouldn't have had an allergic reaction.",
+   "Had that restaurant listed ingredients clearly on the menu, I wouldn't have reacted."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bất cứ món nào",
+    "en": "whatever dish"
+   },
+   {
+    "t": "được chế biến trong bếp đó",
+    "en": "is prepared in that kitchen"
+   },
+   {
+    "t": "cũng có nguy cơ nhiễm chéo với đậu phộng.",
+    "en": "also carries a risk of peanut cross-contamination"
+   }
+  ],
+  "answers": [
+   "Whatever dish is prepared in that kitchen also carries a risk of peanut cross-contamination.",
+   "Any dish made in that kitchen risks peanut cross-contamination."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món ăn ở mỗi vùng miền",
+    "en": "the food in each region"
+   },
+   {
+    "t": "phản ánh",
+    "en": "reflects"
+   },
+   {
+    "t": "cả khí hậu lẫn lịch sử của nơi đó.",
+    "en": "both the climate and the history of that place"
+   }
+  ],
+  "answers": [
+   "The food in each region reflects both the climate and the history of that place.",
+   "Regional cuisine reflects both a place's climate and its history."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn từng sống ở miền Trung,",
+    "en": "if you've ever lived in central Vietnam,"
+   },
+   {
+    "t": "bạn sẽ hiểu",
+    "en": "you'll understand"
+   },
+   {
+    "t": "vì sao người dân ở đó ăn cay đến vậy.",
+    "en": "why the people there eat such spicy food"
+   }
+  ],
+  "answers": [
+   "If you've ever lived in central Vietnam, you'll understand why the people there eat such spicy food.",
+   "Once you've lived in central Vietnam, you get why locals eat so spicy."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món mì Quảng",
+    "en": "mi quang noodles"
+   },
+   {
+    "t": "mà tôi ăn ở Đà Nẵng",
+    "en": "that I ate in Da Nang"
+   },
+   {
+    "t": "ngon hơn hẳn",
+    "en": "were far tastier than"
+   },
+   {
+    "t": "bất kỳ phiên bản nào tôi từng thử ở Sài Gòn.",
+    "en": "any version I'd ever tried in Saigon"
+   }
+  ],
+  "answers": [
+   "The mi quang noodles that I ate in Da Nang were far tastier than any version I'd ever tried in Saigon.",
+   "The mi quang I had in Da Nang beat any version I'd tried in Saigon."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã ghi lại công thức món bánh xèo",
+    "en": "I had written down the banh xeo recipe"
+   },
+   {
+    "t": "mà bà chủ quán ở Cần Thơ chỉ cho tôi.",
+    "en": "that the shop owner in Can Tho taught me"
+   }
+  ],
+  "answers": [
+   "I wish I had written down the banh xeo recipe that the shop owner in Can Tho taught me.",
+   "I regret not writing down the banh xeo recipe the shop owner in Can Tho showed me."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng đi nhiều vùng miền,",
+    "en": "the more regions I travel to,"
+   },
+   {
+    "t": "tôi càng nhận ra",
+    "en": "the more I realize"
+   },
+   {
+    "t": "ẩm thực Việt Nam đa dạng đến mức nào.",
+    "en": "just how diverse Vietnamese cuisine is"
+   }
+  ],
+  "answers": [
+   "The more regions I travel to, the more I realize just how diverse Vietnamese cuisine is.",
+   "The more of the country I visit, the more I see how varied Vietnamese food really is."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Ly cà phê được pha",
+    "en": "the cup of coffee that's brewed"
+   },
+   {
+    "t": "tại quán quen của tôi",
+    "en": "at my usual café"
+   },
+   {
+    "t": "đậm đà hơn nhiều so với bất kỳ chuỗi cà phê nào.",
+    "en": "is much richer than any coffee chain I've tried"
+   }
+  ],
+  "answers": [
+   "The cup of coffee that's brewed at my usual café is much richer than any coffee chain I've tried.",
+   "The coffee brewed at my regular café is far richer than anything from the chain stores."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã không uống trà sữa",
+    "en": "I hadn't drunk milk tea"
+   },
+   {
+    "t": "nhiều đến vậy hồi đại học.",
+    "en": "so much back in college"
+   }
+  ],
+  "answers": [
+   "I wish I hadn't drunk so much milk tea back in college.",
+   "I regret drinking that much milk tea during college."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng uống nhiều cà phê để tỉnh táo,",
+    "en": "the more coffee I drink to stay awake,"
+   },
+   {
+    "t": "tôi càng khó ngủ",
+    "en": "the harder it is for me to sleep"
+   },
+   {
+    "t": "vào ban đêm.",
+    "en": "at night"
+   }
+  ],
+  "answers": [
+   "The more coffee I drink to stay awake, the harder it is for me to sleep at night.",
+   "The more coffee I have to stay alert, the worse my sleep gets at night."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu quán cà phê đó",
+    "en": "if that coffee shop"
+   },
+   {
+    "t": "không đổi công thức pha chế,",
+    "en": "hadn't changed its brewing recipe,"
+   },
+   {
+    "t": "tôi đã không bao giờ",
+    "en": "I would never have"
+   },
+   {
+    "t": "chuyển sang uống trà thay thế.",
+    "en": "switched to drinking tea instead"
+   }
+  ],
+  "answers": [
+   "If that coffee shop hadn't changed its brewing recipe, I would never have switched to drinking tea instead.",
+   "Had that café not changed its recipe, I'd never have switched over to tea."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Hầu hết những quán trà sữa",
+    "en": "most of the milk tea shops"
+   },
+   {
+    "t": "mọc lên gần đây",
+    "en": "that have popped up recently"
+   },
+   {
+    "t": "đều nhắm vào giới trẻ.",
+    "en": "target young people"
+   }
+  ],
+  "answers": [
+   "Most of the milk tea shops that have popped up recently target young people.",
+   "Nearly all the milk tea shops that opened recently are aimed at young customers."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã bắt đầu ăn kiêng",
+    "en": "I had started dieting"
+   },
+   {
+    "t": "ngay từ đầu năm ngoái.",
+    "en": "right at the start of last year"
+   }
+  ],
+  "answers": [
+   "I wish I had started dieting right at the start of last year.",
+   "I regret not starting my diet at the very beginning of last year."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu tôi kiên trì hơn với chế độ ăn kiêng,",
+    "en": "if I had been more persistent with the diet,"
+   },
+   {
+    "t": "tôi đã giảm được",
+    "en": "I would have lost"
+   },
+   {
+    "t": "nhiều hơn số cân hiện tại.",
+    "en": "more weight than I currently have"
+   }
+  ],
+  "answers": [
+   "If I had been more persistent with the diet, I would have lost more weight than I currently have.",
+   "Had I stuck with the diet more, I'd have lost more than I have now."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng ăn kiêng khắt khe,",
+    "en": "the stricter the diet I follow,"
+   },
+   {
+    "t": "tôi càng dễ",
+    "en": "the more likely I am"
+   },
+   {
+    "t": "ăn bù quá đà vào cuối tuần.",
+    "en": "to overeat on the weekend"
+   }
+  ],
+  "answers": [
+   "The stricter the diet I follow, the more likely I am to overeat on the weekend.",
+   "The stricter my diet gets, the more I tend to binge on weekends."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chế độ ăn kiêng",
+    "en": "the diet"
+   },
+   {
+    "t": "được nhiều người áp dụng gần đây",
+    "en": "that a lot of people have adopted lately"
+   },
+   {
+    "t": "thực ra không phù hợp với tất cả mọi người.",
+    "en": "actually isn't suitable for everyone"
+   }
+  ],
+  "answers": [
+   "The diet that a lot of people have adopted lately actually isn't suitable for everyone.",
+   "This diet that's become so popular recently isn't actually right for everyone."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mặc dù đã giảm được vài cân,",
+    "en": "even though I've lost a few kilos,"
+   },
+   {
+    "t": "tôi vẫn cảm thấy",
+    "en": "I still feel"
+   },
+   {
+    "t": "cơ thể mình chưa khỏe mạnh hơn.",
+    "en": "like my body isn't any healthier"
+   }
+  ],
+  "answers": [
+   "Even though I've lost a few kilos, I still feel like my body isn't any healthier.",
+   "Despite losing a few kilos, I don't feel any healthier."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bữa tiệc",
+    "en": "the party"
+   },
+   {
+    "t": "lẽ ra đã diễn ra suôn sẻ hơn",
+    "en": "would have gone more smoothly"
+   },
+   {
+    "t": "nếu chúng tôi thuê dịch vụ nấu ăn.",
+    "en": "if we had hired a catering service"
+   }
+  ],
+  "answers": [
+   "The party would have gone more smoothly if we had hired a catering service.",
+   "Had we hired caterers, the party would have gone a lot more smoothly."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng nhiều khách được mời,",
+    "en": "the more guests that are invited,"
+   },
+   {
+    "t": "chúng tôi càng phải chuẩn bị",
+    "en": "the more we have to prepare"
+   },
+   {
+    "t": "nhiều món ăn đa dạng hơn.",
+    "en": "a wider variety of dishes"
+   }
+  ],
+  "answers": [
+   "The more guests that are invited, the more we have to prepare a wider variety of dishes.",
+   "The more people we invite, the more varied the food has to be."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món tráng miệng mà bạn tôi",
+    "en": "the dessert that my friend"
+   },
+   {
+    "t": "mang đến tiệc",
+    "en": "brought to the party"
+   },
+   {
+    "t": "được mọi người khen ngợi hết lời.",
+    "en": "was praised by everyone endlessly"
+   }
+  ],
+  "answers": [
+   "The dessert that my friend brought to the party was praised by everyone endlessly.",
+   "The dessert my friend brought to the party got nothing but praise from everyone."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "chúng tôi đã kiểm tra thời tiết",
+    "en": "we had checked the weather"
+   },
+   {
+    "t": "trước khi lên kế hoạch tiệc ngoài trời.",
+    "en": "before planning the outdoor party"
+   }
+  ],
+  "answers": [
+   "I wish we had checked the weather before planning the outdoor party.",
+   "I regret not checking the forecast before planning the outdoor party."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu không có sự giúp đỡ của hàng xóm,",
+    "en": "if it weren't for our neighbors' help,"
+   },
+   {
+    "t": "chúng tôi đã không thể",
+    "en": "we wouldn't have been able to"
+   },
+   {
+    "t": "chuẩn bị kịp bữa tiệc lớn như vậy.",
+    "en": "get such a big party ready in time"
+   }
+  ],
+  "answers": [
+   "If it weren't for our neighbors' help, we wouldn't have been able to get such a big party ready in time.",
+   "Without our neighbors' help, we couldn't have pulled off such a big party in time."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bữa cơm gia đình",
+    "en": "the family meal"
+   },
+   {
+    "t": "mà mẹ tôi",
+    "en": "that my mother"
+   },
+   {
+    "t": "chuẩn bị mỗi tối",
+    "en": "prepares every evening"
+   },
+   {
+    "t": "là điều tôi trân trọng nhất khi còn ở nhà.",
+    "en": "is what I treasured most while living at home"
+   }
+  ],
+  "answers": [
+   "The family meal that my mother prepares every evening is what I treasured most while living at home.",
+   "The dinner my mom made every night was what I valued most about living at home."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã dành nhiều thời gian hơn",
+    "en": "I had spent more time"
+   },
+   {
+    "t": "nấu ăn cùng con cái",
+    "en": "cooking with my children"
+   },
+   {
+    "t": "khi chúng còn nhỏ.",
+    "en": "when they were young"
+   }
+  ],
+  "answers": [
+   "I wish I had spent more time cooking with my children when they were young.",
+   "I regret not spending more time cooking with my kids while they were little."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng có nhiều thành viên tham gia nấu ăn,",
+    "en": "the more family members join in cooking,"
+   },
+   {
+    "t": "bữa cơm",
+    "en": "the meal"
+   },
+   {
+    "t": "càng trở nên ấm cúng hơn.",
+    "en": "becomes all the more warm and cozy"
+   }
+  ],
+  "answers": [
+   "The more family members join in cooking, the more the meal becomes warm and cozy.",
+   "The more people in the family help cook, the cozier mealtime feels."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món ăn mà tôi nấu cho gia đình",
+    "en": "the dish that I cook for my family"
+   },
+   {
+    "t": "tối nay",
+    "en": "tonight"
+   },
+   {
+    "t": "được lấy cảm hứng từ công thức của bà ngoại.",
+    "en": "was inspired by my grandmother's recipe"
+   }
+  ],
+  "answers": [
+   "The dish that I cook for my family tonight was inspired by my grandmother's recipe.",
+   "Tonight's family dinner was inspired by my grandmother's recipe."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu con cái tôi không kén ăn đến vậy,",
+    "en": "if my children weren't so picky about food,"
+   },
+   {
+    "t": "tôi đã không phải",
+    "en": "I wouldn't have to"
+   },
+   {
+    "t": "nấu ba món riêng biệt mỗi tối.",
+    "en": "cook three separate dishes every night"
+   }
+  ],
+  "answers": [
+   "If my children weren't so picky about food, I wouldn't have to cook three separate dishes every night.",
+   "Were my kids not such picky eaters, I wouldn't have to make three different dishes each night."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Đồ ăn thừa từ bữa tiệc hôm qua",
+    "en": "the leftover food from yesterday's party"
+   },
+   {
+    "t": "vẫn còn chất đầy trong tủ lạnh,",
+    "en": "is still piled up in the fridge,"
+   },
+   {
+    "t": "khiến tôi thấy áy náy vì lãng phí.",
+    "en": "which makes me feel guilty about the waste"
+   }
+  ],
+  "answers": [
+   "The leftover food from yesterday's party is still piled up in the fridge, which makes me feel guilty about the waste.",
+   "Yesterday's party leftovers are still stacked in the fridge, and it makes me feel bad about wasting them."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "chúng tôi đã tính toán kỹ hơn",
+    "en": "we had calculated more carefully"
+   },
+   {
+    "t": "lượng đồ ăn cần chuẩn bị.",
+    "en": "how much food to prepare"
+   }
+  ],
+  "answers": [
+   "I wish we had calculated more carefully how much food to prepare.",
+   "I regret not planning more carefully how much food we'd need."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu mọi người ý thức hơn về lãng phí thực phẩm,",
+    "en": "if people were more mindful about food waste,"
+   },
+   {
+    "t": "lượng rác thải ra",
+    "en": "the amount of trash produced"
+   },
+   {
+    "t": "đã giảm đi đáng kể.",
+    "en": "would have decreased significantly"
+   }
+  ],
+  "answers": [
+   "If people were more mindful about food waste, the amount of trash produced would have decreased significantly.",
+   "Were people more conscious of food waste, there'd be a lot less garbage."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng để đồ ăn lâu trong tủ lạnh,",
+    "en": "the longer food sits in the fridge,"
+   },
+   {
+    "t": "nguy cơ nó bị hỏng",
+    "en": "the risk of it going bad"
+   },
+   {
+    "t": "càng cao.",
+    "en": "gets higher"
+   }
+  ],
+  "answers": [
+   "The longer food sits in the fridge, the higher the risk of it going bad.",
+   "The longer you leave food in the fridge, the more likely it is to spoil."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Số thức ăn",
+    "en": "the amount of food"
+   },
+   {
+    "t": "bị bỏ đi mỗi ngày",
+    "en": "that gets thrown away every day"
+   },
+   {
+    "t": "đủ để nuôi sống nhiều gia đình khó khăn.",
+    "en": "is enough to feed many struggling families"
+   }
+  ],
+  "answers": [
+   "The amount of food that gets thrown away every day is enough to feed many struggling families.",
+   "What gets tossed out daily could feed plenty of families in need."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã không cố khoe tài nấu ăn",
+    "en": "I hadn't tried to show off my cooking skills"
+   },
+   {
+    "t": "trước mặt cả gia đình chồng.",
+    "en": "in front of my husband's whole family"
+   }
+  ],
+  "answers": [
+   "I wish I hadn't tried to show off my cooking skills in front of my husband's whole family.",
+   "I regret trying to show off my cooking in front of my in-laws."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu tôi đọc kỹ công thức hơn,",
+    "en": "if I had read the recipe more carefully,"
+   },
+   {
+    "t": "món bánh của tôi",
+    "en": "my cake"
+   },
+   {
+    "t": "đã không bị sụp giữa chừng.",
+    "en": "wouldn't have collapsed halfway through"
+   }
+  ],
+  "answers": [
+   "If I had read the recipe more carefully, my cake wouldn't have collapsed halfway through.",
+   "Had I read the recipe properly, my cake wouldn't have caved in halfway through baking."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món thịt kho",
+    "en": "the braised pork dish"
+   },
+   {
+    "t": "mà tôi đã dành cả buổi chiều để nấu",
+    "en": "that I spent the whole afternoon cooking"
+   },
+   {
+    "t": "cuối cùng lại bị cháy khét không thể cứu vãn.",
+    "en": "ended up burnt beyond saving"
+   }
+  ],
+  "answers": [
+   "The braised pork dish that I spent the whole afternoon cooking ended up burnt beyond saving.",
+   "I spent the whole afternoon on that braised pork, and it still ended up hopelessly burnt."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng cố sửa lại món ăn bị hỏng,",
+    "en": "the more I tried to fix the ruined dish,"
+   },
+   {
+    "t": "tôi càng làm nó",
+    "en": "the more I made it"
+   },
+   {
+    "t": "tệ hơn.",
+    "en": "worse"
+   }
+  ],
+  "answers": [
+   "The more I tried to fix the ruined dish, the worse I made it.",
+   "The harder I tried to save the ruined dish, the worse it turned out."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món ăn đầu tiên mà tôi",
+    "en": "the first dish that I"
+   },
+   {
+    "t": "từng nấu cho bạn trai",
+    "en": "ever cooked for my boyfriend"
+   },
+   {
+    "t": "tệ đến mức chúng tôi phải gọi đồ ăn ngoài.",
+    "en": "was so bad that we had to order takeout instead"
+   }
+  ],
+  "answers": [
+   "The first dish that I ever cooked for my boyfriend was so bad that we had to order takeout instead.",
+   "The very first meal I cooked for my boyfriend was so awful we ended up ordering takeout."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu chưa từng thử món ăn côn trùng,",
+    "en": "if you've never tried insect food,"
+   },
+   {
+    "t": "chắc bạn sẽ ngạc nhiên",
+    "en": "you'll probably be surprised"
+   },
+   {
+    "t": "khi biết nó phổ biến ở nhiều nơi.",
+    "en": "to learn how common it is in many places"
+   }
+  ],
+  "answers": [
+   "If you've never tried insect food, you'll probably be surprised to learn how common it is in many places.",
+   "Unless you've tried eating insects, you might be surprised how common it is elsewhere."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món ăn kỳ lạ nhất",
+    "en": "the strangest dish"
+   },
+   {
+    "t": "mà tôi từng thử",
+    "en": "that I've ever tried"
+   },
+   {
+    "t": "lại hóa ra là món tôi thích nhất.",
+    "en": "actually turned out to be my favorite"
+   }
+  ],
+  "answers": [
+   "The strangest dish that I've ever tried actually turned out to be my favorite.",
+   "The weirdest dish I've ever tried ended up being the one I loved most."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã can đảm hơn",
+    "en": "I had been braver"
+   },
+   {
+    "t": "khi được mời thử món ăn địa phương.",
+    "en": "when I was invited to try the local dish"
+   }
+  ],
+  "answers": [
+   "I wish I had been braver when I was invited to try the local dish.",
+   "I regret not being braver when offered that local dish."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng thử nhiều món ăn lạ,",
+    "en": "the more strange dishes I try,"
+   },
+   {
+    "t": "khẩu vị của tôi",
+    "en": "my palate"
+   },
+   {
+    "t": "càng trở nên cởi mở hơn.",
+    "en": "becomes more open-minded"
+   }
+  ],
+  "answers": [
+   "The more strange dishes I try, the more open-minded my palate becomes.",
+   "The more unusual food I try, the more adventurous my taste gets."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nhóm bạn mà tôi",
+    "en": "the group of friends whom I"
+   },
+   {
+    "t": "hay đi ăn cùng",
+    "en": "often go eat with"
+   },
+   {
+    "t": "đã cùng nhau đi thử hết mọi quán mới trong thành phố.",
+    "en": "has tried out every new restaurant in the city together"
+   }
+  ],
+  "answers": [
+   "The group of friends whom I often go eat with has tried out every new restaurant in the city together.",
+   "The friends I usually eat with have tried every new restaurant in town together."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã không rủ bạn bè",
+    "en": "I hadn't invited my friends"
+   },
+   {
+    "t": "đến cái quán mà tôi chưa từng thử qua.",
+    "en": "to that restaurant I'd never tried before"
+   }
+  ],
+  "answers": [
+   "I wish I hadn't invited my friends to that restaurant I'd never tried before.",
+   "I regret taking my friends to that place I'd never tried myself."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bạn tôi không rủ đi ăn hôm đó,",
+    "en": "if my friend hadn't asked me out to eat that day,"
+   },
+   {
+    "t": "tôi đã không bao giờ biết",
+    "en": "I would never have known"
+   },
+   {
+    "t": "đến quán nem nướng tuyệt vời này.",
+    "en": "about this fantastic grilled spring roll place"
+   }
+  ],
+  "answers": [
+   "If my friend hadn't asked me out to eat that day, I would never have known about this fantastic grilled spring roll place.",
+   "Had my friend not invited me out that day, I'd never have discovered this amazing grilled nem place."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bữa ăn mà chúng tôi",
+    "en": "the meal that we"
+   },
+   {
+    "t": "chia sẻ hôm ấy",
+    "en": "shared that day"
+   },
+   {
+    "t": "khiến tình bạn của chúng tôi càng thêm khăng khít.",
+    "en": "made our friendship grow even closer"
+   }
+  ],
+  "answers": [
+   "The meal that we shared that day made our friendship grow even closer.",
+   "Sharing that meal that day brought our friendship even closer."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chợ truyền thống nơi mẹ tôi",
+    "en": "the traditional market where my mother"
+   },
+   {
+    "t": "đã đi mua rau suốt hai mươi năm",
+    "en": "has shopped for vegetables for twenty years"
+   },
+   {
+    "t": "vừa bị phá dỡ để xây trung tâm thương mại.",
+    "en": "was just torn down to build a shopping mall"
+   }
+  ],
+  "answers": [
+   "The traditional market where my mother has shopped for vegetables for twenty years was just torn down to build a shopping mall.",
+   "The market my mom has bought vegetables at for twenty years just got demolished for a shopping mall."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã mua nhiều rau hơn",
+    "en": "I had bought more vegetables"
+   },
+   {
+    "t": "trước khi giá tăng vọt.",
+    "en": "before the prices shot up"
+   }
+  ],
+  "answers": [
+   "I wish I had bought more vegetables before the prices shot up.",
+   "I regret not buying more vegetables before the price surge."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu không phải vì đường tắc,",
+    "en": "if it weren't for the traffic jam,"
+   },
+   {
+    "t": "tôi đã kịp đến chợ",
+    "en": "I would have made it to the market"
+   },
+   {
+    "t": "trước khi họ đóng cửa.",
+    "en": "before they closed"
+   }
+  ],
+  "answers": [
+   "If it weren't for the traffic jam, I would have made it to the market before they closed.",
+   "Had it not been for the traffic, I'd have gotten to the market before closing."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Người bán hàng mà tôi",
+    "en": "the vendor whom I"
+   },
+   {
+    "t": "quen suốt mấy năm nay",
+    "en": "have known for several years now"
+   },
+   {
+    "t": "luôn để dành cho tôi những mớ rau tươi nhất.",
+    "en": "always sets aside the freshest vegetables for me"
+   }
+  ],
+  "answers": [
+   "The vendor whom I have known for several years now always sets aside the freshest vegetables for me.",
+   "The seller I've known for years always saves the freshest vegetables for me."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Mâm cỗ Tết",
+    "en": "the Tet feast tray"
+   },
+   {
+    "t": "được chuẩn bị công phu",
+    "en": "that's prepared elaborately"
+   },
+   {
+    "t": "thể hiện lòng biết ơn của con cháu với tổ tiên.",
+    "en": "expresses the descendants' gratitude toward their ancestors"
+   }
+  ],
+  "answers": [
+   "The Tet feast tray that's prepared elaborately expresses the descendants' gratitude toward their ancestors.",
+   "An elaborately prepared Tet feast tray shows the family's gratitude to their ancestors."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã học gói bánh chưng",
+    "en": "I had learned to make banh chung"
+   },
+   {
+    "t": "từ bà trước khi bà mất.",
+    "en": "from my grandmother before she passed away"
+   }
+  ],
+  "answers": [
+   "I wish I had learned to make banh chung from my grandmother before she passed away.",
+   "I regret not learning to wrap banh chung from my grandma before she passed."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng nhiều gia đình chuyển ra thành phố sống,",
+    "en": "the more families move to live in the city,"
+   },
+   {
+    "t": "truyền thống nấu cỗ Tết",
+    "en": "the tradition of cooking the Tet feast"
+   },
+   {
+    "t": "càng có nguy cơ mai một.",
+    "en": "is increasingly at risk of fading away"
+   }
+  ],
+  "answers": [
+   "The more families move to live in the city, the more the tradition of cooking the Tet feast risks fading away.",
+   "As more families move to the city, the Tet-feast cooking tradition is increasingly at risk of disappearing."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu không có mâm cỗ Tết đầy đủ,",
+    "en": "without a complete Tet feast tray,"
+   },
+   {
+    "t": "nhiều người lớn tuổi",
+    "en": "many elderly people"
+   },
+   {
+    "t": "sẽ cảm thấy như thiếu vắng điều gì đó thiêng liêng.",
+    "en": "would feel like something sacred is missing"
+   }
+  ],
+  "answers": [
+   "Without a complete Tet feast tray, many elderly people would feel like something sacred is missing.",
+   "Without a full Tet feast, many older folks feel something sacred is missing."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Chỉ khi tự tay nấu một bữa tiệc cho hai mươi người,",
+    "en": "only when I cooked a party meal for twenty people myself"
+   },
+   {
+    "t": "tôi mới hiểu hết",
+    "en": "did I fully understand"
+   },
+   {
+    "t": "nỗi vất vả của những người làm dịch vụ nấu cỗ.",
+    "en": "how hard the work of professional caterers really is"
+   }
+  ],
+  "answers": [
+   "Only when I cooked a party meal for twenty people myself did I fully understand how hard the work of professional caterers really is.",
+   "It wasn't until I cooked for twenty guests myself that I truly understood how tough catering work is."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Bữa tiệc tất niên năm nay",
+    "en": "this year's year-end party"
+   },
+   {
+    "t": "lẽ ra đã bị hủy",
+    "en": "would have been cancelled"
+   },
+   {
+    "t": "nếu công ty không tìm được địa điểm vào phút chót.",
+    "en": "if the company hadn't found a venue at the last minute"
+   }
+  ],
+  "answers": [
+   "This year's year-end party would have been cancelled if the company hadn't found a venue at the last minute.",
+   "Had the company not found a venue last minute, this year's year-end party would've been called off."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món khai vị",
+    "en": "the appetizer"
+   },
+   {
+    "t": "được đầu bếp",
+    "en": "that was created by the chef"
+   },
+   {
+    "t": "đặc biệt sáng tạo riêng cho buổi tiệc",
+    "en": "specifically for the party"
+   },
+   {
+    "t": "đã gây ấn tượng mạnh với toàn bộ khách mời.",
+    "en": "left a strong impression on all the guests"
+   }
+  ],
+  "answers": [
+   "The appetizer that was specially created by the chef for the party left a strong impression on all the guests.",
+   "The appetizer the chef designed just for the party really impressed all the guests."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "tôi đã hỏi trước",
+    "en": "I had asked beforehand"
+   },
+   {
+    "t": "xem có ai bị dị ứng hải sản không.",
+    "en": "whether anyone was allergic to seafood"
+   }
+  ],
+  "answers": [
+   "I wish I had asked beforehand whether anyone was allergic to seafood.",
+   "I regret not checking in advance if anyone had a seafood allergy."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Càng gần đến ngày tiệc,",
+    "en": "the closer the party date got,"
+   },
+   {
+    "t": "chúng tôi càng cuống cuồng",
+    "en": "the more frantic we became"
+   },
+   {
+    "t": "chuẩn bị mọi thứ.",
+    "en": "getting everything ready"
+   }
+  ],
+  "answers": [
+   "The closer the party date got, the more frantic we became getting everything ready.",
+   "As the party date approached, we got more and more frantic preparing everything."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món quà mà bạn tôi",
+    "en": "the gift that my friend"
+   },
+   {
+    "t": "mang đến bữa tiệc",
+    "en": "brought to the party"
+   },
+   {
+    "t": "lại chính là chai rượu vang tôi thích nhất.",
+    "en": "turned out to be exactly the wine I love most"
+   }
+  ],
+  "answers": [
+   "The gift that my friend brought to the party turned out to be exactly the wine I love most.",
+   "What my friend brought to the party happened to be my favorite wine."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Nếu bữa tiệc đó không bị mưa phá hỏng,",
+    "en": "if that party hadn't been ruined by the rain,"
+   },
+   {
+    "t": "chúng tôi đã có thể",
+    "en": "we would have been able to"
+   },
+   {
+    "t": "nướng thịt ngoài sân như dự định.",
+    "en": "grill outside in the yard as planned"
+   }
+  ],
+  "answers": [
+   "If that party hadn't been ruined by the rain, we would have been able to grill outside in the yard as planned.",
+   "Had the rain not ruined that party, we could have grilled outdoors in the yard as planned."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Buổi tiệc chia tay",
+    "en": "the farewell party"
+   },
+   {
+    "t": "mà đồng nghiệp tổ chức cho tôi",
+    "en": "that my coworkers organized for me"
+   },
+   {
+    "t": "khiến tôi xúc động đến mức không nói nên lời.",
+    "en": "moved me so much that I was speechless"
+   }
+  ],
+  "answers": [
+   "The farewell party that my coworkers organized for me moved me so much that I was speechless.",
+   "The farewell party my coworkers threw for me moved me to the point of speechlessness."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Giá như",
+    "en": "I wish"
+   },
+   {
+    "t": "chúng tôi đã đặt thêm đồ uống",
+    "en": "we had ordered more drinks"
+   },
+   {
+    "t": "vì khách đến đông hơn dự kiến.",
+    "en": "since more guests showed up than expected"
+   }
+  ],
+  "answers": [
+   "I wish we had ordered more drinks since more guests showed up than expected.",
+   "I regret not ordering more drinks, as we ended up with more guests than planned."
+  ]
+ },
+ {
+  "level": "B2",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Món ăn vặt",
+    "en": "the snack"
+   },
+   {
+    "t": "mà tôi từng ghét nhất hồi nhỏ",
+    "en": "that I used to hate most as a kid"
+   },
+   {
+    "t": "giờ lại trở thành thứ tôi thèm mỗi khi nhớ nhà.",
+    "en": "has now become the thing I crave whenever I'm homesick"
+   }
+  ],
+  "answers": [
+   "The snack that I used to hate most as a kid has now become the thing I crave whenever I'm homesick.",
+   "The snack I hated most as a child is now what I crave whenever I feel homesick."
+  ]
+ },
+ {
+  "level": "B1",
+  "topic": "food",
+  "chunks": [
+   {
+    "t": "Quán ruột của tôi",
+    "en": "my favorite spot"
+   },
+   {
+    "t": "đổi chủ từ tháng trước",
+    "en": "changed owners last month"
+   },
+   {
+    "t": "nên món bún bò",
+    "en": "so the beef noodle soup"
+   },
+   {
+    "t": "không còn ngon như xưa.",
+    "en": "is not as good as it used to be"
+   }
+  ],
+  "answers": [
+   "My favorite spot changed owners last month, so the beef noodle soup is not as good as it used to be.",
+   "My go-to place got a new owner last month, so their beef noodle soup no longer tastes like it used to."
+  ]
+ }
+]

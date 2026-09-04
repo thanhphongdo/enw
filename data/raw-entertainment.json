@@ -1,0 +1,8372 @@
+[
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "tôi muốn xem",
+        "en": "I want to watch"
+      },
+      {
+        "t": "một bộ phim hài.",
+        "en": "a comedy movie"
+      }
+    ],
+    "answers": [
+      "I want to watch a comedy movie tonight.",
+      "Tonight I want to watch a funny movie."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đang chơi game",
+        "en": "is playing games"
+      },
+      {
+        "t": "trên điện thoại.",
+        "en": "on his phone"
+      }
+    ],
+    "answers": [
+      "He is playing games on his phone.",
+      "He's playing video games on his phone."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi vừa mua",
+        "en": "I just bought"
+      },
+      {
+        "t": "một cuốn sách mới",
+        "en": "a new book"
+      },
+      {
+        "t": "ở hiệu sách.",
+        "en": "at the bookstore"
+      }
+    ],
+    "answers": [
+      "I just bought a new book at the bookstore.",
+      "I bought a new book at the bookstore just now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "xem trận bóng đá",
+        "en": "watched the football match"
+      },
+      {
+        "t": "tối qua.",
+        "en": "last night"
+      }
+    ],
+    "answers": [
+      "We watched the football match last night.",
+      "We watched the soccer game last night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Có một buổi concert",
+        "en": "there is a concert"
+      },
+      {
+        "t": "ở công viên",
+        "en": "in the park"
+      },
+      {
+        "t": "cuối tuần này.",
+        "en": "this weekend"
+      }
+    ],
+    "answers": [
+      "There is a concert in the park this weekend.",
+      "There's a concert in the park this weekend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Em gái tôi",
+        "en": "my little sister"
+      },
+      {
+        "t": "cứ xem TikTok",
+        "en": "keeps watching TikTok"
+      },
+      {
+        "t": "cả ngày.",
+        "en": "all day"
+      }
+    ],
+    "answers": [
+      "My little sister keeps watching TikTok all day.",
+      "My little sister watches TikTok all day long."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tối thứ Sáu",
+        "en": "on Friday nights"
+      },
+      {
+        "t": "chúng tôi hay",
+        "en": "we usually"
+      },
+      {
+        "t": "đi hát karaoke.",
+        "en": "go singing karaoke"
+      }
+    ],
+    "answers": [
+      "We usually go singing karaoke on Friday nights.",
+      "On Friday nights we often go to karaoke."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cuối tuần này",
+        "en": "this weekend"
+      },
+      {
+        "t": "tôi định",
+        "en": "I'm planning to"
+      },
+      {
+        "t": "chơi bóng rổ",
+        "en": "play basketball"
+      },
+      {
+        "t": "với bạn.",
+        "en": "with friends"
+      }
+    ],
+    "answers": [
+      "I'm planning to play basketball with friends this weekend.",
+      "This weekend I'm going to play basketball with my friends."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi thích",
+        "en": "I like"
+      },
+      {
+        "t": "đọc truyện tranh",
+        "en": "reading comics"
+      },
+      {
+        "t": "trước khi ngủ.",
+        "en": "before bed"
+      }
+    ],
+    "answers": [
+      "I like reading comics before bed.",
+      "I enjoy reading comic books before I go to sleep."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang nghe nhạc",
+        "en": "is listening to music"
+      },
+      {
+        "t": "bằng tai nghe.",
+        "en": "with headphones"
+      }
+    ],
+    "answers": [
+      "She is listening to music with headphones.",
+      "She's listening to music through her headphones."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Festival âm nhạc",
+        "en": "the music festival"
+      },
+      {
+        "t": "năm nay",
+        "en": "this year"
+      },
+      {
+        "t": "rất đông người.",
+        "en": "was very crowded"
+      }
+    ],
+    "answers": [
+      "The music festival this year was very crowded.",
+      "This year's music festival was really crowded."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang xem",
+        "en": "am watching"
+      },
+      {
+        "t": "một series mới",
+        "en": "a new series"
+      },
+      {
+        "t": "trên Netflix.",
+        "en": "on Netflix"
+      }
+    ],
+    "answers": [
+      "I am watching a new series on Netflix.",
+      "I'm watching a new show on Netflix."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bố tôi",
+        "en": "my dad"
+      },
+      {
+        "t": "thích xem",
+        "en": "likes watching"
+      },
+      {
+        "t": "phim hành động.",
+        "en": "action movies"
+      }
+    ],
+    "answers": [
+      "My dad likes watching action movies.",
+      "My father enjoys watching action films."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "cày phim",
+        "en": "binge-watch shows"
+      },
+      {
+        "t": "cùng nhau",
+        "en": "together"
+      },
+      {
+        "t": "mỗi cuối tuần.",
+        "en": "every weekend"
+      }
+    ],
+    "answers": [
+      "We binge-watch shows together every weekend.",
+      "We watch shows together every single weekend."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Idol yêu thích của tôi",
+        "en": "my favorite idol"
+      },
+      {
+        "t": "vừa ra",
+        "en": "just released"
+      },
+      {
+        "t": "bài hát mới.",
+        "en": "a new song"
+      }
+    ],
+    "answers": [
+      "My favorite idol just released a new song.",
+      "My favorite idol has just put out a new song."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sao bạn",
+        "en": "why do you"
+      },
+      {
+        "t": "không tham gia",
+        "en": "not join"
+      },
+      {
+        "t": "đội bóng",
+        "en": "the football team"
+      },
+      {
+        "t": "với tụi mình?",
+        "en": "with us"
+      }
+    ],
+    "answers": [
+      "Why don't you join the football team with us?",
+      "Why don't you join our football team?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Rạp chiếu phim",
+        "en": "the cinema"
+      },
+      {
+        "t": "gần nhà tôi",
+        "en": "near my house"
+      },
+      {
+        "t": "vừa mở lại.",
+        "en": "just reopened"
+      }
+    ],
+    "answers": [
+      "The cinema near my house just reopened.",
+      "The movie theater near my house has just reopened."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh trai tôi",
+        "en": "my brother"
+      },
+      {
+        "t": "đang tập",
+        "en": "is practicing"
+      },
+      {
+        "t": "đàn guitar.",
+        "en": "guitar"
+      }
+    ],
+    "answers": [
+      "My brother is practicing guitar.",
+      "My brother is practicing the guitar."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "không có vé",
+        "en": "don't have tickets"
+      },
+      {
+        "t": "cho trận đấu.",
+        "en": "for the match"
+      }
+    ],
+    "answers": [
+      "We don't have tickets for the match.",
+      "We don't have any tickets for the game."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Con mèo",
+        "en": "the cat"
+      },
+      {
+        "t": "đang nằm",
+        "en": "is lying"
+      },
+      {
+        "t": "trên cuốn truyện tranh",
+        "en": "on the comic book"
+      },
+      {
+        "t": "của tôi.",
+        "en": "of mine"
+      }
+    ],
+    "answers": [
+      "The cat is lying on my comic book.",
+      "My cat is lying on top of my comic book."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "có",
+        "en": "there is"
+      },
+      {
+        "t": "một trận bóng đá",
+        "en": "a football match"
+      },
+      {
+        "t": "trên tivi.",
+        "en": "on TV"
+      }
+    ],
+    "answers": [
+      "There is a football match on TV tonight.",
+      "There's a soccer match on TV tonight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chị tôi",
+        "en": "my sister"
+      },
+      {
+        "t": "mê thần tượng Hàn Quốc",
+        "en": "is obsessed with a Korean idol"
+      },
+      {
+        "t": "lắm.",
+        "en": "a lot"
+      }
+    ],
+    "answers": [
+      "My sister is really obsessed with a Korean idol.",
+      "My sister is crazy about a Korean idol."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bạn tôi",
+        "en": "my friend"
+      },
+      {
+        "t": "đang xếp hàng",
+        "en": "is standing in line"
+      },
+      {
+        "t": "mua vé concert.",
+        "en": "to buy concert tickets"
+      }
+    ],
+    "answers": [
+      "My friend is standing in line to buy concert tickets.",
+      "My friend is queuing up to buy tickets for the concert."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "chơi board game",
+        "en": "played a board game"
+      },
+      {
+        "t": "suốt buổi tối.",
+        "en": "all evening"
+      }
+    ],
+    "answers": [
+      "We played a board game all evening.",
+      "We played a board game the whole evening."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Em trai tôi",
+        "en": "my little brother"
+      },
+      {
+        "t": "không thích",
+        "en": "doesn't like"
+      },
+      {
+        "t": "đọc sách",
+        "en": "reading books"
+      },
+      {
+        "t": "chút nào.",
+        "en": "at all"
+      }
+    ],
+    "answers": [
+      "My little brother doesn't like reading books at all.",
+      "My little brother really doesn't like reading books."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đang xem",
+        "en": "are watching"
+      },
+      {
+        "t": "video trên YouTube.",
+        "en": "a video on YouTube"
+      }
+    ],
+    "answers": [
+      "We are watching a video on YouTube.",
+      "We're watching a YouTube video."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Buổi hòa nhạc",
+        "en": "the concert"
+      },
+      {
+        "t": "bắt đầu lúc",
+        "en": "starts at"
+      },
+      {
+        "t": "tám giờ tối.",
+        "en": "eight p.m."
+      }
+    ],
+    "answers": [
+      "The concert starts at eight p.m.",
+      "The concert begins at eight in the evening."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "không giỏi",
+        "en": "am not good at"
+      },
+      {
+        "t": "chơi bóng chuyền.",
+        "en": "playing volleyball"
+      }
+    ],
+    "answers": [
+      "I'm not good at playing volleyball.",
+      "I'm not very good at volleyball."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô giáo tôi",
+        "en": "my teacher"
+      },
+      {
+        "t": "khuyên chúng tôi",
+        "en": "advised us to"
+      },
+      {
+        "t": "đọc nhiều sách hơn.",
+        "en": "read more books"
+      }
+    ],
+    "answers": [
+      "My teacher advised us to read more books.",
+      "My teacher told us to read more books."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Đội bóng",
+        "en": "the team"
+      },
+      {
+        "t": "của tôi",
+        "en": "of mine"
+      },
+      {
+        "t": "vừa thắng trận.",
+        "en": "just won the match"
+      }
+    ],
+    "answers": [
+      "My team just won the match.",
+      "My team has just won the game."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bạn có muốn",
+        "en": "do you want to"
+      },
+      {
+        "t": "đi xem kịch",
+        "en": "go watch a play"
+      },
+      {
+        "t": "tối nay không?",
+        "en": "tonight"
+      }
+    ],
+    "answers": [
+      "Do you want to go watch a play tonight?",
+      "Do you want to see a play tonight?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đang chơi",
+        "en": "are playing"
+      },
+      {
+        "t": "một trò chơi hội đồng",
+        "en": "a board game"
+      },
+      {
+        "t": "mới.",
+        "en": "new"
+      }
+    ],
+    "answers": [
+      "We are playing a new board game.",
+      "We're playing a brand new board game."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bố mẹ tôi",
+        "en": "my parents"
+      },
+      {
+        "t": "không thích",
+        "en": "don't like"
+      },
+      {
+        "t": "nhạc rock.",
+        "en": "rock music"
+      }
+    ],
+    "answers": [
+      "My parents don't like rock music.",
+      "My parents don't enjoy rock music."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang đọc",
+        "en": "am reading"
+      },
+      {
+        "t": "một cuốn truyện tranh",
+        "en": "a comic book"
+      },
+      {
+        "t": "rất hay.",
+        "en": "that is really good"
+      }
+    ],
+    "answers": [
+      "I am reading a really good comic book.",
+      "I'm reading a very good comic book."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trận đấu",
+        "en": "the match"
+      },
+      {
+        "t": "tối qua",
+        "en": "last night"
+      },
+      {
+        "t": "rất kịch tính.",
+        "en": "was very exciting"
+      }
+    ],
+    "answers": [
+      "The match last night was very exciting.",
+      "Last night's match was really exciting."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đi xem phim",
+        "en": "went to the movies"
+      },
+      {
+        "t": "vào tối thứ Bảy.",
+        "en": "on Saturday night"
+      }
+    ],
+    "answers": [
+      "We went to the movies on Saturday night.",
+      "We went to see a movie on Saturday night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "hát karaoke",
+        "en": "sings karaoke"
+      },
+      {
+        "t": "rất hay.",
+        "en": "really well"
+      }
+    ],
+    "answers": [
+      "He sings karaoke really well.",
+      "He's really good at singing karaoke."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "không có thời gian",
+        "en": "don't have time"
+      },
+      {
+        "t": "xem series mới đó.",
+        "en": "to watch that new series"
+      }
+    ],
+    "answers": [
+      "I don't have time to watch that new series.",
+      "I don't have time for that new series."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nhóm nhạc đó",
+        "en": "that band"
+      },
+      {
+        "t": "đang biểu diễn",
+        "en": "is performing"
+      },
+      {
+        "t": "ở sân vận động.",
+        "en": "at the stadium"
+      }
+    ],
+    "answers": [
+      "That band is performing at the stadium.",
+      "That band is playing at the stadium."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chị tôi",
+        "en": "my sister"
+      },
+      {
+        "t": "vẽ tranh",
+        "en": "draws pictures"
+      },
+      {
+        "t": "trong thời gian rảnh.",
+        "en": "in her free time"
+      }
+    ],
+    "answers": [
+      "My sister draws pictures in her free time.",
+      "My sister draws in her spare time."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cuối tuần",
+        "en": "on weekends"
+      },
+      {
+        "t": "tôi thường",
+        "en": "I usually"
+      },
+      {
+        "t": "chơi cầu lông",
+        "en": "play badminton"
+      },
+      {
+        "t": "với bố.",
+        "en": "with my dad"
+      }
+    ],
+    "answers": [
+      "I usually play badminton with my dad on weekends.",
+      "On weekends I usually play badminton with my father."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bạn tôi",
+        "en": "my friend"
+      },
+      {
+        "t": "đang livestream",
+        "en": "is livestreaming"
+      },
+      {
+        "t": "trên TikTok.",
+        "en": "on TikTok"
+      }
+    ],
+    "answers": [
+      "My friend is livestreaming on TikTok.",
+      "My friend's livestreaming on TikTok right now."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "không xem",
+        "en": "don't watch"
+      },
+      {
+        "t": "phim kinh dị.",
+        "en": "horror movies"
+      }
+    ],
+    "answers": [
+      "We don't watch horror movies.",
+      "We don't watch scary movies."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "cả nhà",
+        "en": "the whole family"
+      },
+      {
+        "t": "cùng xem phim.",
+        "en": "is watching a movie together"
+      }
+    ],
+    "answers": [
+      "Tonight the whole family is watching a movie together.",
+      "The whole family is watching a movie together tonight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chơi game",
+        "en": "plays games"
+      },
+      {
+        "t": "quá nhiều.",
+        "en": "too much"
+      }
+    ],
+    "answers": [
+      "He plays games too much.",
+      "He plays video games way too much."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "vừa tải",
+        "en": "just downloaded"
+      },
+      {
+        "t": "một bài hát mới.",
+        "en": "a new song"
+      }
+    ],
+    "answers": [
+      "I just downloaded a new song.",
+      "I just downloaded a brand new song."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bạn ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang đọc",
+        "en": "is reading"
+      },
+      {
+        "t": "tập truyện tranh mới nhất.",
+        "en": "the latest comic book"
+      }
+    ],
+    "answers": [
+      "She is reading the latest comic book.",
+      "She's reading the newest comic book."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đang lên kế hoạch",
+        "en": "are planning"
+      },
+      {
+        "t": "đi xem festival âm nhạc.",
+        "en": "to go to a music festival"
+      }
+    ],
+    "answers": [
+      "We are planning to go to a music festival.",
+      "We're planning on going to a music festival."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Ông tôi",
+        "en": "my grandfather"
+      },
+      {
+        "t": "không biết dùng",
+        "en": "doesn't know how to use"
+      },
+      {
+        "t": "Netflix.",
+        "en": "Netflix"
+      }
+    ],
+    "answers": [
+      "My grandfather doesn't know how to use Netflix.",
+      "My grandpa doesn't know how to use Netflix."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tại sao",
+        "en": "why"
+      },
+      {
+        "t": "bạn không thích",
+        "en": "don't you like"
+      },
+      {
+        "t": "nhạc cổ điển?",
+        "en": "classical music"
+      }
+    ],
+    "answers": [
+      "Why don't you like classical music?",
+      "Why don't you enjoy classical music?"
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "chơi bóng bàn",
+        "en": "play table tennis"
+      },
+      {
+        "t": "vào mỗi Chủ nhật.",
+        "en": "every Sunday"
+      }
+    ],
+    "answers": [
+      "We play table tennis every Sunday.",
+      "We play ping pong every Sunday."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ca sĩ đó",
+        "en": "that singer"
+      },
+      {
+        "t": "đang thu âm",
+        "en": "is recording"
+      },
+      {
+        "t": "album mới.",
+        "en": "a new album"
+      }
+    ],
+    "answers": [
+      "That singer is recording a new album.",
+      "That singer is working on a new album."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "thích",
+        "en": "like"
+      },
+      {
+        "t": "chơi cờ vua",
+        "en": "playing chess"
+      },
+      {
+        "t": "với ông tôi.",
+        "en": "with my grandfather"
+      }
+    ],
+    "answers": [
+      "I like playing chess with my grandfather.",
+      "I enjoy playing chess with my grandpa."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Có một trận đấu bóng rổ",
+        "en": "there's a basketball game"
+      },
+      {
+        "t": "tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "ở trường.",
+        "en": "at school"
+      }
+    ],
+    "answers": [
+      "There's a basketball game at school tonight.",
+      "There is a basketball game tonight at school."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bạn cùng lớp tôi",
+        "en": "my classmate"
+      },
+      {
+        "t": "sưu tầm",
+        "en": "collects"
+      },
+      {
+        "t": "truyện tranh cũ.",
+        "en": "old comic books"
+      }
+    ],
+    "answers": [
+      "My classmate collects old comic books.",
+      "My classmate collects vintage comic books."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "không nghe",
+        "en": "don't listen to"
+      },
+      {
+        "t": "nhạc buồn",
+        "en": "sad songs"
+      },
+      {
+        "t": "vào buổi sáng.",
+        "en": "in the morning"
+      }
+    ],
+    "answers": [
+      "We don't listen to sad songs in the morning.",
+      "We don't listen to sad music in the morning."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Đêm nhạc",
+        "en": "the music show"
+      },
+      {
+        "t": "đó",
+        "en": "that"
+      },
+      {
+        "t": "kéo dài",
+        "en": "lasted"
+      },
+      {
+        "t": "ba tiếng.",
+        "en": "three hours"
+      }
+    ],
+    "answers": [
+      "That music show lasted three hours.",
+      "That concert lasted for three hours."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang chờ",
+        "en": "am waiting for"
+      },
+      {
+        "t": "tập mới",
+        "en": "the new episode"
+      },
+      {
+        "t": "của bộ phim đó.",
+        "en": "of that show"
+      }
+    ],
+    "answers": [
+      "I am waiting for the new episode of that show.",
+      "I'm waiting for the next episode of that show."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chị ấy",
+        "en": "she"
+      },
+      {
+        "t": "nhảy múa",
+        "en": "dances"
+      },
+      {
+        "t": "rất đẹp.",
+        "en": "beautifully"
+      }
+    ],
+    "answers": [
+      "She dances beautifully.",
+      "She's a beautiful dancer."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "không đi xem phim.",
+        "en": "aren't going to the movies"
+      }
+    ],
+    "answers": [
+      "We aren't going to the movies tonight.",
+      "Tonight we're not going to the movies."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "vừa mua",
+        "en": "just bought"
+      },
+      {
+        "t": "vé xem kịch.",
+        "en": "tickets for the play"
+      }
+    ],
+    "answers": [
+      "He just bought tickets for the play.",
+      "He just bought tickets to the play."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Có nhiều người hâm mộ",
+        "en": "there are many fans"
+      },
+      {
+        "t": "đứng đợi",
+        "en": "waiting"
+      },
+      {
+        "t": "trước sân vận động.",
+        "en": "in front of the stadium"
+      }
+    ],
+    "answers": [
+      "There are many fans waiting in front of the stadium.",
+      "There are lots of fans waiting outside the stadium."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang học",
+        "en": "am learning"
+      },
+      {
+        "t": "chơi piano.",
+        "en": "to play piano"
+      }
+    ],
+    "answers": [
+      "I am learning to play piano.",
+      "I'm learning how to play the piano."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bọn trẻ",
+        "en": "the kids"
+      },
+      {
+        "t": "đang chơi",
+        "en": "are playing"
+      },
+      {
+        "t": "trò chơi điện tử.",
+        "en": "video games"
+      }
+    ],
+    "answers": [
+      "The kids are playing video games.",
+      "The children are playing video games."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bạn thân tôi",
+        "en": "my best friend"
+      },
+      {
+        "t": "rất mê",
+        "en": "really loves"
+      },
+      {
+        "t": "nhóm nhạc Hàn Quốc.",
+        "en": "a Korean band"
+      }
+    ],
+    "answers": [
+      "My best friend really loves a Korean band.",
+      "My best friend is really into a Korean band."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đang xem",
+        "en": "are watching"
+      },
+      {
+        "t": "trận chung kết",
+        "en": "the final match"
+      },
+      {
+        "t": "trên tivi.",
+        "en": "on TV"
+      }
+    ],
+    "answers": [
+      "We are watching the final match on TV.",
+      "We're watching the final on TV."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "không thích",
+        "en": "doesn't like"
+      },
+      {
+        "t": "chơi board game.",
+        "en": "playing board games"
+      }
+    ],
+    "answers": [
+      "He doesn't like playing board games.",
+      "He's not a fan of board games."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "quay video",
+        "en": "films videos"
+      },
+      {
+        "t": "cho kênh YouTube.",
+        "en": "for her YouTube channel"
+      }
+    ],
+    "answers": [
+      "She films videos for her YouTube channel.",
+      "She makes videos for her YouTube channel."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "để quên",
+        "en": "forgot"
+      },
+      {
+        "t": "vé xem phim",
+        "en": "my movie ticket"
+      },
+      {
+        "t": "ở nhà.",
+        "en": "at home"
+      }
+    ],
+    "answers": [
+      "I forgot my movie ticket at home.",
+      "I left my movie ticket at home."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đá bóng",
+        "en": "play soccer"
+      },
+      {
+        "t": "ở sân trường",
+        "en": "at the school field"
+      },
+      {
+        "t": "mỗi chiều.",
+        "en": "every afternoon"
+      }
+    ],
+    "answers": [
+      "We play soccer at the school field every afternoon.",
+      "We play football at the school field every afternoon."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh chàng đó",
+        "en": "that guy"
+      },
+      {
+        "t": "đang hát",
+        "en": "is singing"
+      },
+      {
+        "t": "trên sân khấu.",
+        "en": "on stage"
+      }
+    ],
+    "answers": [
+      "That guy is singing on stage.",
+      "That guy's singing on the stage."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Con gái tôi",
+        "en": "my daughter"
+      },
+      {
+        "t": "thích",
+        "en": "likes"
+      },
+      {
+        "t": "xem hoạt hình.",
+        "en": "watching cartoons"
+      }
+    ],
+    "answers": [
+      "My daughter likes watching cartoons.",
+      "My daughter enjoys watching cartoons."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "không có",
+        "en": "don't have"
+      },
+      {
+        "t": "đủ ghế",
+        "en": "enough seats"
+      },
+      {
+        "t": "cho buổi hòa nhạc.",
+        "en": "for the concert"
+      }
+    ],
+    "answers": [
+      "We don't have enough seats for the concert.",
+      "We don't have enough seats for the show."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bạn ấy",
+        "en": "he"
+      },
+      {
+        "t": "đang tập",
+        "en": "is practicing"
+      },
+      {
+        "t": "nhảy hiện đại.",
+        "en": "modern dance"
+      }
+    ],
+    "answers": [
+      "He is practicing modern dance.",
+      "He's practicing a modern dance routine."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Phòng khách",
+        "en": "the living room"
+      },
+      {
+        "t": "có",
+        "en": "has"
+      },
+      {
+        "t": "một chiếc tivi mới.",
+        "en": "a new TV"
+      }
+    ],
+    "answers": [
+      "The living room has a new TV.",
+      "There's a new TV in the living room."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang xem",
+        "en": "am watching"
+      },
+      {
+        "t": "highlight trận đấu.",
+        "en": "the match highlights"
+      }
+    ],
+    "answers": [
+      "I am watching the match highlights.",
+      "I'm watching highlights from the game."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chị tôi",
+        "en": "my sister"
+      },
+      {
+        "t": "hát",
+        "en": "sings"
+      },
+      {
+        "t": "trong dàn hợp xướng.",
+        "en": "in the choir"
+      }
+    ],
+    "answers": [
+      "My sister sings in the choir.",
+      "My sister's a singer in the choir."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bọn tôi",
+        "en": "we"
+      },
+      {
+        "t": "chơi trốn tìm",
+        "en": "play hide and seek"
+      },
+      {
+        "t": "với lũ trẻ.",
+        "en": "with the kids"
+      }
+    ],
+    "answers": [
+      "We play hide and seek with the kids.",
+      "We play hide and seek with the children."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đang xếp hàng",
+        "en": "is queuing"
+      },
+      {
+        "t": "mua vé phim.",
+        "en": "to buy movie tickets"
+      }
+    ],
+    "answers": [
+      "He is queuing to buy movie tickets.",
+      "He's standing in line to buy movie tickets."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "thích",
+        "en": "like"
+      },
+      {
+        "t": "phim hoạt hình Nhật Bản.",
+        "en": "Japanese animated movies"
+      }
+    ],
+    "answers": [
+      "I like Japanese animated movies.",
+      "I like Japanese anime movies."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Có",
+        "en": "there is"
+      },
+      {
+        "t": "một quán karaoke mới",
+        "en": "a new karaoke place"
+      },
+      {
+        "t": "gần nhà tôi.",
+        "en": "near my house"
+      }
+    ],
+    "answers": [
+      "There is a new karaoke place near my house.",
+      "There's a new karaoke spot near my house."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đang đợi",
+        "en": "are waiting for"
+      },
+      {
+        "t": "buổi biểu diễn",
+        "en": "the show"
+      },
+      {
+        "t": "bắt đầu.",
+        "en": "to start"
+      }
+    ],
+    "answers": [
+      "We are waiting for the show to start.",
+      "We're waiting for the performance to begin."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chơi",
+        "en": "plays"
+      },
+      {
+        "t": "guitar điện",
+        "en": "electric guitar"
+      },
+      {
+        "t": "trong ban nhạc.",
+        "en": "in a band"
+      }
+    ],
+    "answers": [
+      "He plays electric guitar in a band.",
+      "He plays the electric guitar in a band."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "không thích",
+        "en": "don't like"
+      },
+      {
+        "t": "đọc tiểu thuyết dài.",
+        "en": "reading long novels"
+      }
+    ],
+    "answers": [
+      "I don't like reading long novels.",
+      "I don't really enjoy reading long novels."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đến muộn",
+        "en": "arrived late"
+      },
+      {
+        "t": "buổi hòa nhạc.",
+        "en": "for the concert"
+      }
+    ],
+    "answers": [
+      "We arrived late for the concert.",
+      "We got to the concert late."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô bé đó",
+        "en": "that girl"
+      },
+      {
+        "t": "vẽ",
+        "en": "draws"
+      },
+      {
+        "t": "nhân vật hoạt hình.",
+        "en": "cartoon characters"
+      }
+    ],
+    "answers": [
+      "That girl draws cartoon characters.",
+      "That girl draws cartoon characters really well."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "không xem",
+        "en": "am not watching"
+      },
+      {
+        "t": "tivi.",
+        "en": "TV"
+      }
+    ],
+    "answers": [
+      "I am not watching TV tonight.",
+      "I'm not watching television tonight."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "chụp ảnh",
+        "en": "took photos"
+      },
+      {
+        "t": "ở buổi concert.",
+        "en": "at the concert"
+      }
+    ],
+    "answers": [
+      "We took photos at the concert.",
+      "We took pictures at the concert."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh trai tôi",
+        "en": "my brother"
+      },
+      {
+        "t": "sưu tầm",
+        "en": "collects"
+      },
+      {
+        "t": "đĩa nhạc cũ.",
+        "en": "old records"
+      }
+    ],
+    "answers": [
+      "My brother collects old records.",
+      "My brother collects vintage records."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bạn ấy",
+        "en": "she"
+      },
+      {
+        "t": "không xem",
+        "en": "doesn't watch"
+      },
+      {
+        "t": "phim kinh dị",
+        "en": "horror films"
+      },
+      {
+        "t": "một mình.",
+        "en": "alone"
+      }
+    ],
+    "answers": [
+      "She doesn't watch horror films alone.",
+      "She never watches horror movies by herself."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trận đấu bóng chuyền",
+        "en": "the volleyball match"
+      },
+      {
+        "t": "bắt đầu",
+        "en": "starts"
+      },
+      {
+        "t": "lúc năm giờ.",
+        "en": "at five o'clock"
+      }
+    ],
+    "answers": [
+      "The volleyball match starts at five o'clock.",
+      "The volleyball game starts at five."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang viết",
+        "en": "am writing"
+      },
+      {
+        "t": "lời cho bài hát mới.",
+        "en": "lyrics for a new song"
+      }
+    ],
+    "answers": [
+      "I am writing lyrics for a new song.",
+      "I'm writing the lyrics to a new song."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cả nhóm",
+        "en": "the group"
+      },
+      {
+        "t": "đi xem phim",
+        "en": "went to see a movie"
+      },
+      {
+        "t": "cùng nhau.",
+        "en": "together"
+      }
+    ],
+    "answers": [
+      "The group went to see a movie together.",
+      "The whole group went to see a movie together."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chơi",
+        "en": "plays"
+      },
+      {
+        "t": "game bắn súng",
+        "en": "shooting games"
+      },
+      {
+        "t": "mỗi tối.",
+        "en": "every night"
+      }
+    ],
+    "answers": [
+      "He plays shooting games every night.",
+      "He plays shooter games every night."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Có",
+        "en": "there are"
+      },
+      {
+        "t": "nhiều tập phim mới",
+        "en": "many new episodes"
+      },
+      {
+        "t": "trên kênh đó.",
+        "en": "on that channel"
+      }
+    ],
+    "answers": [
+      "There are many new episodes on that channel.",
+      "There are a lot of new episodes on that channel."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đang tìm",
+        "en": "am looking for"
+      },
+      {
+        "t": "vé xem kịch",
+        "en": "tickets for the play"
+      },
+      {
+        "t": "giá rẻ.",
+        "en": "that are cheap"
+      }
+    ],
+    "answers": [
+      "I am looking for cheap tickets for the play.",
+      "I'm looking for cheap play tickets."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "nghe",
+        "en": "listen to"
+      },
+      {
+        "t": "podcast",
+        "en": "podcasts"
+      },
+      {
+        "t": "trên đường đi làm.",
+        "en": "on the way to work"
+      }
+    ],
+    "answers": [
+      "We listen to podcasts on the way to work.",
+      "We listen to podcasts on our way to work."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang chỉnh sửa",
+        "en": "is editing"
+      },
+      {
+        "t": "video mới.",
+        "en": "a new video"
+      }
+    ],
+    "answers": [
+      "She is editing a new video.",
+      "She's editing her new video."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bố tôi",
+        "en": "my dad"
+      },
+      {
+        "t": "không bao giờ",
+        "en": "never"
+      },
+      {
+        "t": "bỏ lỡ",
+        "en": "misses"
+      },
+      {
+        "t": "trận bóng đá.",
+        "en": "a football match"
+      }
+    ],
+    "answers": [
+      "My dad never misses a football match.",
+      "My father never misses a soccer game."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đang chơi",
+        "en": "are playing"
+      },
+      {
+        "t": "cờ tỷ phú.",
+        "en": "Monopoly"
+      }
+    ],
+    "answers": [
+      "We are playing Monopoly.",
+      "We're playing a game of Monopoly."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ca sĩ đó",
+        "en": "that singer"
+      },
+      {
+        "t": "hát",
+        "en": "sang"
+      },
+      {
+        "t": "rất xúc động.",
+        "en": "very emotionally"
+      }
+    ],
+    "answers": [
+      "That singer sang very emotionally.",
+      "That singer's performance was very emotional."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đang dạy",
+        "en": "is teaching"
+      },
+      {
+        "t": "tôi chơi cờ vua.",
+        "en": "me chess"
+      }
+    ],
+    "answers": [
+      "He is teaching me chess.",
+      "He's teaching me how to play chess."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Có",
+        "en": "there was"
+      },
+      {
+        "t": "một tai nạn nhỏ",
+        "en": "a small accident"
+      },
+      {
+        "t": "ở sân bóng.",
+        "en": "on the football field"
+      }
+    ],
+    "answers": [
+      "There was a small accident on the football field.",
+      "There was a minor accident on the soccer field."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đăng ký",
+        "en": "subscribed to"
+      },
+      {
+        "t": "kênh YouTube đó.",
+        "en": "that YouTube channel"
+      }
+    ],
+    "answers": [
+      "I subscribed to that YouTube channel.",
+      "I subscribed to that channel on YouTube."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "tập",
+        "en": "rehearse"
+      },
+      {
+        "t": "vở kịch",
+        "en": "the play"
+      },
+      {
+        "t": "vào các buổi chiều.",
+        "en": "in the afternoons"
+      }
+    ],
+    "answers": [
+      "We rehearse the play in the afternoons.",
+      "We rehearse for the play every afternoon."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bạn ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang vẽ",
+        "en": "is drawing"
+      },
+      {
+        "t": "bìa cho",
+        "en": "a cover for"
+      },
+      {
+        "t": "cuốn truyện tranh của mình.",
+        "en": "her comic book"
+      }
+    ],
+    "answers": [
+      "She is drawing a cover for her comic book.",
+      "She's drawing the cover of her comic book."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "không có",
+        "en": "doesn't have"
+      },
+      {
+        "t": "thời gian",
+        "en": "time"
+      },
+      {
+        "t": "chơi game.",
+        "en": "to play games"
+      }
+    ],
+    "answers": [
+      "He doesn't have time to play games.",
+      "He has no time to play video games."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "gặp",
+        "en": "met"
+      },
+      {
+        "t": "thần tượng",
+        "en": "our idol"
+      },
+      {
+        "t": "ở sự kiện.",
+        "en": "at the event"
+      }
+    ],
+    "answers": [
+      "We met our idol at the event.",
+      "We got to meet our idol at the event."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "trời mưa",
+        "en": "it's raining"
+      },
+      {
+        "t": "nên chúng tôi",
+        "en": "so we"
+      },
+      {
+        "t": "ở nhà xem phim.",
+        "en": "are staying home to watch a movie"
+      }
+    ],
+    "answers": [
+      "It's raining tonight, so we're staying home to watch a movie.",
+      "It's raining tonight so we're staying in to watch a movie."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang tập hát",
+        "en": "is practicing singing"
+      },
+      {
+        "t": "cho buổi karaoke.",
+        "en": "for the karaoke session"
+      }
+    ],
+    "answers": [
+      "She is practicing singing for the karaoke session.",
+      "She's practicing her singing for karaoke."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "vừa đặt",
+        "en": "just booked"
+      },
+      {
+        "t": "phòng karaoke.",
+        "en": "a karaoke room"
+      }
+    ],
+    "answers": [
+      "We just booked a karaoke room.",
+      "We've just booked a karaoke room."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "không thích",
+        "en": "doesn't like"
+      },
+      {
+        "t": "đọc truyện tranh Mỹ.",
+        "en": "reading American comics"
+      }
+    ],
+    "answers": [
+      "He doesn't like reading American comics.",
+      "He's not into American comic books."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "chơi",
+        "en": "played"
+      },
+      {
+        "t": "cờ caro",
+        "en": "tic-tac-toe"
+      },
+      {
+        "t": "lúc giải lao.",
+        "en": "during the break"
+      }
+    ],
+    "answers": [
+      "We played tic-tac-toe during the break.",
+      "We played a game of tic-tac-toe during the break."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bố mẹ tôi",
+        "en": "my parents"
+      },
+      {
+        "t": "đang xem",
+        "en": "are watching"
+      },
+      {
+        "t": "chương trình ca nhạc.",
+        "en": "a music show"
+      }
+    ],
+    "answers": [
+      "My parents are watching a music show.",
+      "My parents are watching a singing show."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Có",
+        "en": "there are"
+      },
+      {
+        "t": "quá nhiều người",
+        "en": "too many people"
+      },
+      {
+        "t": "ở buổi concert đó.",
+        "en": "at that concert"
+      }
+    ],
+    "answers": [
+      "There are too many people at that concert.",
+      "That concert has way too many people."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đang dựng",
+        "en": "is setting up"
+      },
+      {
+        "t": "loa",
+        "en": "speakers"
+      },
+      {
+        "t": "cho buổi tiệc.",
+        "en": "for the party"
+      }
+    ],
+    "answers": [
+      "He is setting up speakers for the party.",
+      "He's setting up the speakers for the party."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "thích",
+        "en": "like"
+      },
+      {
+        "t": "đọc truyện trinh thám.",
+        "en": "reading detective stories"
+      }
+    ],
+    "answers": [
+      "I like reading detective stories.",
+      "I enjoy reading mystery stories."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang stream",
+        "en": "is streaming"
+      },
+      {
+        "t": "trò chơi",
+        "en": "a game"
+      },
+      {
+        "t": "trên mạng.",
+        "en": "online"
+      }
+    ],
+    "answers": [
+      "She is streaming a game online.",
+      "She's streaming a video game online."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trận bóng rổ",
+        "en": "the basketball game"
+      },
+      {
+        "t": "tối nay",
+        "en": "tonight"
+      },
+      {
+        "t": "bị hủy.",
+        "en": "was canceled"
+      }
+    ],
+    "answers": [
+      "The basketball game tonight was canceled.",
+      "Tonight's basketball game got canceled."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "không xem",
+        "en": "didn't watch"
+      },
+      {
+        "t": "hết phim.",
+        "en": "the whole movie"
+      }
+    ],
+    "answers": [
+      "We didn't watch the whole movie.",
+      "We didn't finish watching the movie."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đang chỉnh",
+        "en": "is adjusting"
+      },
+      {
+        "t": "âm thanh",
+        "en": "the sound"
+      },
+      {
+        "t": "cho buổi biểu diễn.",
+        "en": "for the show"
+      }
+    ],
+    "answers": [
+      "He is adjusting the sound for the show.",
+      "He's fixing the sound for the performance."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Có một cửa hàng",
+        "en": "there's a shop"
+      },
+      {
+        "t": "bán truyện tranh cũ",
+        "en": "that sells old comics"
+      },
+      {
+        "t": "gần đây.",
+        "en": "nearby"
+      }
+    ],
+    "answers": [
+      "There's a shop that sells old comics nearby.",
+      "There is a shop nearby that sells used comic books."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "không thích",
+        "en": "don't like"
+      },
+      {
+        "t": "xem thể thao",
+        "en": "watching sports"
+      },
+      {
+        "t": "một mình.",
+        "en": "alone"
+      }
+    ],
+    "answers": [
+      "I don't like watching sports alone.",
+      "I don't enjoy watching sports by myself."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "gặp nhau",
+        "en": "met up"
+      },
+      {
+        "t": "để cày phim",
+        "en": "to binge-watch shows"
+      },
+      {
+        "t": "cùng nhau.",
+        "en": "together"
+      }
+    ],
+    "answers": [
+      "We met up to binge-watch shows together.",
+      "We got together to binge-watch some shows."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chơi",
+        "en": "plays"
+      },
+      {
+        "t": "tennis",
+        "en": "tennis"
+      },
+      {
+        "t": "mỗi sáng Chủ nhật.",
+        "en": "every Sunday morning"
+      }
+    ],
+    "answers": [
+      "He plays tennis every Sunday morning.",
+      "He plays tennis every Sunday morning without fail."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "không có",
+        "en": "doesn't have"
+      },
+      {
+        "t": "vé xem concert.",
+        "en": "a concert ticket"
+      }
+    ],
+    "answers": [
+      "She doesn't have a concert ticket.",
+      "She doesn't have a ticket for the concert."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "xem",
+        "en": "watched"
+      },
+      {
+        "t": "pháo hoa",
+        "en": "fireworks"
+      },
+      {
+        "t": "sau buổi hòa nhạc.",
+        "en": "after the concert"
+      }
+    ],
+    "answers": [
+      "We watched fireworks after the concert.",
+      "We watched the fireworks after the concert."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đang tìm",
+        "en": "is looking for"
+      },
+      {
+        "t": "bạn chơi board game.",
+        "en": "someone to play board games with"
+      }
+    ],
+    "answers": [
+      "He is looking for someone to play board games with.",
+      "He's looking for a board game partner."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "thích",
+        "en": "like"
+      },
+      {
+        "t": "chơi Uno",
+        "en": "playing Uno"
+      },
+      {
+        "t": "với gia đình.",
+        "en": "with my family"
+      }
+    ],
+    "answers": [
+      "I like playing Uno with my family.",
+      "I enjoy playing Uno with my family."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Có",
+        "en": "there was"
+      },
+      {
+        "t": "một sự cố",
+        "en": "a mishap"
+      },
+      {
+        "t": "trong buổi biểu diễn.",
+        "en": "during the show"
+      }
+    ],
+    "answers": [
+      "There was a mishap during the show.",
+      "There was a small mishap during the performance."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "không đủ tiền",
+        "en": "don't have enough money"
+      },
+      {
+        "t": "mua vé VIP.",
+        "en": "to buy VIP tickets"
+      }
+    ],
+    "answers": [
+      "We don't have enough money to buy VIP tickets.",
+      "We can't afford VIP tickets."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đang chọn",
+        "en": "is picking"
+      },
+      {
+        "t": "trang phục",
+        "en": "an outfit"
+      },
+      {
+        "t": "cho buổi concert.",
+        "en": "for the concert"
+      }
+    ],
+    "answers": [
+      "She is picking an outfit for the concert.",
+      "She's choosing an outfit for the concert."
+    ]
+  },
+  {
+    "level": "A2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "vừa đăng",
+        "en": "just posted"
+      },
+      {
+        "t": "video mới",
+        "en": "a new video"
+      },
+      {
+        "t": "lên TikTok.",
+        "en": "on TikTok"
+      }
+    ],
+    "answers": [
+      "He just posted a new video on TikTok.",
+      "He just uploaded a new video to TikTok."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì mưa quá to,",
+        "en": "because it was raining too hard"
+      },
+      {
+        "t": "buổi concert ngoài trời",
+        "en": "the outdoor concert"
+      },
+      {
+        "t": "bị hoãn lại.",
+        "en": "was postponed"
+      }
+    ],
+    "answers": [
+      "Because it was raining too hard, the outdoor concert was postponed.",
+      "The outdoor concert got postponed because it was raining so hard."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi đã xem",
+        "en": "I had watched"
+      },
+      {
+        "t": "bộ phim đó",
+        "en": "that movie"
+      },
+      {
+        "t": "trước khi",
+        "en": "before"
+      },
+      {
+        "t": "đọc cuốn sách gốc.",
+        "en": "reading the original book"
+      }
+    ],
+    "answers": [
+      "I had watched that movie before reading the original book.",
+      "I'd already seen that movie before I read the original book."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Mặc dù vé",
+        "en": "although the tickets"
+      },
+      {
+        "t": "rất đắt,",
+        "en": "were very expensive"
+      },
+      {
+        "t": "chúng tôi vẫn",
+        "en": "we still"
+      },
+      {
+        "t": "quyết định đi xem concert.",
+        "en": "decided to go to the concert"
+      }
+    ],
+    "answers": [
+      "Although the tickets were very expensive, we still decided to go to the concert.",
+      "Even though the tickets were expensive, we decided to go to the concert anyway."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "xem hết bộ phim,",
+        "en": "finishing the whole movie"
+      },
+      {
+        "t": "tôi nằm nghĩ",
+        "en": "I lay there thinking"
+      },
+      {
+        "t": "suốt cả đêm.",
+        "en": "all night"
+      }
+    ],
+    "answers": [
+      "After finishing the whole movie, I lay there thinking all night.",
+      "After I watched the whole movie, I stayed up thinking about it all night."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã cày xong",
+        "en": "had finished binge-watching"
+      },
+      {
+        "t": "cả series đó",
+        "en": "the whole series"
+      },
+      {
+        "t": "chỉ trong một tuần.",
+        "en": "in just one week"
+      }
+    ],
+    "answers": [
+      "We had finished binge-watching the whole series in just one week.",
+      "We finished the entire series in only a week."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu bạn",
+        "en": "if you"
+      },
+      {
+        "t": "đặt vé sớm,",
+        "en": "book tickets early"
+      },
+      {
+        "t": "bạn sẽ tiết kiệm",
+        "en": "you'll save"
+      },
+      {
+        "t": "được kha khá tiền.",
+        "en": "quite a bit of money"
+      }
+    ],
+    "answers": [
+      "If you book tickets early, you'll save quite a bit of money.",
+      "If you book your tickets early, you'll save a good amount of money."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "vừa mới bỏ",
+        "en": "just gave up"
+      },
+      {
+        "t": "chơi game",
+        "en": "playing games"
+      },
+      {
+        "t": "vì thi cử.",
+        "en": "because of exams"
+      }
+    ],
+    "answers": [
+      "He just gave up playing games because of exams.",
+      "He's just quit playing games because of his exams."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi tôi",
+        "en": "when I"
+      },
+      {
+        "t": "còn nhỏ,",
+        "en": "was young"
+      },
+      {
+        "t": "tôi thường",
+        "en": "I used to"
+      },
+      {
+        "t": "xem hoạt hình mỗi sáng.",
+        "en": "watch cartoons every morning"
+      }
+    ],
+    "answers": [
+      "When I was young, I used to watch cartoons every morning.",
+      "When I was a kid, I used to watch cartoons every single morning."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Ban nhạc đó",
+        "en": "that band"
+      },
+      {
+        "t": "đã biểu diễn",
+        "en": "had performed"
+      },
+      {
+        "t": "ở nhiều nước",
+        "en": "in many countries"
+      },
+      {
+        "t": "trước khi nổi tiếng.",
+        "en": "before becoming famous"
+      }
+    ],
+    "answers": [
+      "That band had performed in many countries before becoming famous.",
+      "That band had played in many countries before they became famous."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trong khi",
+        "en": "while"
+      },
+      {
+        "t": "tôi đang đọc sách,",
+        "en": "I was reading"
+      },
+      {
+        "t": "em trai tôi",
+        "en": "my little brother"
+      },
+      {
+        "t": "cứ bật nhạc thật to.",
+        "en": "kept blasting music"
+      }
+    ],
+    "answers": [
+      "While I was reading, my little brother kept blasting music.",
+      "While I was reading, my brother kept playing music really loudly."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đã cố gắng",
+        "en": "tried to"
+      },
+      {
+        "t": "đặt vé xem kịch",
+        "en": "book play tickets"
+      },
+      {
+        "t": "nhưng chúng",
+        "en": "but they"
+      },
+      {
+        "t": "đã bán hết.",
+        "en": "were sold out"
+      }
+    ],
+    "answers": [
+      "I tried to book play tickets, but they were sold out.",
+      "I tried to get tickets for the play but they had already sold out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì tôi",
+        "en": "because I"
+      },
+      {
+        "t": "quên sạc điện thoại,",
+        "en": "forgot to charge my phone"
+      },
+      {
+        "t": "tôi không thể",
+        "en": "I couldn't"
+      },
+      {
+        "t": "quay video ở concert.",
+        "en": "film the concert"
+      }
+    ],
+    "answers": [
+      "Because I forgot to charge my phone, I couldn't film the concert.",
+      "I couldn't film the concert because I forgot to charge my phone."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu trời không mưa,",
+        "en": "if it doesn't rain"
+      },
+      {
+        "t": "chúng tôi sẽ",
+        "en": "we will"
+      },
+      {
+        "t": "chơi bóng đá",
+        "en": "play football"
+      },
+      {
+        "t": "ngoài công viên.",
+        "en": "in the park"
+      }
+    ],
+    "answers": [
+      "If it doesn't rain, we will play football in the park.",
+      "If it doesn't rain, we'll play soccer in the park."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đã bỏ ra",
+        "en": "had spent"
+      },
+      {
+        "t": "cả buổi chiều",
+        "en": "the whole afternoon"
+      },
+      {
+        "t": "để chỉnh sửa video của mình.",
+        "en": "editing her video"
+      }
+    ],
+    "answers": [
+      "She had spent the whole afternoon editing her video.",
+      "She spent the entire afternoon editing her video."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "tan làm,",
+        "en": "getting off work"
+      },
+      {
+        "t": "anh ấy hay",
+        "en": "he often"
+      },
+      {
+        "t": "ghé quán karaoke.",
+        "en": "drops by a karaoke place"
+      }
+    ],
+    "answers": [
+      "After getting off work, he often drops by a karaoke place.",
+      "After work, he often stops by a karaoke bar."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tuy vé",
+        "en": "although tickets"
+      },
+      {
+        "t": "đã cháy hàng,",
+        "en": "were sold out"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "vẫn tìm được cách vào.",
+        "en": "still found a way in"
+      }
+    ],
+    "answers": [
+      "Although tickets were sold out, we still found a way in.",
+      "Even though the tickets had sold out, we still managed to get in."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trước khi",
+        "en": "before"
+      },
+      {
+        "t": "đi xem phim,",
+        "en": "going to the movies"
+      },
+      {
+        "t": "chúng tôi thường",
+        "en": "we usually"
+      },
+      {
+        "t": "ăn tối cùng nhau.",
+        "en": "have dinner together"
+      }
+    ],
+    "answers": [
+      "Before going to the movies, we usually have dinner together.",
+      "Before we go to the movies, we usually eat dinner together."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đã chơi game đó",
+        "en": "had been playing that game"
+      },
+      {
+        "t": "suốt cả đêm",
+        "en": "all night"
+      },
+      {
+        "t": "nên sáng nay",
+        "en": "so this morning"
+      },
+      {
+        "t": "trông rất mệt.",
+        "en": "he looks exhausted"
+      }
+    ],
+    "answers": [
+      "He had been playing that game all night, so this morning he looks exhausted.",
+      "He'd been playing that game all night, so he looks really tired this morning."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "có thời gian rảnh,",
+        "en": "had free time"
+      },
+      {
+        "t": "tôi sẽ",
+        "en": "I would"
+      },
+      {
+        "t": "đọc nhiều tiểu thuyết hơn.",
+        "en": "read more novels"
+      }
+    ],
+    "answers": [
+      "If I had free time, I would read more novels.",
+      "If I had more spare time, I'd read a lot more novels."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "gặp nhau",
+        "en": "met up"
+      },
+      {
+        "t": "vì cùng mê",
+        "en": "because we're both into"
+      },
+      {
+        "t": "một nhóm nhạc thần tượng.",
+        "en": "the same idol group"
+      }
+    ],
+    "answers": [
+      "We met up because we're both into the same idol group.",
+      "We got together because we're both fans of the same idol group."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trận đấu",
+        "en": "the match"
+      },
+      {
+        "t": "đã diễn ra",
+        "en": "had already started"
+      },
+      {
+        "t": "khi chúng tôi",
+        "en": "by the time we"
+      },
+      {
+        "t": "đến sân vận động.",
+        "en": "got to the stadium"
+      }
+    ],
+    "answers": [
+      "The match had already started by the time we got to the stadium.",
+      "By the time we arrived at the stadium, the match had already begun."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "vừa xem phim",
+        "en": "watches movies"
+      },
+      {
+        "t": "vừa nhắn tin",
+        "en": "while texting"
+      },
+      {
+        "t": "cho bạn bè.",
+        "en": "her friends"
+      }
+    ],
+    "answers": [
+      "She watches movies while texting her friends.",
+      "She texts her friends while watching movies at the same time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã lên kế hoạch",
+        "en": "had planned"
+      },
+      {
+        "t": "đi xem festival âm nhạc",
+        "en": "to go to the music festival"
+      },
+      {
+        "t": "từ mấy tháng trước.",
+        "en": "months ago"
+      }
+    ],
+    "answers": [
+      "We had planned to go to the music festival months ago.",
+      "We'd been planning to go to the music festival for months."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "bỏ lỡ",
+        "en": "missed"
+      },
+      {
+        "t": "tập cuối",
+        "en": "the final episode"
+      },
+      {
+        "t": "vì phải đi công tác.",
+        "en": "because he had to go on a business trip"
+      }
+    ],
+    "answers": [
+      "He missed the final episode because he had to go on a business trip.",
+      "He missed the last episode because of a business trip."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "buổi hòa nhạc kết thúc,",
+        "en": "the concert ended"
+      },
+      {
+        "t": "mọi người",
+        "en": "everyone"
+      },
+      {
+        "t": "vẫn còn hát theo.",
+        "en": "was still singing along"
+      }
+    ],
+    "answers": [
+      "When the concert ended, everyone was still singing along.",
+      "Even when the concert ended, everyone kept singing along."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đã quen",
+        "en": "got used to"
+      },
+      {
+        "t": "đọc truyện tranh",
+        "en": "reading comics"
+      },
+      {
+        "t": "trên điện thoại",
+        "en": "on my phone"
+      },
+      {
+        "t": "thay vì sách giấy.",
+        "en": "instead of paper books"
+      }
+    ],
+    "answers": [
+      "I got used to reading comics on my phone instead of paper books.",
+      "I've gotten used to reading comics on my phone rather than paper books."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì đội bóng",
+        "en": "because the team"
+      },
+      {
+        "t": "của tôi thua,",
+        "en": "I support lost"
+      },
+      {
+        "t": "tôi buồn suốt cả ngày.",
+        "en": "I was upset all day"
+      }
+    ],
+    "answers": [
+      "Because the team I support lost, I was upset all day.",
+      "I was upset all day because my team lost."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã đợi",
+        "en": "had waited"
+      },
+      {
+        "t": "gần hai tiếng",
+        "en": "nearly two hours"
+      },
+      {
+        "t": "để gặp thần tượng.",
+        "en": "to meet our idol"
+      }
+    ],
+    "answers": [
+      "We had waited nearly two hours to meet our idol.",
+      "We waited almost two hours just to meet our idol."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "tập luyện xong,",
+        "en": "finishing practice"
+      },
+      {
+        "t": "đội bóng",
+        "en": "the team"
+      },
+      {
+        "t": "đi ăn mừng chiến thắng.",
+        "en": "went out to celebrate the win"
+      }
+    ],
+    "answers": [
+      "After finishing practice, the team went out to celebrate the win.",
+      "After practice ended, the team went out to celebrate their win."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu chúng ta",
+        "en": "if we"
+      },
+      {
+        "t": "đến sớm hơn,",
+        "en": "arrive earlier"
+      },
+      {
+        "t": "chúng ta sẽ",
+        "en": "we'll"
+      },
+      {
+        "t": "có chỗ ngồi tốt hơn.",
+        "en": "get better seats"
+      }
+    ],
+    "answers": [
+      "If we arrive earlier, we'll get better seats.",
+      "If we get there earlier, we'll have better seats."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chơi game đó",
+        "en": "has been playing that game"
+      },
+      {
+        "t": "từ hồi cấp hai",
+        "en": "since middle school"
+      },
+      {
+        "t": "đến giờ.",
+        "en": "until now"
+      }
+    ],
+    "answers": [
+      "He has been playing that game since middle school until now.",
+      "He's been playing that game ever since middle school."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "cãi nhau",
+        "en": "argued"
+      },
+      {
+        "t": "vì không đồng ý",
+        "en": "because we disagreed"
+      },
+      {
+        "t": "nên xem phim nào.",
+        "en": "about which movie to watch"
+      }
+    ],
+    "answers": [
+      "We argued because we disagreed about which movie to watch.",
+      "We had an argument because we couldn't agree on which movie to watch."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trước khi",
+        "en": "before"
+      },
+      {
+        "t": "nhóm nhạc đó tan rã,",
+        "en": "that band broke up"
+      },
+      {
+        "t": "họ đã ra mắt",
+        "en": "they had released"
+      },
+      {
+        "t": "ba album.",
+        "en": "three albums"
+      }
+    ],
+    "answers": [
+      "Before that band broke up, they had released three albums.",
+      "That band had put out three albums before they broke up."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "thức khuya",
+        "en": "stayed up late"
+      },
+      {
+        "t": "để xem xong",
+        "en": "to finish"
+      },
+      {
+        "t": "tập cuối của mùa phim.",
+        "en": "the last episode of the season"
+      }
+    ],
+    "answers": [
+      "She stayed up late to finish the last episode of the season.",
+      "She stayed up late so she could finish the season finale."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Mặc dù",
+        "en": "although"
+      },
+      {
+        "t": "tôi không giỏi thể thao,",
+        "en": "I'm not good at sports"
+      },
+      {
+        "t": "tôi vẫn thích",
+        "en": "I still enjoy"
+      },
+      {
+        "t": "xem bóng đá.",
+        "en": "watching football"
+      }
+    ],
+    "answers": [
+      "Although I'm not good at sports, I still enjoy watching football.",
+      "Even though I'm not athletic, I still love watching football."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "tôi lớn lên,",
+        "en": "I was growing up"
+      },
+      {
+        "t": "tôi từng",
+        "en": "I used to"
+      },
+      {
+        "t": "chơi board game với anh chị em.",
+        "en": "play board games with my siblings"
+      }
+    ],
+    "answers": [
+      "When I was growing up, I used to play board games with my siblings.",
+      "Growing up, I used to play board games with my brothers and sisters."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bởi vì",
+        "en": "because"
+      },
+      {
+        "t": "vé đắt quá,",
+        "en": "the tickets were too expensive"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đành xem qua livestream.",
+        "en": "ended up watching the livestream instead"
+      }
+    ],
+    "answers": [
+      "Because the tickets were too expensive, we ended up watching the livestream instead.",
+      "The tickets were too expensive, so we watched the livestream instead."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đã đăng ký",
+        "en": "had signed up for"
+      },
+      {
+        "t": "lớp nhảy",
+        "en": "a dance class"
+      },
+      {
+        "t": "nhưng bỏ ngang.",
+        "en": "but dropped out"
+      }
+    ],
+    "answers": [
+      "I had signed up for a dance class but dropped out.",
+      "I signed up for a dance class but quit halfway through."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "đọc xong cuốn truyện,",
+        "en": "finishing the novel"
+      },
+      {
+        "t": "tôi không thể",
+        "en": "I couldn't"
+      },
+      {
+        "t": "ngừng nghĩ về kết thúc.",
+        "en": "stop thinking about the ending"
+      }
+    ],
+    "answers": [
+      "After finishing the novel, I couldn't stop thinking about the ending.",
+      "After I finished the book, I couldn't stop thinking about how it ended."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "pin điện thoại hết,",
+        "en": "my phone battery died"
+      },
+      {
+        "t": "tôi bỏ lỡ",
+        "en": "I missed"
+      },
+      {
+        "t": "khoảnh khắc hay nhất của trận đấu.",
+        "en": "the best moment of the match"
+      }
+    ],
+    "answers": [
+      "Because my phone battery died, I missed the best moment of the match.",
+      "My phone battery died, so I missed the best part of the match."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã cố",
+        "en": "tried"
+      },
+      {
+        "t": "đặt bàn karaoke",
+        "en": "to book a karaoke room"
+      },
+      {
+        "t": "nhưng hết chỗ.",
+        "en": "but it was fully booked"
+      }
+    ],
+    "answers": [
+      "We tried to book a karaoke room but it was fully booked.",
+      "We tried to reserve a karaoke room, but there were no rooms left."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đọc",
+        "en": "reads"
+      },
+      {
+        "t": "truyện tranh nhanh đến mức",
+        "en": "comic books so fast that"
+      },
+      {
+        "t": "tôi không theo kịp.",
+        "en": "I can't keep up"
+      }
+    ],
+    "answers": [
+      "He reads comic books so fast that I can't keep up.",
+      "He reads comics so quickly that I can't keep pace with him."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "đội nhà ghi bàn,",
+        "en": "our team scored"
+      },
+      {
+        "t": "cả sân vận động",
+        "en": "the whole stadium"
+      },
+      {
+        "t": "hò reo vang trời.",
+        "en": "erupted in cheers"
+      }
+    ],
+    "answers": [
+      "When our team scored, the whole stadium erupted in cheers.",
+      "When our team scored, the entire stadium roared with cheers."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "chuyển sang xem streaming",
+        "en": "switched to streaming"
+      },
+      {
+        "t": "vì rạp phim",
+        "en": "because the cinema"
+      },
+      {
+        "t": "gần nhà đóng cửa.",
+        "en": "near us closed down"
+      }
+    ],
+    "answers": [
+      "We switched to streaming because the cinema near us closed down.",
+      "We started streaming instead because our local cinema shut down."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu bạn",
+        "en": "if you"
+      },
+      {
+        "t": "thích nhạc indie,",
+        "en": "like indie music"
+      },
+      {
+        "t": "bạn nên",
+        "en": "you should"
+      },
+      {
+        "t": "thử nghe ban nhạc này.",
+        "en": "give this band a try"
+      }
+    ],
+    "answers": [
+      "If you like indie music, you should give this band a try.",
+      "If you're into indie music, you should check this band out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "vừa mới",
+        "en": "has just"
+      },
+      {
+        "t": "chuyển từ đọc sách giấy",
+        "en": "switched from reading paper books"
+      },
+      {
+        "t": "sang sách điện tử.",
+        "en": "to e-books"
+      }
+    ],
+    "answers": [
+      "She has just switched from reading paper books to e-books.",
+      "She's just switched over from paper books to e-books."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trận đấu",
+        "en": "the match"
+      },
+      {
+        "t": "kéo dài",
+        "en": "went on"
+      },
+      {
+        "t": "lâu đến mức",
+        "en": "so long that"
+      },
+      {
+        "t": "tôi ngủ quên trước tivi.",
+        "en": "I fell asleep in front of the TV"
+      }
+    ],
+    "answers": [
+      "The match went on so long that I fell asleep in front of the TV.",
+      "The game lasted so long that I dozed off in front of the TV."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì mê game mới,",
+        "en": "because I'm obsessed with the new game"
+      },
+      {
+        "t": "tôi",
+        "en": "I"
+      },
+      {
+        "t": "thức đến ba giờ sáng",
+        "en": "stayed up until 3 a.m."
+      },
+      {
+        "t": "để chơi.",
+        "en": "playing"
+      }
+    ],
+    "answers": [
+      "Because I'm obsessed with the new game, I stayed up until 3 a.m. playing.",
+      "I'm so into the new game that I stayed up until 3 a.m. playing it."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã mua vé",
+        "en": "had bought tickets"
+      },
+      {
+        "t": "từ tuần trước",
+        "en": "the week before"
+      },
+      {
+        "t": "để tránh cháy vé.",
+        "en": "to avoid tickets selling out"
+      }
+    ],
+    "answers": [
+      "We had bought tickets the week before to avoid tickets selling out.",
+      "We bought our tickets a week in advance so they wouldn't sell out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "tắt tivi",
+        "en": "turned off the TV"
+      },
+      {
+        "t": "vì",
+        "en": "because"
+      },
+      {
+        "t": "trận đấu quá chán.",
+        "en": "the match was too boring"
+      }
+    ],
+    "answers": [
+      "He turned off the TV because the match was too boring.",
+      "He switched off the TV because the game was so boring."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "còn học đại học,",
+        "en": "I was in college"
+      },
+      {
+        "t": "tôi thường",
+        "en": "I used to"
+      },
+      {
+        "t": "đi xem nhạc sống mỗi cuối tuần.",
+        "en": "go to live music every weekend"
+      }
+    ],
+    "answers": [
+      "When I was in college, I used to go to live music every weekend.",
+      "Back in college, I used to go see live music every weekend."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã bàn nhau",
+        "en": "had discussed"
+      },
+      {
+        "t": "nên xem series nào",
+        "en": "which series to watch"
+      },
+      {
+        "t": "suốt nửa tiếng.",
+        "en": "for half an hour"
+      }
+    ],
+    "answers": [
+      "We had discussed which series to watch for half an hour.",
+      "We spent half an hour arguing over which series to watch."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì cô ấy",
+        "en": "because she"
+      },
+      {
+        "t": "quá thần tượng ca sĩ đó,",
+        "en": "idolizes that singer so much"
+      },
+      {
+        "t": "cô ấy mua",
+        "en": "she bought"
+      },
+      {
+        "t": "mọi album của anh ấy.",
+        "en": "every one of his albums"
+      }
+    ],
+    "answers": [
+      "Because she idolizes that singer so much, she bought every one of his albums.",
+      "She's so obsessed with that singer that she bought all of his albums."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "tan trận,",
+        "en": "the match ended"
+      },
+      {
+        "t": "người hâm mộ",
+        "en": "the fans"
+      },
+      {
+        "t": "ùa ra đường ăn mừng.",
+        "en": "poured into the streets to celebrate"
+      }
+    ],
+    "answers": [
+      "After the match ended, the fans poured into the streets to celebrate.",
+      "When the match was over, fans flooded the streets to celebrate."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "tôi không phải đi làm,",
+        "en": "I didn't have to work"
+      },
+      {
+        "t": "tôi sẽ đi",
+        "en": "I would go"
+      },
+      {
+        "t": "xem concert tối nay.",
+        "en": "to the concert tonight"
+      }
+    ],
+    "answers": [
+      "If I didn't have to work, I would go to the concert tonight.",
+      "If I weren't working, I'd go to tonight's concert."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đã đổi",
+        "en": "switched"
+      },
+      {
+        "t": "sở thích đọc sách",
+        "en": "from a hobby of reading books"
+      },
+      {
+        "t": "sang chơi board game.",
+        "en": "to playing board games"
+      }
+    ],
+    "answers": [
+      "She switched from a hobby of reading books to playing board games.",
+      "She's moved on from reading books as a hobby to playing board games."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "mạng chậm quá,",
+        "en": "the internet was so slow"
+      },
+      {
+        "t": "tôi không xem được",
+        "en": "I couldn't watch"
+      },
+      {
+        "t": "trận đấu trực tiếp.",
+        "en": "the match live"
+      }
+    ],
+    "answers": [
+      "Because the internet was so slow, I couldn't watch the match live.",
+      "The internet was so slow that I couldn't watch the match live."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đã tắt điện thoại",
+        "en": "turned off my phone"
+      },
+      {
+        "t": "để tập trung",
+        "en": "so I could focus"
+      },
+      {
+        "t": "đọc nốt cuốn sách.",
+        "en": "on finishing the book"
+      }
+    ],
+    "answers": [
+      "I turned off my phone so I could focus on finishing the book.",
+      "I switched off my phone to focus on finishing the book."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "vốn không thích nhạc rap,",
+        "en": "never used to like rap music"
+      },
+      {
+        "t": "nhưng dạo này",
+        "en": "but lately"
+      },
+      {
+        "t": "lại nghe suốt.",
+        "en": "he's been listening to it nonstop"
+      }
+    ],
+    "answers": [
+      "He never used to like rap music, but lately he's been listening to it nonstop.",
+      "He used to hate rap music, but now he listens to it all the time."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "tôi đến rạp,",
+        "en": "I got to the cinema"
+      },
+      {
+        "t": "phim đã bắt đầu",
+        "en": "the movie had already started"
+      },
+      {
+        "t": "được mười phút.",
+        "en": "ten minutes earlier"
+      }
+    ],
+    "answers": [
+      "When I got to the cinema, the movie had already started ten minutes earlier.",
+      "By the time I got to the cinema, the movie had already started ten minutes before."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "quyết định",
+        "en": "decided to"
+      },
+      {
+        "t": "hủy chuyến đi concert",
+        "en": "cancel the concert trip"
+      },
+      {
+        "t": "vì thời tiết xấu.",
+        "en": "because of the bad weather"
+      }
+    ],
+    "answers": [
+      "We decided to cancel the concert trip because of the bad weather.",
+      "We decided to call off the concert trip due to bad weather."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đã tập",
+        "en": "had practiced"
+      },
+      {
+        "t": "bài hát đó",
+        "en": "that song"
+      },
+      {
+        "t": "cả tháng",
+        "en": "for a whole month"
+      },
+      {
+        "t": "trước khi thi.",
+        "en": "before the competition"
+      }
+    ],
+    "answers": [
+      "He had practiced that song for a whole month before the competition.",
+      "He'd been practicing that song for a month before the competition."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "xem hết",
+        "en": "watched"
+      },
+      {
+        "t": "cả mùa phim",
+        "en": "the entire season"
+      },
+      {
+        "t": "trong một đêm",
+        "en": "in a single night"
+      },
+      {
+        "t": "vì quá cuốn.",
+        "en": "because it was so gripping"
+      }
+    ],
+    "answers": [
+      "We watched the entire season in a single night because it was so gripping.",
+      "We binged the whole season in one night because it was so addictive."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "chơi cờ vua",
+        "en": "has been playing chess"
+      },
+      {
+        "t": "từ nhỏ",
+        "en": "since she was little"
+      },
+      {
+        "t": "nên rất giỏi.",
+        "en": "so she's really good at it"
+      }
+    ],
+    "answers": [
+      "She has been playing chess since she was little, so she's really good at it.",
+      "She's been playing chess since childhood, so she's very skilled."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì đội tuyển thua trận chung kết,",
+        "en": "because the team lost the final"
+      },
+      {
+        "t": "cả nước",
+        "en": "the whole country"
+      },
+      {
+        "t": "buồn suốt mấy ngày.",
+        "en": "was sad for days"
+      }
+    ],
+    "answers": [
+      "Because the team lost the final, the whole country was sad for days.",
+      "The whole country was down for days because the team lost the final."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đã hứa",
+        "en": "had promised"
+      },
+      {
+        "t": "sẽ đưa em gái",
+        "en": "to take my little sister"
+      },
+      {
+        "t": "đi xem kịch cuối tuần.",
+        "en": "to see a play this weekend"
+      }
+    ],
+    "answers": [
+      "I had promised to take my little sister to see a play this weekend.",
+      "I promised my little sister I'd take her to a play this weekend."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "nghe bài hát đó,",
+        "en": "hearing that song"
+      },
+      {
+        "t": "tôi bật khóc",
+        "en": "I burst into tears"
+      },
+      {
+        "t": "vì nhớ nhà.",
+        "en": "out of homesickness"
+      }
+    ],
+    "answers": [
+      "After hearing that song, I burst into tears out of homesickness.",
+      "When I heard that song, I started crying because I missed home."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "cãi nhau",
+        "en": "argued"
+      },
+      {
+        "t": "về việc",
+        "en": "about"
+      },
+      {
+        "t": "nên xem phim ở nhà hay đi rạp.",
+        "en": "whether to watch a movie at home or go to the cinema"
+      }
+    ],
+    "answers": [
+      "We argued about whether to watch a movie at home or go to the cinema.",
+      "We disagreed on whether to watch a movie at home or go to the theater."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trước khi",
+        "en": "before"
+      },
+      {
+        "t": "trở thành ca sĩ nổi tiếng,",
+        "en": "becoming a famous singer"
+      },
+      {
+        "t": "cô ấy từng",
+        "en": "she used to"
+      },
+      {
+        "t": "hát ở quán cà phê nhỏ.",
+        "en": "sing at a small coffee shop"
+      }
+    ],
+    "answers": [
+      "Before becoming a famous singer, she used to sing at a small coffee shop.",
+      "Before she became a famous singer, she used to perform at a small coffee shop."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chuyển sang chơi board game",
+        "en": "switched to playing board games"
+      },
+      {
+        "t": "sau khi",
+        "en": "after"
+      },
+      {
+        "t": "chán trò chơi điện tử.",
+        "en": "getting bored of video games"
+      }
+    ],
+    "answers": [
+      "He switched to playing board games after getting bored of video games.",
+      "After growing tired of video games, he switched over to board games."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "quá đông người,",
+        "en": "it was so crowded"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "phải chen chân",
+        "en": "had to squeeze"
+      },
+      {
+        "t": "để vào được sân khấu.",
+        "en": "to get near the stage"
+      }
+    ],
+    "answers": [
+      "Because it was so crowded, we had to squeeze to get near the stage.",
+      "It was so crowded that we had to push through to get near the stage."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đã tải xuống",
+        "en": "had downloaded"
+      },
+      {
+        "t": "toàn bộ album",
+        "en": "the whole album"
+      },
+      {
+        "t": "trước khi đi máy bay.",
+        "en": "before the flight"
+      }
+    ],
+    "answers": [
+      "I had downloaded the whole album before the flight.",
+      "I downloaded the entire album before my flight."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "bỏ lỡ",
+        "en": "missed out on"
+      },
+      {
+        "t": "buổi hòa nhạc",
+        "en": "the concert"
+      },
+      {
+        "t": "vì kẹt xe",
+        "en": "because of traffic"
+      },
+      {
+        "t": "trên đường đến.",
+        "en": "on the way there"
+      }
+    ],
+    "answers": [
+      "She missed out on the concert because of traffic on the way there.",
+      "She missed the concert because she got stuck in traffic on the way."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "nhóm nhạc đó",
+        "en": "that band"
+      },
+      {
+        "t": "tái hợp,",
+        "en": "reunited"
+      },
+      {
+        "t": "người hâm mộ khắp thế giới",
+        "en": "fans around the world"
+      },
+      {
+        "t": "phát cuồng.",
+        "en": "went wild"
+      }
+    ],
+    "answers": [
+      "When that band reunited, fans around the world went wild.",
+      "When that band got back together, fans all over the world went crazy."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì công việc bận rộn,",
+        "en": "because of a busy work schedule"
+      },
+      {
+        "t": "anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chẳng còn thời gian",
+        "en": "barely has time"
+      },
+      {
+        "t": "chơi board game với con.",
+        "en": "to play board games with his kids"
+      }
+    ],
+    "answers": [
+      "Because of a busy work schedule, he barely has time to play board games with his kids.",
+      "With such a busy job, he hardly has time to play board games with his kids."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã tranh luận",
+        "en": "had debated"
+      },
+      {
+        "t": "xem đội nào",
+        "en": "which team"
+      },
+      {
+        "t": "sẽ vô địch năm nay.",
+        "en": "would win the championship this year"
+      }
+    ],
+    "answers": [
+      "We had debated which team would win the championship this year.",
+      "We argued about which team would win the title this year."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "tập nhảy suốt buổi,",
+        "en": "practicing dance all afternoon"
+      },
+      {
+        "t": "cả nhóm",
+        "en": "the whole group"
+      },
+      {
+        "t": "đói lả người.",
+        "en": "was starving"
+      }
+    ],
+    "answers": [
+      "After practicing dance all afternoon, the whole group was starving.",
+      "After a whole afternoon of dance practice, the group was starving."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chưa bao giờ",
+        "en": "has never"
+      },
+      {
+        "t": "bỏ lỡ",
+        "en": "missed"
+      },
+      {
+        "t": "một tập nào của series đó.",
+        "en": "a single episode of that series"
+      }
+    ],
+    "answers": [
+      "He has never missed a single episode of that series.",
+      "He's never missed even one episode of that show."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "đội bóng thắng tối nay,",
+        "en": "the team wins tonight"
+      },
+      {
+        "t": "cả xóm",
+        "en": "the whole neighborhood"
+      },
+      {
+        "t": "sẽ tổ chức ăn mừng.",
+        "en": "will celebrate together"
+      }
+    ],
+    "answers": [
+      "If the team wins tonight, the whole neighborhood will celebrate together.",
+      "If our team wins tonight, the whole neighborhood is going to celebrate."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "bật khóc",
+        "en": "burst into tears"
+      },
+      {
+        "t": "khi",
+        "en": "when"
+      },
+      {
+        "t": "gặp thần tượng",
+        "en": "she met her idol"
+      },
+      {
+        "t": "lần đầu tiên.",
+        "en": "for the first time"
+      }
+    ],
+    "answers": [
+      "She burst into tears when she met her idol for the first time.",
+      "She started crying the first time she met her idol."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đổi kế hoạch",
+        "en": "changed our plan"
+      },
+      {
+        "t": "vì",
+        "en": "because"
+      },
+      {
+        "t": "vé xem kịch đã hết.",
+        "en": "the play tickets had sold out"
+      }
+    ],
+    "answers": [
+      "We changed our plan because the play tickets had sold out.",
+      "We had to change our plans because the tickets for the play had sold out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "tôi thức khuya xem phim,",
+        "en": "I stayed up late watching a movie"
+      },
+      {
+        "t": "sáng nay",
+        "en": "this morning"
+      },
+      {
+        "t": "tôi dậy trễ.",
+        "en": "I overslept"
+      }
+    ],
+    "answers": [
+      "Because I stayed up late watching a movie, I overslept this morning.",
+      "I stayed up late watching a movie, so I overslept this morning."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đã đổi",
+        "en": "switched"
+      },
+      {
+        "t": "chỗ ngồi",
+        "en": "seats"
+      },
+      {
+        "t": "để nhìn sân khấu rõ hơn.",
+        "en": "to get a better view of the stage"
+      }
+    ],
+    "answers": [
+      "He switched seats to get a better view of the stage.",
+      "He changed seats so he could see the stage better."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "còn ở quê,",
+        "en": "I was still living in the countryside"
+      },
+      {
+        "t": "tôi từng",
+        "en": "I used to"
+      },
+      {
+        "t": "nghe đài radio mỗi tối.",
+        "en": "listen to the radio every night"
+      }
+    ],
+    "answers": [
+      "When I was still living in the countryside, I used to listen to the radio every night.",
+      "Back in the countryside, I used to listen to the radio every evening."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "con tôi",
+        "en": "my kid"
+      },
+      {
+        "t": "mê game quá,",
+        "en": "is so obsessed with games"
+      },
+      {
+        "t": "tôi phải",
+        "en": "I had to"
+      },
+      {
+        "t": "giới hạn giờ chơi.",
+        "en": "limit their playing time"
+      }
+    ],
+    "answers": [
+      "Because my kid is so obsessed with games, I had to limit their playing time.",
+      "My kid is so into games that I had to limit how long they can play."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đã bỏ ra",
+        "en": "had spent"
+      },
+      {
+        "t": "cả gia tài",
+        "en": "a small fortune"
+      },
+      {
+        "t": "để sưu tầm truyện tranh hiếm.",
+        "en": "collecting rare comic books"
+      }
+    ],
+    "answers": [
+      "He had spent a small fortune collecting rare comic books.",
+      "He spent a fortune on collecting rare comic books."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "loa bị hỏng,",
+        "en": "the speakers broke down"
+      },
+      {
+        "t": "buổi karaoke",
+        "en": "the karaoke party"
+      },
+      {
+        "t": "phải dừng giữa chừng.",
+        "en": "had to stop halfway through"
+      }
+    ],
+    "answers": [
+      "Because the speakers broke down, the karaoke party had to stop halfway through.",
+      "The speakers broke down, so the karaoke party had to stop midway."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "tôi mới học chơi cờ,",
+        "en": "I first learned to play chess"
+      },
+      {
+        "t": "tôi thua",
+        "en": "I lost"
+      },
+      {
+        "t": "gần như mọi ván.",
+        "en": "almost every game"
+      }
+    ],
+    "answers": [
+      "When I first learned to play chess, I lost almost every game.",
+      "When I was just learning chess, I lost nearly every single game."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đổi lịch xem phim",
+        "en": "changed our movie plans"
+      },
+      {
+        "t": "vì",
+        "en": "because"
+      },
+      {
+        "t": "bạn tôi",
+        "en": "my friend"
+      },
+      {
+        "t": "bị ốm đột ngột.",
+        "en": "suddenly got sick"
+      }
+    ],
+    "answers": [
+      "We changed our movie plans because my friend suddenly got sick.",
+      "We had to reschedule our movie night because my friend got sick out of nowhere."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "ban tổ chức",
+        "en": "the organizers"
+      },
+      {
+        "t": "thêm suất diễn,",
+        "en": "add another show"
+      },
+      {
+        "t": "tôi sẽ đặt vé ngay.",
+        "en": "I'll book a ticket right away"
+      }
+    ],
+    "answers": [
+      "If the organizers add another show, I'll book a ticket right away.",
+      "If they add an extra show, I'll grab a ticket immediately."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "từng",
+        "en": "used to"
+      },
+      {
+        "t": "ghét phim kinh dị,",
+        "en": "hate horror movies"
+      },
+      {
+        "t": "nhưng giờ lại thích.",
+        "en": "but now she loves them"
+      }
+    ],
+    "answers": [
+      "She used to hate horror movies, but now she loves them.",
+      "She used to be scared of horror movies, but now she's a big fan."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "nghe tin hủy show,",
+        "en": "hearing the show was canceled"
+      },
+      {
+        "t": "người hâm mộ",
+        "en": "fans"
+      },
+      {
+        "t": "phản ứng dữ dội trên mạng.",
+        "en": "reacted furiously online"
+      }
+    ],
+    "answers": [
+      "After hearing the show was canceled, fans reacted furiously online.",
+      "When fans heard the show got canceled, they reacted angrily online."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "trận đấu bị hoãn,",
+        "en": "the match was postponed"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "phải đổi kế hoạch cuối tuần.",
+        "en": "had to change our weekend plans"
+      }
+    ],
+    "answers": [
+      "Because the match was postponed, we had to change our weekend plans.",
+      "The match got postponed, so we had to change our weekend plans."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "nghe nhạc",
+        "en": "listens to music"
+      },
+      {
+        "t": "khi chạy bộ",
+        "en": "while jogging"
+      },
+      {
+        "t": "để có thêm động lực.",
+        "en": "to stay motivated"
+      }
+    ],
+    "answers": [
+      "He listens to music while jogging to stay motivated.",
+      "He listens to music when he jogs to keep himself motivated."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Tôi",
+        "en": "I"
+      },
+      {
+        "t": "đã đổi",
+        "en": "had switched"
+      },
+      {
+        "t": "gói xem phim streaming",
+        "en": "streaming plans"
+      },
+      {
+        "t": "vì giá tăng.",
+        "en": "because the price went up"
+      }
+    ],
+    "answers": [
+      "I had switched streaming plans because the price went up.",
+      "I switched my streaming plan because the price increased."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đứng chờ",
+        "en": "stood waiting"
+      },
+      {
+        "t": "suốt hai tiếng",
+        "en": "for two hours"
+      },
+      {
+        "t": "chỉ để xin chữ ký.",
+        "en": "just to get an autograph"
+      }
+    ],
+    "answers": [
+      "We stood waiting for two hours just to get an autograph.",
+      "We waited around for two hours just to get an autograph."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "cô ấy mê phim Hàn,",
+        "en": "she's obsessed with Korean dramas"
+      },
+      {
+        "t": "cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "học tiếng Hàn luôn.",
+        "en": "even started learning Korean"
+      }
+    ],
+    "answers": [
+      "Because she's obsessed with Korean dramas, she even started learning Korean.",
+      "She's so into Korean dramas that she even started learning Korean."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "đội khách ghi bàn,",
+        "en": "the away team scored"
+      },
+      {
+        "t": "cả khán đài",
+        "en": "the whole stand"
+      },
+      {
+        "t": "im lặng.",
+        "en": "went silent"
+      }
+    ],
+    "answers": [
+      "When the away team scored, the whole stand went silent.",
+      "When the visiting team scored, the entire stand fell silent."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu bạn",
+        "en": "if you"
+      },
+      {
+        "t": "không thích phim hành động,",
+        "en": "don't like action movies"
+      },
+      {
+        "t": "chúng ta",
+        "en": "we"
+      },
+      {
+        "t": "có thể xem thể loại khác.",
+        "en": "can watch a different genre"
+      }
+    ],
+    "answers": [
+      "If you don't like action movies, we can watch a different genre.",
+      "If action movies aren't your thing, we can pick another genre."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "chơi board game",
+        "en": "has played board games"
+      },
+      {
+        "t": "nhiều đến mức",
+        "en": "so much that"
+      },
+      {
+        "t": "thuộc hết luật của cả chục trò.",
+        "en": "he knows the rules of a dozen games by heart"
+      }
+    ],
+    "answers": [
+      "He has played board games so much that he knows the rules of a dozen games by heart.",
+      "He's played board games so much he's memorized the rules for a dozen of them."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "xem trailer,",
+        "en": "watching the trailer"
+      },
+      {
+        "t": "tôi hào hứng",
+        "en": "I got excited"
+      },
+      {
+        "t": "đến mức đếm từng ngày.",
+        "en": "and started counting down the days"
+      }
+    ],
+    "answers": [
+      "After watching the trailer, I got excited and started counting down the days.",
+      "After I saw the trailer, I was so excited I started counting down the days."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "ghế VIP hết vé,",
+        "en": "VIP seats were sold out"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đành mua vé thường.",
+        "en": "had to buy regular tickets instead"
+      }
+    ],
+    "answers": [
+      "Because VIP seats were sold out, we had to buy regular tickets instead.",
+      "VIP seats were sold out, so we ended up buying regular tickets."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "tôi còn ở ký túc xá,",
+        "en": "I lived in the dorm"
+      },
+      {
+        "t": "cả phòng",
+        "en": "the whole room"
+      },
+      {
+        "t": "thường cày phim đến sáng.",
+        "en": "used to binge-watch shows until dawn"
+      }
+    ],
+    "answers": [
+      "When I lived in the dorm, the whole room used to binge-watch shows until dawn.",
+      "Back when I was in the dorm, we'd all binge-watch shows until sunrise."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "quyết định",
+        "en": "decided to"
+      },
+      {
+        "t": "nghỉ chơi game",
+        "en": "quit playing games"
+      },
+      {
+        "t": "sau khi",
+        "en": "after"
+      },
+      {
+        "t": "nhận ra mình quá nghiện.",
+        "en": "realizing she was too addicted"
+      }
+    ],
+    "answers": [
+      "She decided to quit playing games after realizing she was too addicted.",
+      "After realizing she was too addicted, she decided to quit playing games."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì trời tối,",
+        "en": "because it got dark"
+      },
+      {
+        "t": "trận bóng",
+        "en": "the match"
+      },
+      {
+        "t": "phải chuyển sang sân có đèn.",
+        "en": "had to move to a floodlit field"
+      }
+    ],
+    "answers": [
+      "Because it got dark, the match had to move to a floodlit field.",
+      "The match had to be moved to a floodlit field because it got dark."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "đã đổi vé",
+        "en": "had exchanged his ticket"
+      },
+      {
+        "t": "để ngồi gần bạn gái",
+        "en": "to sit near his girlfriend"
+      },
+      {
+        "t": "trong buổi hòa nhạc.",
+        "en": "at the concert"
+      }
+    ],
+    "answers": [
+      "He had exchanged his ticket to sit near his girlfriend at the concert.",
+      "He swapped his ticket so he could sit with his girlfriend at the concert."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "cãi nhau nhẹ",
+        "en": "had a small argument"
+      },
+      {
+        "t": "vì",
+        "en": "because"
+      },
+      {
+        "t": "ai cầm điều khiển tivi.",
+        "en": "of who got to hold the TV remote"
+      }
+    ],
+    "answers": [
+      "We had a small argument because of who got to hold the TV remote.",
+      "We had a minor argument over who got the TV remote."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "tập mới không hay,",
+        "en": "the new episode isn't good"
+      },
+      {
+        "t": "tôi sẽ",
+        "en": "I'll"
+      },
+      {
+        "t": "bỏ xem series đó luôn.",
+        "en": "just drop that series entirely"
+      }
+    ],
+    "answers": [
+      "If the new episode isn't good, I'll just drop that series entirely.",
+      "If the new episode is bad, I'm dropping that series for good."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "quá mê thần tượng,",
+        "en": "is so obsessed with his idol"
+      },
+      {
+        "t": "anh ấy dán poster",
+        "en": "he put posters"
+      },
+      {
+        "t": "khắp phòng.",
+        "en": "all over his room"
+      }
+    ],
+    "answers": [
+      "Because he's so obsessed with his idol, he put posters all over his room.",
+      "He's so obsessed with his idol that he covered his whole room with posters."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "tôi xem xong tập đó,",
+        "en": "I finished that episode"
+      },
+      {
+        "t": "tôi ngồi thẫn thờ",
+        "en": "I just sat there stunned"
+      },
+      {
+        "t": "mất mấy phút.",
+        "en": "for several minutes"
+      }
+    ],
+    "answers": [
+      "When I finished that episode, I just sat there stunned for several minutes.",
+      "After I finished that episode, I sat there in shock for a few minutes."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sau khi",
+        "en": "after"
+      },
+      {
+        "t": "nhóm nhạc thông báo tour diễn,",
+        "en": "the band announced their tour"
+      },
+      {
+        "t": "vé bán hết",
+        "en": "tickets sold out"
+      },
+      {
+        "t": "trong vài phút.",
+        "en": "within minutes"
+      }
+    ],
+    "answers": [
+      "After the band announced their tour, tickets sold out within minutes.",
+      "Tickets sold out within minutes after the band announced their tour."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "quá đam mê bóng đá,",
+        "en": "of his huge passion for football"
+      },
+      {
+        "t": "anh ấy",
+        "en": "he"
+      },
+      {
+        "t": "dậy lúc ba giờ sáng",
+        "en": "gets up at three in the morning"
+      },
+      {
+        "t": "để xem trận đấu.",
+        "en": "to watch the match"
+      }
+    ],
+    "answers": [
+      "Because of his huge passion for football, he gets up at three in the morning to watch the match.",
+      "He's so passionate about football that he wakes up at 3 a.m. to watch matches."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã lên danh sách",
+        "en": "had made a list"
+      },
+      {
+        "t": "các bộ phim",
+        "en": "of movies"
+      },
+      {
+        "t": "muốn xem cùng nhau.",
+        "en": "we wanted to watch together"
+      }
+    ],
+    "answers": [
+      "We had made a list of movies we wanted to watch together.",
+      "We put together a list of movies to watch together."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "đọc truyện tranh",
+        "en": "reads comics"
+      },
+      {
+        "t": "nhanh đến mức",
+        "en": "so fast that"
+      },
+      {
+        "t": "mua sách mới không kịp.",
+        "en": "she can't buy new ones fast enough"
+      }
+    ],
+    "answers": [
+      "She reads comics so fast that she can't buy new ones fast enough.",
+      "She reads comics so quickly that she runs out faster than she can buy new ones."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "tôi hứa với con",
+        "en": "I promised my kid"
+      },
+      {
+        "t": "sẽ đưa đi xem xiếc,",
+        "en": "I'd take them to the circus"
+      },
+      {
+        "t": "tôi không thể hủy.",
+        "en": "I couldn't cancel"
+      }
+    ],
+    "answers": [
+      "Because I promised my kid I'd take them to the circus, I couldn't cancel.",
+      "I promised my kid I'd take them to the circus, so I couldn't back out."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Khi",
+        "en": "when"
+      },
+      {
+        "t": "nhóm bạn tôi",
+        "en": "my group of friends"
+      },
+      {
+        "t": "tụ họp,",
+        "en": "gets together"
+      },
+      {
+        "t": "chúng tôi luôn",
+        "en": "we always"
+      },
+      {
+        "t": "chơi board game đến khuya.",
+        "en": "end up playing board games late into the night"
+      }
+    ],
+    "answers": [
+      "When my group of friends gets together, we always end up playing board games late into the night.",
+      "Whenever my friends and I get together, we always play board games until late."
+    ]
+  },
+  {
+    "level": "B1",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vì",
+        "en": "because"
+      },
+      {
+        "t": "buổi diễn kịch",
+        "en": "the play"
+      },
+      {
+        "t": "bị hoãn,",
+        "en": "was postponed"
+      },
+      {
+        "t": "chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đổi vé sang tuần sau.",
+        "en": "exchanged our tickets for the following week"
+      }
+    ],
+    "answers": [
+      "Because the play was postponed, we exchanged our tickets for the following week.",
+      "The play got postponed, so we swapped our tickets for next week."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "biết trước buổi hòa nhạc sẽ bị hủy,",
+        "en": "had known the concert would be canceled"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "xin nghỉ làm hôm đó.",
+        "en": "taken the day off work"
+      }
+    ],
+    "answers": [
+      "If I had known the concert would be canceled, I wouldn't have taken the day off work.",
+      "Had I known the concert would be canceled, I wouldn't have asked for the day off."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bộ phim đó",
+        "en": "that movie"
+      },
+      {
+        "t": "được đạo diễn",
+        "en": "was directed"
+      },
+      {
+        "t": "bởi một người",
+        "en": "by someone"
+      },
+      {
+        "t": "mà tôi chưa từng nghe tên.",
+        "en": "I'd never heard of"
+      }
+    ],
+    "answers": [
+      "That movie was directed by someone I'd never heard of.",
+      "That movie was directed by a director I had never heard of before."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nhóm nhạc mà",
+        "en": "the band that"
+      },
+      {
+        "t": "tôi mê từ hồi cấp hai",
+        "en": "I've loved since middle school"
+      },
+      {
+        "t": "vừa thông báo",
+        "en": "just announced"
+      },
+      {
+        "t": "sẽ tan rã.",
+        "en": "they're breaking up"
+      }
+    ],
+    "answers": [
+      "The band that I've loved since middle school just announced they're breaking up.",
+      "The band I've been obsessed with since middle school just announced their split."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng xem nhiều tập,",
+        "en": "the more episodes I watched"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "thất vọng về cách kết thúc.",
+        "en": "disappointed I got with the ending"
+      }
+    ],
+    "answers": [
+      "The more episodes I watched, the more disappointed I got with the ending.",
+      "The more I watched, the more let down I felt by how it ended."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Giá mà",
+        "en": "I wish"
+      },
+      {
+        "t": "tôi đặt vé sớm hơn,",
+        "en": "I had booked tickets earlier"
+      },
+      {
+        "t": "tôi đã có thể",
+        "en": "I could have"
+      },
+      {
+        "t": "ngồi gần sân khấu hơn.",
+        "en": "sat closer to the stage"
+      }
+    ],
+    "answers": [
+      "I wish I had booked tickets earlier so I could have sat closer to the stage.",
+      "If only I had booked earlier, I could have gotten a seat closer to the stage."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vé xem trận chung kết",
+        "en": "tickets for the final"
+      },
+      {
+        "t": "đã bị bán hết",
+        "en": "had been sold out"
+      },
+      {
+        "t": "chỉ trong vài phút,",
+        "en": "within just a few minutes"
+      },
+      {
+        "t": "khiến nhiều fan",
+        "en": "leaving many fans"
+      },
+      {
+        "t": "vô cùng thất vọng.",
+        "en": "deeply disappointed"
+      }
+    ],
+    "answers": [
+      "Tickets for the final had been sold out within just a few minutes, leaving many fans deeply disappointed.",
+      "Tickets for the final sold out in just a few minutes, which left a lot of fans devastated."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu ban tổ chức",
+        "en": "if the organizers"
+      },
+      {
+        "t": "chuẩn bị kỹ hơn,",
+        "en": "had prepared better"
+      },
+      {
+        "t": "sự cố âm thanh đó",
+        "en": "that sound glitch"
+      },
+      {
+        "t": "đã không xảy ra.",
+        "en": "wouldn't have happened"
+      }
+    ],
+    "answers": [
+      "If the organizers had prepared better, that sound glitch wouldn't have happened.",
+      "Had the organizers been better prepared, the sound problem wouldn't have occurred."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cuốn tiểu thuyết",
+        "en": "the novel"
+      },
+      {
+        "t": "mà tôi",
+        "en": "that I"
+      },
+      {
+        "t": "đọc gần đây nhất",
+        "en": "read most recently"
+      },
+      {
+        "t": "đã thay đổi cách tôi nhìn cuộc sống.",
+        "en": "changed the way I see life"
+      }
+    ],
+    "answers": [
+      "The novel that I read most recently changed the way I see life.",
+      "The novel I read most recently really changed my outlook on life."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Mặc dù không phải fan cứng,",
+        "en": "although I'm not a hardcore fan"
+      },
+      {
+        "t": "tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "bị cuốn theo không khí",
+        "en": "got swept up in the atmosphere"
+      },
+      {
+        "t": "của cả sân vận động.",
+        "en": "of the whole stadium"
+      }
+    ],
+    "answers": [
+      "Although I'm not a hardcore fan, I still got swept up in the atmosphere of the whole stadium.",
+      "Even though I'm not a huge fan, I still got caught up in the whole stadium's energy."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "không phải chăm em,",
+        "en": "didn't have to look after my sibling"
+      },
+      {
+        "t": "tôi sẽ",
+        "en": "I would"
+      },
+      {
+        "t": "dành cả ngày",
+        "en": "spend the whole day"
+      },
+      {
+        "t": "cày phim.",
+        "en": "binge-watching shows"
+      }
+    ],
+    "answers": [
+      "If I didn't have to look after my sibling, I would spend the whole day binge-watching shows.",
+      "If I weren't babysitting my sibling, I'd spend all day binge-watching shows."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Đó là",
+        "en": "that was"
+      },
+      {
+        "t": "buổi hòa nhạc đầu tiên",
+        "en": "the first concert"
+      },
+      {
+        "t": "mà tôi từng đi",
+        "en": "I'd ever been to"
+      },
+      {
+        "t": "kể từ khi dịch bệnh xảy ra.",
+        "en": "since the pandemic hit"
+      }
+    ],
+    "answers": [
+      "That was the first concert I'd ever been to since the pandemic hit.",
+      "That was the first concert I had attended since the pandemic began."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chương trình đó",
+        "en": "that show"
+      },
+      {
+        "t": "đã bị hủy",
+        "en": "was cancelled"
+      },
+      {
+        "t": "sau khi",
+        "en": "after"
+      },
+      {
+        "t": "lượng người xem giảm mạnh",
+        "en": "the viewership dropped sharply"
+      },
+      {
+        "t": "trong mùa thứ hai.",
+        "en": "in the second season"
+      }
+    ],
+    "answers": [
+      "That show was cancelled after the viewership dropped sharply in the second season.",
+      "The show got cancelled once its ratings dropped sharply in season two."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "tôi từng biết",
+        "en": "I had known"
+      },
+      {
+        "t": "vở kịch đó cảm động đến vậy,",
+        "en": "the play would be that moving"
+      },
+      {
+        "t": "tôi đã rủ cả nhà đi cùng.",
+        "en": "I would have brought the whole family along"
+      }
+    ],
+    "answers": [
+      "If I had known the play would be that moving, I would have brought the whole family along.",
+      "Had I known the play was going to be that moving, I'd have taken my whole family."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Anh chàng",
+        "en": "the guy"
+      },
+      {
+        "t": "mà bạn thấy",
+        "en": "you saw"
+      },
+      {
+        "t": "đứng hát ở góc phố",
+        "en": "singing on the street corner"
+      },
+      {
+        "t": "hóa ra",
+        "en": "turned out to be"
+      },
+      {
+        "t": "là một ca sĩ nổi tiếng.",
+        "en": "a famous singer"
+      }
+    ],
+    "answers": [
+      "The guy you saw singing on the street corner turned out to be a famous singer.",
+      "That guy you saw singing on the corner turned out to be a well-known singer."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng gần đến ngày concert,",
+        "en": "the closer the concert date got"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "hồi hộp không ngủ được.",
+        "en": "nervous and unable to sleep I became"
+      }
+    ],
+    "answers": [
+      "The closer the concert date got, the more nervous and unable to sleep I became.",
+      "The nearer the concert got, the more excited and sleepless I became."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Giá như",
+        "en": "I wish"
+      },
+      {
+        "t": "tôi không làm mất vé,",
+        "en": "I hadn't lost my ticket"
+      },
+      {
+        "t": "tôi đã có thể",
+        "en": "I could have"
+      },
+      {
+        "t": "vào xem trận đấu.",
+        "en": "gone in to watch the match"
+      }
+    ],
+    "answers": [
+      "I wish I hadn't lost my ticket, so I could have gone in to watch the match.",
+      "If only I hadn't lost my ticket, I could have watched the match."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bộ truyện tranh",
+        "en": "the comic series"
+      },
+      {
+        "t": "vốn ít người biết đến",
+        "en": "that used to be little known"
+      },
+      {
+        "t": "đã trở nên nổi tiếng",
+        "en": "has become famous"
+      },
+      {
+        "t": "sau khi được chuyển thể thành phim.",
+        "en": "after being turned into a movie"
+      }
+    ],
+    "answers": [
+      "The comic series that used to be little known has become famous after being turned into a movie.",
+      "That once-obscure comic series became hugely popular once it was made into a movie."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Dù bị chỉ trích nặng nề,",
+        "en": "despite being heavily criticized"
+      },
+      {
+        "t": "bộ phim đó",
+        "en": "that movie"
+      },
+      {
+        "t": "vẫn thu về",
+        "en": "still earned"
+      },
+      {
+        "t": "doanh thu khổng lồ.",
+        "en": "a huge amount at the box office"
+      }
+    ],
+    "answers": [
+      "Despite being heavily criticized, that movie still earned a huge amount at the box office.",
+      "Even though it was heavily criticized, the movie still made a fortune at the box office."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu ban nhạc",
+        "en": "if the band"
+      },
+      {
+        "t": "không cãi nhau nội bộ,",
+        "en": "hadn't had internal disputes"
+      },
+      {
+        "t": "có lẽ",
+        "en": "they might"
+      },
+      {
+        "t": "đã không tan rã sớm như vậy.",
+        "en": "not have broken up so soon"
+      }
+    ],
+    "answers": [
+      "If the band hadn't had internal disputes, they might not have broken up so soon.",
+      "Had the band not fought internally, they probably wouldn't have split up so soon."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trận đấu đó",
+        "en": "that match"
+      },
+      {
+        "t": "được coi là",
+        "en": "is considered"
+      },
+      {
+        "t": "một trong những trận hay nhất",
+        "en": "one of the best matches"
+      },
+      {
+        "t": "từng được tổ chức.",
+        "en": "ever held"
+      }
+    ],
+    "answers": [
+      "That match is considered one of the best matches ever held.",
+      "That match is regarded as one of the greatest matches ever played."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Người hâm mộ",
+        "en": "fans"
+      },
+      {
+        "t": "đã đợi",
+        "en": "had waited"
+      },
+      {
+        "t": "suốt nhiều năm",
+        "en": "for years"
+      },
+      {
+        "t": "để được xem",
+        "en": "to see"
+      },
+      {
+        "t": "nhóm nhạc tái hợp trên sân khấu.",
+        "en": "the band reunite on stage"
+      }
+    ],
+    "answers": [
+      "Fans had waited for years to see the band reunite on stage.",
+      "Fans had been waiting for years to watch the band get back together on stage."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "có nhiều thời gian hơn,",
+        "en": "had more free time"
+      },
+      {
+        "t": "tôi sẽ",
+        "en": "I would"
+      },
+      {
+        "t": "học chơi một nhạc cụ nào đó.",
+        "en": "learn to play an instrument"
+      }
+    ],
+    "answers": [
+      "If I had more free time, I would learn to play an instrument.",
+      "If I had more spare time, I'd take up an instrument."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bài hát đó,",
+        "en": "that song"
+      },
+      {
+        "t": "mà hầu như ai cũng thuộc,",
+        "en": "which almost everyone knows by heart"
+      },
+      {
+        "t": "được sáng tác",
+        "en": "was written"
+      },
+      {
+        "t": "chỉ trong một đêm.",
+        "en": "in just one night"
+      }
+    ],
+    "answers": [
+      "That song, which almost everyone knows by heart, was written in just one night.",
+      "That song, which nearly everyone can sing along to, was composed in a single night."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng lớn tuổi,",
+        "en": "the older I get"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "thấy khó tìm được",
+        "en": "I find it hard to find"
+      },
+      {
+        "t": "thời gian cho sở thích cá nhân.",
+        "en": "time for personal hobbies"
+      }
+    ],
+    "answers": [
+      "The older I get, the more I find it hard to find time for personal hobbies.",
+      "The older I grow, the harder it gets to find time for my own hobbies."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Giá mà",
+        "en": "I wish"
+      },
+      {
+        "t": "tôi học nhảy từ nhỏ,",
+        "en": "I had learned to dance as a child"
+      },
+      {
+        "t": "giờ đây",
+        "en": "now"
+      },
+      {
+        "t": "tôi đã có thể",
+        "en": "I could"
+      },
+      {
+        "t": "tham gia đội nhảy chuyên nghiệp.",
+        "en": "join a professional dance team"
+      }
+    ],
+    "answers": [
+      "I wish I had learned to dance as a child, so I could join a professional dance team now.",
+      "If only I'd learned to dance when I was young, I could be on a professional dance team by now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sân vận động",
+        "en": "the stadium"
+      },
+      {
+        "t": "nơi",
+        "en": "where"
+      },
+      {
+        "t": "đội bóng của tôi",
+        "en": "my team"
+      },
+      {
+        "t": "từng vô địch",
+        "en": "once won the title"
+      },
+      {
+        "t": "sắp bị phá bỏ.",
+        "en": "is about to be demolished"
+      }
+    ],
+    "answers": [
+      "The stadium where my team once won the title is about to be demolished.",
+      "The stadium where my team once won the championship is about to be torn down."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "không bị lạc",
+        "en": "hadn't gotten lost"
+      },
+      {
+        "t": "trên đường đến sân khấu,",
+        "en": "on the way to the stage"
+      },
+      {
+        "t": "tôi đã kịp",
+        "en": "I would have made it in time"
+      },
+      {
+        "t": "xem tiết mục mở màn.",
+        "en": "to see the opening act"
+      }
+    ],
+    "answers": [
+      "If I hadn't gotten lost on the way to the stage, I would have made it in time to see the opening act.",
+      "Had I not gotten lost on the way there, I'd have caught the opening act."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cuốn truyện tranh",
+        "en": "the comic book"
+      },
+      {
+        "t": "được ký tặng",
+        "en": "that was signed"
+      },
+      {
+        "t": "bởi chính tác giả",
+        "en": "by the author herself"
+      },
+      {
+        "t": "giờ đây",
+        "en": "is now"
+      },
+      {
+        "t": "có giá trị gấp mười lần.",
+        "en": "worth ten times as much"
+      }
+    ],
+    "answers": [
+      "The comic book that was signed by the author herself is now worth ten times as much.",
+      "That comic book, signed by the author herself, is now worth ten times its original price."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Dù đã cố gắng hết sức,",
+        "en": "although they tried their hardest"
+      },
+      {
+        "t": "đội bóng",
+        "en": "the team"
+      },
+      {
+        "t": "vẫn không thể",
+        "en": "still couldn't"
+      },
+      {
+        "t": "lội ngược dòng trong hiệp hai.",
+        "en": "turn the game around in the second half"
+      }
+    ],
+    "answers": [
+      "Although they tried their hardest, the team still couldn't turn the game around in the second half.",
+      "Even though they tried their best, the team just couldn't come back in the second half."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "biết được",
+        "en": "had known"
+      },
+      {
+        "t": "buổi biểu diễn sẽ bị hoãn,",
+        "en": "the show would be postponed"
+      },
+      {
+        "t": "tôi đã không đặt vé máy bay.",
+        "en": "I wouldn't have booked the flight"
+      }
+    ],
+    "answers": [
+      "If I had known the show would be postponed, I wouldn't have booked the flight.",
+      "Had I known the show was going to be postponed, I wouldn't have booked my flight."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Đêm nhạc",
+        "en": "the concert"
+      },
+      {
+        "t": "được tổ chức",
+        "en": "was held"
+      },
+      {
+        "t": "nhằm gây quỹ",
+        "en": "in order to raise funds"
+      },
+      {
+        "t": "cho trẻ em nghèo.",
+        "en": "for underprivileged children"
+      }
+    ],
+    "answers": [
+      "The concert was held in order to raise funds for underprivileged children.",
+      "The concert was organized to raise money for disadvantaged children."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng nhiều người",
+        "en": "the more people"
+      },
+      {
+        "t": "xem series đó,",
+        "en": "watched that series"
+      },
+      {
+        "t": "càng có nhiều",
+        "en": "the more"
+      },
+      {
+        "t": "tranh cãi nổ ra trên mạng.",
+        "en": "debates broke out online"
+      }
+    ],
+    "answers": [
+      "The more people watched that series, the more debates broke out online.",
+      "The more people watched the series, the more arguments it sparked online."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "tôi không phải là fan cuồng,",
+        "en": "I weren't such a die-hard fan"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "xếp hàng từ sáng sớm.",
+        "en": "lined up since early morning"
+      }
+    ],
+    "answers": [
+      "If I weren't such a die-hard fan, I wouldn't have lined up since early morning.",
+      "If I weren't such an obsessed fan, I wouldn't have queued up since dawn."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Vở kịch",
+        "en": "the play"
+      },
+      {
+        "t": "mà đoàn kịch",
+        "en": "that the theater troupe"
+      },
+      {
+        "t": "đã tập luyện suốt sáu tháng",
+        "en": "had rehearsed for six months"
+      },
+      {
+        "t": "cuối cùng cũng ra mắt.",
+        "en": "finally premiered"
+      }
+    ],
+    "answers": [
+      "The play that the theater troupe had rehearsed for six months finally premiered.",
+      "The play the troupe had spent six months rehearsing finally opened."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Giá như",
+        "en": "I wish"
+      },
+      {
+        "t": "tôi có đủ tiền,",
+        "en": "I had enough money"
+      },
+      {
+        "t": "tôi sẽ mua",
+        "en": "I would buy"
+      },
+      {
+        "t": "toàn bộ bộ sưu tập figure giới hạn.",
+        "en": "the entire limited-edition figure collection"
+      }
+    ],
+    "answers": [
+      "I wish I had enough money, I would buy the entire limited-edition figure collection.",
+      "If only I had enough money, I'd buy the whole limited-edition figure collection."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bộ phim",
+        "en": "the movie"
+      },
+      {
+        "t": "vốn được kỳ vọng rất cao",
+        "en": "that had been highly anticipated"
+      },
+      {
+        "t": "cuối cùng lại",
+        "en": "ended up"
+      },
+      {
+        "t": "khiến khán giả thất vọng.",
+        "en": "disappointing audiences"
+      }
+    ],
+    "answers": [
+      "The movie that had been highly anticipated ended up disappointing audiences.",
+      "The much-anticipated movie ended up letting audiences down."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu không có",
+        "en": "if it weren't for"
+      },
+      {
+        "t": "mạng xã hội,",
+        "en": "social media"
+      },
+      {
+        "t": "nhiều ca sĩ trẻ",
+        "en": "many young singers"
+      },
+      {
+        "t": "đã không được biết đến rộng rãi.",
+        "en": "wouldn't have gained wide recognition"
+      }
+    ],
+    "answers": [
+      "If it weren't for social media, many young singers wouldn't have gained wide recognition.",
+      "Without social media, a lot of young singers wouldn't have become well known."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng cố tránh spoiler,",
+        "en": "the harder I tried to avoid spoilers"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "vô tình đọc phải chúng trên mạng.",
+        "en": "I accidentally ran into them online"
+      }
+    ],
+    "answers": [
+      "The harder I tried to avoid spoilers, the more I accidentally ran into them online.",
+      "The more I tried to dodge spoilers, the more I kept stumbling on them online."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Buổi hòa nhạc",
+        "en": "the concert"
+      },
+      {
+        "t": "đã bị gián đoạn",
+        "en": "was interrupted"
+      },
+      {
+        "t": "bởi một cơn mưa bất chợt,",
+        "en": "by a sudden downpour"
+      },
+      {
+        "t": "khiến khán giả",
+        "en": "forcing the audience"
+      },
+      {
+        "t": "phải chạy đi trú.",
+        "en": "to run for shelter"
+      }
+    ],
+    "answers": [
+      "The concert was interrupted by a sudden downpour, forcing the audience to run for shelter.",
+      "A sudden downpour interrupted the concert and sent the audience running for cover."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu đội tuyển",
+        "en": "if the national team"
+      },
+      {
+        "t": "không bỏ lỡ quả phạt đền đó,",
+        "en": "hadn't missed that penalty"
+      },
+      {
+        "t": "họ đã có thể",
+        "en": "they might have"
+      },
+      {
+        "t": "vào chung kết.",
+        "en": "made it to the final"
+      }
+    ],
+    "answers": [
+      "If the national team hadn't missed that penalty, they might have made it to the final.",
+      "Had the team not missed that penalty, they could have reached the final."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Người dẫn chương trình,",
+        "en": "the host"
+      },
+      {
+        "t": "người mà",
+        "en": "who"
+      },
+      {
+        "t": "khán giả yêu thích nhất,",
+        "en": "the audience loved the most"
+      },
+      {
+        "t": "bất ngờ tuyên bố nghỉ hưu.",
+        "en": "unexpectedly announced retirement"
+      }
+    ],
+    "answers": [
+      "The host, who the audience loved the most, unexpectedly announced retirement.",
+      "The host, who was the audience's favorite, suddenly announced he was retiring."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Dù không hiểu hết lời bài hát,",
+        "en": "although I didn't understand all the lyrics"
+      },
+      {
+        "t": "tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "bị cuốn theo giai điệu.",
+        "en": "got swept up in the melody"
+      }
+    ],
+    "answers": [
+      "Although I didn't understand all the lyrics, I still got swept up in the melody.",
+      "Even though I couldn't understand all the lyrics, I still got carried away by the melody."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "không đọc bình luận trước,",
+        "en": "hadn't read the comments first"
+      },
+      {
+        "t": "tôi đã không biết",
+        "en": "I wouldn't have known"
+      },
+      {
+        "t": "kết thúc bị nhiều người chê.",
+        "en": "the ending was widely criticized"
+      }
+    ],
+    "answers": [
+      "If I hadn't read the comments first, I wouldn't have known the ending was widely criticized.",
+      "Had I not read the comments beforehand, I wouldn't have known the ending got so much criticism."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nhà hát",
+        "en": "the theater"
+      },
+      {
+        "t": "nơi",
+        "en": "where"
+      },
+      {
+        "t": "tôi xem vở kịch đầu tiên",
+        "en": "I watched my first play"
+      },
+      {
+        "t": "đã đóng cửa",
+        "en": "has closed down"
+      },
+      {
+        "t": "vĩnh viễn.",
+        "en": "permanently"
+      }
+    ],
+    "answers": [
+      "The theater where I watched my first play has closed down permanently.",
+      "The theater where I saw my first play has shut down for good."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng luyện tập nhiều,",
+        "en": "the more I practiced"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "tự tin khi hát karaoke trước đám đông.",
+        "en": "confident I became singing karaoke in front of a crowd"
+      }
+    ],
+    "answers": [
+      "The more I practiced, the more confident I became singing karaoke in front of a crowd.",
+      "The more I practiced, the more confidence I gained singing karaoke in public."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Giá như",
+        "en": "I wish"
+      },
+      {
+        "t": "ban tổ chức bán thêm vé,",
+        "en": "the organizers had sold more tickets"
+      },
+      {
+        "t": "bạn tôi",
+        "en": "my friend"
+      },
+      {
+        "t": "đã có thể đi cùng chúng tôi.",
+        "en": "could have come with us"
+      }
+    ],
+    "answers": [
+      "I wish the organizers had sold more tickets, so my friend could have come with us.",
+      "If only the organizers had released more tickets, my friend could have joined us."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bộ sưu tập figure",
+        "en": "the figure collection"
+      },
+      {
+        "t": "mà anh ấy",
+        "en": "that he"
+      },
+      {
+        "t": "dành cả thập kỷ để gom góp",
+        "en": "spent a whole decade collecting"
+      },
+      {
+        "t": "đáng giá hàng nghìn đô la.",
+        "en": "is worth thousands of dollars"
+      }
+    ],
+    "answers": [
+      "The figure collection that he spent a whole decade collecting is worth thousands of dollars.",
+      "The figure collection he spent a decade putting together is worth thousands of dollars now."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu không có",
+        "en": "if it weren't for"
+      },
+      {
+        "t": "sự cố kỹ thuật,",
+        "en": "the technical glitch"
+      },
+      {
+        "t": "buổi biểu diễn",
+        "en": "the performance"
+      },
+      {
+        "t": "đã có thể diễn ra suôn sẻ hơn nhiều.",
+        "en": "could have gone much more smoothly"
+      }
+    ],
+    "answers": [
+      "If it weren't for the technical glitch, the performance could have gone much more smoothly.",
+      "Without that technical glitch, the show could have gone a lot more smoothly."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Chúng tôi",
+        "en": "we"
+      },
+      {
+        "t": "đã cãi nhau kịch liệt",
+        "en": "had a heated argument"
+      },
+      {
+        "t": "về việc",
+        "en": "about"
+      },
+      {
+        "t": "liệu bộ phim đó",
+        "en": "whether that movie"
+      },
+      {
+        "t": "có xứng đáng đoạt giải hay không.",
+        "en": "deserved to win the award"
+      }
+    ],
+    "answers": [
+      "We had a heated argument about whether that movie deserved to win the award.",
+      "We got into a heated debate over whether that movie really deserved the award."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Dù bị nhiều nhà phê bình chê bai,",
+        "en": "although many critics panned it"
+      },
+      {
+        "t": "bộ phim đó",
+        "en": "that movie"
+      },
+      {
+        "t": "vẫn được khán giả",
+        "en": "was still embraced by audiences"
+      },
+      {
+        "t": "đón nhận nồng nhiệt.",
+        "en": "warmly"
+      }
+    ],
+    "answers": [
+      "Although many critics panned it, that movie was still embraced by audiences warmly.",
+      "Even though critics slammed it, audiences still loved that movie."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "cô ấy không bỏ lỡ buổi thử giọng,",
+        "en": "she hadn't missed the audition"
+      },
+      {
+        "t": "cô ấy",
+        "en": "she"
+      },
+      {
+        "t": "có lẽ đã trở thành ca sĩ chuyên nghiệp.",
+        "en": "might have become a professional singer"
+      }
+    ],
+    "answers": [
+      "If she hadn't missed the audition, she might have become a professional singer.",
+      "Had she not missed that audition, she could have become a professional singer."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Kênh YouTube",
+        "en": "the YouTube channel"
+      },
+      {
+        "t": "mà tôi",
+        "en": "that I"
+      },
+      {
+        "t": "theo dõi từ những ngày đầu",
+        "en": "followed from the very beginning"
+      },
+      {
+        "t": "giờ đã có hàng triệu người xem.",
+        "en": "now has millions of viewers"
+      }
+    ],
+    "answers": [
+      "The YouTube channel that I followed from the very beginning now has millions of viewers.",
+      "The YouTube channel I've followed since day one now has millions of subscribers."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng theo dõi tin tức về idol,",
+        "en": "the more I followed news about the idol"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "nhận ra ngành giải trí khắc nghiệt thế nào.",
+        "en": "realized how harsh the entertainment industry is"
+      }
+    ],
+    "answers": [
+      "The more I followed news about the idol, the more I realized how harsh the entertainment industry is.",
+      "The more I kept up with idol news, the more I saw how brutal the entertainment industry really is."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "không dành quá nhiều thời gian chơi game,",
+        "en": "hadn't spent so much time gaming"
+      },
+      {
+        "t": "điểm số của tôi",
+        "en": "my grades"
+      },
+      {
+        "t": "đã không sa sút như vậy.",
+        "en": "wouldn't have dropped like that"
+      }
+    ],
+    "answers": [
+      "If I hadn't spent so much time gaming, my grades wouldn't have dropped like that.",
+      "Had I not spent so much time gaming, my grades wouldn't have slipped that much."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bức tranh",
+        "en": "the painting"
+      },
+      {
+        "t": "được trưng bày",
+        "en": "that was displayed"
+      },
+      {
+        "t": "tại lễ hội nghệ thuật",
+        "en": "at the art festival"
+      },
+      {
+        "t": "do chính con gái tôi vẽ.",
+        "en": "was painted by my own daughter"
+      }
+    ],
+    "answers": [
+      "The painting that was displayed at the art festival was painted by my own daughter.",
+      "The painting on display at the art festival was actually painted by my daughter."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Dù đã xem đi xem lại nhiều lần,",
+        "en": "even though I've rewatched it many times"
+      },
+      {
+        "t": "tôi vẫn",
+        "en": "I still"
+      },
+      {
+        "t": "khóc mỗi khi đến đoạn kết.",
+        "en": "cry every time it gets to the ending"
+      }
+    ],
+    "answers": [
+      "Even though I've rewatched it many times, I still cry every time it gets to the ending.",
+      "Even after watching it over and over, I still tear up every time the ending comes."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu ban nhạc đó",
+        "en": "if that band"
+      },
+      {
+        "t": "đồng ý biểu diễn ở đây,",
+        "en": "agreed to perform here"
+      },
+      {
+        "t": "vé chắc chắn",
+        "en": "tickets would certainly"
+      },
+      {
+        "t": "cháy hàng trong vài giây.",
+        "en": "sell out within seconds"
+      }
+    ],
+    "answers": [
+      "If that band agreed to perform here, tickets would certainly sell out within seconds.",
+      "If that band agreed to play here, tickets would definitely sell out in seconds."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Trận đấu",
+        "en": "the match"
+      },
+      {
+        "t": "đã được phát trực tiếp",
+        "en": "was broadcast live"
+      },
+      {
+        "t": "trên khắp thế giới,",
+        "en": "around the world"
+      },
+      {
+        "t": "thu hút hàng triệu người xem.",
+        "en": "attracting millions of viewers"
+      }
+    ],
+    "answers": [
+      "The match was broadcast live around the world, attracting millions of viewers.",
+      "The match was broadcast live worldwide and drew in millions of viewers."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Giá mà",
+        "en": "I wish"
+      },
+      {
+        "t": "tôi không làm rơi điện thoại,",
+        "en": "I hadn't dropped my phone"
+      },
+      {
+        "t": "tôi đã quay được",
+        "en": "I could have filmed"
+      },
+      {
+        "t": "khoảnh khắc đáng nhớ nhất buổi tiệc.",
+        "en": "the most memorable moment of the party"
+      }
+    ],
+    "answers": [
+      "I wish I hadn't dropped my phone, so I could have filmed the most memorable moment of the party.",
+      "If only I hadn't dropped my phone, I could have caught the party's most memorable moment on film."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Hiếm khi",
+        "en": "rarely"
+      },
+      {
+        "t": "tôi thấy",
+        "en": "have I seen"
+      },
+      {
+        "t": "một buổi biểu diễn trực tiếp",
+        "en": "a live performance"
+      },
+      {
+        "t": "gây xúc động mạnh đến vậy.",
+        "en": "that was so deeply moving"
+      }
+    ],
+    "answers": [
+      "Rarely have I seen a live performance that was so deeply moving.",
+      "I've rarely seen a live show that moved me that much."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "trọng tài",
+        "en": "the referee"
+      },
+      {
+        "t": "không mắc sai lầm ở phút cuối,",
+        "en": "hadn't made a mistake in the final minutes"
+      },
+      {
+        "t": "kết quả trận đấu",
+        "en": "the match result"
+      },
+      {
+        "t": "có thể đã khác.",
+        "en": "could have been different"
+      }
+    ],
+    "answers": [
+      "If the referee hadn't made a mistake in the final minutes, the match result could have been different.",
+      "Had the referee not blundered in the final minutes, the outcome might have been different."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bộ phim tài liệu",
+        "en": "the documentary"
+      },
+      {
+        "t": "kể về",
+        "en": "telling the story of"
+      },
+      {
+        "t": "cuộc đời một huyền thoại âm nhạc",
+        "en": "the life of a music legend"
+      },
+      {
+        "t": "đã lấy đi nước mắt của rất nhiều khán giả.",
+        "en": "brought many viewers to tears"
+      }
+    ],
+    "answers": [
+      "The documentary telling the story of the life of a music legend brought many viewers to tears.",
+      "The documentary about a music legend's life moved many viewers to tears."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng gần đến ngày công chiếu,",
+        "en": "the closer the release date got"
+      },
+      {
+        "t": "nhà sản xuất",
+        "en": "the producers"
+      },
+      {
+        "t": "càng chịu nhiều áp lực",
+        "en": "faced more and more pressure"
+      },
+      {
+        "t": "từ khán giả.",
+        "en": "from the audience"
+      }
+    ],
+    "answers": [
+      "The closer the release date got, the more pressure the producers faced from the audience.",
+      "The nearer the release date, the more pressure the producers felt from the audience."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "không bị bạn bè lôi kéo,",
+        "en": "hadn't been dragged along by my friends"
+      },
+      {
+        "t": "tôi đã không bao giờ",
+        "en": "I would never have"
+      },
+      {
+        "t": "thử chơi board game phức tạp đó.",
+        "en": "tried that complicated board game"
+      }
+    ],
+    "answers": [
+      "If I hadn't been dragged along by my friends, I would never have tried that complicated board game.",
+      "Had my friends not talked me into it, I'd never have tried that complicated board game."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Người diễn viên,",
+        "en": "the actor"
+      },
+      {
+        "t": "người mà",
+        "en": "who"
+      },
+      {
+        "t": "cả nước từng yêu mến,",
+        "en": "the whole country once adored"
+      },
+      {
+        "t": "bất ngờ rút khỏi làng giải trí.",
+        "en": "unexpectedly withdrew from the entertainment industry"
+      }
+    ],
+    "answers": [
+      "The actor, who the whole country once adored, unexpectedly withdrew from the entertainment industry.",
+      "The actor, once adored by the whole nation, suddenly stepped away from show business."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Dù vé đắt gấp đôi năm ngoái,",
+        "en": "although tickets cost twice as much as last year"
+      },
+      {
+        "t": "lượng người mua",
+        "en": "the number of buyers"
+      },
+      {
+        "t": "vẫn không hề giảm.",
+        "en": "still didn't drop at all"
+      }
+    ],
+    "answers": [
+      "Although tickets cost twice as much as last year, the number of buyers still didn't drop at all.",
+      "Even though tickets were double last year's price, demand didn't drop at all."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "tác giả",
+        "en": "the author"
+      },
+      {
+        "t": "không qua đời đột ngột,",
+        "en": "hadn't passed away suddenly"
+      },
+      {
+        "t": "bộ truyện đó",
+        "en": "that series"
+      },
+      {
+        "t": "có lẽ đã có thêm nhiều phần tiếp theo.",
+        "en": "might have had several more sequels"
+      }
+    ],
+    "answers": [
+      "If the author hadn't passed away suddenly, that series might have had several more sequels.",
+      "Had the author not died suddenly, the series might have gotten more sequels."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Buổi lễ trao giải",
+        "en": "the awards ceremony"
+      },
+      {
+        "t": "được tổ chức",
+        "en": "was held"
+      },
+      {
+        "t": "nhằm tôn vinh",
+        "en": "to honor"
+      },
+      {
+        "t": "những nghệ sĩ có đóng góp nổi bật trong năm.",
+        "en": "artists who made outstanding contributions during the year"
+      }
+    ],
+    "answers": [
+      "The awards ceremony was held to honor artists who made outstanding contributions during the year.",
+      "The awards ceremony was organized to celebrate the year's most outstanding artists."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng nhiều tiền được đầu tư vào bộ phim,",
+        "en": "the more money that was invested in the movie"
+      },
+      {
+        "t": "khán giả",
+        "en": "audiences"
+      },
+      {
+        "t": "càng kỳ vọng cao hơn",
+        "en": "expected more"
+      },
+      {
+        "t": "vào chất lượng kịch bản.",
+        "en": "regarding the quality of the script"
+      }
+    ],
+    "answers": [
+      "The more money that was invested in the movie, the more audiences expected regarding the quality of the script.",
+      "The more money poured into the film, the higher audiences' expectations for the script became."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Giá như",
+        "en": "I wish"
+      },
+      {
+        "t": "tôi đăng ký câu lạc bộ kịch từ sớm,",
+        "en": "I had joined the drama club earlier"
+      },
+      {
+        "t": "tôi đã có thể",
+        "en": "I could have"
+      },
+      {
+        "t": "đóng vai chính trong vở diễn năm nay.",
+        "en": "played the lead role in this year's play"
+      }
+    ],
+    "answers": [
+      "I wish I had joined the drama club earlier, so I could have played the lead role in this year's play.",
+      "If only I'd joined the drama club sooner, I could have gotten the lead role this year."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Sân khấu,",
+        "en": "the stage"
+      },
+      {
+        "t": "nơi",
+        "en": "where"
+      },
+      {
+        "t": "hàng trăm nghệ sĩ",
+        "en": "hundreds of artists"
+      },
+      {
+        "t": "từng biểu diễn,",
+        "en": "had once performed"
+      },
+      {
+        "t": "nay chỉ còn là đống đổ nát.",
+        "en": "is now nothing but rubble"
+      }
+    ],
+    "answers": [
+      "The stage where hundreds of artists had once performed is now nothing but rubble.",
+      "The stage where hundreds of artists used to perform is now reduced to rubble."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "chương trình đó",
+        "en": "that show"
+      },
+      {
+        "t": "không bị chỉ trích vì thiếu sáng tạo,",
+        "en": "weren't criticized for lacking creativity"
+      },
+      {
+        "t": "nó có lẽ đã được gia hạn thêm mùa mới.",
+        "en": "it probably would have been renewed for a new season"
+      }
+    ],
+    "answers": [
+      "If that show weren't criticized for lacking creativity, it probably would have been renewed for a new season.",
+      "Were that show not criticized for its lack of creativity, it would likely have been renewed."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Dù đã cố nén cảm xúc,",
+        "en": "although she tried to hold back her emotions"
+      },
+      {
+        "t": "nữ ca sĩ",
+        "en": "the singer"
+      },
+      {
+        "t": "vẫn bật khóc",
+        "en": "still burst into tears"
+      },
+      {
+        "t": "ngay trên sân khấu.",
+        "en": "right on stage"
+      }
+    ],
+    "answers": [
+      "Although she tried to hold back her emotions, the singer still burst into tears right on stage.",
+      "Even though she tried to keep her composure, the singer broke down in tears right on stage."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu tôi",
+        "en": "if I"
+      },
+      {
+        "t": "không dành cả tuổi thơ chơi board game với ông,",
+        "en": "hadn't spent my whole childhood playing board games with my grandfather"
+      },
+      {
+        "t": "tôi đã không",
+        "en": "I wouldn't have"
+      },
+      {
+        "t": "yêu thích môn cờ vua đến vậy.",
+        "en": "grown to love chess so much"
+      }
+    ],
+    "answers": [
+      "If I hadn't spent my whole childhood playing board games with my grandfather, I wouldn't have grown to love chess so much.",
+      "Had I not spent my childhood playing board games with my grandfather, I wouldn't love chess this much."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Bộ phim hoạt hình",
+        "en": "the animated film"
+      },
+      {
+        "t": "vốn nhắm đến trẻ em",
+        "en": "that was originally aimed at children"
+      },
+      {
+        "t": "lại thu hút",
+        "en": "ended up attracting"
+      },
+      {
+        "t": "cả một lượng lớn khán giả trưởng thành.",
+        "en": "a huge number of adult viewers as well"
+      }
+    ],
+    "answers": [
+      "The animated film that was originally aimed at children ended up attracting a huge number of adult viewers as well.",
+      "The animated film, originally made for kids, ended up drawing in a huge adult audience too."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Càng theo dõi nhiều series trinh thám,",
+        "en": "the more detective series I watched"
+      },
+      {
+        "t": "tôi càng",
+        "en": "the more"
+      },
+      {
+        "t": "giỏi đoán ra kẻ chủ mưu.",
+        "en": "skilled I became at guessing the mastermind"
+      }
+    ],
+    "answers": [
+      "The more detective series I watched, the more skilled I became at guessing the mastermind.",
+      "The more crime shows I watched, the better I got at figuring out the culprit."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu không nhờ",
+        "en": "if it weren't for"
+      },
+      {
+        "t": "sự ủng hộ nhiệt tình của người hâm mộ,",
+        "en": "the fans' enthusiastic support"
+      },
+      {
+        "t": "chương trình đó",
+        "en": "that show"
+      },
+      {
+        "t": "đã bị hủy từ mùa đầu tiên.",
+        "en": "would have been canceled after the first season"
+      }
+    ],
+    "answers": [
+      "If it weren't for the fans' enthusiastic support, that show would have been canceled after the first season.",
+      "Without the fans' passionate support, the show would have been cancelled after season one."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Cuộc thi âm nhạc,",
+        "en": "the singing competition"
+      },
+      {
+        "t": "vốn được tổ chức thường niên,",
+        "en": "which is held annually"
+      },
+      {
+        "t": "năm nay",
+        "en": "this year"
+      },
+      {
+        "t": "thu hút số lượng thí sinh kỷ lục.",
+        "en": "attracted a record number of contestants"
+      }
+    ],
+    "answers": [
+      "The singing competition, which is held annually, attracted a record number of contestants this year.",
+      "The singing competition, held every year, drew a record number of contestants this time."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Giá mà",
+        "en": "I wish"
+      },
+      {
+        "t": "tôi không bỏ lỡ buổi ký tặng sách,",
+        "en": "I hadn't missed the book-signing event"
+      },
+      {
+        "t": "tôi đã có thể",
+        "en": "I could have"
+      },
+      {
+        "t": "gặp tác giả yêu thích của mình.",
+        "en": "met my favorite author"
+      }
+    ],
+    "answers": [
+      "I wish I hadn't missed the book-signing event, so I could have met my favorite author.",
+      "If only I hadn't missed the book signing, I could have met my favorite author."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Dù bị nhiều người coi là lỗi thời,",
+        "en": "even though many consider it outdated"
+      },
+      {
+        "t": "board game",
+        "en": "board games"
+      },
+      {
+        "t": "vẫn giữ được",
+        "en": "still hold onto"
+      },
+      {
+        "t": "một lượng người chơi trung thành.",
+        "en": "a loyal base of players"
+      }
+    ],
+    "answers": [
+      "Even though many consider it outdated, board games still hold onto a loyal base of players.",
+      "Even though a lot of people see them as outdated, board games still have a loyal following."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "nhà tổ chức",
+        "en": "the organizers"
+      },
+      {
+        "t": "lắng nghe phản hồi của khán giả sớm hơn,",
+        "en": "had listened to audience feedback sooner"
+      },
+      {
+        "t": "lễ hội âm nhạc năm nay",
+        "en": "this year's music festival"
+      },
+      {
+        "t": "đã không gặp nhiều lùm xùm đến thế.",
+        "en": "wouldn't have run into so much controversy"
+      }
+    ],
+    "answers": [
+      "If the organizers had listened to audience feedback sooner, this year's music festival wouldn't have run into so much controversy.",
+      "Had the organizers heeded audience feedback earlier, this year's festival wouldn't have been so controversial."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Đoạn phim",
+        "en": "the clip"
+      },
+      {
+        "t": "được quay lén",
+        "en": "that was secretly filmed"
+      },
+      {
+        "t": "trong buổi tổng duyệt",
+        "en": "during the dress rehearsal"
+      },
+      {
+        "t": "đã lan truyền chóng mặt trên mạng.",
+        "en": "went viral online in no time"
+      }
+    ],
+    "answers": [
+      "The clip that was secretly filmed during the dress rehearsal went viral online in no time.",
+      "The clip secretly filmed at the dress rehearsal spread like wildfire online."
+    ]
+  },
+  {
+    "level": "B2",
+    "topic": "entertainment",
+    "chunks": [
+      {
+        "t": "Nếu",
+        "en": "if"
+      },
+      {
+        "t": "tôi không nhường vé cho em gái,",
+        "en": "hadn't given up my ticket for my sister"
+      },
+      {
+        "t": "có lẽ chính tôi",
+        "en": "perhaps I myself"
+      },
+      {
+        "t": "mới là người đứng trên hàng ghế đầu tối nay.",
+        "en": "would be the one standing in the front row tonight"
+      }
+    ],
+    "answers": [
+      "If I hadn't given up my ticket for my sister, perhaps I myself would be the one standing in the front row tonight.",
+      "Had I not given my ticket to my sister, I might be the one in the front row tonight."
+    ]
+  }
+]
