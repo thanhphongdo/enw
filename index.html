@@ -262,6 +262,15 @@ h1{
 .chip:hover{border-color:var(--accent); color:var(--accent)}
 .chip.put{background:var(--accent-bg); border-color:var(--accent-line)}
 .chip.used{opacity:.25; pointer-events:none}
+.slots .chip.put{cursor:grab; touch-action:none; user-select:none; -webkit-user-select:none}
+.slots .chip.put.dragging{
+  cursor:grabbing; opacity:.9; position:relative; z-index:5;
+  box-shadow:var(--pop); border-color:var(--accent);
+}
+.dropmark{
+  flex:none; width:2px; align-self:stretch; min-height:34px;
+  background:var(--accent); border-radius:2px;
+}
 .bankhint{font-size:12px; color:var(--faint); margin:-8px 0 14px; font-weight:600}
 
 .tools{display:flex; flex-wrap:wrap; gap:8px}
@@ -350,6 +359,10 @@ footer{max-width:1060px; margin:40px auto 0; padding:20px 28px 0; border-top:1px
   h1{font-size:38px}
   .toolinner{padding:11px 20px}
   .searchinner{padding:9px 20px}
+  /* iOS tự phóng to trang khi con trỏ vào ô có cỡ chữ dưới 16px rồi không thu lại.
+     Nâng đủ 16px là hết, mà vẫn giữ được thao tác chụm tay để phóng to. */
+  .search input, .mfield input, .combo-search input{font-size:16px}
+  .combo-btn, select, .tabs button{font-size:14px}
   .wrap{padding:0 20px}
   .ex{padding:22px 20px; border-radius:16px}
   .prompt{font-size:19px}
@@ -411,6 +424,10 @@ footer{max-width:1060px; margin:40px auto 0; padding:20px 28px 0; border-top:1px
     <div class="combo" id="topic"></div>
     <div class="combo" id="sort"></div>
     <div class="combo" id="status"></div>
+    <label class="aipill" id="hidewrap" title="Ẩn những câu đã đạt điểm tuyệt đối">
+      <input type="checkbox" id="hide100" hidden>
+      <span class="dot"></span><span>Ẩn câu đạt 100</span>
+    </label>
     <label class="aipill dead" id="aiwrap" title="Cần Chrome có Built-in AI (Prompt API)">
       <input type="checkbox" id="ai" hidden disabled>
       <span class="dot"></span><span id="ailabel">AI trình duyệt</span>
@@ -853,7 +870,9 @@ const P = id => (progress[id] = progress[id] || {text:"", score:null, ai:false, 
 
 let savedMode = "type";
 try{ savedMode = localStorage.getItem("vlv.mode") || "type"; }catch(e){}
-const state = {q:"", level:"all", topic:"all", sort:"easy", status:"all", page:1, size:20, seed:1, mode:savedMode};
+let savedHide = false;
+try{ savedHide = localStorage.getItem("vlv.hide100") === "1"; }catch(e){}
+const state = {q:"", level:"all", topic:"all", sort:"easy", status:"all", page:1, size:20, seed:1, mode:savedMode, hide100:savedHide};
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const LVORD = {A2:0,B1:1,B2:2};
 const byId = id => DATA.find(d=>d.id===id);
@@ -867,6 +886,7 @@ function filtered(){
     if(state.status==="todo" && p && p.score!=null) return false;
     if(state.status==="done" && !(p && p.score!=null)) return false;
     if(state.status==="weak" && !(p && p.score!=null && p.score<80)) return false;
+    if(state.hide100 && p && p.score === 100) return false;
     if(!q) return true;
     return (d.vi+" "+d.answers.join(" ")+" "+(TOPICS[d.topic]||"")).toLowerCase().includes(q);
   });
@@ -920,7 +940,7 @@ function bankHTML(item, p){
     + `</div><div class="bank">`
     + chips.map((w, i) =>
         `<button type="button" class="chip take${used.has(i) ? " used" : ""}" data-ci="${i}"${used.has(i) ? ' tabindex="-1"' : ""}>${esc(w)}</button>`).join("")
-    + `</div><p class="bankhint">Bấm vào từ để ghép câu, hoặc dùng phím Tab rồi Enter. Bấm lại từ đã ghép để bỏ ra.</p>`;
+    + `</div><p class="bankhint">Bấm vào từ để ghép câu, hoặc dùng phím Tab rồi Enter. Bấm lại từ đã ghép để bỏ ra, kéo để đổi vị trí.</p>`;
 }
 function syncBank(card, item){
   const p = P(item.id);
@@ -960,6 +980,7 @@ function cardHTML(d, idx){
     <div class="tools">
       <button class="act primary" data-a="check">Chấm điểm</button>
       <button class="act" data-a="hints">Gợi ý từ vựng</button>
+      <button class="act" data-a="listen">Nghe câu</button>
       <button class="act" data-a="show">Xem đáp án</button>
       <button class="act quiet" data-a="clear">Xóa</button>
     </div>
@@ -1034,21 +1055,28 @@ function answersHTML(item){
 
 /* ---------- phát âm bằng giọng đọc sẵn có của trình duyệt ---------- */
 let sayingBtn = null;
+function pickVoice(){
+  const vs = (window.speechSynthesis && speechSynthesis.getVoices()) || [];
+  const en = vs.filter(v => /^en(-|_|$)/i.test(v.lang));
+  return en.find(v => /natural|enhanced|premium|siri|google/i.test(v.name)) || en[0] || null;
+}
 function speak(text, btn){
-  if(!("speechSynthesis" in window) || !text) return;
+  const synth = window.speechSynthesis;
+  if(!synth || !text) return;
   try{
-    speechSynthesis.cancel();
+    if(synth.speaking || synth.pending) synth.cancel();
     if(sayingBtn) sayingBtn.classList.remove("on");
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = "en-US"; u.rate = 0.9;
-    const voices = speechSynthesis.getVoices() || [];
-    const en = voices.filter(v => /^en[-_]/i.test(v.lang));
-    u.voice = en.find(v => /natural|enhanced|premium|google/i.test(v.name)) || en[0] || null;
+    const u = new SpeechSynthesisUtterance(String(text));
+    u.lang = "en-US";
+    u.rate = 0.9;
+    const v = pickVoice();
+    if(v) u.voice = v;              // iOS: gán null làm câm hẳn, chỉ gán khi tìm được giọng
     if(btn){
       btn.classList.add("on"); sayingBtn = btn;
       u.onend = u.onerror = () => { btn.classList.remove("on"); if(sayingBtn === btn) sayingBtn = null; };
     }
-    speechSynthesis.speak(u);
+    synth.speak(u);
+    if(synth.paused) synth.resume();  // Safari đôi khi kẹt ở trạng thái tạm dừng
   }catch(e){}
 }
 function showResult(card, item, res, aiRes, loading, semScore){
@@ -1124,7 +1152,82 @@ async function doCheck(card, item){
 /* ------------------------------- sự kiện -------------------------------- */
 const sheet = document.getElementById("sheet");
 
+/* ---------- kéo thả đổi vị trí từ đã ghép ----------
+   Dùng Pointer Events để chạy được cả chuột lẫn cảm ứng; HTML5 drag-and-drop
+   không hoạt động trên iOS. Chỉ tính là kéo khi đi quá 6px, dưới ngưỡng đó
+   vẫn là một cú chạm để bỏ từ ra. */
+let drag = null, skipNextClick = false;
+
+function dropIndex(slots, x, y, skipEl){
+  const chips = [...slots.querySelectorAll(".chip.put")].filter(c => c !== skipEl);
+  if(!chips.length) return 0;
+  let best = 0, bestDist = Infinity, after = false;
+  chips.forEach((c, i) => {
+    const r = c.getBoundingClientRect();
+    const cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+    const d = Math.hypot(x - cx, y - cy);
+    if(d < bestDist){ bestDist = d; best = i; after = x > cx; }
+  });
+  return best + (after ? 1 : 0);
+}
+function clearMark(){ const m = document.querySelector(".dropmark"); if(m) m.remove(); }
+function showMark(slots, idx, skipEl){
+  clearMark();
+  const mark = document.createElement("div");
+  mark.className = "dropmark";
+  const chips = [...slots.querySelectorAll(".chip.put")].filter(c => c !== skipEl);
+  if(idx >= chips.length) slots.appendChild(mark);
+  else slots.insertBefore(mark, chips[idx]);
+}
+
+sheet.addEventListener("pointerdown", e=>{
+  const chip = e.target.closest(".slots .chip.put");
+  if(!chip || (e.pointerType === "mouse" && e.button !== 0)) return;
+  const card = chip.closest(".ex");
+  drag = { chip, card, id:Number(card.dataset.id), from:Number(chip.dataset.pos),
+           x0:e.clientX, y0:e.clientY, pid:e.pointerId, moved:false, idx:-1 };
+  try{ chip.setPointerCapture(e.pointerId); }catch(err){}
+});
+
+sheet.addEventListener("pointermove", e=>{
+  if(!drag || e.pointerId !== drag.pid) return;
+  const dx = e.clientX - drag.x0, dy = e.clientY - drag.y0;
+  if(!drag.moved){
+    if(Math.hypot(dx, dy) < 6) return;
+    drag.moved = true;
+    drag.chip.classList.add("dragging");
+  }
+  e.preventDefault();
+  drag.chip.style.transform = `translate(${dx}px, ${dy}px)`;
+  const slots = drag.card.querySelector(".slots");
+  const idx = dropIndex(slots, e.clientX, e.clientY, drag.chip);
+  if(idx !== drag.idx){ drag.idx = idx; showMark(slots, idx, drag.chip); }
+});
+
+function endDrag(commit){
+  if(!drag) return;
+  const d = drag; drag = null;
+  clearMark();
+  d.chip.classList.remove("dragging");
+  d.chip.style.transform = "";
+  try{ d.chip.releasePointerCapture(d.pid); }catch(err){}
+  if(!d.moved) return;                 // chạm chứ không kéo -> để click xử lý
+  skipNextClick = true;                // đã kéo thật -> chặn click bỏ từ ra
+  setTimeout(()=>{ skipNextClick = false; }, 0);
+  if(!commit || d.idx < 0 || d.idx === d.from) return;
+  const item = byId(d.id), p = P(d.id);
+  if(!Array.isArray(p.picked)) p.picked = pickedFromText(chipsFor(item), p.text);
+  const arr = p.picked.slice();
+  const [moved] = arr.splice(d.from, 1);
+  arr.splice(d.idx, 0, moved);
+  p.picked = arr;
+  syncBank(d.card, item);
+}
+sheet.addEventListener("pointerup", e=>{ if(drag && e.pointerId === drag.pid) endDrag(true); });
+sheet.addEventListener("pointercancel", e=>{ if(drag && e.pointerId === drag.pid) endDrag(false); });
+
 sheet.addEventListener("click", e=>{
+  if(skipNextClick && e.target.closest(".chip")) { e.stopPropagation(); return; }
   const say = e.target.closest("button.say");
   if(say){ speak(say.dataset.say, say); return; }
   const chip = e.target.closest("button.chip");
@@ -1146,14 +1249,18 @@ sheet.addEventListener("click", e=>{
     const a = btn.dataset.a;
     if(a==="check") doCheck(card, item);
     if(a==="clear"){
-      const ta = card.querySelector(".ans");
-      ta.value=""; grow(ta); slot.innerHTML="";
-      const b=card.querySelector(".badge"); if(b) b.remove();
-      const h=card.querySelector(".hints"); if(h) h.remove();
       progress[item.id] = {text:"", score:null, ai:false, at:Date.now(), picked:[]};
       save(); markDirty(); stats();
+      slot.innerHTML = "";                                    // xoá bảng điểm & đáp án
+      const b = card.querySelector(".badge");  if(b) b.remove();
+      const h = card.querySelector(".hints");  if(h) h.remove();
+      const hb = card.querySelector('[data-a="hints"]'); if(hb) hb.textContent = "Gợi ý từ vựng";
+      const ta = card.querySelector(".ans");                   // chế độ ghép từ không có ô gõ
+      if(ta){ ta.value = ""; grow(ta); ta.focus(); }
       if(state.mode === "bank") syncBank(card, item);
+      if(window.speechSynthesis) speechSynthesis.cancel();
     }
+    if(a==="listen") speak(item.answers[0], btn);
     if(a==="show"){
       slot.innerHTML = `<div class="panel"><div class="slabel">Đáp án tham khảo</div>${answersHTML(item)}</div>`;
     }
@@ -1336,6 +1443,16 @@ document.getElementById("reset").addEventListener("click", ()=>{
 });
 document.getElementById("ai").addEventListener("change", e=>{
   document.getElementById("aiwrap").classList.toggle("on", e.target.checked);
+});
+
+const hideBox = document.getElementById("hide100"), hideWrap = document.getElementById("hidewrap");
+hideBox.checked = state.hide100;
+hideWrap.classList.toggle("on", state.hide100);
+hideBox.addEventListener("change", e=>{
+  state.hide100 = e.target.checked;
+  hideWrap.classList.toggle("on", state.hide100);
+  try{ localStorage.setItem("vlv.hide100", state.hide100 ? "1" : "0"); }catch(err){}
+  state.page = 1; render();
 });
 
 const semWrap = document.getElementById("semwrap"), semLabel = document.getElementById("semlabel");
