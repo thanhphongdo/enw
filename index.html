@@ -129,12 +129,15 @@ h1{
 #toast[hidden]{display:none}
 
 /* ---------- toolbar ---------- */
-.toolbar{
-  position:sticky; top:0; z-index:30; background:var(--toolbar);
+/* Chỉ ô tìm kiếm dính lại khi cuộn; bộ lọc cuộn đi như nội dung bình thường. */
+.searchbar{
+  position:sticky; top:0; z-index:35; background:var(--toolbar);
   backdrop-filter:blur(14px); border-top:1px solid var(--line); border-bottom:1px solid var(--line);
 }
+.searchinner{max-width:1060px; margin:0 auto; padding:11px 28px}
+.toolbar{background:var(--bg); border-bottom:1px solid var(--line)}
 .toolinner{max-width:1060px; margin:0 auto; padding:13px 28px; display:flex; flex-wrap:wrap; gap:9px; align-items:center}
-.search{position:relative; flex:1 1 240px; display:flex; align-items:center}
+.search{position:relative; width:100%; display:flex; align-items:center}
 .search svg{position:absolute; left:14px; pointer-events:none; color:var(--dim)}
 .search input{
   width:100%; border:1px solid var(--line); background:var(--card); border-radius:12px;
@@ -346,6 +349,7 @@ footer{max-width:1060px; margin:40px auto 0; padding:20px 28px 0; border-top:1px
   .masthead{padding:36px 20px 20px; gap:22px}
   h1{font-size:38px}
   .toolinner{padding:11px 20px}
+  .searchinner{padding:9px 20px}
   .wrap{padding:0 20px}
   .ex{padding:22px 20px; border-radius:16px}
   .prompt{font-size:19px}
@@ -383,12 +387,17 @@ footer{max-width:1060px; margin:40px auto 0; padding:20px 28px 0; border-top:1px
   </div>
 </header>
 
-<div class="toolbar">
-  <div class="toolinner">
+<div class="searchbar">
+  <div class="searchinner">
     <label class="search">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
       <input id="q" type="text" placeholder="Tìm theo nội dung, từ tiếng Anh, chủ đề…" autocomplete="off">
     </label>
+  </div>
+</div>
+
+<div class="toolbar">
+  <div class="toolinner">
     <div class="tabs" id="levels" role="group" aria-label="Lọc theo trình độ">
       <button data-lv="all" aria-pressed="true">Tất cả</button>
       <button data-lv="A2" aria-pressed="false">A2</button>
