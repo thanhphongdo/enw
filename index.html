@@ -216,6 +216,13 @@ h1{
 .lv.b1{color:var(--amber); background:var(--amber-bg)}
 .lv.b2{color:var(--violet); background:var(--violet-bg)}
 .tpc{font-size:11px; font-weight:800; letter-spacing:.12em; text-transform:uppercase; color:var(--faint)}
+.mtog{display:inline-flex; gap:2px; background:var(--bg); border:1px solid var(--line); border-radius:9px; padding:2px}
+.mtog button{
+  border:none; background:transparent; color:var(--dim); border-radius:7px;
+  width:26px; height:24px; display:grid; place-items:center; cursor:pointer; transition:all .13s;
+}
+.mtog button:hover{color:var(--ink)}
+.mtog button[aria-pressed="true"]{background:var(--ink); color:var(--bg)}
 .spacer{flex:1}
 .badge{
   display:inline-flex; align-items:center; border-radius:99px; padding:4px 12px;
@@ -959,6 +966,23 @@ function syncBank(card, item){
   save(); markDirty();
 }
 
+/* Mỗi câu có thể tự chọn kiểu làm bài, mặc định theo nút chung trên thanh công cụ. */
+const modeOf = {};
+const cardMode = id => modeOf[id] || state.mode;
+const ICON_TYPE = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><rect x="2" y="6" width="20" height="12" rx="2"/><path d="M6 10h.01M10 10h.01M14 10h.01M18 10h.01M8 14h8"/></svg>`;
+const ICON_BANK = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><rect x="3" y="4" width="7" height="6" rx="1.5"/><rect x="14" y="4" width="7" height="6" rx="1.5"/><rect x="3" y="14" width="7" height="6" rx="1.5"/><rect x="14" y="14" width="7" height="6" rx="1.5"/></svg>`;
+
+function repaintCard(card){
+  const item = byId(Number(card.dataset.id));
+  const holder = document.createElement("div");
+  holder.innerHTML = cardHTML(item, card.querySelector(".num").textContent);
+  const fresh = holder.firstElementChild;
+  card.replaceWith(fresh);
+  const ta = fresh.querySelector(".ans");
+  if(ta) grow(ta);
+  return fresh;
+}
+
 function cardHTML(d, idx){
   const p = progress[d.id] || {text:"", score:null, ai:false};
   const prompt = d.chunks.map(c => c.en
@@ -971,10 +995,14 @@ function cardHTML(d, idx){
       <span class="num">${idx}</span>
       <span class="lv ${d.level.toLowerCase()}">${d.level}</span>
       <span class="tpc">${esc(TOPICS[d.topic]||d.topic)}</span>
-      <span class="spacer"></span>${badge}
+      <span class="spacer"></span>
+      <span class="mtog" role="group" aria-label="Kiểu làm bài">
+        <button type="button" data-cm="type" title="Gõ tay" aria-label="Gõ tay" aria-pressed="${cardMode(d.id) !== "bank"}">${ICON_TYPE}</button>
+        <button type="button" data-cm="bank" title="Ghép từ" aria-label="Ghép từ" aria-pressed="${cardMode(d.id) === "bank"}">${ICON_BANK}</button>
+      </span>${badge}
     </div>
     <p class="prompt">${prompt}</p>
-    ${state.mode === "bank" ? bankHTML(d, p) : `<div class="linebox">
+    ${cardMode(d.id) === "bank" ? bankHTML(d, p) : `<div class="linebox">
       <textarea class="ans" rows="1" spellcheck="false" placeholder="Write your English sentence…">${esc(p.text)}</textarea>
     </div>`}
     <div class="tools">
@@ -1228,6 +1256,16 @@ sheet.addEventListener("pointercancel", e=>{ if(drag && e.pointerId === drag.pid
 
 sheet.addEventListener("click", e=>{
   if(skipNextClick && e.target.closest(".chip")) { e.stopPropagation(); return; }
+  const tog = e.target.closest(".mtog button");
+  if(tog){
+    const card = tog.closest(".ex");
+    const id = Number(card.dataset.id);
+    if(cardMode(id) !== tog.dataset.cm){
+      modeOf[id] = tog.dataset.cm;
+      repaintCard(card);
+    }
+    return;
+  }
   const say = e.target.closest("button.say");
   if(say){ speak(say.dataset.say, say); return; }
   const chip = e.target.closest("button.chip");
@@ -1257,7 +1295,7 @@ sheet.addEventListener("click", e=>{
       const hb = card.querySelector('[data-a="hints"]'); if(hb) hb.textContent = "Gợi ý từ vựng";
       const ta = card.querySelector(".ans");                   // chế độ ghép từ không có ô gõ
       if(ta){ ta.value = ""; grow(ta); ta.focus(); }
-      if(state.mode === "bank") syncBank(card, item);
+      if(cardMode(item.id) === "bank") syncBank(card, item);
       if(window.speechSynthesis) speechSynthesis.cancel();
     }
     if(a==="listen") speak(item.answers[0], btn);
@@ -1328,6 +1366,7 @@ const modeTabs = document.getElementById("modes");
 modeTabs.addEventListener("click", e=>{
   const b = e.target.closest("button"); if(!b) return;
   state.mode = b.dataset.md;
+  for(const k in modeOf) delete modeOf[k];      // nút chung ghi đè lựa chọn riêng của từng câu
   try{ localStorage.setItem("vlv.mode", state.mode); }catch(err){}
   [...e.currentTarget.children].forEach(x => x.setAttribute("aria-pressed", x === b));
   render();
